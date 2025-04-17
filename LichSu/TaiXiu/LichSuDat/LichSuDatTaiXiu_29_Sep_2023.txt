@@ -1,0 +1,2778 @@
+----------Thời Gian : 2023-09-29 01:54:46--------
+- Name : yeenaaa
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1000000
+- Xu Mới : 500000
+- Xu Thay Đổi : -500000
+----------Thời Gian : 2023-09-29 01:56:03--------
+- Name : yeenaaa
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 500000
+- Xu Mới : 0
+- Xu Thay Đổi : -500000
+----------Thời Gian : 2023-09-29 01:58:18--------
+- Name : yeenaaa
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 900000
+- Xu Mới : 500000
+- Xu Thay Đổi : -400000
+----------Thời Gian : 2023-09-29 02:02:29--------
+- Name : yeenaaa
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1270000
+- Xu Mới : 770000
+- Xu Thay Đổi : -500000
+----------Thời Gian : 2023-09-29 02:07:53--------
+- Name : yeenaaa
+- Nội Dung : Đặt Tài
+- Xu Cũ : 770000
+- Xu Mới : 70000
+- Xu Thay Đổi : -700000
+----------Thời Gian : 2023-09-29 02:14:31--------
+- Name : yeenaaa
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1380000
+- Xu Mới : 580000
+- Xu Thay Đổi : -800000
+----------Thời Gian : 2023-09-29 02:16:42--------
+- Name : yeenaaa
+- Nội Dung : Đặt Tài
+- Xu Cũ : 2020000
+- Xu Mới : 1520000
+- Xu Thay Đổi : -500000
+----------Thời Gian : 2023-09-29 02:18:35--------
+- Name : yeenaaa
+- Nội Dung : Đặt Tài
+- Xu Cũ : 2420000
+- Xu Mới : 1920000
+- Xu Thay Đổi : -500000
+----------Thời Gian : 2023-09-29 02:20:59--------
+- Name : yeenaaa
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1920000
+- Xu Mới : 1020000
+- Xu Thay Đổi : -900000
+----------Thời Gian : 2023-09-29 02:23:08--------
+- Name : yeenaaa
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 2640000
+- Xu Mới : 1640000
+- Xu Thay Đổi : -1000000
+----------Thời Gian : 2023-09-29 02:25:19--------
+- Name : yeenaaa
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1640000
+- Xu Mới : 40000
+- Xu Thay Đổi : -1600000
+----------Thời Gian : 2023-09-29 02:29:03--------
+- Name : kutonhatvn
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 73668062
+- Xu Mới : 63668062
+- Xu Thay Đổi : -10000000
+----------Thời Gian : 2023-09-29 02:30:59--------
+- Name : kutonhatvn
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 81668062
+- Xu Mới : 71668062
+- Xu Thay Đổi : -10000000
+----------Thời Gian : 2023-09-29 02:40:26--------
+- Name : veovveo
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 301103008
+- Xu Mới : 201103008
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 02:41:54--------
+- Name : veovveo
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 201103008
+- Xu Mới : 101103008
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 02:43:32--------
+- Name : veovveo
+- Nội Dung : Đặt Tài
+- Xu Cũ : 281103008
+- Xu Mới : 181103008
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 02:45:47--------
+- Name : veovveo
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 361103008
+- Xu Mới : 261103008
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 02:47:11--------
+- Name : veovveo
+- Nội Dung : Đặt Tài
+- Xu Cũ : 441098008
+- Xu Mới : 341098008
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 02:51:46--------
+- Name : veovveo
+- Nội Dung : Đặt Tài
+- Xu Cũ : 341098008
+- Xu Mới : 241098008
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 02:53:25--------
+- Name : veovveo
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 421098008
+- Xu Mới : 411098008
+- Xu Thay Đổi : -10000000
+----------Thời Gian : 2023-09-29 02:54:48--------
+- Name : veovveo
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 411098008
+- Xu Mới : 311098008
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 02:56:07--------
+- Name : veovveo
+- Nội Dung : Đặt Tài
+- Xu Cũ : 491098008
+- Xu Mới : 391098008
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 02:57:34--------
+- Name : veovveo
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 571098008
+- Xu Mới : 471098008
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 02:59:06--------
+- Name : veovveo
+- Nội Dung : Đặt Tài
+- Xu Cũ : 651098008
+- Xu Mới : 551098008
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 03:00:20--------
+- Name : badaobg99x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1081585000
+- Xu Mới : 981585000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 03:02:30--------
+- Name : badaobg
+- Nội Dung : Đặt Tài
+- Xu Cũ : 200876993
+- Xu Mới : 100876993
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 03:02:39--------
+- Name : badaobg99x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 781585000
+- Xu Mới : 681585000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 03:04:11--------
+- Name : badaobg99x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 861585000
+- Xu Mới : 801585000
+- Xu Thay Đổi : -60000000
+----------Thời Gian : 2023-09-29 03:04:22--------
+- Name : badaobg
+- Nội Dung : Đặt Tài
+- Xu Cũ : 280876993
+- Xu Mới : 200876993
+- Xu Thay Đổi : -80000000
+----------Thời Gian : 2023-09-29 03:05:25--------
+- Name : badaobg99x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 801585000
+- Xu Mới : 701585000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 03:05:36--------
+- Name : badaobg
+- Nội Dung : Đặt Tài
+- Xu Cũ : 200876993
+- Xu Mới : 100876993
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 03:06:09--------
+- Name : anhtunxz
+- Nội Dung : Đặt Tài
+- Xu Cũ : 133106963
+- Xu Mới : 100106963
+- Xu Thay Đổi : -33000000
+----------Thời Gian : 2023-09-29 03:07:02--------
+- Name : badaobg99x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 701585000
+- Xu Mới : 601585000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 03:07:09--------
+- Name : badaobg
+- Nội Dung : Đặt Tài
+- Xu Cũ : 100876993
+- Xu Mới : 876993
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 03:08:08--------
+- Name : badaobg99x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 781585000
+- Xu Mới : 681585000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 03:08:16--------
+- Name : badaobg
+- Nội Dung : Đặt Tài
+- Xu Cũ : 180876993
+- Xu Mới : 80876993
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 03:08:28--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 296839967
+- Xu Mới : 196839967
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 03:09:35--------
+- Name : badaobg
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 260876993
+- Xu Mới : 200876993
+- Xu Thay Đổi : -60000000
+----------Thời Gian : 2023-09-29 03:09:39--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 376839967
+- Xu Mới : 276839967
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 03:09:48--------
+- Name : badaobg99x
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 861585000
+- Xu Mới : 800585000
+- Xu Thay Đổi : -61000000
+----------Thời Gian : 2023-09-29 03:10:05--------
+- Name : anhtunxz
+- Nội Dung : Đặt Tài
+- Xu Cũ : 100106963
+- Xu Mới : 106963
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 03:10:50--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 456839967
+- Xu Mới : 356839967
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 03:11:19--------
+- Name : anhtunxz
+- Nội Dung : Đặt Tài
+- Xu Cũ : 180106963
+- Xu Mới : 80106963
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 03:11:30--------
+- Name : badaobg99x
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1000585000
+- Xu Mới : 900585000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 03:12:20--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 536839967
+- Xu Mới : 436839967
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 03:12:27--------
+- Name : badaobg99x
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 900585000
+- Xu Mới : 800585000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 03:12:34--------
+- Name : anhtunxz
+- Nội Dung : Đặt Tài
+- Xu Cũ : 260106963
+- Xu Mới : 160106963
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 03:13:52--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 616839967
+- Xu Mới : 516839967
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 03:14:03--------
+- Name : badaobg99x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 800585000
+- Xu Mới : 700585000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 03:14:38--------
+- Name : anhtunxz
+- Nội Dung : Đặt Tài
+- Xu Cũ : 340106963
+- Xu Mới : 290106963
+- Xu Thay Đổi : -50000000
+----------Thời Gian : 2023-09-29 03:15:23--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 696839967
+- Xu Mới : 596839967
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 03:15:33--------
+- Name : anhtunxz
+- Nội Dung : Đặt Tài
+- Xu Cũ : 380106963
+- Xu Mới : 280106963
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 03:17:11--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 776839967
+- Xu Mới : 676839967
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 03:17:26--------
+- Name : anhtunxz
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 460106963
+- Xu Mới : 360106963
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 03:18:16--------
+- Name : badaobg99x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 880585000
+- Xu Mới : 780585000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 03:18:43--------
+- Name : anhtunxz
+- Nội Dung : Đặt Tài
+- Xu Cũ : 360106963
+- Xu Mới : 260106963
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 03:19:40--------
+- Name : anhtunxz
+- Nội Dung : Đặt Tài
+- Xu Cũ : 440106963
+- Xu Mới : 340106963
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 03:20:09--------
+- Name : badaobg99x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 960585000
+- Xu Mới : 900585000
+- Xu Thay Đổi : -60000000
+----------Thời Gian : 2023-09-29 03:21:45--------
+- Name : anhtunxz
+- Nội Dung : Đặt Tài
+- Xu Cũ : 340106963
+- Xu Mới : 240106963
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 03:22:06--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 676839967
+- Xu Mới : 576839967
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 03:23:10--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 756839967
+- Xu Mới : 656839967
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 03:23:36--------
+- Name : anhtunxz
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 240106963
+- Xu Mới : 140106963
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 03:24:41--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 836839967
+- Xu Mới : 736839967
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 03:24:51--------
+- Name : anhtunxz
+- Nội Dung : Đặt Tài
+- Xu Cũ : 320106963
+- Xu Mới : 220106963
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 03:25:55--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 736839967
+- Xu Mới : 636839967
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 03:27:28--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 816839967
+- Xu Mới : 716839967
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 03:27:37--------
+- Name : anhtunxz
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 220106963
+- Xu Mới : 120106963
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 03:29:25--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 716839967
+- Xu Mới : 616839967
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 03:29:56--------
+- Name : badaobg99x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 866025000
+- Xu Mới : 806025000
+- Xu Thay Đổi : -60000000
+----------Thời Gian : 2023-09-29 03:31:14--------
+- Name : badaobg99x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 914025000
+- Xu Mới : 900025000
+- Xu Thay Đổi : -14000000
+----------Thời Gian : 2023-09-29 03:33:14--------
+- Name : anhtunxz
+- Nội Dung : Đặt Tài
+- Xu Cũ : 120106963
+- Xu Mới : 20106963
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 03:33:55--------
+- Name : badaobg99x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 900025000
+- Xu Mới : 800025000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 03:34:26--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 616839967
+- Xu Mới : 516839967
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 03:34:45--------
+- Name : badaobg99x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 800025000
+- Xu Mới : 700025000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 03:35:56--------
+- Name : badaobg99x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 880025000
+- Xu Mới : 780025000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 03:36:15--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 696839967
+- Xu Mới : 596839967
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 03:37:39--------
+- Name : badaobg99x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 960025000
+- Xu Mới : 900025000
+- Xu Thay Đổi : -60000000
+----------Thời Gian : 2023-09-29 03:38:18--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 596839967
+- Xu Mới : 500839967
+- Xu Thay Đổi : -96000000
+----------Thời Gian : 2023-09-29 03:39:02--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 673639967
+- Xu Mới : 573639967
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 03:39:39--------
+- Name : anhtunxz
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 20106963
+- Xu Mới : 106963
+- Xu Thay Đổi : -20000000
+----------Thời Gian : 2023-09-29 03:40:10--------
+- Name : badaobg99x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 900025000
+- Xu Mới : 800025000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 03:41:42--------
+- Name : badaobg99x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 800025000
+- Xu Mới : 700025000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 03:43:02--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 753639967
+- Xu Mới : 653639967
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 03:43:02--------
+- Name : badaobg99x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 880025000
+- Xu Mới : 780025000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 03:44:45--------
+- Name : badaobg99x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 960025000
+- Xu Mới : 860025000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 03:46:03--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 816139967
+- Xu Mới : 716139967
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 03:46:22--------
+- Name : badaobg99x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1040025000
+- Xu Mới : 1000025000
+- Xu Thay Đổi : -40000000
+----------Thời Gian : 2023-09-29 03:50:54--------
+- Name : badaobg99x
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1072025000
+- Xu Mới : 1050025000
+- Xu Thay Đổi : -22000000
+----------Thời Gian : 2023-09-29 04:52:34--------
+- Name : badaobg99x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1089625000
+- Xu Mới : 1050625000
+- Xu Thay Đổi : -39000000
+----------Thời Gian : 2023-09-29 04:53:59--------
+- Name : badaobg99x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1050625000
+- Xu Mới : 1000625000
+- Xu Thay Đổi : -50000000
+----------Thời Gian : 2023-09-29 04:55:52--------
+- Name : badaobg99x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1090625000
+- Xu Mới : 1000625000
+- Xu Thay Đổi : -90000000
+----------Thời Gian : 2023-09-29 04:58:00--------
+- Name : badaobg99x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1162625000
+- Xu Mới : 1100025000
+- Xu Thay Đổi : -62600000
+----------Thời Gian : 2023-09-29 05:02:17--------
+- Name : badaobg99x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1100025000
+- Xu Mới : 1000025000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 05:04:03--------
+- Name : badaobg99x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1000025000
+- Xu Mới : 900025000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 05:07:58--------
+- Name : badaobg99x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1065025000
+- Xu Mới : 965025000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 05:09:44--------
+- Name : badaobg99x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1145020000
+- Xu Mới : 1045020000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 05:11:28--------
+- Name : badaobg99x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1045020000
+- Xu Mới : 1000020000
+- Xu Thay Đổi : -45000000
+----------Thời Gian : 2023-09-29 05:12:47--------
+- Name : badaobg99x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1000020000
+- Xu Mới : 900020000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 05:15:04--------
+- Name : badaobg99x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1080020000
+- Xu Mới : 1000000000
+- Xu Thay Đổi : -80020000
+----------Thời Gian : 2023-09-29 05:23:27--------
+- Name : badaobg99x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1043036000
+- Xu Mới : 943036000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 05:24:43--------
+- Name : badaobg99x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 943036000
+- Xu Mới : 843036000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 05:26:11--------
+- Name : badaobg99x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1023036000
+- Xu Mới : 923036000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 06:04:34--------
+- Name : badaobg99x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1103036000
+- Xu Mới : 1100036000
+- Xu Thay Đổi : -3000000
+----------Thời Gian : 2023-09-29 06:05:54--------
+- Name : badaobg99x
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1105436000
+- Xu Mới : 1100036000
+- Xu Thay Đổi : -5400000
+----------Thời Gian : 2023-09-29 06:09:28--------
+- Name : badaobg99x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1100036000
+- Xu Mới : 1080036000
+- Xu Thay Đổi : -20000000
+----------Thời Gian : 2023-09-29 06:10:44--------
+- Name : badaobg99x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1080036000
+- Xu Mới : 1000036000
+- Xu Thay Đổi : -80000000
+----------Thời Gian : 2023-09-29 06:13:23--------
+- Name : badaobg99x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1000036000
+- Xu Mới : 900036000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 06:14:29--------
+- Name : badaobg99x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 900036000
+- Xu Mới : 800036000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 06:16:28--------
+- Name : badaobg99x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 980036000
+- Xu Mới : 880036000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 06:17:50--------
+- Name : badaobg99x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 880036000
+- Xu Mới : 780036000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 06:19:03--------
+- Name : badaobg
+- Nội Dung : Đặt Tài
+- Xu Cũ : 340876993
+- Xu Mới : 240876993
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 06:19:12--------
+- Name : badaobg99x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 440036000
+- Xu Mới : 340036000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 06:20:10--------
+- Name : badaobg
+- Nội Dung : Đặt Tài
+- Xu Cũ : 240876993
+- Xu Mới : 140876993
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 06:20:20--------
+- Name : badaobg99x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 340036000
+- Xu Mới : 240036000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 06:21:18--------
+- Name : badaobg
+- Nội Dung : Đặt Tài
+- Xu Cũ : 320876993
+- Xu Mới : 220876993
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 06:21:28--------
+- Name : badaobg99x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 420036000
+- Xu Mới : 320036000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 06:22:28--------
+- Name : badaobg
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 220876993
+- Xu Mới : 120876993
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 06:22:38--------
+- Name : badaobg99x
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 320036000
+- Xu Mới : 220036000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 06:23:50--------
+- Name : badaobg
+- Nội Dung : Đặt Tài
+- Xu Cũ : 300876993
+- Xu Mới : 200876993
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 06:24:00--------
+- Name : badaobg99x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 400036000
+- Xu Mới : 300036000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 06:25:00--------
+- Name : badaobg
+- Nội Dung : Đặt Tài
+- Xu Cũ : 200876993
+- Xu Mới : 100876993
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 06:25:08--------
+- Name : badaobg99x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 300036000
+- Xu Mới : 200036000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 06:26:11--------
+- Name : badaobg
+- Nội Dung : Đặt Tài
+- Xu Cũ : 100876993
+- Xu Mới : 876993
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 06:26:19--------
+- Name : badaobg99x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 200036000
+- Xu Mới : 100036000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 06:27:19--------
+- Name : badaobg
+- Nội Dung : Đặt Tài
+- Xu Cũ : 180876993
+- Xu Mới : 80876993
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 06:27:28--------
+- Name : badaobg99x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 280036000
+- Xu Mới : 180036000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 06:29:04--------
+- Name : badaobg
+- Nội Dung : Đặt Tài
+- Xu Cũ : 80876993
+- Xu Mới : 876993
+- Xu Thay Đổi : -80000000
+----------Thời Gian : 2023-09-29 06:29:19--------
+- Name : badaobg99x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 180036000
+- Xu Mới : 80036000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 06:30:30--------
+- Name : badaobg99x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 80036000
+- Xu Mới : 36000
+- Xu Thay Đổi : -80000000
+----------Thời Gian : 2023-09-29 06:40:55--------
+- Name : sharkloli
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 500005
+- Xu Mới : 450005
+- Xu Thay Đổi : -50000
+----------Thời Gian : 2023-09-29 06:42:07--------
+- Name : sharkloli
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 450005
+- Xu Mới : 5
+- Xu Thay Đổi : -450000
+----------Thời Gian : 2023-09-29 06:42:19--------
+- Name : badaobg99x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 193294200
+- Xu Mới : 102294200
+- Xu Thay Đổi : -91000000
+----------Thời Gian : 2023-09-29 06:43:20--------
+- Name : sharkloli
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 810005
+- Xu Mới : 5
+- Xu Thay Đổi : -810000
+----------Thời Gian : 2023-09-29 09:31:18--------
+- Name : sharkloli
+- Nội Dung : Đặt Tài
+- Xu Cũ : 9000005
+- Xu Mới : 3000005
+- Xu Thay Đổi : -6000000
+----------Thời Gian : 2023-09-29 09:32:34--------
+- Name : sharkloli
+- Nội Dung : Đặt Tài
+- Xu Cũ : 13800005
+- Xu Mới : 13499205
+- Xu Thay Đổi : -300800
+----------Thời Gian : 2023-09-29 09:34:15--------
+- Name : sharkloli
+- Nội Dung : Đặt Tài
+- Xu Cũ : 14040645
+- Xu Mới : 9990185
+- Xu Thay Đổi : -4050460
+----------Thời Gian : 2023-09-29 10:37:48--------
+- Name : veovveo
+- Nội Dung : Đặt Tài
+- Xu Cũ : 351098008
+- Xu Mới : 251098008
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 10:39:01--------
+- Name : veovveo
+- Nội Dung : Đặt Tài
+- Xu Cũ : 251098008
+- Xu Mới : 151098008
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 10:40:16--------
+- Name : veovveo
+- Nội Dung : Đặt Tài
+- Xu Cũ : 151098008
+- Xu Mới : 51098008
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 10:42:27--------
+- Name : veovveo
+- Nội Dung : Đặt Tài
+- Xu Cũ : 51098008
+- Xu Mới : 1098008
+- Xu Thay Đổi : -50000000
+----------Thời Gian : 2023-09-29 11:08:48--------
+- Name : ha1001
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 41431
+- Xu Mới : 431
+- Xu Thay Đổi : -41000
+----------Thời Gian : 2023-09-29 11:12:50--------
+- Name : ha1001
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 74231
+- Xu Mới : 1231
+- Xu Thay Đổi : -73000
+----------Thời Gian : 2023-09-29 11:14:17--------
+- Name : ha1001
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 132631
+- Xu Mới : 631
+- Xu Thay Đổi : -132000
+----------Thời Gian : 2023-09-29 12:33:30--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 716139967
+- Xu Mới : 616139967
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 12:42:13--------
+- Name : s2kaoken9x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 765146594
+- Xu Mới : 765146584
+- Xu Thay Đổi : -10
+----------Thời Gian : 2023-09-29 12:43:40--------
+- Name : s2kaoken9x
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 765146584
+- Xu Mới : 765146574
+- Xu Thay Đổi : -10
+----------Thời Gian : 2023-09-29 12:44:50--------
+- Name : s2kaoken9x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 765146574
+- Xu Mới : 665146574
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 12:46:16--------
+- Name : s2kaoken9x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 845146574
+- Xu Mới : 745146574
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 12:47:27--------
+- Name : s2kaoken9x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 925146574
+- Xu Mới : 925146564
+- Xu Thay Đổi : -10
+----------Thời Gian : 2023-09-29 12:48:36--------
+- Name : s2kaoken9x
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 925146564
+- Xu Mới : 825146564
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 12:49:48--------
+- Name : s2kaoken9x
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1005146564
+- Xu Mới : 905146564
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 12:50:53--------
+- Name : s2kaoken9x
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1085146564
+- Xu Mới : 1085146554
+- Xu Thay Đổi : -10
+----------Thời Gian : 2023-09-29 12:52:05--------
+- Name : s2kaoken9x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1085146572
+- Xu Mới : 985146572
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 12:53:42--------
+- Name : s2kaoken9x
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 985146572
+- Xu Mới : 985146562
+- Xu Thay Đổi : -10
+----------Thời Gian : 2023-09-29 12:54:54--------
+- Name : s2kaoken9x
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 985146562
+- Xu Mới : 885146562
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 12:56:11--------
+- Name : s2kaoken9x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1065146562
+- Xu Mới : 965146562
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 13:18:14--------
+- Name : anhtunxz
+- Nội Dung : Đặt Tài
+- Xu Cũ : 152103031
+- Xu Mới : 102103031
+- Xu Thay Đổi : -50000000
+----------Thời Gian : 2023-09-29 13:20:15--------
+- Name : anhtunxz
+- Nội Dung : Đặt Tài
+- Xu Cũ : 102103031
+- Xu Mới : 2103031
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 13:20:27--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 73456774
+- Xu Mới : 23456774
+- Xu Thay Đổi : -50000000
+----------Thời Gian : 2023-09-29 13:22:26--------
+- Name : anhtunxz
+- Nội Dung : Đặt Tài
+- Xu Cũ : 182103031
+- Xu Mới : 82103031
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 13:22:48--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 113456774
+- Xu Mới : 63456774
+- Xu Thay Đổi : -50000000
+----------Thời Gian : 2023-09-29 13:23:51--------
+- Name : anhtunxz
+- Nội Dung : Đặt Tài
+- Xu Cũ : 262103031
+- Xu Mới : 212103031
+- Xu Thay Đổi : -50000000
+----------Thời Gian : 2023-09-29 13:24:03--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 153456774
+- Xu Mới : 103456774
+- Xu Thay Đổi : -50000000
+----------Thời Gian : 2023-09-29 13:25:04--------
+- Name : anhtunxz
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 212103031
+- Xu Mới : 112103031
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 13:25:22--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 103456774
+- Xu Mới : 3456774
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 13:26:30--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 183456774
+- Xu Mới : 83456774
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 13:26:42--------
+- Name : anhtunxz
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 292103031
+- Xu Mới : 192103031
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 13:28:08--------
+- Name : anhtunxz
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 372103031
+- Xu Mới : 272103031
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 13:28:20--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 263456774
+- Xu Mới : 163456774
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 13:29:30--------
+- Name : anhtunxz
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 452103031
+- Xu Mới : 352103031
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 13:29:42--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 343456774
+- Xu Mới : 243456774
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 13:30:46--------
+- Name : anhtunxz
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 532103031
+- Xu Mới : 432103031
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 13:30:57--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 423456774
+- Xu Mới : 323456774
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 13:32:10--------
+- Name : anhtunxz
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 612103031
+- Xu Mới : 512103031
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 13:32:21--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 503456774
+- Xu Mới : 403456774
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 13:33:22--------
+- Name : anhtunxz
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 692103031
+- Xu Mới : 592103031
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 13:33:34--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 583456774
+- Xu Mới : 483456774
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 13:35:00--------
+- Name : anhtunxz
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 772103031
+- Xu Mới : 672103031
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 13:35:12--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 663456774
+- Xu Mới : 563456774
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 13:36:39--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 563456774
+- Xu Mới : 463456774
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 13:36:50--------
+- Name : anhtunxz
+- Nội Dung : Đặt Tài
+- Xu Cũ : 672103031
+- Xu Mới : 572103031
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 14:01:49--------
+- Name : badaobg99x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 102294200
+- Xu Mới : 2294200
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 14:33:19--------
+- Name : s2kaoken9x
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 965146562
+- Xu Mới : 865146562
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 14:35:15--------
+- Name : badaobg99x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 182294200
+- Xu Mới : 100294200
+- Xu Thay Đổi : -82000000
+----------Thời Gian : 2023-09-29 14:35:20--------
+- Name : s2kaoken9x
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1045146562
+- Xu Mới : 1040146562
+- Xu Thay Đổi : -5000000
+----------Thời Gian : 2023-09-29 14:36:45--------
+- Name : s2kaoken9x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1040146562
+- Xu Mới : 940146562
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 14:38:33--------
+- Name : s2kaoken9x
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1120146562
+- Xu Mới : 1020146562
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 14:39:46--------
+- Name : s2kaoken9x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1200146562
+- Xu Mới : 1100146562
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 14:39:59--------
+- Name : anhtunxz
+- Nội Dung : Đặt Tài
+- Xu Cũ : 119103031
+- Xu Mới : 19103031
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 14:41:00--------
+- Name : s2kaoken9x
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1280146562
+- Xu Mới : 1180146562
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 14:41:25--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 463456774
+- Xu Mới : 363456774
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 14:42:24--------
+- Name : s2kaoken9x
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1360146562
+- Xu Mới : 1260146562
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 14:42:44--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 543456774
+- Xu Mới : 443456774
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 14:43:49--------
+- Name : s2kaoken9x
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1440146562
+- Xu Mới : 1340146562
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 14:44:17--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 573456774
+- Xu Mới : 473456774
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 14:45:16--------
+- Name : s2kaoken9x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1520146562
+- Xu Mới : 1420146562
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 14:45:26--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 745956774
+- Xu Mới : 645956774
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 14:47:05--------
+- Name : s2kaoken9x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1420146562
+- Xu Mới : 1420146552
+- Xu Thay Đổi : -10
+----------Thời Gian : 2023-09-29 14:47:43--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 825956774
+- Xu Mới : 800956774
+- Xu Thay Đổi : -25000000
+----------Thời Gian : 2023-09-29 14:48:33--------
+- Name : s2kaoken9x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1420146552
+- Xu Mới : 1420146542
+- Xu Thay Đổi : -10
+----------Thời Gian : 2023-09-29 14:49:15--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 800956774
+- Xu Mới : 785956774
+- Xu Thay Đổi : -15000000
+----------Thời Gian : 2023-09-29 14:49:55--------
+- Name : s2kaoken9x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1420146560
+- Xu Mới : 1320146560
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 14:50:09--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 745956774
+- Xu Mới : 645956774
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 14:50:30--------
+- Name : badaobg99x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 103894200
+- Xu Mới : 3894200
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 14:51:37--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 645956774
+- Xu Mới : 545956774
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 14:51:54--------
+- Name : s2kaoken9x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1320146560
+- Xu Mới : 1220146560
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 14:52:44--------
+- Name : badaobg99x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1253894200
+- Xu Mới : 1153894200
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 14:52:59--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 545956774
+- Xu Mới : 445956774
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 14:53:02--------
+- Name : s2kaoken9x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1400146560
+- Xu Mới : 1300146560
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 14:53:05--------
+- Name : phachinhem
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 237357147
+- Xu Mới : 137357147
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 14:53:59--------
+- Name : s2kaoken9x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1480146560
+- Xu Mới : 1380146560
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 14:54:17--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 625956774
+- Xu Mới : 525956774
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 14:54:22--------
+- Name : phachinhem
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 137357147
+- Xu Mới : 37357147
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 14:55:17--------
+- Name : phachinhem
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 37357147
+- Xu Mới : 357147
+- Xu Thay Đổi : -37000000
+----------Thời Gian : 2023-09-29 14:55:20--------
+- Name : s2kaoken9x
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1560146560
+- Xu Mới : 1460146560
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 14:55:40--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 665956774
+- Xu Mới : 610956774
+- Xu Thay Đổi : -55000000
+----------Thời Gian : 2023-09-29 14:56:50--------
+- Name : phachinhem
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 66957147
+- Xu Mới : 291147
+- Xu Thay Đổi : -66666000
+----------Thời Gian : 2023-09-29 14:57:17--------
+- Name : s2kaoken9x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1640146560
+- Xu Mới : 1540146560
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 14:57:30--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 785956774
+- Xu Mới : 685956774
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 14:58:02--------
+- Name : badaobg99x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1252894200
+- Xu Mới : 1152894200
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 14:58:02--------
+- Name : phachinhem
+- Nội Dung : Đặt Tài
+- Xu Cũ : 120289947
+- Xu Mới : 20289947
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 14:58:35--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 685956774
+- Xu Mới : 585956774
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 14:59:15--------
+- Name : phachinhem
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 200289947
+- Xu Mới : 100289947
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 14:59:26--------
+- Name : s2kaoken9x
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1540146560
+- Xu Mới : 1440146560
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 14:59:41--------
+- Name : huynhdz123
+- Nội Dung : Đặt Tài
+- Xu Cũ : 35561646
+- Xu Mới : 25561646
+- Xu Thay Đổi : -10000000
+----------Thời Gian : 2023-09-29 14:59:49--------
+- Name : badaobg99x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1332894200
+- Xu Mới : 1232894200
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 15:00:00--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 585956774
+- Xu Mới : 485956774
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 15:00:53--------
+- Name : badaobg99x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1220894200
+- Xu Mới : 1120894200
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 15:00:54--------
+- Name : huynhdz123
+- Nội Dung : Đặt Tài
+- Xu Cũ : 25561646
+- Xu Mới : 15561646
+- Xu Thay Đổi : -10000000
+----------Thời Gian : 2023-09-29 15:01:19--------
+- Name : s2kaoken9x
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1620146560
+- Xu Mới : 1520146560
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 15:01:36--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 485956774
+- Xu Mới : 385956774
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 15:02:49--------
+- Name : badaobg99x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1252894200
+- Xu Mới : 1152894200
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 15:02:57--------
+- Name : phachinhem
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 270289947
+- Xu Mới : 170289947
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 15:02:58--------
+- Name : s2kaoken9x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1520146560
+- Xu Mới : 1420146560
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 15:03:31--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 385956774
+- Xu Mới : 285956774
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 15:04:01--------
+- Name : phachinhem
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 170289947
+- Xu Mới : 70289947
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 15:04:21--------
+- Name : s2kaoken9x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1600146560
+- Xu Mới : 1500146560
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 15:05:13--------
+- Name : phachinhem
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 30289947
+- Xu Mới : 289947
+- Xu Thay Đổi : -30000000
+----------Thời Gian : 2023-09-29 15:05:43--------
+- Name : s2kaoken9x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1680146560
+- Xu Mới : 1580146560
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 15:06:28--------
+- Name : s2kaoken9x
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1580146560
+- Xu Mới : 1480146560
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 15:06:28--------
+- Name : phachinhem
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 54289947
+- Xu Mới : 289947
+- Xu Thay Đổi : -54000000
+----------Thời Gian : 2023-09-29 15:07:36--------
+- Name : s2kaoken9x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1480146560
+- Xu Mới : 1380146560
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 15:08:10--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 558456774
+- Xu Mới : 458456774
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 15:09:01--------
+- Name : s2kaoken9x
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1560146560
+- Xu Mới : 1460146560
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 15:09:19--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 638456774
+- Xu Mới : 538456774
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 15:09:41--------
+- Name : badaobg99x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1286894200
+- Xu Mới : 1216894200
+- Xu Thay Đổi : -70000000
+----------Thời Gian : 2023-09-29 15:11:07--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 645841055
+- Xu Mới : 545841055
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 15:11:30--------
+- Name : badaobg99x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1314227534
+- Xu Mới : 1250227534
+- Xu Thay Đổi : -64000000
+----------Thời Gian : 2023-09-29 15:12:28--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 675841055
+- Xu Mới : 575841055
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 15:13:16--------
+- Name : badaobg99x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1365427534
+- Xu Mới : 1315427534
+- Xu Thay Đổi : -50000000
+----------Thời Gian : 2023-09-29 15:14:31--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 575841055
+- Xu Mới : 475841055
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 15:14:33--------
+- Name : badaobg99x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1315427534
+- Xu Mới : 1250427534
+- Xu Thay Đổi : -65000000
+----------Thời Gian : 2023-09-29 15:16:20--------
+- Name : badaobg99x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1200427534
+- Xu Mới : 1100427534
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 15:16:23--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 795841055
+- Xu Mới : 695841055
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 15:17:36--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 645841055
+- Xu Mới : 545841055
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 15:17:53--------
+- Name : badaobg99x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1070427535
+- Xu Mới : 970427535
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 15:18:55--------
+- Name : badaobg99x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 970427535
+- Xu Mới : 870427535
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 15:19:06--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 725841055
+- Xu Mới : 625841055
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 15:20:05--------
+- Name : badaobg99x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1030427536
+- Xu Mới : 930427536
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 15:20:20--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 575841055
+- Xu Mới : 475841055
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 15:21:11--------
+- Name : badaobg99x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1110427536
+- Xu Mới : 1010427536
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 15:21:48--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 817341054
+- Xu Mới : 717341054
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 15:22:26--------
+- Name : s2kaoken9x
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1402646560
+- Xu Mới : 1302646560
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 15:23:05--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 847341054
+- Xu Mới : 747341054
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 15:23:36--------
+- Name : badaobg99x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1000427289
+- Xu Mới : 900427289
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 15:24:04--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 927341054
+- Xu Mới : 827341054
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 15:24:56--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 931841288
+- Xu Mới : 831841288
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 15:25:19--------
+- Name : badaobg99x
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1080427289
+- Xu Mới : 1000427289
+- Xu Thay Đổi : -80000000
+----------Thời Gian : 2023-09-29 15:26:16--------
+- Name : badaobg99x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1144427289
+- Xu Mới : 1044427289
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 15:26:20--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 961841288
+- Xu Mới : 861841288
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 15:27:32--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 861841288
+- Xu Mới : 761841288
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 15:28:56--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 941841288
+- Xu Mới : 841841288
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 15:30:25--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1079896843
+- Xu Mới : 979896843
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 15:31:50--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 979896843
+- Xu Mới : 879896843
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 15:33:02--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1059896843
+- Xu Mới : 959896843
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 15:34:14--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1139896843
+- Xu Mới : 1039896843
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 15:36:08--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1039896843
+- Xu Mới : 939896843
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 15:39:16--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 939896843
+- Xu Mới : 839896843
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 15:40:32--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 839896843
+- Xu Mới : 739896843
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 16:31:39--------
+- Name : phachinhem
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1563577945
+- Xu Mới : 1463577945
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 16:33:26--------
+- Name : phachinhem
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1413577945
+- Xu Mới : 1403577945
+- Xu Thay Đổi : -10000000
+----------Thời Gian : 2023-09-29 16:33:27--------
+- Name : s2kaoken9x
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1278146560
+- Xu Mới : 1178146560
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 16:34:35--------
+- Name : phachinhem
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1403577945
+- Xu Mới : 1303577945
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 16:35:07--------
+- Name : s2kaoken9x
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1358146560
+- Xu Mới : 1348146560
+- Xu Thay Đổi : -10000000
+----------Thời Gian : 2023-09-29 16:35:50--------
+- Name : s2kaoken9x
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1348146560
+- Xu Mới : 1248146560
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 16:36:06--------
+- Name : phachinhem
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1483577945
+- Xu Mới : 1383577945
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 16:36:13--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 739896843
+- Xu Mới : 639896843
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 16:37:06--------
+- Name : s2kaoken9x
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1428146560
+- Xu Mới : 1328146560
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 16:37:07--------
+- Name : phachinhem
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1383577945
+- Xu Mới : 1283577945
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 16:37:23--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 639896843
+- Xu Mới : 539896843
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 16:38:19--------
+- Name : s2kaoken9x
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1508146560
+- Xu Mới : 1408146560
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 16:38:34--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 719896843
+- Xu Mới : 619896843
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 16:38:40--------
+- Name : phachinhem
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1463577945
+- Xu Mới : 1363577945
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 16:39:33--------
+- Name : phachinhem
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1363577945
+- Xu Mới : 1263577945
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 16:39:46--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 799896843
+- Xu Mới : 699896843
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 16:39:52--------
+- Name : s2kaoken9x
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1588146560
+- Xu Mới : 1488146560
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 16:41:07--------
+- Name : phachinhem
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1443577945
+- Xu Mới : 1343577945
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 16:41:09--------
+- Name : s2kaoken9x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1488146560
+- Xu Mới : 1388146560
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 16:41:12--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 879896843
+- Xu Mới : 779896843
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 16:42:32--------
+- Name : s2kaoken9x
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1568146560
+- Xu Mới : 1468146560
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 16:42:42--------
+- Name : phachinhem
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1483577944
+- Xu Mới : 1383577944
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 16:42:58--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 959896843
+- Xu Mới : 859896843
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 16:43:45--------
+- Name : phachinhem
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1383577944
+- Xu Mới : 1283577944
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 16:43:55--------
+- Name : s2kaoken9x
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1468146560
+- Xu Mới : 1368146560
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 16:44:15--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 859896843
+- Xu Mới : 759896843
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 16:44:56--------
+- Name : phachinhem
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1283577944
+- Xu Mới : 1183577944
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 16:45:11--------
+- Name : s2kaoken9x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1368146560
+- Xu Mới : 1268146560
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 16:45:27--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 759896843
+- Xu Mới : 659896843
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 16:46:05--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 839896843
+- Xu Mới : 739896843
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 16:46:09--------
+- Name : phachinhem
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1183577944
+- Xu Mới : 1083577944
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 16:46:12--------
+- Name : s2kaoken9x
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1448146560
+- Xu Mới : 1348146560
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 16:47:31--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 869896843
+- Xu Mới : 769896843
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 16:48:41--------
+- Name : phachinhem
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1033577944
+- Xu Mới : 933577944
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 16:48:49--------
+- Name : s2kaoken9x
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1248146560
+- Xu Mới : 1148146560
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 16:49:06--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 758785843
+- Xu Mới : 658785843
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 16:50:33--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 811841293
+- Xu Mới : 711841293
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 16:50:51--------
+- Name : s2kaoken9x
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1148146560
+- Xu Mới : 1048146560
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 16:52:05--------
+- Name : s2kaoken9x
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1178146560
+- Xu Mới : 1078146560
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 16:52:16--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 661841293
+- Xu Mới : 561841293
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 16:53:18--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 691841293
+- Xu Mới : 591841293
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 16:53:52--------
+- Name : s2kaoken9x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1398146560
+- Xu Mới : 1298146560
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 16:54:53--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 771841293
+- Xu Mới : 671841293
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 16:55:13--------
+- Name : s2kaoken9x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1298146560
+- Xu Mới : 1198146560
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 16:56:07--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 801841293
+- Xu Mới : 701841293
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 16:58:17--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 701841293
+- Xu Mới : 601841293
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 17:00:07--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 838780193
+- Xu Mới : 738780193
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 17:01:19--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 727558193
+- Xu Mới : 627558193
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 17:01:43--------
+- Name : s2kaoken9x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1285646560
+- Xu Mới : 1185646560
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 17:02:56--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 627558193
+- Xu Mới : 527558193
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 17:04:26--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 707558193
+- Xu Mới : 607558193
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 17:05:38--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 787558193
+- Xu Mới : 687558193
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 17:07:18--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 637558193
+- Xu Mới : 537558193
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 17:09:01--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 717558193
+- Xu Mới : 617558193
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 17:10:35--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 617558193
+- Xu Mới : 517558193
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 17:12:07--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 517558193
+- Xu Mới : 417558193
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 17:13:21--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 417558193
+- Xu Mới : 317558193
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 17:14:00--------
+- Name : ridior
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1000000
+- Xu Mới : 0
+- Xu Thay Đổi : -1000000
+----------Thời Gian : 2023-09-29 17:14:39--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 590058193
+- Xu Mới : 490058193
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 17:15:15--------
+- Name : ridiori
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1000000
+- Xu Mới : 0
+- Xu Thay Đổi : -1000000
+----------Thời Gian : 2023-09-29 17:15:54--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 670058193
+- Xu Mới : 570058193
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 17:16:23--------
+- Name : ridiorie
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1000000
+- Xu Mới : 0
+- Xu Thay Đổi : -1000000
+----------Thời Gian : 2023-09-29 17:17:22--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 570058193
+- Xu Mới : 470058193
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 17:17:37--------
+- Name : ridioriew
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1000000
+- Xu Mới : 0
+- Xu Thay Đổi : -1000000
+----------Thời Gian : 2023-09-29 17:18:45--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 650058193
+- Xu Mới : 550058193
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 17:18:53--------
+- Name : ridioriew
+- Nội Dung : Đặt Tài
+- Xu Cũ : 800000
+- Xu Mới : 0
+- Xu Thay Đổi : -800000
+----------Thời Gian : 2023-09-29 17:20:19--------
+- Name : ridioriew
+- Nội Dung : Đặt Tài
+- Xu Cũ : 440000
+- Xu Mới : 0
+- Xu Thay Đổi : -440000
+----------Thời Gian : 2023-09-29 17:20:21--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 730058193
+- Xu Mới : 630058193
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 17:21:45--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 760058193
+- Xu Mới : 660058193
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 17:21:47--------
+- Name : ridioriew
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 792000
+- Xu Mới : 0
+- Xu Thay Đổi : -792000
+----------Thời Gian : 2023-09-29 17:22:58--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 840058193
+- Xu Mới : 740058193
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 17:23:32--------
+- Name : ridioriew
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 425600
+- Xu Mới : 600
+- Xu Thay Đổi : -425000
+----------Thời Gian : 2023-09-29 17:24:18--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 740058193
+- Xu Mới : 640058193
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 17:24:54--------
+- Name : ridioriewo
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1000000
+- Xu Mới : 0
+- Xu Thay Đổi : -1000000
+----------Thời Gian : 2023-09-29 17:26:10--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 640058193
+- Xu Mới : 540058193
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 17:26:53--------
+- Name : ridioriewo
+- Nội Dung : Đặt Tài
+- Xu Cũ : 800000
+- Xu Mới : 0
+- Xu Thay Đổi : -800000
+----------Thời Gian : 2023-09-29 17:28:53--------
+- Name : ridioriewo
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 440000
+- Xu Mới : 0
+- Xu Thay Đổi : -440000
+----------Thời Gian : 2023-09-29 17:29:55--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 528836193
+- Xu Mới : 428836193
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 17:30:18--------
+- Name : ridioriewo
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 792000
+- Xu Mới : 0
+- Xu Thay Đổi : -792000
+----------Thời Gian : 2023-09-29 17:31:15--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 428836193
+- Xu Mới : 328836193
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 17:31:38--------
+- Name : phachinhem
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 646238844
+- Xu Mới : 546238844
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 17:31:47--------
+- Name : ridioriewo
+- Nội Dung : Đặt Tài
+- Xu Cũ : 425600
+- Xu Mới : 600
+- Xu Thay Đổi : -425000
+----------Thời Gian : 2023-09-29 17:32:26--------
+- Name : phachinhem
+- Nội Dung : Đặt Tài
+- Xu Cũ : 546238844
+- Xu Mới : 446238844
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 17:32:39--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 328836193
+- Xu Mới : 228836193
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 17:32:49--------
+- Name : ridioriewo
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 765600
+- Xu Mới : 0
+- Xu Thay Đổi : -765600
+----------Thời Gian : 2023-09-29 17:34:43--------
+- Name : ridioriewo
+- Nội Dung : Đặt Tài
+- Xu Cũ : 378080
+- Xu Mới : 80
+- Xu Thay Đổi : -378000
+----------Thời Gian : 2023-09-29 17:34:44--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 228836193
+- Xu Mới : 128836193
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 17:36:16--------
+- Name : ridioriewo
+- Nội Dung : Đặt Tài
+- Xu Cũ : 680480
+- Xu Mới : 0
+- Xu Thay Đổi : -680480
+----------Thời Gian : 2023-09-29 17:38:51--------
+- Name : ridioriewo
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 224864
+- Xu Mới : 4
+- Xu Thay Đổi : -224860
+----------Thời Gian : 2023-09-29 17:40:33--------
+- Name : ridioriewo
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 404752
+- Xu Mới : 2
+- Xu Thay Đổi : -404750
+----------Thời Gian : 2023-09-29 17:42:01--------
+- Name : ridioriewo
+- Nội Dung : Đặt Tài
+- Xu Cũ : 728552
+- Xu Mới : 2
+- Xu Thay Đổi : -728550
+----------Thời Gian : 2023-09-29 19:10:41--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 117614193
+- Xu Mới : 97614193
+- Xu Thay Đổi : -20000000
+----------Thời Gian : 2023-09-29 19:12:17--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 122392193
+- Xu Mới : 92392193
+- Xu Thay Đổi : -30000000
+----------Thời Gian : 2023-09-29 19:12:52--------
+- Name : sharkloli
+- Nội Dung : Đặt Tài
+- Xu Cũ : 4789189
+- Xu Mới : 9
+- Xu Thay Đổi : -4789180
+----------Thời Gian : 2023-09-29 19:13:48--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 92392193
+- Xu Mới : 32392193
+- Xu Thay Đổi : -60000000
+----------Thời Gian : 2023-09-29 19:15:11--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 20281193
+- Xu Mới : 281193
+- Xu Thay Đổi : -20000000
+----------Thời Gian : 2023-09-29 20:31:09--------
+- Name : fakeking
+- Nội Dung : Đặt Tài
+- Xu Cũ : 200907996
+- Xu Mới : 100907996
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 20:32:22--------
+- Name : fakeking
+- Nội Dung : Đặt Tài
+- Xu Cũ : 280907996
+- Xu Mới : 180907996
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 20:33:51--------
+- Name : fakeking
+- Nội Dung : Đặt Tài
+- Xu Cũ : 310907996
+- Xu Mới : 305907996
+- Xu Thay Đổi : -5000000
+----------Thời Gian : 2023-09-29 20:35:41--------
+- Name : fakeking
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 264907996
+- Xu Mới : 254907996
+- Xu Thay Đổi : -10000000
+----------Thời Gian : 2023-09-29 20:37:06--------
+- Name : fakeking
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 254907996
+- Xu Mới : 154907996
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 20:38:44--------
+- Name : fakeking
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 284907996
+- Xu Mới : 279907996
+- Xu Thay Đổi : -5000000
+----------Thời Gian : 2023-09-29 20:40:32--------
+- Name : fakeking
+- Nội Dung : Đặt Tài
+- Xu Cũ : 239407987
+- Xu Mới : 139407987
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 20:42:03--------
+- Name : fakeking
+- Nội Dung : Đặt Tài
+- Xu Cũ : 319407987
+- Xu Mới : 319307987
+- Xu Thay Đổi : -100000
+----------Thời Gian : 2023-09-29 20:42:23--------
+- Name : anhtunxz
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 857422997
+- Xu Mới : 817422997
+- Xu Thay Đổi : -40000000
+----------Thời Gian : 2023-09-29 20:43:13--------
+- Name : fakeking
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 270184531
+- Xu Mới : 260184531
+- Xu Thay Đổi : -10000000
+----------Thời Gian : 2023-09-29 20:46:24--------
+- Name : fakeking
+- Nội Dung : Đặt Tài
+- Xu Cũ : 228184531
+- Xu Mới : 228084531
+- Xu Thay Đổi : -100000
+----------Thời Gian : 2023-09-29 20:47:34--------
+- Name : fakeking
+- Nội Dung : Đặt Tài
+- Xu Cũ : 228084531
+- Xu Mới : 218084531
+- Xu Thay Đổi : -10000000
+----------Thời Gian : 2023-09-29 20:48:05--------
+- Name : anhtunxz
+- Nội Dung : Đặt Tài
+- Xu Cũ : 938922997
+- Xu Mới : 838922997
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 20:48:46--------
+- Name : fakeking
+- Nội Dung : Đặt Tài
+- Xu Cũ : 186084531
+- Xu Mới : 176084531
+- Xu Thay Đổi : -10000000
+----------Thời Gian : 2023-09-29 20:49:21--------
+- Name : anhtunxz
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1018922997
+- Xu Mới : 918922997
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 20:50:11--------
+- Name : anhtunxz
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1098922997
+- Xu Mới : 998922997
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 20:50:12--------
+- Name : fakeking
+- Nội Dung : Đặt Tài
+- Xu Cũ : 164084527
+- Xu Mới : 163984527
+- Xu Thay Đổi : -100000
+----------Thời Gian : 2023-09-29 20:51:44--------
+- Name : fakeking
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 164164527
+- Xu Mới : 154164527
+- Xu Thay Đổi : -10000000
+----------Thời Gian : 2023-09-29 20:52:01--------
+- Name : anhtunxz
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1128922997
+- Xu Mới : 1028922997
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 20:52:24--------
+- Name : davidveo
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 391967282
+- Xu Mới : 341967282
+- Xu Thay Đổi : -50000000
+----------Thời Gian : 2023-09-29 20:52:51--------
+- Name : fakeking
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 122164527
+- Xu Mới : 112164527
+- Xu Thay Đổi : -10000000
+----------Thời Gian : 2023-09-29 20:53:09--------
+- Name : anhtunxz
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1158922997
+- Xu Mới : 1058922997
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 20:54:17--------
+- Name : anhtunxz
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 738922997
+- Xu Mới : 638922997
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 20:54:19--------
+- Name : fakeking
+- Nội Dung : Đặt Tài
+- Xu Cũ : 112164527
+- Xu Mới : 102164527
+- Xu Thay Đổi : -10000000
+----------Thời Gian : 2023-09-29 20:55:57--------
+- Name : anhtunxz
+- Nội Dung : Đặt Tài
+- Xu Cũ : 638922997
+- Xu Mới : 538922997
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 20:57:14--------
+- Name : fakeking
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 172260486
+- Xu Mới : 72260486
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 20:57:20--------
+- Name : anhtunxz
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 668922997
+- Xu Mới : 568922997
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 20:58:52--------
+- Name : anhtunxz
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 948518956
+- Xu Mới : 848518956
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 20:59:31--------
+- Name : fakeking
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 202260486
+- Xu Mới : 197260486
+- Xu Thay Đổi : -5000000
+----------Thời Gian : 2023-09-29 21:00:19--------
+- Name : anhtunxz
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 978518956
+- Xu Mới : 878518956
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 21:01:37--------
+- Name : fakeking
+- Nội Dung : Đặt Tài
+- Xu Cũ : 396260486
+- Xu Mới : 296260486
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 21:01:42--------
+- Name : anhtunxz
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1058518956
+- Xu Mới : 958518956
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 21:02:51--------
+- Name : fakeking
+- Nội Dung : Đặt Tài
+- Xu Cũ : 426260486
+- Xu Mới : 326260486
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 21:03:36--------
+- Name : anhtunxz
+- Nội Dung : Đặt Tài
+- Xu Cũ : 958518956
+- Xu Mới : 858518956
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 21:04:03--------
+- Name : davidveo
+- Nội Dung : Đặt Tài
+- Xu Cũ : 431967282
+- Xu Mới : 331967282
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 21:04:09--------
+- Name : fakeking
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 326260486
+- Xu Mới : 326250486
+- Xu Thay Đổi : -10000
+----------Thời Gian : 2023-09-29 21:04:38--------
+- Name : anhtunxz
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 858518956
+- Xu Mới : 758518956
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 21:05:18--------
+- Name : fakeking
+- Nội Dung : Đặt Tài
+- Xu Cũ : 276268486
+- Xu Mới : 176268486
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 21:05:28--------
+- Name : anhtunxz
+- Nội Dung : Đặt Tài
+- Xu Cũ : 938518956
+- Xu Mới : 838518956
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 21:06:33--------
+- Name : anhtunxz
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 838518956
+- Xu Mới : 738518956
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 21:06:45--------
+- Name : fakeking
+- Nội Dung : Đặt Tài
+- Xu Cũ : 271268486
+- Xu Mới : 171268486
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 21:06:56--------
+- Name : davidveo
+- Nội Dung : Đặt Tài
+- Xu Cũ : 331967282
+- Xu Mới : 231967282
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 21:07:56--------
+- Name : anhtunxz
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 918518956
+- Xu Mới : 818518956
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 21:08:26--------
+- Name : fakeking
+- Nội Dung : Đặt Tài
+- Xu Cũ : 121268486
+- Xu Mới : 21268486
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 21:09:15--------
+- Name : fakeking
+- Nội Dung : Đặt Tài
+- Xu Cũ : 201268486
+- Xu Mới : 151268486
+- Xu Thay Đổi : -50000000
+----------Thời Gian : 2023-09-29 21:09:20--------
+- Name : anhtunxz
+- Nội Dung : Đặt Tài
+- Xu Cũ : 318518956
+- Xu Mới : 218518956
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 21:09:39--------
+- Name : davidveo
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 181967282
+- Xu Mới : 81967282
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 21:10:40--------
+- Name : fakeking
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 343268486
+- Xu Mới : 343168486
+- Xu Thay Đổi : -100000
+----------Thời Gian : 2023-09-29 21:12:21--------
+- Name : fakeking
+- Nội Dung : Đặt Tài
+- Xu Cũ : 293348486
+- Xu Mới : 193348486
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 21:14:29--------
+- Name : fakeking
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 288348486
+- Xu Mới : 287348486
+- Xu Thay Đổi : -1000000
+----------Thời Gian : 2023-09-29 21:15:36--------
+- Name : fakeking
+- Nội Dung : Đặt Tài
+- Xu Cũ : 237348486
+- Xu Mới : 137348486
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 21:30:44--------
+- Name : s2kaoken9x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 253196559
+- Xu Mới : 153196559
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 21:32:07--------
+- Name : s2kaoken9x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 428196559
+- Xu Mới : 328196559
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 21:33:19--------
+- Name : s2kaoken9x
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 328196559
+- Xu Mới : 228196559
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 21:34:58--------
+- Name : s2kaoken9x
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 408196559
+- Xu Mới : 308196559
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 21:36:50--------
+- Name : s2kaoken9x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 308196559
+- Xu Mới : 208196559
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 21:38:29--------
+- Name : s2kaoken9x
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 388196559
+- Xu Mới : 288196559
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 21:41:46--------
+- Name : s2kaoken9x
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 288196559
+- Xu Mới : 188196559
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 21:42:49--------
+- Name : phachinhem
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 372123186
+- Xu Mới : 272123186
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 22:45:54--------
+- Name : sharkloli
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 6250000
+- Xu Mới : 0
+- Xu Thay Đổi : -6250000
+----------Thời Gian : 2023-09-29 22:47:23--------
+- Name : sharkloli
+- Nội Dung : Đặt Tài
+- Xu Cũ : 5000000
+- Xu Mới : 0
+- Xu Thay Đổi : -5000000
+----------Thời Gian : 2023-09-29 23:32:02--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 500859966
+- Xu Mới : 500859956
+- Xu Thay Đổi : -10
+----------Thời Gian : 2023-09-29 23:35:11--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 481759956
+- Xu Mới : 381759956
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 23:36:25--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 561759956
+- Xu Mới : 561759946
+- Xu Thay Đổi : -10
+----------Thời Gian : 2023-09-29 23:37:32--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 561759964
+- Xu Mới : 461759964
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 23:38:38--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 461759964
+- Xu Mới : 361759964
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 23:39:51--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 541759964
+- Xu Mới : 541759954
+- Xu Thay Đổi : -10
+----------Thời Gian : 2023-09-29 23:41:02--------
+- Name : trongbuda
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1340038
+- Xu Mới : 340038
+- Xu Thay Đổi : -1000000
+----------Thời Gian : 2023-09-29 23:41:04--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 541759972
+- Xu Mới : 441759972
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 23:42:20--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 621759972
+- Xu Mới : 521759972
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 23:43:33--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 701759972
+- Xu Mới : 701758972
+- Xu Thay Đổi : -1000
+----------Thời Gian : 2023-09-29 23:44:01--------
+- Name : trongbuda
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 2140038
+- Xu Mới : 1140038
+- Xu Thay Đổi : -1000000
+----------Thời Gian : 2023-09-29 23:44:38--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 701758972
+- Xu Mới : 601758972
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 23:44:47--------
+- Name : trongbuda
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1140038
+- Xu Mới : 40038
+- Xu Thay Đổi : -1100000
+----------Thời Gian : 2023-09-29 23:45:47--------
+- Name : trongbuda
+- Nội Dung : Đặt Tài
+- Xu Cũ : 2020038
+- Xu Mới : 20038
+- Xu Thay Đổi : -2000000
+----------Thời Gian : 2023-09-29 23:47:23--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 601758972
+- Xu Mới : 591758972
+- Xu Thay Đổi : -10000000
+----------Thời Gian : 2023-09-29 23:48:42--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 609758972
+- Xu Mới : 509758972
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 23:50:21--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 689758972
+- Xu Mới : 689757972
+- Xu Thay Đổi : -1000
+----------Thời Gian : 2023-09-29 23:51:33--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 689757972
+- Xu Mới : 589757972
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 23:52:51--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 589757972
+- Xu Mới : 489757972
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 23:54:22--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 489757972
+- Xu Mới : 389757972
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 23:54:44--------
+- Name : anhtunxz
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 398518956
+- Xu Mới : 298518956
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 23:55:34--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 569757972
+- Xu Mới : 469757972
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 23:56:15--------
+- Name : anhtunxz
+- Nội Dung : Đặt Tài
+- Xu Cũ : 298518956
+- Xu Mới : 198518956
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 23:56:54--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 649757972
+- Xu Mới : 549757972
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 23:57:14--------
+- Name : anhtunxz
+- Nội Dung : Đặt Tài
+- Xu Cũ : 378518956
+- Xu Mới : 278518956
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 23:58:17--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 549757972
+- Xu Mới : 449757972
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-29 23:58:48--------
+- Name : anhtunxz
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 278518956
+- Xu Mới : 178518956
+- Xu Thay Đổi : -100000000

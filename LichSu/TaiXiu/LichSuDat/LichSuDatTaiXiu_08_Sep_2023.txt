@@ -1,0 +1,402 @@
+----------Thời Gian : 2023-09-08 00:24:15--------
+- Name : nhinhi
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1000000
+- Xu Mới : 0
+- Xu Thay Đổi : -1000000
+----------Thời Gian : 2023-09-08 00:25:59--------
+- Name : nhinhii
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1000000
+- Xu Mới : 0
+- Xu Thay Đổi : -1000000
+----------Thời Gian : 2023-09-08 00:27:16--------
+- Name : nhinhii
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1800000
+- Xu Mới : 0
+- Xu Thay Đổi : -1800000
+----------Thời Gian : 2023-09-08 00:28:42--------
+- Name : nhinhii
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 3240000
+- Xu Mới : 0
+- Xu Thay Đổi : -3240000
+----------Thời Gian : 2023-09-08 00:30:26--------
+- Name : nhinhiia
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1000000
+- Xu Mới : 0
+- Xu Thay Đổi : -1000000
+----------Thời Gian : 2023-09-08 00:32:07--------
+- Name : nhinhiiaa
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1000000
+- Xu Mới : 0
+- Xu Thay Đổi : -1000000
+----------Thời Gian : 2023-09-08 00:33:17--------
+- Name : nhinhiiaa
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1800000
+- Xu Mới : 0
+- Xu Thay Đổi : -1800000
+----------Thời Gian : 2023-09-08 00:34:56--------
+- Name : nhinhiiaaa
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1000000
+- Xu Mới : 0
+- Xu Thay Đổi : -1000000
+----------Thời Gian : 2023-09-08 00:36:12--------
+- Name : nhinhiiaaa
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1800000
+- Xu Mới : 0
+- Xu Thay Đổi : -1800000
+----------Thời Gian : 2023-09-08 00:37:34--------
+- Name : nhinhiiaaa
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 3240000
+- Xu Mới : 0
+- Xu Thay Đổi : -3240000
+----------Thời Gian : 2023-09-08 00:38:55--------
+- Name : nhinhiiaaa
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 5832000
+- Xu Mới : 5000000
+- Xu Thay Đổi : -832000
+----------Thời Gian : 2023-09-08 00:40:28--------
+- Name : nhinhiiaaa
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 5000000
+- Xu Mới : 4000000
+- Xu Thay Đổi : -1000000
+----------Thời Gian : 2023-09-08 00:41:48--------
+- Name : nhinhiiaaa
+- Nội Dung : Đặt Tài
+- Xu Cũ : 4000000
+- Xu Mới : 0
+- Xu Thay Đổi : -4000000
+----------Thời Gian : 2023-09-08 01:16:19--------
+- Name : kai0ken
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 459993365
+- Xu Mới : 459992865
+- Xu Thay Đổi : -500
+----------Thời Gian : 2023-09-08 02:10:03--------
+- Name : veovveo
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 57062002
+- Xu Mới : 7062002
+- Xu Thay Đổi : -50000000
+----------Thời Gian : 2023-09-08 17:27:48--------
+- Name : assmobi
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1000000
+- Xu Mới : 0
+- Xu Thay Đổi : -1000000
+----------Thời Gian : 2023-09-08 17:28:55--------
+- Name : assmobi
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1800000
+- Xu Mới : 0
+- Xu Thay Đổi : -1800000
+----------Thời Gian : 2023-09-08 18:12:19--------
+- Name : abczz
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1000000
+- Xu Mới : 0
+- Xu Thay Đổi : -1000000
+----------Thời Gian : 2023-09-08 18:13:40--------
+- Name : abczz
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1800000
+- Xu Mới : 0
+- Xu Thay Đổi : -1800000
+----------Thời Gian : 2023-09-08 18:15:04--------
+- Name : abczz
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 3240000
+- Xu Mới : 0
+- Xu Thay Đổi : -3240000
+----------Thời Gian : 2023-09-08 18:22:31--------
+- Name : ajjakwl
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1000000
+- Xu Mới : 0
+- Xu Thay Đổi : -1000000
+----------Thời Gian : 2023-09-08 18:23:58--------
+- Name : ajjakwl
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1800000
+- Xu Mới : 0
+- Xu Thay Đổi : -1800000
+----------Thời Gian : 2023-09-08 18:25:17--------
+- Name : ajjakwl
+- Nội Dung : Đặt Tài
+- Xu Cũ : 3240000
+- Xu Mới : 0
+- Xu Thay Đổi : -3240000
+----------Thời Gian : 2023-09-08 19:23:23--------
+- Name : bladeveo
+- Nội Dung : Đặt Tài
+- Xu Cũ : 505000
+- Xu Mới : 405000
+- Xu Thay Đổi : -100000
+----------Thời Gian : 2023-09-08 19:25:49--------
+- Name : bladeveo
+- Nội Dung : Đặt Tài
+- Xu Cũ : 305000
+- Xu Mới : 205000
+- Xu Thay Đổi : -100000
+----------Thời Gian : 2023-09-08 19:27:03--------
+- Name : bladeveo
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 385000
+- Xu Mới : 185000
+- Xu Thay Đổi : -200000
+----------Thời Gian : 2023-09-08 19:28:23--------
+- Name : bladeveo
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 545000
+- Xu Mới : 345000
+- Xu Thay Đổi : -200000
+----------Thời Gian : 2023-09-08 19:29:34--------
+- Name : bladeveo
+- Nội Dung : Đặt Tài
+- Xu Cũ : 705000
+- Xu Mới : 505000
+- Xu Thay Đổi : -200000
+----------Thời Gian : 2023-09-08 19:30:52--------
+- Name : bladeveo
+- Nội Dung : Đặt Tài
+- Xu Cũ : 505000
+- Xu Mới : 305000
+- Xu Thay Đổi : -200000
+----------Thời Gian : 2023-09-08 19:32:07--------
+- Name : bladeveo
+- Nội Dung : Đặt Tài
+- Xu Cũ : 305000
+- Xu Mới : 0
+- Xu Thay Đổi : -305000
+----------Thời Gian : 2023-09-08 19:32:15--------
+- Name : quat2hits
+- Nội Dung : Đặt Tài
+- Xu Cũ : 310000
+- Xu Mới : 110000
+- Xu Thay Đổi : -200000
+----------Thời Gian : 2023-09-08 19:33:24--------
+- Name : kai0ken
+- Nội Dung : Đặt Tài
+- Xu Cũ : 389372865
+- Xu Mới : 384372865
+- Xu Thay Đổi : -5000000
+----------Thời Gian : 2023-09-08 19:33:44--------
+- Name : quat2hits
+- Nội Dung : Đặt Tài
+- Xu Cũ : 110000
+- Xu Mới : 10000
+- Xu Thay Đổi : -100000
+----------Thời Gian : 2023-09-08 19:34:38--------
+- Name : kai0ken
+- Nội Dung : Đặt Tài
+- Xu Cũ : 384372865
+- Xu Mới : 374372865
+- Xu Thay Đổi : -10000000
+----------Thời Gian : 2023-09-08 19:35:08--------
+- Name : kuinaivjp
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 964000
+- Xu Mới : 464000
+- Xu Thay Đổi : -500000
+----------Thời Gian : 2023-09-08 19:36:39--------
+- Name : kai0ken
+- Nội Dung : Đặt Tài
+- Xu Cũ : 342372865
+- Xu Mới : 341372865
+- Xu Thay Đổi : -1000000
+----------Thời Gian : 2023-09-08 19:37:13--------
+- Name : quat2hits
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 50010000
+- Xu Mới : 48010000
+- Xu Thay Đổi : -2000000
+----------Thời Gian : 2023-09-08 19:37:21--------
+- Name : badaobg99x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1000000
+- Xu Mới : 0
+- Xu Thay Đổi : -1000000
+----------Thời Gian : 2023-09-08 19:37:57--------
+- Name : quat2hits
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 46010000
+- Xu Mới : 45010000
+- Xu Thay Đổi : -1000000
+----------Thời Gian : 2023-09-08 19:39:25--------
+- Name : quat2hits
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 41210000
+- Xu Mới : 40210000
+- Xu Thay Đổi : -1000000
+----------Thời Gian : 2023-09-08 19:40:33--------
+- Name : quat2hits
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 42010000
+- Xu Mới : 41910000
+- Xu Thay Đổi : -100000
+----------Thời Gian : 2023-09-08 19:41:44--------
+- Name : quat2hits
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 42090000
+- Xu Mới : 41990000
+- Xu Thay Đổi : -100000
+----------Thời Gian : 2023-09-08 19:59:50--------
+- Name : badaobg99x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1800000
+- Xu Mới : 1000000
+- Xu Thay Đổi : -800000
+----------Thời Gian : 2023-09-08 20:07:20--------
+- Name : badaobg99x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 2400000
+- Xu Mới : 1400000
+- Xu Thay Đổi : -1000000
+----------Thời Gian : 2023-09-08 20:22:22--------
+- Name : badaobg99x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 3210000
+- Xu Mới : 2210000
+- Xu Thay Đổi : -1000000
+----------Thời Gian : 2023-09-08 20:39:26--------
+- Name : badaobg99x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 2190000
+- Xu Mới : 190000
+- Xu Thay Đổi : -2000000
+----------Thời Gian : 2023-09-08 20:40:43--------
+- Name : badaobg99x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 3790000
+- Xu Mới : 2000000
+- Xu Thay Đổi : -1790000
+----------Thời Gian : 2023-09-08 20:43:22--------
+- Name : badaobg99x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1985000
+- Xu Mới : 85000
+- Xu Thay Đổi : -1900000
+----------Thời Gian : 2023-09-08 21:52:09--------
+- Name : veovveo
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1947002
+- Xu Mới : 947002
+- Xu Thay Đổi : -1000000
+----------Thời Gian : 2023-09-08 21:53:19--------
+- Name : veovveo
+- Nội Dung : Đặt Tài
+- Xu Cũ : 947002
+- Xu Mới : 447002
+- Xu Thay Đổi : -500000
+----------Thời Gian : 2023-09-08 22:12:33--------
+- Name : kai0ken
+- Nội Dung : Đặt Tài
+- Xu Cũ : 336587825
+- Xu Mới : 335587825
+- Xu Thay Đổi : -1000000
+----------Thời Gian : 2023-09-08 22:54:50--------
+- Name : motherfuck
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 70558272
+- Xu Mới : 70458272
+- Xu Thay Đổi : -100000
+----------Thời Gian : 2023-09-08 22:56:13--------
+- Name : motherfuck
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 70458272
+- Xu Mới : 70358272
+- Xu Thay Đổi : -100000
+----------Thời Gian : 2023-09-08 22:57:35--------
+- Name : motherfuck
+- Nội Dung : Đặt Tài
+- Xu Cũ : 70538272
+- Xu Mới : 70438272
+- Xu Thay Đổi : -100000
+----------Thời Gian : 2023-09-08 22:59:05--------
+- Name : motherfuck
+- Nội Dung : Đặt Tài
+- Xu Cũ : 70618272
+- Xu Mới : 70418272
+- Xu Thay Đổi : -200000
+----------Thời Gian : 2023-09-08 23:00:27--------
+- Name : motherfuck
+- Nội Dung : Đặt Tài
+- Xu Cũ : 70778272
+- Xu Mới : 70478272
+- Xu Thay Đổi : -300000
+----------Thời Gian : 2023-09-08 23:02:50--------
+- Name : motherfuck
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 71018272
+- Xu Mới : 70818272
+- Xu Thay Đổi : -200000
+----------Thời Gian : 2023-09-08 23:04:15--------
+- Name : motherfuck
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 71178272
+- Xu Mới : 70878272
+- Xu Thay Đổi : -300000
+----------Thời Gian : 2023-09-08 23:06:05--------
+- Name : motherfuck
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 71418272
+- Xu Mới : 71018272
+- Xu Thay Đổi : -400000
+----------Thời Gian : 2023-09-08 23:08:22--------
+- Name : motherfuck
+- Nội Dung : Đặt Tài
+- Xu Cũ : 71018272
+- Xu Mới : 70518272
+- Xu Thay Đổi : -500000
+----------Thời Gian : 2023-09-08 23:10:38--------
+- Name : motherfuck
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 71418272
+- Xu Mới : 71417872
+- Xu Thay Đổi : -400
+----------Thời Gian : 2023-09-08 23:12:10--------
+- Name : motherfuck
+- Nội Dung : Đặt Tài
+- Xu Cũ : 71417872
+- Xu Mới : 71017872
+- Xu Thay Đổi : -400000
+----------Thời Gian : 2023-09-08 23:13:37--------
+- Name : motherfuck
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 71737872
+- Xu Mới : 71237872
+- Xu Thay Đổi : -500000
+----------Thời Gian : 2023-09-08 23:14:55--------
+- Name : motherfuck
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 71237872
+- Xu Mới : 71037872
+- Xu Thay Đổi : -200000
+----------Thời Gian : 2023-09-08 23:16:29--------
+- Name : motherfuck
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 71037872
+- Xu Mới : 70037872
+- Xu Thay Đổi : -1000000
+----------Thời Gian : 2023-09-08 23:18:05--------
+- Name : motherfuck
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 71837872
+- Xu Mới : 71037872
+- Xu Thay Đổi : -800000
+----------Thời Gian : 2023-09-08 23:19:27--------
+- Name : motherfuck
+- Nội Dung : Đặt Tài
+- Xu Cũ : 71037872
+- Xu Mới : 70037872
+- Xu Thay Đổi : -1000000

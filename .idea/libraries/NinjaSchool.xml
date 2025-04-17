@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="NinjaSchool">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/NinjaSchool.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

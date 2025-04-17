@@ -1,0 +1,24 @@
+----------Thời Gian : 2023-07-03 14:27:48--------
+- Name : admin
+- Tên Giao Dịch : Luyện Bí Kíp
+- Xu Cũ : 1000000000
+- Xu Mới : 999000000
+- Xu Thay Đổi :-1000000Xu 
+----------Thời Gian : 2023-07-03 14:28:04--------
+- Name : admin
+- Tên Giao Dịch : Nâng Cấp Bí Kíp
+- Xu Cũ : 999000000
+- Xu Mới : 998900000
+- Xu Thay Đổi :-100000Xu 
+----------Thời Gian : 2023-07-03 14:28:09--------
+- Name : admin
+- Tên Giao Dịch : Nâng Cấp Bí Kíp
+- Xu Cũ : 998900000
+- Xu Mới : 998800000
+- Xu Thay Đổi :-100000Xu 
+----------Thời Gian : 2023-07-03 17:09:17--------
+- Name : anh1a
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 

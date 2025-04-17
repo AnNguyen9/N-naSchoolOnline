@@ -1,0 +1,426 @@
+----------Thời Gian : 2023-07-20 00:00:27--------
+- Name : trumkunai1
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 3889
+- Xu Mới : 543889
+- Xu Thay Đổi : 540000
+----------Thời Gian : 2023-07-20 00:02:28--------
+- Name : trumkunai1
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 32778
+- Xu Mới : 932778
+- Xu Thay Đổi : 900000
+----------Thời Gian : 2023-07-20 00:04:31--------
+- Name : trumkunai1
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 2778
+- Xu Mới : 1676778
+- Xu Thay Đổi : 1674000
+----------Thời Gian : 2023-07-20 00:04:31--------
+- Name : trumquat1
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 0
+- Xu Mới : 1296000
+- Xu Thay Đổi : 1296000
+----------Thời Gian : 2023-07-20 00:10:13--------
+- Name : nolike
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 2500007
+- Xu Mới : 2788007
+- Xu Thay Đổi : 288000
+----------Thời Gian : 2023-07-20 04:03:11--------
+- Name : bjsks
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 7602000
+- Xu Mới : 8502000
+- Xu Thay Đổi : 900000
+----------Thời Gian : 2023-07-20 11:19:02--------
+- Name : youtube
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 335473
+- Xu Mới : 11135473
+- Xu Thay Đổi : 10800000
+----------Thời Gian : 2023-07-20 11:20:46--------
+- Name : youtube
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 11035473
+- Xu Mới : 11215473
+- Xu Thay Đổi : 180000
+----------Thời Gian : 2023-07-20 11:22:45--------
+- Name : youtube
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 9215473
+- Xu Mới : 12815473
+- Xu Thay Đổi : 3600000
+----------Thời Gian : 2023-07-20 12:00:47--------
+- Name : tienbryvn
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 28710000
+- Xu Mới : 31410000
+- Xu Thay Đổi : 2700000
+----------Thời Gian : 2023-07-20 12:02:13--------
+- Name : tienbryvn
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 16410000
+- Xu Mới : 43410000
+- Xu Thay Đổi : 27000000
+----------Thời Gian : 2023-07-20 12:04:07--------
+- Name : tienbryvn
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 23410000
+- Xu Mới : 59410000
+- Xu Thay Đổi : 36000000
+----------Thời Gian : 2023-07-20 12:08:16--------
+- Name : tienbryvn
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 39410000
+- Xu Mới : 75410000
+- Xu Thay Đổi : 36000000
+----------Thời Gian : 2023-07-20 12:28:39--------
+- Name : 123456789
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 11000
+- Xu Mới : 551000
+- Xu Thay Đổi : 540000
+----------Thời Gian : 2023-07-20 12:57:37--------
+- Name : phoneix
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 413031
+- Xu Mới : 17513031
+- Xu Thay Đổi : 17100000
+----------Thời Gian : 2023-07-20 12:58:48--------
+- Name : phoneix
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 4513031
+- Xu Mới : 27913031
+- Xu Thay Đổi : 23400000
+----------Thời Gian : 2023-07-20 13:03:43--------
+- Name : phoneix
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 23755242
+- Xu Mới : 28255242
+- Xu Thay Đổi : 4500000
+----------Thời Gian : 2023-07-20 13:05:25--------
+- Name : phoneix
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 24255242
+- Xu Mới : 31455242
+- Xu Thay Đổi : 7200000
+----------Thời Gian : 2023-07-20 13:15:34--------
+- Name : phoneix
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 28651895
+- Xu Mới : 39451895
+- Xu Thay Đổi : 10800000
+----------Thời Gian : 2023-07-20 13:17:04--------
+- Name : phoneix
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 32351895
+- Xu Mới : 44951895
+- Xu Thay Đổi : 12600000
+----------Thời Gian : 2023-07-20 13:18:17--------
+- Name : phoneix
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 36951895
+- Xu Mới : 51351895
+- Xu Thay Đổi : 14400000
+----------Thời Gian : 2023-07-20 13:19:28--------
+- Name : phoneix
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 42351895
+- Xu Mới : 58551895
+- Xu Thay Đổi : 16200000
+----------Thời Gian : 2023-07-20 13:19:28--------
+- Name : kakakq
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 48156406
+- Xu Mới : 48336406
+- Xu Thay Đổi : 180000
+----------Thời Gian : 2023-07-20 13:21:59--------
+- Name : kakakq
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 44336406
+- Xu Mới : 49736406
+- Xu Thay Đổi : 5400000
+----------Thời Gian : 2023-07-20 13:24:57--------
+- Name : phoneix
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 47551895
+- Xu Mới : 49351895
+- Xu Thay Đổi : 1800000
+----------Thời Gian : 2023-07-20 13:26:24--------
+- Name : phoneix
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 45351895
+- Xu Mới : 52551895
+- Xu Thay Đổi : 7200000
+----------Thời Gian : 2023-07-20 13:28:08--------
+- Name : phoneix
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 47551895
+- Xu Mới : 56551895
+- Xu Thay Đổi : 9000000
+----------Thời Gian : 2023-07-20 13:31:44--------
+- Name : phoneix
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 48451895
+- Xu Mới : 52051895
+- Xu Thay Đổi : 3600000
+----------Thời Gian : 2023-07-20 13:34:39--------
+- Name : phoneix
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 48851895
+- Xu Mới : 54611895
+- Xu Thay Đổi : 5760000
+----------Thời Gian : 2023-07-20 13:37:00--------
+- Name : phoneix
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 46611895
+- Xu Mới : 54711895
+- Xu Thay Đổi : 8100000
+----------Thời Gian : 2023-07-20 13:40:01--------
+- Name : phoneix
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 49711895
+- Xu Mới : 58711895
+- Xu Thay Đổi : 9000000
+----------Thời Gian : 2023-07-20 13:41:39--------
+- Name : phoneix
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 8711895
+- Xu Mới : 98711895
+- Xu Thay Đổi : 90000000
+----------Thời Gian : 2023-07-20 13:43:28--------
+- Name : phoneix
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 68711895
+- Xu Mới : 122711895
+- Xu Thay Đổi : 54000000
+----------Thời Gian : 2023-07-20 13:44:44--------
+- Name : phoneix
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 102711895
+- Xu Mới : 138711895
+- Xu Thay Đổi : 36000000
+----------Thời Gian : 2023-07-20 13:46:10--------
+- Name : phoneix
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 108711895
+- Xu Mới : 162711895
+- Xu Thay Đổi : 54000000
+----------Thời Gian : 2023-07-20 13:48:46--------
+- Name : phoneix
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 125711895
+- Xu Mới : 129311895
+- Xu Thay Đổi : 3600000
+----------Thời Gian : 2023-07-20 13:53:38--------
+- Name : trymteo
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 218875001
+- Xu Mới : 308875001
+- Xu Thay Đổi : 90000000
+----------Thời Gian : 2023-07-20 14:12:00--------
+- Name : nolike
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 2700007
+- Xu Mới : 2858407
+- Xu Thay Đổi : 158400
+----------Thời Gian : 2023-07-20 14:15:09--------
+- Name : nolike
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 2840407
+- Xu Mới : 2872807
+- Xu Thay Đổi : 32400
+----------Thời Gian : 2023-07-20 14:18:34--------
+- Name : nolike
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 2860807
+- Xu Mới : 2882407
+- Xu Thay Đổi : 21600
+----------Thời Gian : 2023-07-20 14:22:00--------
+- Name : nolike
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 2000007
+- Xu Mới : 3537927
+- Xu Thay Đổi : 1537920
+----------Thời Gian : 2023-07-20 14:45:32--------
+- Name : nolike
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 2000000
+- Xu Mới : 2900000
+- Xu Thay Đổi : 900000
+----------Thời Gian : 2023-07-20 17:41:58--------
+- Name : sayem
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 1000000
+- Xu Mới : 1018000
+- Xu Thay Đổi : 18000
+----------Thời Gian : 2023-07-20 17:43:45--------
+- Name : sayem
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 1124000
+- Xu Mới : 1138400
+- Xu Thay Đổi : 14400
+----------Thời Gian : 2023-07-20 17:47:36--------
+- Name : nolike
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 2900000
+- Xu Mới : 2926730
+- Xu Thay Đổi : 26730
+----------Thời Gian : 2023-07-20 22:27:15--------
+- Name : doanduong
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 11429612
+- Xu Mới : 13589612
+- Xu Thay Đổi : 2160000
+----------Thời Gian : 2023-07-20 22:33:03--------
+- Name : lphukboyl
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 331956900
+- Xu Mới : 331974900
+- Xu Thay Đổi : 18000
+----------Thời Gian : 2023-07-20 23:01:31--------
+- Name : nolike
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 200000
+- Xu Mới : 325640
+- Xu Thay Đổi : 125640
+----------Thời Gian : 2023-07-20 23:06:00--------
+- Name : nolike
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 325000
+- Xu Mới : 326152
+- Xu Thay Đổi : 1152
+----------Thời Gian : 2023-07-20 23:07:51--------
+- Name : nolike
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 326002
+- Xu Mới : 326272
+- Xu Thay Đổi : 270
+----------Thời Gian : 2023-07-20 23:09:26--------
+- Name : tienbryvn
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 69407288
+- Xu Mới : 249407288
+- Xu Thay Đổi : 180000000
+----------Thời Gian : 2023-07-20 23:18:47--------
+- Name : phoneix
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 138708537
+- Xu Mới : 140508537
+- Xu Thay Đổi : 1800000
+----------Thời Gian : 2023-07-20 23:21:37--------
+- Name : phoneix
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 139508537
+- Xu Mới : 141308537
+- Xu Thay Đổi : 1800000
+----------Thời Gian : 2023-07-20 23:26:30--------
+- Name : phoneix
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 114808537
+- Xu Mới : 159808537
+- Xu Thay Đổi : 45000000
+----------Thời Gian : 2023-07-20 23:28:36--------
+- Name : nolike
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 2
+- Xu Mới : 569288
+- Xu Thay Đổi : 569286
+----------Thời Gian : 2023-07-20 23:35:00--------
+- Name : phoneix
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 7208537
+- Xu Mới : 43208537
+- Xu Thay Đổi : 36000000
+----------Thời Gian : 2023-07-20 23:42:22--------
+- Name : trumkiem1
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 5022799
+- Xu Mới : 14022799
+- Xu Thay Đổi : 9000000
+----------Thời Gian : 2023-07-20 23:43:52--------
+- Name : trumkiem1
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 4022799
+- Xu Mới : 22022799
+- Xu Thay Đổi : 18000000
+----------Thời Gian : 2023-07-20 23:45:45--------
+- Name : trumkiem1
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 20022799
+- Xu Mới : 23622799
+- Xu Thay Đổi : 3600000
+----------Thời Gian : 2023-07-20 23:48:54--------
+- Name : trumkiem1
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 322800
+- Xu Mới : 18322800
+- Xu Thay Đổi : 18000000
+----------Thời Gian : 2023-07-20 23:48:54--------
+- Name : tankho
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 79164812
+- Xu Mới : 259164812
+- Xu Thay Đổi : 180000000
+----------Thời Gian : 2023-07-20 23:50:17--------
+- Name : gaito
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 1000
+- Xu Mới : 145000
+- Xu Thay Đổi : 144000
+----------Thời Gian : 2023-07-20 23:50:17--------
+- Name : tankho
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 159164812
+- Xu Mới : 339164812
+- Xu Thay Đổi : 180000000
+----------Thời Gian : 2023-07-20 23:52:17--------
+- Name : trumkiem1
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 10222800
+- Xu Mới : 24622800
+- Xu Thay Đổi : 14400000
+----------Thời Gian : 2023-07-20 23:53:36--------
+- Name : phoneix
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 8537
+- Xu Mới : 170537
+- Xu Thay Đổi : 162000
+----------Thời Gian : 2023-07-20 23:53:36--------
+- Name : trumkiem1
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 20622800
+- Xu Mới : 27822800
+- Xu Thay Đổi : 7200000
+----------Thời Gian : 2023-07-20 23:54:53--------
+- Name : phoneix
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 537
+- Xu Mới : 306537
+- Xu Thay Đổi : 306000
+----------Thời Gian : 2023-07-20 23:57:53--------
+- Name : datsoi
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 49256001
+- Xu Mới : 229256001
+- Xu Thay Đổi : 180000000
+----------Thời Gian : 2023-07-20 23:57:53--------
+- Name : trumkiem1
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 722801
+- Xu Mới : 36722801
+- Xu Thay Đổi : 36000000
+----------Thời Gian : 2023-07-20 23:59:19--------
+- Name : datsoi
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 129256001
+- Xu Mới : 309256001
+- Xu Thay Đổi : 180000000
+----------Thời Gian : 2023-07-20 23:59:19--------
+- Name : trumkiem1
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 29722801
+- Xu Mới : 40522801
+- Xu Thay Đổi : 10800000

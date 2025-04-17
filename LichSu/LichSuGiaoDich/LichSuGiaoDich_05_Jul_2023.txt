@@ -1,0 +1,3476 @@
+----------Thời Gian : 2023-07-05 01:04:52--------
+- Name : s2family Giao Dịch Với s2jikey
+- Item Chuyển : 
+ Harley Davidson : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 01:04:52--------
+- Name : s2jikey Giao Dịch Với s2family
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Harley Davidson : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 01:05:21--------
+- Name : s2family Giao Dịch Với s2jikey
+- Item Chuyển : 
+ Harley Davidson : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 01:05:21--------
+- Name : s2jikey Giao Dịch Với s2family
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Harley Davidson : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 01:08:27--------
+- Name : s2family Giao Dịch Với s2jikey
+- Item Chuyển : 
+ Harley Davidson : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 01:08:27--------
+- Name : s2jikey Giao Dịch Với s2family
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Harley Davidson : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 01:20:57--------
+- Name : kiet12 Giao Dịch Với kunaixlx
+- Item Chuyển : 
+
+- Xu Chuyển : 2300000
+- Item Nhận : 
+Bạch ngân Tuyến : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 01:20:57--------
+- Name : kunaixlx Giao Dịch Với kiet12
+- Item Chuyển : 
+Bạch ngân Tuyến : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 2300000
+-------------
+----------Thời Gian : 2023-07-05 02:16:57--------
+- Name : xincaituoi Giao Dịch Với hupbomaydi
+- Item Chuyển : 
+ Pet Bóng Ma : Số Lượng : 1
+ Gậy Mặt Trăng : Số Lượng : 1
+ Pet Yêu Tinh : Số Lượng : 1
+ Nhật Tử Lam Phong : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 02:16:57--------
+- Name : hupbomaydi Giao Dịch Với xincaituoi
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Pet Bóng Ma : Số Lượng : 1
+ Gậy Mặt Trăng : Số Lượng : 1
+ Pet Yêu Tinh : Số Lượng : 1
+ Nhật Tử Lam Phong : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 02:55:15--------
+- Name : saonhintao Giao Dịch Với trumserver
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 02:55:15--------
+- Name : trumserver Giao Dịch Với saonhintao
+- Item Chuyển : 
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 02:55:39--------
+- Name : trumserver Giao Dịch Với saonhintao
+- Item Chuyển : 
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 02:55:39--------
+- Name : saonhintao Giao Dịch Với trumserver
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 02:56:06--------
+- Name : saonhintao Giao Dịch Với trumserver
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 02:56:06--------
+- Name : trumserver Giao Dịch Với saonhintao
+- Item Chuyển : 
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 02:56:33--------
+- Name : trumserver Giao Dịch Với saonhintao
+- Item Chuyển : 
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 02:56:33--------
+- Name : saonhintao Giao Dịch Với trumserver
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 02:57:06--------
+- Name : saonhintao Giao Dịch Với trumserver
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Lang hồn thảo : Số Lượng : 16578
+Địa lang thảo : Số Lượng : 16291
+Lang hồn mộc : Số Lượng : 16396
+Tam lục diệp : Số Lượng : 16632
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 02:57:06--------
+- Name : trumserver Giao Dịch Với saonhintao
+- Item Chuyển : 
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Lang hồn thảo : Số Lượng : 16578
+Địa lang thảo : Số Lượng : 16291
+Lang hồn mộc : Số Lượng : 16396
+Tam lục diệp : Số Lượng : 16632
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 02:57:46--------
+- Name : server Giao Dịch Với saonhintao
+- Item Chuyển : 
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Lang hồn mộc : Số Lượng : 5352
+ Lang hồn thảo : Số Lượng : 5304
+ Địa lang thảo : Số Lượng : 5418
+ Xích lan hoa  : Số Lượng : 5396
+ Tam lục diệp : Số Lượng : 5376
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 02:57:46--------
+- Name : saonhintao Giao Dịch Với server
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Lang hồn mộc : Số Lượng : 5352
+ Lang hồn thảo : Số Lượng : 5304
+ Địa lang thảo : Số Lượng : 5418
+ Xích lan hoa  : Số Lượng : 5396
+ Tam lục diệp : Số Lượng : 5376
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 02:58:08--------
+- Name : saonhintao Giao Dịch Với server
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 02:58:08--------
+- Name : server Giao Dịch Với saonhintao
+- Item Chuyển : 
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 02:58:47--------
+- Name : saonhintao Giao Dịch Với server
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Địa lang thảo : Số Lượng : 12599
+Lang hồn mộc : Số Lượng : 12657
+Lang hồn thảo : Số Lượng : 12439
+Tam lục diệp : Số Lượng : 12663
+Xích Nhãn Ngân Lang : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 02:58:47--------
+- Name : server Giao Dịch Với saonhintao
+- Item Chuyển : 
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Địa lang thảo : Số Lượng : 12599
+Lang hồn mộc : Số Lượng : 12657
+Lang hồn thảo : Số Lượng : 12439
+Tam lục diệp : Số Lượng : 12663
+Xích Nhãn Ngân Lang : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 02:59:06--------
+- Name : server Giao Dịch Với saonhintao
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 02:59:06--------
+- Name : saonhintao Giao Dịch Với server
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 02:59:31--------
+- Name : saonhintao Giao Dịch Với server
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 02:59:31--------
+- Name : server Giao Dịch Với saonhintao
+- Item Chuyển : 
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 02:59:48--------
+- Name : server Giao Dịch Với saonhintao
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 02:59:48--------
+- Name : saonhintao Giao Dịch Với server
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 03:44:06--------
+- Name : trumserver Giao Dịch Với server
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Nhẫn Bạch ngân : Số Lượng : 1
+Bạch ngân Ngoa : Số Lượng : 1
+Bùa Bạch ngân : Số Lượng : 1
+Bạch ngân Thượng Giáp : Số Lượng : 1
+Thiên hỏa kiếm : Số Lượng : 1
+Bạch ngân Bội : Số Lượng : 1
+Dây Chuyền Bạch ngân : Số Lượng : 1
+Bạch ngân Hạ Giáp : Số Lượng : 1
+Bạch ngân Tuyến : Số Lượng : 1
+Bạch ngân Thủ : Số Lượng : 1
+Bạch ngân Thủ : Số Lượng : 1
+Nhẫn Bạch ngân : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 03:44:06--------
+- Name : server Giao Dịch Với trumserver
+- Item Chuyển : 
+Nhẫn Bạch ngân : Số Lượng : 1
+Bạch ngân Ngoa : Số Lượng : 1
+Bùa Bạch ngân : Số Lượng : 1
+Bạch ngân Thượng Giáp : Số Lượng : 1
+Thiên hỏa kiếm : Số Lượng : 1
+Bạch ngân Bội : Số Lượng : 1
+Dây Chuyền Bạch ngân : Số Lượng : 1
+Bạch ngân Hạ Giáp : Số Lượng : 1
+Bạch ngân Tuyến : Số Lượng : 1
+Bạch ngân Thủ : Số Lượng : 1
+Bạch ngân Thủ : Số Lượng : 1
+Nhẫn Bạch ngân : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 06:06:33--------
+- Name : socmatuy Giao Dịch Với trumbuonmatuy
+- Item Chuyển : 
+ Harley Davidson : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 06:06:33--------
+- Name : trumbuonmatuy Giao Dịch Với socmatuy
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Harley Davidson : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 06:07:09--------
+- Name : socmatuy Giao Dịch Với trumbuonmatuy
+- Item Chuyển : 
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 06:07:09--------
+- Name : trumbuonmatuy Giao Dịch Với socmatuy
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 06:07:40--------
+- Name : trumbuonmatuy Giao Dịch Với socmatuy
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Harley Davidson : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 06:07:40--------
+- Name : socmatuy Giao Dịch Với trumbuonmatuy
+- Item Chuyển : 
+Harley Davidson : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 06:38:19--------
+- Name : trumbuonmatuy Giao Dịch Với socmatuy
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 06:38:19--------
+- Name : socmatuy Giao Dịch Với trumbuonmatuy
+- Item Chuyển : 
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 06:38:52--------
+- Name : socmatuy Giao Dịch Với trumbuonmatuy
+- Item Chuyển : 
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 06:38:52--------
+- Name : trumbuonmatuy Giao Dịch Với socmatuy
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 06:39:21--------
+- Name : trumbuonmatuy Giao Dịch Với socmatuy
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 06:39:21--------
+- Name : socmatuy Giao Dịch Với trumbuonmatuy
+- Item Chuyển : 
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 07:11:28--------
+- Name : vodanh Giao Dịch Với 1daovenha
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Thông linh thảo : Số Lượng : 387
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 07:11:28--------
+- Name : 1daovenha Giao Dịch Với vodanh
+- Item Chuyển : 
+Thông linh thảo : Số Lượng : 387
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 07:13:46--------
+- Name : 1daovenha Giao Dịch Với vodanh
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Thú trang : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 07:13:46--------
+- Name : vodanh Giao Dịch Với 1daovenha
+- Item Chuyển : 
+Thú trang : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 09:23:25--------
+- Name : goodboy Giao Dịch Với onehit
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Xích lan hoa  : Số Lượng : 6830
+Lang hồn thảo : Số Lượng : 6675
+Tam lục diệp : Số Lượng : 6786
+Địa lang thảo : Số Lượng : 6654
+Lang hồn mộc : Số Lượng : 6694
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 09:23:25--------
+- Name : onehit Giao Dịch Với goodboy
+- Item Chuyển : 
+Xích lan hoa  : Số Lượng : 6830
+Lang hồn thảo : Số Lượng : 6675
+Tam lục diệp : Số Lượng : 6786
+Địa lang thảo : Số Lượng : 6654
+Lang hồn mộc : Số Lượng : 6694
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 10:46:25--------
+- Name : kunai Giao Dịch Với quanghuy
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Xích lan hoa  : Số Lượng : 13258
+Lang hồn mộc : Số Lượng : 13134
+Tam lục diệp : Số Lượng : 13207
+Lang hồn thảo : Số Lượng : 13298
+Địa lang thảo : Số Lượng : 13204
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 10:46:25--------
+- Name : quanghuy Giao Dịch Với kunai
+- Item Chuyển : 
+Xích lan hoa  : Số Lượng : 13258
+Lang hồn mộc : Số Lượng : 13134
+Tam lục diệp : Số Lượng : 13207
+Lang hồn thảo : Số Lượng : 13298
+Địa lang thảo : Số Lượng : 13204
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 10:55:50--------
+- Name : babaabb Giao Dịch Với dank02
+- Item Chuyển : 
+ Dưa hấu tròn : Số Lượng : 10000
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 10:55:50--------
+- Name : dank02 Giao Dịch Với babaabb
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Dưa hấu tròn : Số Lượng : 10000
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 10:59:45--------
+- Name : dank02 Giao Dịch Với babaabb
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 10:59:45--------
+- Name : babaabb Giao Dịch Với dank02
+- Item Chuyển : 
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 11:01:13--------
+- Name : babaabb Giao Dịch Với dank02
+- Item Chuyển : 
+ Rương Huyền bí : Số Lượng : 1
+ Rương Huyền bí : Số Lượng : 1
+ Rương Huyền bí : Số Lượng : 1
+ Rương Huyền bí : Số Lượng : 1
+ Rương Huyền bí : Số Lượng : 1
+ Rương Huyền bí : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 11:01:13--------
+- Name : dank02 Giao Dịch Với babaabb
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Rương Huyền bí : Số Lượng : 1
+ Rương Huyền bí : Số Lượng : 1
+ Rương Huyền bí : Số Lượng : 1
+ Rương Huyền bí : Số Lượng : 1
+ Rương Huyền bí : Số Lượng : 1
+ Rương Huyền bí : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 11:04:03--------
+- Name : dank02 Giao Dịch Với babaabb
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 11:04:03--------
+- Name : babaabb Giao Dịch Với dank02
+- Item Chuyển : 
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 11:07:25--------
+- Name : dank02 Giao Dịch Với babaabb
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Hoán chuyển cao cấp : Số Lượng : 1
+Hoán chuyển cao cấp : Số Lượng : 1
+Hoán chuyển cao cấp : Số Lượng : 1
+Hoán chuyển cao cấp : Số Lượng : 1
+Hoán chuyển cao cấp : Số Lượng : 1
+Hoán chuyển cao cấp : Số Lượng : 1
+Hoán chuyển cao cấp : Số Lượng : 1
+Hoán chuyển cao cấp : Số Lượng : 1
+Hoán chuyển cao cấp : Số Lượng : 1
+Hoán chuyển cao cấp : Số Lượng : 1
+Hoán chuyển cao cấp : Số Lượng : 1
+Hoán chuyển cao cấp : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 11:07:25--------
+- Name : babaabb Giao Dịch Với dank02
+- Item Chuyển : 
+Hoán chuyển cao cấp : Số Lượng : 1
+Hoán chuyển cao cấp : Số Lượng : 1
+Hoán chuyển cao cấp : Số Lượng : 1
+Hoán chuyển cao cấp : Số Lượng : 1
+Hoán chuyển cao cấp : Số Lượng : 1
+Hoán chuyển cao cấp : Số Lượng : 1
+Hoán chuyển cao cấp : Số Lượng : 1
+Hoán chuyển cao cấp : Số Lượng : 1
+Hoán chuyển cao cấp : Số Lượng : 1
+Hoán chuyển cao cấp : Số Lượng : 1
+Hoán chuyển cao cấp : Số Lượng : 1
+Hoán chuyển cao cấp : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 11:15:27--------
+- Name : dank02 Giao Dịch Với babaabb
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 11:15:27--------
+- Name : babaabb Giao Dịch Với dank02
+- Item Chuyển : 
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 11:20:48--------
+- Name : dank02 Giao Dịch Với babaabb
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Dưa hấu tròn : Số Lượng : 20000
+
+- Xu Nhận : 1000000
+-------------
+----------Thời Gian : 2023-07-05 11:20:48--------
+- Name : babaabb Giao Dịch Với dank02
+- Item Chuyển : 
+Dưa hấu tròn : Số Lượng : 20000
+
+- Xu Chuyển : 1000000
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 12:05:16--------
+- Name : yasuomega Giao Dịch Với babaabb
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Dưa hấu tròn : Số Lượng : 10000
+
+- Xu Nhận : 501000000
+-------------
+----------Thời Gian : 2023-07-05 12:05:16--------
+- Name : babaabb Giao Dịch Với yasuomega
+- Item Chuyển : 
+Dưa hấu tròn : Số Lượng : 10000
+
+- Xu Chuyển : 501000000
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 12:26:34--------
+- Name : hihi21 Giao Dịch Với manhdz01
+- Item Chuyển : 
+ Rương Huyền bí : Số Lượng : 1
+ Rương Huyền bí : Số Lượng : 1
+ Rương Huyền bí : Số Lượng : 1
+ Dưa hấu tròn : Số Lượng : 1988
+ Rương Huyền bí : Số Lượng : 1
+ Rương Huyền bí : Số Lượng : 1
+ Rương Huyền bí : Số Lượng : 1
+ Rương Huyền bí : Số Lượng : 1
+ Rương Huyền bí : Số Lượng : 1
+ Rương Huyền bí : Số Lượng : 1
+ Rương Huyền bí : Số Lượng : 1
+ Dưa hấu tròn : Số Lượng : 1000
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 12:26:34--------
+- Name : manhdz01 Giao Dịch Với hihi21
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Rương Huyền bí : Số Lượng : 1
+ Rương Huyền bí : Số Lượng : 1
+ Rương Huyền bí : Số Lượng : 1
+ Dưa hấu tròn : Số Lượng : 1988
+ Rương Huyền bí : Số Lượng : 1
+ Rương Huyền bí : Số Lượng : 1
+ Rương Huyền bí : Số Lượng : 1
+ Rương Huyền bí : Số Lượng : 1
+ Rương Huyền bí : Số Lượng : 1
+ Rương Huyền bí : Số Lượng : 1
+ Rương Huyền bí : Số Lượng : 1
+ Dưa hấu tròn : Số Lượng : 1000
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 12:27:05--------
+- Name : manhdz01 Giao Dịch Với hihi21
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Dưa hấu tròn : Số Lượng : 1000
+Dưa hấu tròn : Số Lượng : 1000
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 12:27:05--------
+- Name : hihi21 Giao Dịch Với manhdz01
+- Item Chuyển : 
+Dưa hấu tròn : Số Lượng : 1000
+Dưa hấu tròn : Số Lượng : 1000
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 12:27:54--------
+- Name : hihi21 Giao Dịch Với manhdz01
+- Item Chuyển : 
+ Dưa hấu tròn : Số Lượng : 800
+ Dưa hấu tròn : Số Lượng : 800
+ Dưa hấu tròn : Số Lượng : 800
+ Dưa hấu tròn : Số Lượng : 800
+ Dưa hấu tròn : Số Lượng : 800
+ Rương Huyền bí : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 12:27:54--------
+- Name : manhdz01 Giao Dịch Với hihi21
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Dưa hấu tròn : Số Lượng : 800
+ Dưa hấu tròn : Số Lượng : 800
+ Dưa hấu tròn : Số Lượng : 800
+ Dưa hấu tròn : Số Lượng : 800
+ Dưa hấu tròn : Số Lượng : 800
+ Rương Huyền bí : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 12:28:35--------
+- Name : quangvipup Giao Dịch Với phamthuason
+- Item Chuyển : 
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Giáp thú : Số Lượng : 1
+Dây cương : Số Lượng : 1
+Động cơ V- Power : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 12:28:35--------
+- Name : phamthuason Giao Dịch Với quangvipup
+- Item Chuyển : 
+Giáp thú : Số Lượng : 1
+Dây cương : Số Lượng : 1
+Động cơ V- Power : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 12:39:46--------
+- Name : dank02 Giao Dịch Với yasuomega
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Thái Dương Cốt Ngọc Bội : Số Lượng : 1
+Thái Dương Cốt Ngọc Giáp : Số Lượng : 1
+Thái Dương Cốt Ngọc Giới : Số Lượng : 1
+Thái Dương Cốt Ngọc Ngoa : Số Lượng : 1
+Thái Dương Cốt Ngọc Liên : Số Lượng : 1
+Thái Dương Cốt Ngọc Thủ : Số Lượng : 1
+Mặt nạ Super Broly : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 12:39:46--------
+- Name : yasuomega Giao Dịch Với dank02
+- Item Chuyển : 
+Thái Dương Cốt Ngọc Bội : Số Lượng : 1
+Thái Dương Cốt Ngọc Giáp : Số Lượng : 1
+Thái Dương Cốt Ngọc Giới : Số Lượng : 1
+Thái Dương Cốt Ngọc Ngoa : Số Lượng : 1
+Thái Dương Cốt Ngọc Liên : Số Lượng : 1
+Thái Dương Cốt Ngọc Thủ : Số Lượng : 1
+Mặt nạ Super Broly : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 12:48:17--------
+- Name : yasuomega Giao Dịch Với dank02
+- Item Chuyển : 
+ Mặt nạ Buruma : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 12:48:17--------
+- Name : dank02 Giao Dịch Với yasuomega
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Mặt nạ Buruma : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 12:56:47--------
+- Name : manhdz01 Giao Dịch Với hihi21
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Dưa hấu tròn : Số Lượng : 1000
+Dưa hấu tròn : Số Lượng : 1000
+Dưa hấu tròn : Số Lượng : 1000
+Dưa hấu tròn : Số Lượng : 1000
+Dưa hấu tròn : Số Lượng : 1000
+Dưa hấu tròn : Số Lượng : 1000
+Dưa hấu tròn : Số Lượng : 1000
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 12:56:47--------
+- Name : hihi21 Giao Dịch Với manhdz01
+- Item Chuyển : 
+Dưa hấu tròn : Số Lượng : 1000
+Dưa hấu tròn : Số Lượng : 1000
+Dưa hấu tròn : Số Lượng : 1000
+Dưa hấu tròn : Số Lượng : 1000
+Dưa hấu tròn : Số Lượng : 1000
+Dưa hấu tròn : Số Lượng : 1000
+Dưa hấu tròn : Số Lượng : 1000
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 13:06:49--------
+- Name : hunglee99 Giao Dịch Với hunglew
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 13:06:49--------
+- Name : hunglew Giao Dịch Với hunglee99
+- Item Chuyển : 
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 13:08:13--------
+- Name : hunglee99 Giao Dịch Với hunglew
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 13:08:13--------
+- Name : hunglew Giao Dịch Với hunglee99
+- Item Chuyển : 
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 13:09:36--------
+- Name : akasukinam Giao Dịch Với dank02
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Dưa hấu tròn : Số Lượng : 725
+Dưa hấu tròn : Số Lượng : 5837
+Pet Yêu Tinh : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 13:09:36--------
+- Name : dank02 Giao Dịch Với akasukinam
+- Item Chuyển : 
+Dưa hấu tròn : Số Lượng : 725
+Dưa hấu tròn : Số Lượng : 5837
+Pet Yêu Tinh : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 13:25:05--------
+- Name : akasukinam Giao Dịch Với yasuomega
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Tử linh liên hoa : Số Lượng : 243
+Lục thanh hoa : Số Lượng : 234
+Thái Dương Cốt Ngọc Giới : Số Lượng : 1
+Thái Dương Cốt Ngọc Thủ : Số Lượng : 1
+Thái Dương Cốt Ngọc Bội : Số Lượng : 1
+Thái Dương Vô Cực Kiếm : Số Lượng : 1
+Thái Dương Cốt Ngọc Phù : Số Lượng : 1
+Thái Dương Cốt Ngọc Liên : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 13:25:05--------
+- Name : yasuomega Giao Dịch Với akasukinam
+- Item Chuyển : 
+Tử linh liên hoa : Số Lượng : 243
+Lục thanh hoa : Số Lượng : 234
+Thái Dương Cốt Ngọc Giới : Số Lượng : 1
+Thái Dương Cốt Ngọc Thủ : Số Lượng : 1
+Thái Dương Cốt Ngọc Bội : Số Lượng : 1
+Thái Dương Vô Cực Kiếm : Số Lượng : 1
+Thái Dương Cốt Ngọc Phù : Số Lượng : 1
+Thái Dương Cốt Ngọc Liên : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 13:26:14--------
+- Name : akasukinam Giao Dịch Với yasuomega
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Dưa hấu tròn : Số Lượng : 451
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 13:26:14--------
+- Name : yasuomega Giao Dịch Với akasukinam
+- Item Chuyển : 
+Dưa hấu tròn : Số Lượng : 451
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 13:26:32--------
+- Name : theon Giao Dịch Với banri
+- Item Chuyển : 
+ Rương Huyền bí : Số Lượng : 1
+ Rương Huyền bí : Số Lượng : 1
+ Rương Huyền bí : Số Lượng : 1
+ Rương Huyền bí : Số Lượng : 1
+ Rương Huyền bí : Số Lượng : 1
+ Rương Huyền bí : Số Lượng : 1
+ Rương Huyền bí : Số Lượng : 1
+ Rương Huyền bí : Số Lượng : 1
+ Rương Huyền bí : Số Lượng : 1
+ Rương Huyền bí : Số Lượng : 1
+ Rương Huyền bí : Số Lượng : 1
+ Rương Huyền bí : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 13:26:32--------
+- Name : banri Giao Dịch Với theon
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Rương Huyền bí : Số Lượng : 1
+ Rương Huyền bí : Số Lượng : 1
+ Rương Huyền bí : Số Lượng : 1
+ Rương Huyền bí : Số Lượng : 1
+ Rương Huyền bí : Số Lượng : 1
+ Rương Huyền bí : Số Lượng : 1
+ Rương Huyền bí : Số Lượng : 1
+ Rương Huyền bí : Số Lượng : 1
+ Rương Huyền bí : Số Lượng : 1
+ Rương Huyền bí : Số Lượng : 1
+ Rương Huyền bí : Số Lượng : 1
+ Rương Huyền bí : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 13:27:31--------
+- Name : theon Giao Dịch Với banri
+- Item Chuyển : 
+ Rương Huyền bí : Số Lượng : 1
+ Rương Huyền bí : Số Lượng : 1
+ Rương Huyền bí : Số Lượng : 1
+ Rương Huyền bí : Số Lượng : 1
+ Rương Huyền bí : Số Lượng : 1
+ Rương Huyền bí : Số Lượng : 1
+ Rương Huyền bí : Số Lượng : 1
+ Rương Huyền bí : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 13:27:31--------
+- Name : banri Giao Dịch Với theon
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Rương Huyền bí : Số Lượng : 1
+ Rương Huyền bí : Số Lượng : 1
+ Rương Huyền bí : Số Lượng : 1
+ Rương Huyền bí : Số Lượng : 1
+ Rương Huyền bí : Số Lượng : 1
+ Rương Huyền bí : Số Lượng : 1
+ Rương Huyền bí : Số Lượng : 1
+ Rương Huyền bí : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 13:28:43--------
+- Name : vavavaww Giao Dịch Với akasukinam
+- Item Chuyển : 
+ Dưa hấu tròn : Số Lượng : 10000
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 13:28:43--------
+- Name : akasukinam Giao Dịch Với vavavaww
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Dưa hấu tròn : Số Lượng : 10000
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 13:35:42--------
+- Name : banri Giao Dịch Với theon
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+
+- Xu Nhận : 1000000
+-------------
+----------Thời Gian : 2023-07-05 13:35:42--------
+- Name : theon Giao Dịch Với banri
+- Item Chuyển : 
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+
+- Xu Chuyển : 1000000
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 13:44:26--------
+- Name : akasukinam Giao Dịch Với vavavaww
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 13:44:26--------
+- Name : vavavaww Giao Dịch Với akasukinam
+- Item Chuyển : 
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 13:45:50--------
+- Name : akasukinam Giao Dịch Với vavavaww
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Hoán chuyển cao cấp : Số Lượng : 1
+Hoán chuyển cao cấp : Số Lượng : 1
+Hoán chuyển cao cấp : Số Lượng : 1
+Hoán chuyển cao cấp : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 13:45:50--------
+- Name : vavavaww Giao Dịch Với akasukinam
+- Item Chuyển : 
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Hoán chuyển cao cấp : Số Lượng : 1
+Hoán chuyển cao cấp : Số Lượng : 1
+Hoán chuyển cao cấp : Số Lượng : 1
+Hoán chuyển cao cấp : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 13:48:56--------
+- Name : akasukinam Giao Dịch Với vavavaww
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Hoán chuyển cao cấp : Số Lượng : 1
+Hoán chuyển cao cấp : Số Lượng : 1
+Hoán chuyển cao cấp : Số Lượng : 1
+Hoán chuyển cao cấp : Số Lượng : 1
+Hoán chuyển cao cấp : Số Lượng : 1
+Hoán chuyển cao cấp : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 13:48:56--------
+- Name : vavavaww Giao Dịch Với akasukinam
+- Item Chuyển : 
+Hoán chuyển cao cấp : Số Lượng : 1
+Hoán chuyển cao cấp : Số Lượng : 1
+Hoán chuyển cao cấp : Số Lượng : 1
+Hoán chuyển cao cấp : Số Lượng : 1
+Hoán chuyển cao cấp : Số Lượng : 1
+Hoán chuyển cao cấp : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 13:51:42--------
+- Name : akasukinam Giao Dịch Với vavavaww
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 13:51:42--------
+- Name : vavavaww Giao Dịch Với akasukinam
+- Item Chuyển : 
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 14:05:00--------
+- Name : akasukinam Giao Dịch Với vavavaww
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 14:05:00--------
+- Name : vavavaww Giao Dịch Với akasukinam
+- Item Chuyển : 
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 14:08:31--------
+- Name : manhdz01 Giao Dịch Với hihi21
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Bánh răng : Số Lượng : 26
+Thẻ bài kinh nghiệm gia tộc sơ : Số Lượng : 46
+Thẻ bài kinh nghiệm gia tộc trung : Số Lượng : 16
+Dưa hấu tròn : Số Lượng : 1000
+Dưa hấu tròn : Số Lượng : 1000
+Tử linh liên hoa : Số Lượng : 24
+IK : Số Lượng : 25
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 14:08:31--------
+- Name : hihi21 Giao Dịch Với manhdz01
+- Item Chuyển : 
+Bánh răng : Số Lượng : 26
+Thẻ bài kinh nghiệm gia tộc sơ : Số Lượng : 46
+Thẻ bài kinh nghiệm gia tộc trung : Số Lượng : 16
+Dưa hấu tròn : Số Lượng : 1000
+Dưa hấu tròn : Số Lượng : 1000
+Tử linh liên hoa : Số Lượng : 24
+IK : Số Lượng : 25
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 14:40:48--------
+- Name : fenrir Giao Dịch Với banri
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Huyền Thiết Thượng Giáp : Số Lượng : 1
+Huyền Thiết Hạ Giáp : Số Lượng : 1
+Huyền Kỹ Bội : Số Lượng : 1
+Bùa Huyền Kỹ : Số Lượng : 1
+Huyền Thiết Ngoa : Số Lượng : 1
+Nhẫn Huyền Kỹ : Số Lượng : 1
+Huyền Thiết Thủ : Số Lượng : 1
+Huyền Thiết Tuyến : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+
+- Xu Nhận : 1800000
+-------------
+----------Thời Gian : 2023-07-05 14:40:48--------
+- Name : banri Giao Dịch Với fenrir
+- Item Chuyển : 
+Huyền Thiết Thượng Giáp : Số Lượng : 1
+Huyền Thiết Hạ Giáp : Số Lượng : 1
+Huyền Kỹ Bội : Số Lượng : 1
+Bùa Huyền Kỹ : Số Lượng : 1
+Huyền Thiết Ngoa : Số Lượng : 1
+Nhẫn Huyền Kỹ : Số Lượng : 1
+Huyền Thiết Thủ : Số Lượng : 1
+Huyền Thiết Tuyến : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+
+- Xu Chuyển : 1800000
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 14:43:21--------
+- Name : banri Giao Dịch Với fenrir
+- Item Chuyển : 
+ Dưa hấu tròn : Số Lượng : 500
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 14:43:21--------
+- Name : fenrir Giao Dịch Với banri
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Dưa hấu tròn : Số Lượng : 500
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 14:43:36--------
+- Name : vavavaww Giao Dịch Với akasukinam
+- Item Chuyển : 
+ Dưa hấu tròn : Số Lượng : 20000
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 14:43:36--------
+- Name : akasukinam Giao Dịch Với vavavaww
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Dưa hấu tròn : Số Lượng : 20000
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 14:48:22--------
+- Name : banri Giao Dịch Với fenrir
+- Item Chuyển : 
+ Rương Huyền bí : Số Lượng : 1
+ Rương Huyền bí : Số Lượng : 1
+ Rương Huyền bí : Số Lượng : 1
+ Rương Huyền bí : Số Lượng : 1
+ Rương Huyền bí : Số Lượng : 1
+ Rương Huyền bí : Số Lượng : 1
+ Rương Huyền bí : Số Lượng : 1
+ Rương Huyền bí : Số Lượng : 1
+ Rương Huyền bí : Số Lượng : 1
+ Rương Huyền bí : Số Lượng : 1
+ Rương Huyền bí : Số Lượng : 1
+ Rương Huyền bí : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 14:48:22--------
+- Name : fenrir Giao Dịch Với banri
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Rương Huyền bí : Số Lượng : 1
+ Rương Huyền bí : Số Lượng : 1
+ Rương Huyền bí : Số Lượng : 1
+ Rương Huyền bí : Số Lượng : 1
+ Rương Huyền bí : Số Lượng : 1
+ Rương Huyền bí : Số Lượng : 1
+ Rương Huyền bí : Số Lượng : 1
+ Rương Huyền bí : Số Lượng : 1
+ Rương Huyền bí : Số Lượng : 1
+ Rương Huyền bí : Số Lượng : 1
+ Rương Huyền bí : Số Lượng : 1
+ Rương Huyền bí : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 14:49:08--------
+- Name : fenrir Giao Dịch Với banri
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 14:49:08--------
+- Name : banri Giao Dịch Với fenrir
+- Item Chuyển : 
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 15:03:55--------
+- Name : manhdz01 Giao Dịch Với hihi21
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Dưa hấu tròn : Số Lượng : 5000
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 15:03:55--------
+- Name : hihi21 Giao Dịch Với manhdz01
+- Item Chuyển : 
+Dưa hấu tròn : Số Lượng : 5000
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 15:08:28--------
+- Name : trumquat Giao Dịch Với nsotest1
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Minh Giác Hồng Hoang Bội : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 15:08:28--------
+- Name : nsotest1 Giao Dịch Với trumquat
+- Item Chuyển : 
+Minh Giác Hồng Hoang Bội : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 15:15:35--------
+- Name : nsotest1 Giao Dịch Với trumquat
+- Item Chuyển : 
+ Minh Giác Hồng Hoang Tuyến : Số Lượng : 1
+ Minh Giác Hồng Hoang Phù : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 15:15:35--------
+- Name : trumquat Giao Dịch Với nsotest1
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Minh Giác Hồng Hoang Tuyến : Số Lượng : 1
+ Minh Giác Hồng Hoang Phù : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 15:23:13--------
+- Name : vavavaww Giao Dịch Với akasukinam
+- Item Chuyển : 
+ Dưa hấu tròn : Số Lượng : 1000
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 15:23:13--------
+- Name : akasukinam Giao Dịch Với vavavaww
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Dưa hấu tròn : Số Lượng : 1000
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 15:27:57--------
+- Name : fenrir Giao Dịch Với banri
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Bùa Huyền Kỹ : Số Lượng : 1
+Dưa hấu tròn : Số Lượng : 1
+Dưa hấu tròn : Số Lượng : 150
+Dưa hấu tròn : Số Lượng : 1
+Dưa hấu tròn : Số Lượng : 24
+Hoán chuyển cao cấp : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 15:27:57--------
+- Name : banri Giao Dịch Với fenrir
+- Item Chuyển : 
+Bùa Huyền Kỹ : Số Lượng : 1
+Dưa hấu tròn : Số Lượng : 1
+Dưa hấu tròn : Số Lượng : 150
+Dưa hấu tròn : Số Lượng : 1
+Dưa hấu tròn : Số Lượng : 24
+Hoán chuyển cao cấp : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 15:29:33--------
+- Name : banri Giao Dịch Với fenrir
+- Item Chuyển : 
+ Dây Chuyền Huyền Kỹ : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Bùa Huyền Kỹ : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 15:29:33--------
+- Name : fenrir Giao Dịch Với banri
+- Item Chuyển : 
+Bùa Huyền Kỹ : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Dây Chuyền Huyền Kỹ : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 15:37:50--------
+- Name : hihi21 Giao Dịch Với manhdz01
+- Item Chuyển : 
+ Dưa hấu tròn : Số Lượng : 5000
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 15:37:50--------
+- Name : manhdz01 Giao Dịch Với hihi21
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Dưa hấu tròn : Số Lượng : 5000
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 15:46:17--------
+- Name : nsotest1 Giao Dịch Với trumquat
+- Item Chuyển : 
+ Minh Giác Hồng Hoang Thủ : Số Lượng : 1
+ Minh Giác Hồng Hoang Hạ Giáp : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 15:46:17--------
+- Name : trumquat Giao Dịch Với nsotest1
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Minh Giác Hồng Hoang Thủ : Số Lượng : 1
+ Minh Giác Hồng Hoang Hạ Giáp : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 16:00:15--------
+- Name : nsotest1 Giao Dịch Với trumquat
+- Item Chuyển : 
+ Minh Giác Hồng Hoang Giới : Số Lượng : 1
+ Minh Giác Hồng Hoang Giáp : Số Lượng : 3
+ Minh Giác Hồng Hoang Liên : Số Lượng : 1
+ Minh Giác Hồng Hoang Ngoa : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 16:00:15--------
+- Name : trumquat Giao Dịch Với nsotest1
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Minh Giác Hồng Hoang Giới : Số Lượng : 1
+ Minh Giác Hồng Hoang Giáp : Số Lượng : 3
+ Minh Giác Hồng Hoang Liên : Số Lượng : 1
+ Minh Giác Hồng Hoang Ngoa : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 16:27:28--------
+- Name : fenrir Giao Dịch Với daidi
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Dưa hấu tròn : Số Lượng : 2000
+
+- Xu Nhận : 1000000
+-------------
+----------Thời Gian : 2023-07-05 16:27:28--------
+- Name : daidi Giao Dịch Với fenrir
+- Item Chuyển : 
+Dưa hấu tròn : Số Lượng : 2000
+
+- Xu Chuyển : 1000000
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 17:00:18--------
+- Name : faker Giao Dịch Với roronoazoro
+- Item Chuyển : 
+ Bình Nitro : Số Lượng : 1
+ Định vị : Số Lượng : 1
+ Động cơ V- Power : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 17:00:18--------
+- Name : roronoazoro Giao Dịch Với faker
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Bình Nitro : Số Lượng : 1
+ Định vị : Số Lượng : 1
+ Động cơ V- Power : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 17:00:49--------
+- Name : roronoazoro Giao Dịch Với faker
+- Item Chuyển : 
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 17:00:49--------
+- Name : faker Giao Dịch Với roronoazoro
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 17:01:10--------
+- Name : faker Giao Dịch Với roronoazoro
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Hắc ngưu : Số Lượng : 1
+Hắc ngưu : Số Lượng : 1
+Hắc ngưu : Số Lượng : 1
+Hắc ngưu : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 17:01:10--------
+- Name : roronoazoro Giao Dịch Với faker
+- Item Chuyển : 
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Hắc ngưu : Số Lượng : 1
+Hắc ngưu : Số Lượng : 1
+Hắc ngưu : Số Lượng : 1
+Hắc ngưu : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 17:32:58--------
+- Name : aizay Giao Dịch Với fenrir
+- Item Chuyển : 
+ Dưa hấu tròn : Số Lượng : 3
+ Dưa hấu tròn : Số Lượng : 9
+ Dưa hấu tròn : Số Lượng : 1990
+
+- Xu Chuyển : 1000000
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 17:32:58--------
+- Name : fenrir Giao Dịch Với aizay
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Dưa hấu tròn : Số Lượng : 3
+ Dưa hấu tròn : Số Lượng : 9
+ Dưa hấu tròn : Số Lượng : 1990
+
+- Xu Nhận : 1000000
+-------------
+----------Thời Gian : 2023-07-05 17:34:11--------
+- Name : fenrir Giao Dịch Với aizay
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Dưa hấu tròn : Số Lượng : 40
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 17:34:11--------
+- Name : aizay Giao Dịch Với fenrir
+- Item Chuyển : 
+Dưa hấu tròn : Số Lượng : 40
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 17:48:25--------
+- Name : dank02 Giao Dịch Với vavavaww
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Dưa hấu tròn : Số Lượng : 10000
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 17:48:25--------
+- Name : vavavaww Giao Dịch Với dank02
+- Item Chuyển : 
+Dưa hấu tròn : Số Lượng : 10000
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 18:00:08--------
+- Name : kong01 Giao Dịch Với dank02
+- Item Chuyển : 
+ Dưa hấu tròn : Số Lượng : 3000
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 18:00:08--------
+- Name : dank02 Giao Dịch Với kong01
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Dưa hấu tròn : Số Lượng : 3000
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 18:03:43--------
+- Name : dank02 Giao Dịch Với kong01
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Dưa hấu tròn : Số Lượng : 1500
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 18:03:43--------
+- Name : kong01 Giao Dịch Với dank02
+- Item Chuyển : 
+Dưa hấu tròn : Số Lượng : 1500
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 18:33:28--------
+- Name : langtucodon Giao Dịch Với datkelvin
+- Item Chuyển : 
+ Giáp thú : Số Lượng : 1
+ Yên : Số Lượng : 1
+ Dây cương : Số Lượng : 1
+ Thú trang : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 18:33:28--------
+- Name : datkelvin Giao Dịch Với langtucodon
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Giáp thú : Số Lượng : 1
+ Yên : Số Lượng : 1
+ Dây cương : Số Lượng : 1
+ Thú trang : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 18:41:36--------
+- Name : dank02 Giao Dịch Với akasukinam
+- Item Chuyển : 
+ Bạch ngân Thượng Giáp : Số Lượng : 1
+ Bạch ngân Ngoa : Số Lượng : 1
+ Bát bảo : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 18:41:36--------
+- Name : akasukinam Giao Dịch Với dank02
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Bạch ngân Thượng Giáp : Số Lượng : 1
+ Bạch ngân Ngoa : Số Lượng : 1
+ Bát bảo : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 19:38:24--------
+- Name : kong01 Giao Dịch Với akasukinam
+- Item Chuyển : 
+
+- Xu Chuyển : 1000000000
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 19:38:24--------
+- Name : akasukinam Giao Dịch Với kong01
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 1000000000
+-------------
+----------Thời Gian : 2023-07-05 19:41:32--------
+- Name : babaabb Giao Dịch Với akasukinam
+- Item Chuyển : 
+
+- Xu Chuyển : 490000000
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 19:41:32--------
+- Name : akasukinam Giao Dịch Với babaabb
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 490000000
+-------------
+----------Thời Gian : 2023-07-05 19:58:11--------
+- Name : napgan2ty Giao Dịch Với mimiboy
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Dưa hấu tròn : Số Lượng : 10000
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 19:58:11--------
+- Name : mimiboy Giao Dịch Với napgan2ty
+- Item Chuyển : 
+Dưa hấu tròn : Số Lượng : 10000
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 20:08:12--------
+- Name : mimiboy Giao Dịch Với napgan2ty
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Dưa hấu tròn : Số Lượng : 2616
+Dưa hấu tròn : Số Lượng : 15
+Bát bảo : Số Lượng : 1
+Dưa hấu tròn : Số Lượng : 24
+Thiên Nguyệt Chi Nữ : Số Lượng : 1
+Mặt Nạ Hổ Nam : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 20:08:12--------
+- Name : napgan2ty Giao Dịch Với mimiboy
+- Item Chuyển : 
+Dưa hấu tròn : Số Lượng : 2616
+Dưa hấu tròn : Số Lượng : 15
+Bát bảo : Số Lượng : 1
+Dưa hấu tròn : Số Lượng : 24
+Thiên Nguyệt Chi Nữ : Số Lượng : 1
+Mặt Nạ Hổ Nam : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 20:16:32--------
+- Name : trumquat Giao Dịch Với nsotest1
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Giáp thú : Số Lượng : 1
+Sách võ công Kage Bunshin  : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 20:16:32--------
+- Name : nsotest1 Giao Dịch Với trumquat
+- Item Chuyển : 
+Giáp thú : Số Lượng : 1
+Sách võ công Kage Bunshin  : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 20:26:03--------
+- Name : tuesday Giao Dịch Với monday
+- Item Chuyển : 
+ Ngọc Bội Hổ Phách : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Ngọc Bội Hổ Phách : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 20:26:03--------
+- Name : monday Giao Dịch Với tuesday
+- Item Chuyển : 
+Ngọc Bội Hổ Phách : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Ngọc Bội Hổ Phách : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 20:32:14--------
+- Name : monday Giao Dịch Với tuesday
+- Item Chuyển : 
+ Dây Chuyền Lục Bảo : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 20:32:14--------
+- Name : tuesday Giao Dịch Với monday
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Dây Chuyền Lục Bảo : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 20:35:13--------
+- Name : tuesday Giao Dịch Với friday
+- Item Chuyển : 
+ Ngọc Bội Hổ Phách : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 20:35:13--------
+- Name : friday Giao Dịch Với tuesday
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Ngọc Bội Hổ Phách : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 20:43:46--------
+- Name : vualidon Giao Dịch Với boss99
+- Item Chuyển : 
+ Thái Dương Thiên Hỏa Tiêu : Số Lượng : 1
+ Thái Dương Cốt Ngọc Thủ : Số Lượng : 1
+ Thái Dương Thiên Hỏa Tiêu : Số Lượng : 1
+ Thái Dương Thiên Hỏa Tiêu : Số Lượng : 1
+ Thái Dương Cốt Ngọc Phù : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 20:43:46--------
+- Name : boss99 Giao Dịch Với vualidon
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Thái Dương Thiên Hỏa Tiêu : Số Lượng : 1
+ Thái Dương Cốt Ngọc Thủ : Số Lượng : 1
+ Thái Dương Thiên Hỏa Tiêu : Số Lượng : 1
+ Thái Dương Thiên Hỏa Tiêu : Số Lượng : 1
+ Thái Dương Cốt Ngọc Phù : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 20:45:25--------
+- Name : vualidon Giao Dịch Với boss99
+- Item Chuyển : 
+ Thái Dương Cốt Ngọc Giới : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 20:45:25--------
+- Name : boss99 Giao Dịch Với vualidon
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Thái Dương Cốt Ngọc Giới : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 20:53:25--------
+- Name : vualidon Giao Dịch Với boss99
+- Item Chuyển : 
+ Thái Dương Cốt Ngọc Bội : Số Lượng : 1
+ Thái Dương Thiên Hỏa Tiêu : Số Lượng : 1
+ Thái Dương Thiên Hỏa Tiêu : Số Lượng : 1
+ Thái Dương Cốt Ngọc Bội : Số Lượng : 1
+ Thái Dương Cốt Ngọc Giáp : Số Lượng : 1
+ Thái Dương Cốt Ngọc Ngoa : Số Lượng : 1
+ Thái Dương Cốt Ngọc Giáp : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 20:53:25--------
+- Name : boss99 Giao Dịch Với vualidon
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Thái Dương Cốt Ngọc Bội : Số Lượng : 1
+ Thái Dương Thiên Hỏa Tiêu : Số Lượng : 1
+ Thái Dương Thiên Hỏa Tiêu : Số Lượng : 1
+ Thái Dương Cốt Ngọc Bội : Số Lượng : 1
+ Thái Dương Cốt Ngọc Giáp : Số Lượng : 1
+ Thái Dương Cốt Ngọc Ngoa : Số Lượng : 1
+ Thái Dương Cốt Ngọc Giáp : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 20:55:33--------
+- Name : shakira Giao Dịch Với mtcxtbl
+- Item Chuyển : 
+
+- Xu Chuyển : 1
+- Item Nhận : 
+Harley Davidson : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Hắc ngưu : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Pet Yêu Tinh : Số Lượng : 1
+Hakairo Yoroi : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 20:55:33--------
+- Name : mtcxtbl Giao Dịch Với shakira
+- Item Chuyển : 
+Harley Davidson : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Hắc ngưu : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Pet Yêu Tinh : Số Lượng : 1
+Hakairo Yoroi : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 1
+-------------
+----------Thời Gian : 2023-07-05 21:19:41--------
+- Name : akasukinam Giao Dịch Với kong01
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Dưa hấu tròn : Số Lượng : 5500
+Dưa hấu tròn : Số Lượng : 10000
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 21:19:41--------
+- Name : kong01 Giao Dịch Với akasukinam
+- Item Chuyển : 
+Dưa hấu tròn : Số Lượng : 5500
+Dưa hấu tròn : Số Lượng : 10000
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 21:23:29--------
+- Name : luffy Giao Dịch Với faker
+- Item Chuyển : 
+ Harley Davidson : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 21:23:29--------
+- Name : faker Giao Dịch Với luffy
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Harley Davidson : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 21:23:52--------
+- Name : dank02 Giao Dịch Với akasukinam
+- Item Chuyển : 
+ Hakairo Yoroi : Số Lượng : 1
+ Pet Bóng Ma : Số Lượng : 1
+ Pet Yêu Tinh : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 21:23:52--------
+- Name : akasukinam Giao Dịch Với dank02
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Hakairo Yoroi : Số Lượng : 1
+ Pet Bóng Ma : Số Lượng : 1
+ Pet Yêu Tinh : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 21:29:48--------
+- Name : mimiboy Giao Dịch Với napgan2ty
+- Item Chuyển : 
+ Dây Chuyền Bạch ngân : Số Lượng : 1
+ Thái Dương Táng Hồn Dao : Số Lượng : 1
+ Thái Dương Cốt Ngọc Liên : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 21:29:48--------
+- Name : napgan2ty Giao Dịch Với mimiboy
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Dây Chuyền Bạch ngân : Số Lượng : 1
+ Thái Dương Táng Hồn Dao : Số Lượng : 1
+ Thái Dương Cốt Ngọc Liên : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 21:32:25--------
+- Name : mimiboy Giao Dịch Với napgan2ty
+- Item Chuyển : 
+ Bạch ngân Bội : Số Lượng : 1
+ Nhẫn Bạch ngân : Số Lượng : 1
+ Bạch ngân Trâm : Số Lượng : 1
+ Bạch ngân Thượng Giáp : Số Lượng : 1
+ Bạch ngân Ngoa : Số Lượng : 1
+ Bạch ngân Hạ Giáp : Số Lượng : 1
+ Bùa Bạch ngân : Số Lượng : 1
+ Bùa Bạch ngân : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 21:32:25--------
+- Name : napgan2ty Giao Dịch Với mimiboy
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Bạch ngân Bội : Số Lượng : 1
+ Nhẫn Bạch ngân : Số Lượng : 1
+ Bạch ngân Trâm : Số Lượng : 1
+ Bạch ngân Thượng Giáp : Số Lượng : 1
+ Bạch ngân Ngoa : Số Lượng : 1
+ Bạch ngân Hạ Giáp : Số Lượng : 1
+ Bùa Bạch ngân : Số Lượng : 1
+ Bùa Bạch ngân : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 21:50:01--------
+- Name : business Giao Dịch Với piyangho
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Yên : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 21:50:01--------
+- Name : piyangho Giao Dịch Với business
+- Item Chuyển : 
+Yên : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 21:54:58--------
+- Name : yasuomega Giao Dịch Với akasukinam
+- Item Chuyển : 
+ Hoán chuyển cao cấp : Số Lượng : 1
+ Thái Dương Thiên Hỏa Tiêu : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 21:54:58--------
+- Name : akasukinam Giao Dịch Với yasuomega
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Hoán chuyển cao cấp : Số Lượng : 1
+ Thái Dương Thiên Hỏa Tiêu : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 21:55:40--------
+- Name : akasukinam Giao Dịch Với kong01
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Thái dương tiêu : Số Lượng : 1
+Huyền Kỹ Bội : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 21:55:40--------
+- Name : kong01 Giao Dịch Với akasukinam
+- Item Chuyển : 
+Thái dương tiêu : Số Lượng : 1
+Huyền Kỹ Bội : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 22:26:32--------
+- Name : ciutovelu Giao Dịch Với trumkiem1s
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Rương Huyền Thoại : Số Lượng : 290
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 22:26:32--------
+- Name : trumkiem1s Giao Dịch Với ciutovelu
+- Item Chuyển : 
+Rương Huyền Thoại : Số Lượng : 290
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 22:33:09--------
+- Name : buffpm Giao Dịch Với 2phathon
+- Item Chuyển : 
+ Dưa hấu tròn : Số Lượng : 19999
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 22:33:09--------
+- Name : 2phathon Giao Dịch Với buffpm
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Dưa hấu tròn : Số Lượng : 19999
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 23:03:59--------
+- Name : s2jikey Giao Dịch Với s2family
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Bình Nitro : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 23:03:59--------
+- Name : s2family Giao Dịch Với s2jikey
+- Item Chuyển : 
+Bình Nitro : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 23:04:40--------
+- Name : s2jikey Giao Dịch Với s2family
+- Item Chuyển : 
+ Mảnh giấy vụn : Số Lượng : 787
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 23:04:40--------
+- Name : s2family Giao Dịch Với s2jikey
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Mảnh giấy vụn : Số Lượng : 787
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 23:05:25--------
+- Name : friday Giao Dịch Với tuesday
+- Item Chuyển : 
+ Bí kíp Quạt : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 23:05:25--------
+- Name : tuesday Giao Dịch Với friday
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Bí kíp Quạt : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 23:07:28--------
+- Name : friday Giao Dịch Với tuesday
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Bí kíp Tiêu Thuật : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 23:07:28--------
+- Name : tuesday Giao Dịch Với friday
+- Item Chuyển : 
+Bí kíp Tiêu Thuật : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 23:18:50--------
+- Name : friday Giao Dịch Với tuesday
+- Item Chuyển : 
+ Huyền Thiết Trâm : Số Lượng : 1
+ Huyền Thiết Thượng Giáp : Số Lượng : 1
+ Huyền Thiết Ngoa : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 23:18:50--------
+- Name : tuesday Giao Dịch Với friday
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Huyền Thiết Trâm : Số Lượng : 1
+ Huyền Thiết Thượng Giáp : Số Lượng : 1
+ Huyền Thiết Ngoa : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 23:29:12--------
+- Name : business Giao Dịch Với hongkong
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Hắc ngưu : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+
+- Xu Nhận : 55555555
+-------------
+----------Thời Gian : 2023-07-05 23:29:12--------
+- Name : hongkong Giao Dịch Với business
+- Item Chuyển : 
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Hắc ngưu : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+
+- Xu Chuyển : 55555555
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 23:29:40--------
+- Name : business Giao Dịch Với hongkong
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 23:29:40--------
+- Name : hongkong Giao Dịch Với business
+- Item Chuyển : 
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 23:30:26--------
+- Name : business Giao Dịch Với hongkong
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Hắc ngưu : Số Lượng : 1
+Hắc ngưu : Số Lượng : 1
+Hắc ngưu : Số Lượng : 1
+Hắc ngưu : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 23:30:26--------
+- Name : hongkong Giao Dịch Với business
+- Item Chuyển : 
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Hắc ngưu : Số Lượng : 1
+Hắc ngưu : Số Lượng : 1
+Hắc ngưu : Số Lượng : 1
+Hắc ngưu : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 23:31:27--------
+- Name : business Giao Dịch Với hongkong
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 23:31:27--------
+- Name : hongkong Giao Dịch Với business
+- Item Chuyển : 
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 23:31:54--------
+- Name : business Giao Dịch Với hongkong
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 23:31:54--------
+- Name : hongkong Giao Dịch Với business
+- Item Chuyển : 
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 23:40:30--------
+- Name : business Giao Dịch Với hongkong
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Hắc ngưu : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Hắc ngưu : Số Lượng : 1
+Hắc ngưu : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 23:40:30--------
+- Name : hongkong Giao Dịch Với business
+- Item Chuyển : 
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Hắc ngưu : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Hắc ngưu : Số Lượng : 1
+Hắc ngưu : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 23:41:05--------
+- Name : hongkong Giao Dịch Với business
+- Item Chuyển : 
+ Harley Davidson : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 23:41:05--------
+- Name : business Giao Dịch Với hongkong
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Harley Davidson : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 23:55:49--------
+- Name : tiger Giao Dịch Với nuadapvelang
+- Item Chuyển : 
+ Pet Yêu Tinh : Số Lượng : 1
+ Pet Yêu Tinh : Số Lượng : 1
+ Pet Yêu Tinh : Số Lượng : 1
+ Pet Bóng Ma : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-05 23:55:49--------
+- Name : nuadapvelang Giao Dịch Với tiger
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Pet Yêu Tinh : Số Lượng : 1
+ Pet Yêu Tinh : Số Lượng : 1
+ Pet Yêu Tinh : Số Lượng : 1
+ Pet Bóng Ma : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------

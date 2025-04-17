@@ -1,0 +1,300 @@
+----------Thời Gian : 2023-07-04 19:22:20--------
+- Name : napgan10ty Giao Dịch Với napgan2ty
+- Item Chuyển : 
+ Dưa hấu tròn : Số Lượng : 94
+ Dưa hấu tròn : Số Lượng : 4000
+
+- Xu Chuyển : 500000000
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-04 19:22:20--------
+- Name : napgan2ty Giao Dịch Với napgan10ty
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Dưa hấu tròn : Số Lượng : 94
+ Dưa hấu tròn : Số Lượng : 4000
+
+- Xu Nhận : 500000000
+-------------
+----------Thời Gian : 2023-07-04 19:52:20--------
+- Name : napgan2ty Giao Dịch Với napgan10ty
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Thẻ bài kinh nghiệm gia tộc sơ : Số Lượng : 81
+Thẻ bài kinh nghiệm gia tộc trung : Số Lượng : 47
+Long Lực Đan : Số Lượng : 13
+Minh Mẫn Đan : Số Lượng : 21
+Tử linh liên hoa : Số Lượng : 61
+Thẻ bài kinh nghiệm gia tộc cao : Số Lượng : 14
+Xích lan hoa  : Số Lượng : 292
+Rương Ngọc : Số Lượng : 128
+Thông linh thảo : Số Lượng : 82
+Lang hồn thảo : Số Lượng : 289
+IK : Số Lượng : 71
+Bánh răng : Số Lượng : 63
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-04 19:52:20--------
+- Name : napgan10ty Giao Dịch Với napgan2ty
+- Item Chuyển : 
+Thẻ bài kinh nghiệm gia tộc sơ : Số Lượng : 81
+Thẻ bài kinh nghiệm gia tộc trung : Số Lượng : 47
+Long Lực Đan : Số Lượng : 13
+Minh Mẫn Đan : Số Lượng : 21
+Tử linh liên hoa : Số Lượng : 61
+Thẻ bài kinh nghiệm gia tộc cao : Số Lượng : 14
+Xích lan hoa  : Số Lượng : 292
+Rương Ngọc : Số Lượng : 128
+Thông linh thảo : Số Lượng : 82
+Lang hồn thảo : Số Lượng : 289
+IK : Số Lượng : 71
+Bánh răng : Số Lượng : 63
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-04 19:54:14--------
+- Name : napgan10ty Giao Dịch Với napgan2ty
+- Item Chuyển : 
+ Dưa hấu tròn : Số Lượng : 6000
+ Lục thanh hoa : Số Lượng : 61
+ Tam lục diệp : Số Lượng : 276
+ Địa lang thảo : Số Lượng : 322
+ Sinh Mệnh Đan : Số Lượng : 18
+ Kháng Thể Đan : Số Lượng : 33
+ Lang hồn mộc : Số Lượng : 296
+ Đá Thăng Ấn : Số Lượng : 10
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-04 19:54:14--------
+- Name : napgan2ty Giao Dịch Với napgan10ty
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Dưa hấu tròn : Số Lượng : 6000
+ Lục thanh hoa : Số Lượng : 61
+ Tam lục diệp : Số Lượng : 276
+ Địa lang thảo : Số Lượng : 322
+ Sinh Mệnh Đan : Số Lượng : 18
+ Kháng Thể Đan : Số Lượng : 33
+ Lang hồn mộc : Số Lượng : 296
+ Đá Thăng Ấn : Số Lượng : 10
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-04 20:10:41--------
+- Name : nsotest Giao Dịch Với nsotest1
+- Item Chuyển : 
+ Thái Dương Cốt Ngọc Thủ : Số Lượng : 1
+ Thái Dương Cốt Ngọc Thủ : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-04 20:10:41--------
+- Name : nsotest1 Giao Dịch Với nsotest
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Thái Dương Cốt Ngọc Thủ : Số Lượng : 1
+ Thái Dương Cốt Ngọc Thủ : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-04 20:16:55--------
+- Name : napgan2ty Giao Dịch Với napgan10ty
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-04 20:16:55--------
+- Name : napgan10ty Giao Dịch Với napgan2ty
+- Item Chuyển : 
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-04 20:19:45--------
+- Name : napgan2ty Giao Dịch Với napgan10ty
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-04 20:19:45--------
+- Name : napgan10ty Giao Dịch Với napgan2ty
+- Item Chuyển : 
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+Rương Huyền bí : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-04 21:12:17--------
+- Name : buff007 Giao Dịch Với ahzaiadmin
+- Item Chuyển : 
+ Dưa hấu dài : Số Lượng : 9998
+ Dưa hấu tròn : Số Lượng : 30000
+
+- Xu Chuyển : 1000000000
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-04 21:12:17--------
+- Name : ahzaiadmin Giao Dịch Với buff007
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Dưa hấu dài : Số Lượng : 9998
+ Dưa hấu tròn : Số Lượng : 30000
+
+- Xu Nhận : 1000000000
+-------------
+----------Thời Gian : 2023-07-04 21:23:49--------
+- Name : trumtieupk Giao Dịch Với tsgiatoc
+- Item Chuyển : 
+ Mặt Nạ Hổ Nữ : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-04 21:23:49--------
+- Name : tsgiatoc Giao Dịch Với trumtieupk
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Mặt Nạ Hổ Nữ : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-04 21:36:25--------
+- Name : napgan2ty Giao Dịch Với mimiboy
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Dưa hấu tròn : Số Lượng : 9999
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-04 21:36:25--------
+- Name : mimiboy Giao Dịch Với napgan2ty
+- Item Chuyển : 
+Dưa hấu tròn : Số Lượng : 9999
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-04 23:25:01--------
+- Name : daigia01 Giao Dịch Với sonco902
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Nhất Dương Tiêu : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-04 23:25:01--------
+- Name : sonco902 Giao Dịch Với daigia01
+- Item Chuyển : 
+Nhất Dương Tiêu : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-04 23:58:25--------
+- Name : susuidol Giao Dịch Với kiet12
+- Item Chuyển : 
+
+- Xu Chuyển : 2000000000
+- Item Nhận : 
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-04 23:58:25--------
+- Name : kiet12 Giao Dịch Với susuidol
+- Item Chuyển : 
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 2000000000
+-------------

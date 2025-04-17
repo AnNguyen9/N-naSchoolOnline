@@ -1,0 +1,48 @@
+----------Thời Gian : 2023-10-23 06:42:30--------
+- Name : agribank
+- Nội Dung : Đặt Tài
+- Xu Cũ : 970000
+- Xu Mới : 960000
+- Xu Thay Đổi : -10000
+----------Thời Gian : 2023-10-23 10:56:07--------
+- Name : ninja
+- Nội Dung : Đặt Tài
+- Xu Cũ : 889850000
+- Xu Mới : 789850000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-23 12:22:03--------
+- Name : kiemsau
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1000000
+- Xu Mới : 0
+- Xu Thay Đổi : -1000000
+----------Thời Gian : 2023-10-23 13:54:18--------
+- Name : hanakosi
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 626378626
+- Xu Mới : 526378626
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-23 20:35:14--------
+- Name : alibaba
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1000890000
+- Xu Mới : 950890000
+- Xu Thay Đổi : -50000000
+----------Thời Gian : 2023-10-23 20:49:10--------
+- Name : gmgpgm
+- Nội Dung : Đặt Tài
+- Xu Cũ : 2000000000
+- Xu Mới : 1999950000
+- Xu Thay Đổi : -50000
+----------Thời Gian : 2023-10-23 21:27:01--------
+- Name : kelangbat
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1999935000
+- Xu Mới : 1899935000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-23 23:50:34--------
+- Name : sunwin
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1255644640
+- Xu Mới : 1155644640
+- Xu Thay Đổi : -100000000

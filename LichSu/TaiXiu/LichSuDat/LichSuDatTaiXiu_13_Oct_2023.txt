@@ -1,0 +1,630 @@
+----------Thời Gian : 2023-10-13 01:10:51--------
+- Name : hanos2
+- Nội Dung : Đặt Tài
+- Xu Cũ : 760000
+- Xu Mới : 660000
+- Xu Thay Đổi : -100000
+----------Thời Gian : 2023-10-13 01:16:40--------
+- Name : hanos2
+- Nội Dung : Đặt Tài
+- Xu Cũ : 944500
+- Xu Mới : 844500
+- Xu Thay Đổi : -100000
+----------Thời Gian : 2023-10-13 01:20:42--------
+- Name : hanos2
+- Nội Dung : Đặt Tài
+- Xu Cũ : 744500
+- Xu Mới : 544500
+- Xu Thay Đổi : -200000
+----------Thời Gian : 2023-10-13 01:21:59--------
+- Name : hanos2
+- Nội Dung : Đặt Tài
+- Xu Cũ : 904500
+- Xu Mới : 704500
+- Xu Thay Đổi : -200000
+----------Thời Gian : 2023-10-13 01:23:08--------
+- Name : hanos2
+- Nội Dung : Đặt Tài
+- Xu Cũ : 704500
+- Xu Mới : 204500
+- Xu Thay Đổi : -500000
+----------Thời Gian : 2023-10-13 01:24:38--------
+- Name : hanos2
+- Nội Dung : Đặt Tài
+- Xu Cũ : 204500
+- Xu Mới : 4500
+- Xu Thay Đổi : -200000
+----------Thời Gian : 2023-10-13 01:26:17--------
+- Name : hanos2
+- Nội Dung : Đặt Tài
+- Xu Cũ : 364500
+- Xu Mới : 204500
+- Xu Thay Đổi : -160000
+----------Thời Gian : 2023-10-13 01:27:29--------
+- Name : hanos2
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 492500
+- Xu Mới : 292500
+- Xu Thay Đổi : -200000
+----------Thời Gian : 2023-10-13 01:28:39--------
+- Name : hanos2
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 292500
+- Xu Mới : 42500
+- Xu Thay Đổi : -250000
+----------Thời Gian : 2023-10-13 02:07:34--------
+- Name : st1111111
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1000000
+- Xu Mới : 0
+- Xu Thay Đổi : -1000000
+----------Thời Gian : 2023-10-13 02:40:12--------
+- Name : st1111111
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1800000
+- Xu Mới : 0
+- Xu Thay Đổi : -1800000
+----------Thời Gian : 2023-10-13 02:42:32--------
+- Name : st11111111
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1000000
+- Xu Mới : 0
+- Xu Thay Đổi : -1000000
+----------Thời Gian : 2023-10-13 08:07:17--------
+- Name : s2kaoken9x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 444267151
+- Xu Mới : 344267151
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-13 08:40:06--------
+- Name : s2kaoken9x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 344267151
+- Xu Mới : 244267151
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-13 09:28:31--------
+- Name : taovipkone
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1458000
+- Xu Mới : 458000
+- Xu Thay Đổi : -1000000
+----------Thời Gian : 2023-10-13 09:30:21--------
+- Name : taovipkone
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 2258000
+- Xu Mới : 258000
+- Xu Thay Đổi : -2000000
+----------Thời Gian : 2023-10-13 09:31:59--------
+- Name : taovipkone
+- Nội Dung : Đặt Tài
+- Xu Cũ : 3858000
+- Xu Mới : 1858000
+- Xu Thay Đổi : -2000000
+----------Thời Gian : 2023-10-13 09:35:22--------
+- Name : taovipkone
+- Nội Dung : Đặt Tài
+- Xu Cũ : 5458000
+- Xu Mới : 58000
+- Xu Thay Đổi : -5400000
+----------Thời Gian : 2023-10-13 12:02:01--------
+- Name : phuocducc3
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 108430000
+- Xu Mới : 8430000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-13 12:04:05--------
+- Name : phuocducc3
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 188430000
+- Xu Mới : 88430000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-13 12:05:38--------
+- Name : phuocducc3
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 268430000
+- Xu Mới : 168430000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-13 12:06:47--------
+- Name : phuocducc3
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 348430000
+- Xu Mới : 248430000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-13 12:07:56--------
+- Name : phuocducc3
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 428430000
+- Xu Mới : 328430000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-13 12:09:03--------
+- Name : phuocducc3
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 508430000
+- Xu Mới : 408430000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-13 12:10:20--------
+- Name : phuocducc3
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 588430000
+- Xu Mới : 488430000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-13 12:11:36--------
+- Name : phuocducc3
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 668430000
+- Xu Mới : 568430000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-13 12:12:46--------
+- Name : phuocducc3
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 568430000
+- Xu Mới : 468430000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-13 12:47:07--------
+- Name : concactao
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 676540888
+- Xu Mới : 576540888
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-13 12:48:16--------
+- Name : concactao
+- Nội Dung : Đặt Tài
+- Xu Cũ : 576540888
+- Xu Mới : 476540888
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-13 12:49:26--------
+- Name : concactao
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 476540888
+- Xu Mới : 376540888
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-13 12:50:39--------
+- Name : concactao
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 556540888
+- Xu Mới : 456540888
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-13 12:51:47--------
+- Name : concactao
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 636540888
+- Xu Mới : 536540888
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-13 12:52:57--------
+- Name : concactao
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 716540888
+- Xu Mới : 616540888
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-13 12:54:04--------
+- Name : concactao
+- Nội Dung : Đặt Tài
+- Xu Cũ : 616540888
+- Xu Mới : 516540888
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-13 12:55:14--------
+- Name : concactao
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 696540888
+- Xu Mới : 596540888
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-13 12:56:32--------
+- Name : concactao
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 596540888
+- Xu Mới : 496540888
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-13 12:57:38--------
+- Name : concactao
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 676540888
+- Xu Mới : 576540888
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-13 12:58:49--------
+- Name : concactao
+- Nội Dung : Đặt Tài
+- Xu Cũ : 576540888
+- Xu Mới : 476540888
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-13 12:59:56--------
+- Name : concactao
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 656540888
+- Xu Mới : 556540888
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-13 13:01:07--------
+- Name : concactao
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 736540888
+- Xu Mới : 636540888
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-13 13:02:15--------
+- Name : concactao
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 816540888
+- Xu Mới : 716540888
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-13 13:03:22--------
+- Name : concactao
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 896540888
+- Xu Mới : 796540888
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-13 13:38:54--------
+- Name : concactao
+- Nội Dung : Đặt Tài
+- Xu Cũ : 796540888
+- Xu Mới : 696540888
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-13 13:40:09--------
+- Name : concactao
+- Nội Dung : Đặt Tài
+- Xu Cũ : 876540888
+- Xu Mới : 776540888
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-13 13:41:15--------
+- Name : concactao
+- Nội Dung : Đặt Tài
+- Xu Cũ : 956540888
+- Xu Mới : 856540888
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-13 13:42:27--------
+- Name : concactao
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1036540888
+- Xu Mới : 936540888
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-13 13:43:49--------
+- Name : concactao
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1116540888
+- Xu Mới : 1016540888
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-13 13:44:54--------
+- Name : concactao
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1016540888
+- Xu Mới : 916540888
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-13 13:46:02--------
+- Name : concactao
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1096540888
+- Xu Mới : 996540888
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-13 13:47:11--------
+- Name : concactao
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1176540888
+- Xu Mới : 1076540888
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-13 13:48:19--------
+- Name : concactao
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1076540888
+- Xu Mới : 976540888
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-13 13:49:39--------
+- Name : concactao
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1156540888
+- Xu Mới : 1056540888
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-13 13:51:07--------
+- Name : concactao
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1236540888
+- Xu Mới : 1136540888
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-13 13:52:29--------
+- Name : concactao
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1136540888
+- Xu Mới : 1036540888
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-13 14:33:03--------
+- Name : concactao
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1036540888
+- Xu Mới : 936540888
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-13 14:34:35--------
+- Name : concactao
+- Nội Dung : Đặt Tài
+- Xu Cũ : 936540888
+- Xu Mới : 836540888
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-13 14:35:44--------
+- Name : concactao
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1016540888
+- Xu Mới : 916540888
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-13 14:37:26--------
+- Name : concactao
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 916540888
+- Xu Mới : 816540888
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-13 14:38:53--------
+- Name : concactao
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 816540888
+- Xu Mới : 816540878
+- Xu Thay Đổi : -10
+----------Thời Gian : 2023-10-13 14:40:01--------
+- Name : concactao
+- Nội Dung : Đặt Tài
+- Xu Cũ : 816540878
+- Xu Mới : 716540878
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-13 14:41:07--------
+- Name : concactao
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 716540878
+- Xu Mới : 616540878
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-13 14:42:16--------
+- Name : cungtop1
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1000000
+- Xu Mới : 950000
+- Xu Thay Đổi : -50000
+----------Thời Gian : 2023-10-13 14:42:26--------
+- Name : concactao
+- Nội Dung : Đặt Tài
+- Xu Cũ : 616540878
+- Xu Mới : 516540878
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-13 14:43:22--------
+- Name : concactao
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 516540878
+- Xu Mới : 416540878
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-13 14:44:06--------
+- Name : cungtop1
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1090000
+- Xu Mới : 1000000
+- Xu Thay Đổi : -90000
+----------Thời Gian : 2023-10-13 14:45:01--------
+- Name : cungtop1
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1162000
+- Xu Mới : 1000000
+- Xu Thay Đổi : -162000
+----------Thời Gian : 2023-10-13 14:45:36--------
+- Name : concactao
+- Nội Dung : Đặt Tài
+- Xu Cũ : 416540878
+- Xu Mới : 316540878
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-13 14:46:07--------
+- Name : concactao
+- Nội Dung : Đặt Tài
+- Xu Cũ : 496540878
+- Xu Mới : 396540878
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-13 14:47:16--------
+- Name : concactao
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 396540878
+- Xu Mới : 296540878
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-13 14:47:42--------
+- Name : cungtop1
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1291600
+- Xu Mới : 1000600
+- Xu Thay Đổi : -291000
+----------Thời Gian : 2023-10-13 14:48:22--------
+- Name : concactao
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 476540878
+- Xu Mới : 376540878
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-13 14:48:35--------
+- Name : cungtop1
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1000600
+- Xu Mới : 600
+- Xu Thay Đổi : -1000000
+----------Thời Gian : 2023-10-13 14:49:45--------
+- Name : concactao
+- Nội Dung : Đặt Tài
+- Xu Cũ : 376540878
+- Xu Mới : 276540878
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-13 14:51:07--------
+- Name : concactao
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 276540878
+- Xu Mới : 176540878
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-13 14:52:13--------
+- Name : concactao
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 356540878
+- Xu Mới : 256540878
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-13 14:53:22--------
+- Name : concactao
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 436540878
+- Xu Mới : 336540878
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-13 14:54:46--------
+- Name : concactao
+- Nội Dung : Đặt Tài
+- Xu Cũ : 336540878
+- Xu Mới : 236540878
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-13 14:55:53--------
+- Name : concactao
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 236040878
+- Xu Mới : 136040878
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-13 14:57:00--------
+- Name : concactao
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 316040878
+- Xu Mới : 216040878
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-13 14:58:07--------
+- Name : concactao
+- Nội Dung : Đặt Tài
+- Xu Cũ : 216040878
+- Xu Mới : 116040878
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-13 14:59:20--------
+- Name : concactao
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 114540878
+- Xu Mới : 14540878
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-13 15:09:04--------
+- Name : cungtop1
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1800600
+- Xu Mới : 1000600
+- Xu Thay Đổi : -800000
+----------Thời Gian : 2023-10-13 15:11:09--------
+- Name : cungtop1
+- Nội Dung : Đặt Tài
+- Xu Cũ : 2440600
+- Xu Mới : 2000000
+- Xu Thay Đổi : -440600
+----------Thời Gian : 2023-10-13 15:12:49--------
+- Name : cungtop1
+- Nội Dung : Đặt Tài
+- Xu Cũ : 2000000
+- Xu Mới : 1000000
+- Xu Thay Đổi : -1000000
+----------Thời Gian : 2023-10-13 15:14:44--------
+- Name : cungtop1
+- Nội Dung : Đặt Tài
+- Xu Cũ : 2800000
+- Xu Mới : 1000000
+- Xu Thay Đổi : -1800000
+----------Thời Gian : 2023-10-13 16:23:42--------
+- Name : moonrabit
+- Nội Dung : Đặt Tài
+- Xu Cũ : 40395780
+- Xu Mới : 395780
+- Xu Thay Đổi : -40000000
+----------Thời Gian : 2023-10-13 16:26:55--------
+- Name : moonrabit
+- Nội Dung : Đặt Tài
+- Xu Cũ : 72295780
+- Xu Mới : 42295780
+- Xu Thay Đổi : -30000000
+----------Thời Gian : 2023-10-13 22:36:52--------
+- Name : vodanhkiem
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 367075000
+- Xu Mới : 267075000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-13 22:38:39--------
+- Name : vodanhkiem
+- Nội Dung : Đặt Tài
+- Xu Cũ : 446655000
+- Xu Mới : 350000000
+- Xu Thay Đổi : -96655000
+----------Thời Gian : 2023-10-13 22:40:03--------
+- Name : vodanhkiem
+- Nội Dung : Đặt Tài
+- Xu Cũ : 350000000
+- Xu Mới : 250000000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-13 22:40:18--------
+- Name : huyzziq
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1015000
+- Xu Mới : 1005000
+- Xu Thay Đổi : -10000
+----------Thời Gian : 2023-10-13 22:41:17--------
+- Name : vodanhkiem
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 430000000
+- Xu Mới : 330000000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-13 22:42:36--------
+- Name : vodanhkiem
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 510000000
+- Xu Mới : 410000000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-13 22:42:47--------
+- Name : huyzziq
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1005000
+- Xu Mới : 905000
+- Xu Thay Đổi : -100000
+----------Thời Gian : 2023-10-13 22:43:58--------
+- Name : huyzziq
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 905000
+- Xu Mới : 805000
+- Xu Thay Đổi : -100000
+----------Thời Gian : 2023-10-13 22:45:10--------
+- Name : huyzziq
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 805000
+- Xu Mới : 705000
+- Xu Thay Đổi : -100000
+----------Thời Gian : 2023-10-13 22:45:13--------
+- Name : vodanhkiem
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 410000000
+- Xu Mới : 310000000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-13 22:46:55--------
+- Name : huyzziq
+- Nội Dung : Đặt Tài
+- Xu Cũ : 885000
+- Xu Mới : 385000
+- Xu Thay Đổi : -500000
+----------Thời Gian : 2023-10-13 22:47:34--------
+- Name : vodanhkiem
+- Nội Dung : Đặt Tài
+- Xu Cũ : 470000000
+- Xu Mới : 370000000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-13 22:48:14--------
+- Name : huyzziq
+- Nội Dung : Đặt Tài
+- Xu Cũ : 385000
+- Xu Mới : 0
+- Xu Thay Đổi : -385000
+----------Thời Gian : 2023-10-13 22:48:26--------
+- Name : vodanhkiem
+- Nội Dung : Đặt Tài
+- Xu Cũ : 370000000
+- Xu Mới : 270000000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-13 22:50:09--------
+- Name : vodanhkiem
+- Nội Dung : Đặt Tài
+- Xu Cũ : 270000000
+- Xu Mới : 170000000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-13 22:52:02--------
+- Name : vodanhkiem
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 350000000
+- Xu Mới : 250000000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-13 22:54:45--------
+- Name : vodanhkiem
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 250000000
+- Xu Mới : 150000000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-13 22:56:05--------
+- Name : vodanhkiem
+- Nội Dung : Đặt Tài
+- Xu Cũ : 150000000
+- Xu Mới : 50000000
+- Xu Thay Đổi : -100000000

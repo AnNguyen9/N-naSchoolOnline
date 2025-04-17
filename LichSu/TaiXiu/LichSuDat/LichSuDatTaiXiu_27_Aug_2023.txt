@@ -1,0 +1,1926 @@
+----------Thời Gian : 2023-08-27 01:07:35--------
+- Name : phong53
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 250000000
+- Xu Mới : 200000000
+- Xu Thay Đổi : -50000000
+----------Thời Gian : 2023-08-27 01:10:38--------
+- Name : phong53
+- Nội Dung : Đặt Tài
+- Xu Cũ : 290000000
+- Xu Mới : 190000000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-08-27 01:11:49--------
+- Name : phong53
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 150000000
+- Xu Mới : 50000000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-08-27 05:46:36--------
+- Name : cavequat
+- Nội Dung : Đặt Tài
+- Xu Cũ : 419207073
+- Xu Mới : 409207073
+- Xu Thay Đổi : -10000000
+----------Thời Gian : 2023-08-27 05:46:44--------
+- Name : shopee1
+- Nội Dung : Đặt Tài
+- Xu Cũ : 120000000
+- Xu Mới : 110000000
+- Xu Thay Đổi : -10000000
+----------Thời Gian : 2023-08-27 05:46:52--------
+- Name : minishop1
+- Nội Dung : Đặt Tài
+- Xu Cũ : 131000000
+- Xu Mới : 121000000
+- Xu Thay Đổi : -10000000
+----------Thời Gian : 2023-08-27 05:47:00--------
+- Name : minishop2
+- Nội Dung : Đặt Tài
+- Xu Cũ : 120000000
+- Xu Mới : 110000000
+- Xu Thay Đổi : -10000000
+----------Thời Gian : 2023-08-27 05:47:07--------
+- Name : minishop3
+- Nội Dung : Đặt Tài
+- Xu Cũ : 120000000
+- Xu Mới : 110000000
+- Xu Thay Đổi : -10000000
+----------Thời Gian : 2023-08-27 05:47:45--------
+- Name : cavequat
+- Nội Dung : Đặt Tài
+- Xu Cũ : 409207073
+- Xu Mới : 384207073
+- Xu Thay Đổi : -25000000
+----------Thời Gian : 2023-08-27 05:47:51--------
+- Name : shopee1
+- Nội Dung : Đặt Tài
+- Xu Cũ : 110000000
+- Xu Mới : 85000000
+- Xu Thay Đổi : -25000000
+----------Thời Gian : 2023-08-27 05:47:56--------
+- Name : minishop1
+- Nội Dung : Đặt Tài
+- Xu Cũ : 121000000
+- Xu Mới : 96000000
+- Xu Thay Đổi : -25000000
+----------Thời Gian : 2023-08-27 05:48:01--------
+- Name : minishop2
+- Nội Dung : Đặt Tài
+- Xu Cũ : 110000000
+- Xu Mới : 85000000
+- Xu Thay Đổi : -25000000
+----------Thời Gian : 2023-08-27 05:48:12--------
+- Name : minishop3
+- Nội Dung : Đặt Tài
+- Xu Cũ : 110000000
+- Xu Mới : 85000000
+- Xu Thay Đổi : -25000000
+----------Thời Gian : 2023-08-27 05:48:51--------
+- Name : shopee1
+- Nội Dung : Đặt Tài
+- Xu Cũ : 85000000
+- Xu Mới : 35000000
+- Xu Thay Đổi : -50000000
+----------Thời Gian : 2023-08-27 05:48:57--------
+- Name : minishop1
+- Nội Dung : Đặt Tài
+- Xu Cũ : 96000000
+- Xu Mới : 46000000
+- Xu Thay Đổi : -50000000
+----------Thời Gian : 2023-08-27 05:49:02--------
+- Name : cavequat
+- Nội Dung : Đặt Tài
+- Xu Cũ : 384207073
+- Xu Mới : 334207073
+- Xu Thay Đổi : -50000000
+----------Thời Gian : 2023-08-27 05:49:08--------
+- Name : minishop2
+- Nội Dung : Đặt Tài
+- Xu Cũ : 85000000
+- Xu Mới : 35000000
+- Xu Thay Đổi : -50000000
+----------Thời Gian : 2023-08-27 05:49:17--------
+- Name : minishop3
+- Nội Dung : Đặt Tài
+- Xu Cũ : 85000000
+- Xu Mới : 35000000
+- Xu Thay Đổi : -50000000
+----------Thời Gian : 2023-08-27 05:50:23--------
+- Name : minishop3
+- Nội Dung : Đặt Tài
+- Xu Cũ : 125000000
+- Xu Mới : 115000000
+- Xu Thay Đổi : -10000000
+----------Thời Gian : 2023-08-27 05:50:28--------
+- Name : minishop2
+- Nội Dung : Đặt Tài
+- Xu Cũ : 125000000
+- Xu Mới : 115000000
+- Xu Thay Đổi : -10000000
+----------Thời Gian : 2023-08-27 05:50:33--------
+- Name : minishop1
+- Nội Dung : Đặt Tài
+- Xu Cũ : 136000000
+- Xu Mới : 126000000
+- Xu Thay Đổi : -10000000
+----------Thời Gian : 2023-08-27 05:50:38--------
+- Name : shopee1
+- Nội Dung : Đặt Tài
+- Xu Cũ : 125000000
+- Xu Mới : 115000000
+- Xu Thay Đổi : -10000000
+----------Thời Gian : 2023-08-27 05:50:42--------
+- Name : cavequat
+- Nội Dung : Đặt Tài
+- Xu Cũ : 424207073
+- Xu Mới : 414207073
+- Xu Thay Đổi : -10000000
+----------Thời Gian : 2023-08-27 05:51:42--------
+- Name : cavequat
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 432207073
+- Xu Mới : 422207073
+- Xu Thay Đổi : -10000000
+----------Thời Gian : 2023-08-27 05:51:47--------
+- Name : shopee1
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 133000000
+- Xu Mới : 123000000
+- Xu Thay Đổi : -10000000
+----------Thời Gian : 2023-08-27 05:51:53--------
+- Name : minishop1
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 144000000
+- Xu Mới : 134000000
+- Xu Thay Đổi : -10000000
+----------Thời Gian : 2023-08-27 05:51:58--------
+- Name : minishop2
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 133000000
+- Xu Mới : 123000000
+- Xu Thay Đổi : -10000000
+----------Thời Gian : 2023-08-27 05:52:11--------
+- Name : minishop3
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 133000000
+- Xu Mới : 123000000
+- Xu Thay Đổi : -10000000
+----------Thời Gian : 2023-08-27 05:52:48--------
+- Name : cavequat
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 422207073
+- Xu Mới : 397207073
+- Xu Thay Đổi : -25000000
+----------Thời Gian : 2023-08-27 05:52:53--------
+- Name : shopee1
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 123000000
+- Xu Mới : 98000000
+- Xu Thay Đổi : -25000000
+----------Thời Gian : 2023-08-27 05:52:58--------
+- Name : minishop1
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 134000000
+- Xu Mới : 109000000
+- Xu Thay Đổi : -25000000
+----------Thời Gian : 2023-08-27 05:53:06--------
+- Name : minishop2
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 123000000
+- Xu Mới : 98000000
+- Xu Thay Đổi : -25000000
+----------Thời Gian : 2023-08-27 05:53:15--------
+- Name : minishop3
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 123000000
+- Xu Mới : 98000000
+- Xu Thay Đổi : -25000000
+----------Thời Gian : 2023-08-27 05:54:14--------
+- Name : cavequat
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 442207073
+- Xu Mới : 437207073
+- Xu Thay Đổi : -5000000
+----------Thời Gian : 2023-08-27 05:54:21--------
+- Name : shopee1
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 143000000
+- Xu Mới : 138000000
+- Xu Thay Đổi : -5000000
+----------Thời Gian : 2023-08-27 05:54:27--------
+- Name : minishop1
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 154000000
+- Xu Mới : 149000000
+- Xu Thay Đổi : -5000000
+----------Thời Gian : 2023-08-27 05:54:35--------
+- Name : minishop2
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 143000000
+- Xu Mới : 138000000
+- Xu Thay Đổi : -5000000
+----------Thời Gian : 2023-08-27 05:54:44--------
+- Name : minishop3
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 143000000
+- Xu Mới : 138000000
+- Xu Thay Đổi : -5000000
+----------Thời Gian : 2023-08-27 05:55:34--------
+- Name : cavequat
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 446207073
+- Xu Mới : 443707073
+- Xu Thay Đổi : -2500000
+----------Thời Gian : 2023-08-27 05:55:39--------
+- Name : shopee1
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 147000000
+- Xu Mới : 144500000
+- Xu Thay Đổi : -2500000
+----------Thời Gian : 2023-08-27 05:55:47--------
+- Name : minishop1
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 158000000
+- Xu Mới : 155500000
+- Xu Thay Đổi : -2500000
+----------Thời Gian : 2023-08-27 05:55:53--------
+- Name : minishop2
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 147000000
+- Xu Mới : 144500000
+- Xu Thay Đổi : -2500000
+----------Thời Gian : 2023-08-27 05:56:04--------
+- Name : minishop3
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 147000000
+- Xu Mới : 144500000
+- Xu Thay Đổi : -2500000
+----------Thời Gian : 2023-08-27 05:56:44--------
+- Name : cavequat
+- Nội Dung : Đặt Tài
+- Xu Cũ : 448207073
+- Xu Mới : 433207073
+- Xu Thay Đổi : -15000000
+----------Thời Gian : 2023-08-27 05:56:50--------
+- Name : shopee1
+- Nội Dung : Đặt Tài
+- Xu Cũ : 149000000
+- Xu Mới : 134000000
+- Xu Thay Đổi : -15000000
+----------Thời Gian : 2023-08-27 05:56:57--------
+- Name : minishop1
+- Nội Dung : Đặt Tài
+- Xu Cũ : 160000000
+- Xu Mới : 145000000
+- Xu Thay Đổi : -15000000
+----------Thời Gian : 2023-08-27 05:57:03--------
+- Name : minishop2
+- Nội Dung : Đặt Tài
+- Xu Cũ : 149000000
+- Xu Mới : 134000000
+- Xu Thay Đổi : -15000000
+----------Thời Gian : 2023-08-27 05:57:11--------
+- Name : minishop3
+- Nội Dung : Đặt Tài
+- Xu Cũ : 149000000
+- Xu Mới : 134000000
+- Xu Thay Đổi : -15000000
+----------Thời Gian : 2023-08-27 05:58:08--------
+- Name : minishop3
+- Nội Dung : Đặt Tài
+- Xu Cũ : 134000000
+- Xu Mới : 94000000
+- Xu Thay Đổi : -40000000
+----------Thời Gian : 2023-08-27 05:58:14--------
+- Name : minishop2
+- Nội Dung : Đặt Tài
+- Xu Cũ : 134000000
+- Xu Mới : 94000000
+- Xu Thay Đổi : -40000000
+----------Thời Gian : 2023-08-27 05:58:20--------
+- Name : minishop1
+- Nội Dung : Đặt Tài
+- Xu Cũ : 145000000
+- Xu Mới : 105000000
+- Xu Thay Đổi : -40000000
+----------Thời Gian : 2023-08-27 05:58:26--------
+- Name : shopee1
+- Nội Dung : Đặt Tài
+- Xu Cũ : 134000000
+- Xu Mới : 94000000
+- Xu Thay Đổi : -40000000
+----------Thời Gian : 2023-08-27 05:58:31--------
+- Name : cavequat
+- Nội Dung : Đặt Tài
+- Xu Cũ : 433207073
+- Xu Mới : 393207073
+- Xu Thay Đổi : -40000000
+----------Thời Gian : 2023-08-27 05:59:25--------
+- Name : cavequat
+- Nội Dung : Đặt Tài
+- Xu Cũ : 393207073
+- Xu Mới : 293207073
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-08-27 05:59:34--------
+- Name : shopee1
+- Nội Dung : Đặt Tài
+- Xu Cũ : 94000000
+- Xu Mới : 0
+- Xu Thay Đổi : -94000000
+----------Thời Gian : 2023-08-27 05:59:40--------
+- Name : minishop1
+- Nội Dung : Đặt Tài
+- Xu Cũ : 105000000
+- Xu Mới : 5000000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-08-27 05:59:48--------
+- Name : minishop2
+- Nội Dung : Đặt Tài
+- Xu Cũ : 94000000
+- Xu Mới : 0
+- Xu Thay Đổi : -94000000
+----------Thời Gian : 2023-08-27 05:59:59--------
+- Name : minishop3
+- Nội Dung : Đặt Tài
+- Xu Cũ : 94000000
+- Xu Mới : 0
+- Xu Thay Đổi : -94000000
+----------Thời Gian : 2023-08-27 06:02:42--------
+- Name : cavequat
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 473207073
+- Xu Mới : 470707073
+- Xu Thay Đổi : -2500000
+----------Thời Gian : 2023-08-27 06:02:47--------
+- Name : shopee1
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 169200000
+- Xu Mới : 166700000
+- Xu Thay Đổi : -2500000
+----------Thời Gian : 2023-08-27 06:02:53--------
+- Name : minishop1
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 185000000
+- Xu Mới : 182500000
+- Xu Thay Đổi : -2500000
+----------Thời Gian : 2023-08-27 06:02:58--------
+- Name : minishop2
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 169200000
+- Xu Mới : 166700000
+- Xu Thay Đổi : -2500000
+----------Thời Gian : 2023-08-27 06:05:01--------
+- Name : shopee1
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 171200000
+- Xu Mới : 166200000
+- Xu Thay Đổi : -5000000
+----------Thời Gian : 2023-08-27 06:05:06--------
+- Name : cavequat
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 475207073
+- Xu Mới : 470207073
+- Xu Thay Đổi : -5000000
+----------Thời Gian : 2023-08-27 06:05:13--------
+- Name : minishop1
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 187000000
+- Xu Mới : 182000000
+- Xu Thay Đổi : -5000000
+----------Thời Gian : 2023-08-27 06:05:19--------
+- Name : minishop2
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 171200000
+- Xu Mới : 166200000
+- Xu Thay Đổi : -5000000
+----------Thời Gian : 2023-08-27 06:05:28--------
+- Name : minishop3
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 169200000
+- Xu Mới : 164200000
+- Xu Thay Đổi : -5000000
+----------Thời Gian : 2023-08-27 06:06:17--------
+- Name : cavequat
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 470207073
+- Xu Mới : 455207073
+- Xu Thay Đổi : -15000000
+----------Thời Gian : 2023-08-27 06:06:22--------
+- Name : shopee1
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 166200000
+- Xu Mới : 151200000
+- Xu Thay Đổi : -15000000
+----------Thời Gian : 2023-08-27 06:06:28--------
+- Name : minishop1
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 182000000
+- Xu Mới : 167000000
+- Xu Thay Đổi : -15000000
+----------Thời Gian : 2023-08-27 06:06:33--------
+- Name : minishop2
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 166200000
+- Xu Mới : 151200000
+- Xu Thay Đổi : -15000000
+----------Thời Gian : 2023-08-27 06:06:40--------
+- Name : minishop3
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 164200000
+- Xu Mới : 149200000
+- Xu Thay Đổi : -15000000
+----------Thời Gian : 2023-08-27 06:07:39--------
+- Name : cavequat
+- Nội Dung : Đặt Tài
+- Xu Cũ : 482207073
+- Xu Mới : 477207073
+- Xu Thay Đổi : -5000000
+----------Thời Gian : 2023-08-27 06:07:44--------
+- Name : shopee1
+- Nội Dung : Đặt Tài
+- Xu Cũ : 178200000
+- Xu Mới : 173200000
+- Xu Thay Đổi : -5000000
+----------Thời Gian : 2023-08-27 06:07:51--------
+- Name : minishop1
+- Nội Dung : Đặt Tài
+- Xu Cũ : 194000000
+- Xu Mới : 189000000
+- Xu Thay Đổi : -5000000
+----------Thời Gian : 2023-08-27 06:07:56--------
+- Name : minishop2
+- Nội Dung : Đặt Tài
+- Xu Cũ : 178200000
+- Xu Mới : 173200000
+- Xu Thay Đổi : -5000000
+----------Thời Gian : 2023-08-27 06:08:04--------
+- Name : minishop3
+- Nội Dung : Đặt Tài
+- Xu Cũ : 176200000
+- Xu Mới : 171200000
+- Xu Thay Đổi : -5000000
+----------Thời Gian : 2023-08-27 06:09:55--------
+- Name : cavequat
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 486207073
+- Xu Mới : 481207073
+- Xu Thay Đổi : -5000000
+----------Thời Gian : 2023-08-27 06:10:00--------
+- Name : shopee1
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 182200000
+- Xu Mới : 177200000
+- Xu Thay Đổi : -5000000
+----------Thời Gian : 2023-08-27 06:10:07--------
+- Name : minishop1
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 198000000
+- Xu Mới : 193000000
+- Xu Thay Đổi : -5000000
+----------Thời Gian : 2023-08-27 06:10:16--------
+- Name : minishop2
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 182200000
+- Xu Mới : 177200000
+- Xu Thay Đổi : -5000000
+----------Thời Gian : 2023-08-27 06:10:23--------
+- Name : minishop3
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 180200000
+- Xu Mới : 175200000
+- Xu Thay Đổi : -5000000
+----------Thời Gian : 2023-08-27 06:11:09--------
+- Name : cavequat
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 490207073
+- Xu Mới : 487207073
+- Xu Thay Đổi : -3000000
+----------Thời Gian : 2023-08-27 06:11:15--------
+- Name : shopee1
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 186200000
+- Xu Mới : 183200000
+- Xu Thay Đổi : -3000000
+----------Thời Gian : 2023-08-27 06:11:20--------
+- Name : minishop2
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 186200000
+- Xu Mới : 183200000
+- Xu Thay Đổi : -3000000
+----------Thời Gian : 2023-08-27 06:11:31--------
+- Name : minishop1
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 202000000
+- Xu Mới : 199000000
+- Xu Thay Đổi : -3000000
+----------Thời Gian : 2023-08-27 06:11:54--------
+- Name : minishop3
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 184200000
+- Xu Mới : 181200000
+- Xu Thay Đổi : -3000000
+----------Thời Gian : 2023-08-27 06:12:55--------
+- Name : cavequat
+- Nội Dung : Đặt Tài
+- Xu Cũ : 487207073
+- Xu Mới : 477207073
+- Xu Thay Đổi : -10000000
+----------Thời Gian : 2023-08-27 06:13:00--------
+- Name : shopee1
+- Nội Dung : Đặt Tài
+- Xu Cũ : 183200000
+- Xu Mới : 173200000
+- Xu Thay Đổi : -10000000
+----------Thời Gian : 2023-08-27 06:13:05--------
+- Name : minishop1
+- Nội Dung : Đặt Tài
+- Xu Cũ : 199000000
+- Xu Mới : 189000000
+- Xu Thay Đổi : -10000000
+----------Thời Gian : 2023-08-27 06:13:13--------
+- Name : minishop2
+- Nội Dung : Đặt Tài
+- Xu Cũ : 183200000
+- Xu Mới : 173200000
+- Xu Thay Đổi : -10000000
+----------Thời Gian : 2023-08-27 06:13:21--------
+- Name : minishop3
+- Nội Dung : Đặt Tài
+- Xu Cũ : 181200000
+- Xu Mới : 171200000
+- Xu Thay Đổi : -10000000
+----------Thời Gian : 2023-08-27 06:14:04--------
+- Name : shopee1
+- Nội Dung : Đặt Tài
+- Xu Cũ : 173200000
+- Xu Mới : 153200000
+- Xu Thay Đổi : -20000000
+----------Thời Gian : 2023-08-27 06:14:10--------
+- Name : cavequat
+- Nội Dung : Đặt Tài
+- Xu Cũ : 477207073
+- Xu Mới : 457207073
+- Xu Thay Đổi : -20000000
+----------Thời Gian : 2023-08-27 06:14:16--------
+- Name : minishop1
+- Nội Dung : Đặt Tài
+- Xu Cũ : 189000000
+- Xu Mới : 169000000
+- Xu Thay Đổi : -20000000
+----------Thời Gian : 2023-08-27 06:14:21--------
+- Name : minishop2
+- Nội Dung : Đặt Tài
+- Xu Cũ : 173200000
+- Xu Mới : 153200000
+- Xu Thay Đổi : -20000000
+----------Thời Gian : 2023-08-27 06:14:29--------
+- Name : minishop3
+- Nội Dung : Đặt Tài
+- Xu Cũ : 171200000
+- Xu Mới : 151200000
+- Xu Thay Đổi : -20000000
+----------Thời Gian : 2023-08-27 06:15:39--------
+- Name : cavequat
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 493207073
+- Xu Mới : 488207073
+- Xu Thay Đổi : -5000000
+----------Thời Gian : 2023-08-27 06:15:46--------
+- Name : shopee1
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 189200000
+- Xu Mới : 184200000
+- Xu Thay Đổi : -5000000
+----------Thời Gian : 2023-08-27 06:15:55--------
+- Name : minishop1
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 205000000
+- Xu Mới : 200000000
+- Xu Thay Đổi : -5000000
+----------Thời Gian : 2023-08-27 06:16:00--------
+- Name : minishop2
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 189200000
+- Xu Mới : 184200000
+- Xu Thay Đổi : -5000000
+----------Thời Gian : 2023-08-27 06:16:08--------
+- Name : minishop3
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 187200000
+- Xu Mới : 182200000
+- Xu Thay Đổi : -5000000
+----------Thời Gian : 2023-08-27 06:16:49--------
+- Name : cavequat
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 488207073
+- Xu Mới : 478207073
+- Xu Thay Đổi : -10000000
+----------Thời Gian : 2023-08-27 06:16:55--------
+- Name : shopee1
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 184200000
+- Xu Mới : 174200000
+- Xu Thay Đổi : -10000000
+----------Thời Gian : 2023-08-27 06:17:05--------
+- Name : minishop1
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 200000000
+- Xu Mới : 190000000
+- Xu Thay Đổi : -10000000
+----------Thời Gian : 2023-08-27 06:17:12--------
+- Name : minishop2
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 184200000
+- Xu Mới : 174200000
+- Xu Thay Đổi : -10000000
+----------Thời Gian : 2023-08-27 06:17:21--------
+- Name : minishop3
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 182200000
+- Xu Mới : 172200000
+- Xu Thay Đổi : -10000000
+----------Thời Gian : 2023-08-27 06:18:01--------
+- Name : cavequat
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 478207073
+- Xu Mới : 428207073
+- Xu Thay Đổi : -50000000
+----------Thời Gian : 2023-08-27 06:18:06--------
+- Name : shopee1
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 174200000
+- Xu Mới : 124200000
+- Xu Thay Đổi : -50000000
+----------Thời Gian : 2023-08-27 06:18:13--------
+- Name : minishop1
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 190000000
+- Xu Mới : 140000000
+- Xu Thay Đổi : -50000000
+----------Thời Gian : 2023-08-27 06:18:19--------
+- Name : minishop2
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 174200000
+- Xu Mới : 124200000
+- Xu Thay Đổi : -50000000
+----------Thời Gian : 2023-08-27 06:18:19--------
+- Name : ducbip
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 4140678
+- Xu Mới : 1140678
+- Xu Thay Đổi : -3000000
+----------Thời Gian : 2023-08-27 06:18:28--------
+- Name : minishop3
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 172200000
+- Xu Mới : 122200000
+- Xu Thay Đổi : -50000000
+----------Thời Gian : 2023-08-27 06:19:36--------
+- Name : shopee1
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 124200000
+- Xu Mới : 24200000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-08-27 06:19:45--------
+- Name : cavequat
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 428207073
+- Xu Mới : 328207073
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-08-27 06:19:51--------
+- Name : minishop1
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 140000000
+- Xu Mới : 40000000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-08-27 06:19:57--------
+- Name : minishop2
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 124200000
+- Xu Mới : 24200000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-08-27 06:20:23--------
+- Name : minishop3
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 122200000
+- Xu Mới : 22200000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-08-27 06:22:52--------
+- Name : cavequat
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 508207073
+- Xu Mới : 493207073
+- Xu Thay Đổi : -15000000
+----------Thời Gian : 2023-08-27 06:22:57--------
+- Name : shopee1
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 204200000
+- Xu Mới : 189200000
+- Xu Thay Đổi : -15000000
+----------Thời Gian : 2023-08-27 06:23:02--------
+- Name : minishop1
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 220000000
+- Xu Mới : 205000000
+- Xu Thay Đổi : -15000000
+----------Thời Gian : 2023-08-27 06:23:08--------
+- Name : minishop2
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 204200000
+- Xu Mới : 189200000
+- Xu Thay Đổi : -15000000
+----------Thời Gian : 2023-08-27 06:23:19--------
+- Name : minishop3
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 202200000
+- Xu Mới : 187200000
+- Xu Thay Đổi : -15000000
+----------Thời Gian : 2023-08-27 06:24:26--------
+- Name : cavequat
+- Nội Dung : Đặt Tài
+- Xu Cũ : 493207073
+- Xu Mới : 443207073
+- Xu Thay Đổi : -50000000
+----------Thời Gian : 2023-08-27 06:24:31--------
+- Name : shopee1
+- Nội Dung : Đặt Tài
+- Xu Cũ : 189200000
+- Xu Mới : 139200000
+- Xu Thay Đổi : -50000000
+----------Thời Gian : 2023-08-27 06:24:37--------
+- Name : minishop1
+- Nội Dung : Đặt Tài
+- Xu Cũ : 205000000
+- Xu Mới : 155000000
+- Xu Thay Đổi : -50000000
+----------Thời Gian : 2023-08-27 06:24:42--------
+- Name : minishop2
+- Nội Dung : Đặt Tài
+- Xu Cũ : 189200000
+- Xu Mới : 139200000
+- Xu Thay Đổi : -50000000
+----------Thời Gian : 2023-08-27 06:24:52--------
+- Name : minishop3
+- Nội Dung : Đặt Tài
+- Xu Cũ : 187200000
+- Xu Mới : 137200000
+- Xu Thay Đổi : -50000000
+----------Thời Gian : 2023-08-27 06:25:49--------
+- Name : minishop1
+- Nội Dung : Đặt Tài
+- Xu Cũ : 245000000
+- Xu Mới : 230000000
+- Xu Thay Đổi : -15000000
+----------Thời Gian : 2023-08-27 06:25:55--------
+- Name : shopee1
+- Nội Dung : Đặt Tài
+- Xu Cũ : 229200000
+- Xu Mới : 214200000
+- Xu Thay Đổi : -15000000
+----------Thời Gian : 2023-08-27 06:26:00--------
+- Name : cavequat
+- Nội Dung : Đặt Tài
+- Xu Cũ : 533207073
+- Xu Mới : 518207073
+- Xu Thay Đổi : -15000000
+----------Thời Gian : 2023-08-27 06:26:08--------
+- Name : minishop2
+- Nội Dung : Đặt Tài
+- Xu Cũ : 229200000
+- Xu Mới : 214200000
+- Xu Thay Đổi : -15000000
+----------Thời Gian : 2023-08-27 06:26:19--------
+- Name : minishop3
+- Nội Dung : Đặt Tài
+- Xu Cũ : 227200000
+- Xu Mới : 225700000
+- Xu Thay Đổi : -1500000
+----------Thời Gian : 2023-08-27 06:58:35--------
+- Name : inovaa
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 850000
+- Xu Mới : 350000
+- Xu Thay Đổi : -500000
+----------Thời Gian : 2023-08-27 07:19:28--------
+- Name : kkrot
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 540000
+- Xu Mới : 530000
+- Xu Thay Đổi : -10000
+----------Thời Gian : 2023-08-27 07:20:45--------
+- Name : kkrot
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 548000
+- Xu Mới : 543000
+- Xu Thay Đổi : -5000
+----------Thời Gian : 2023-08-27 07:22:30--------
+- Name : kkrot
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 543000
+- Xu Mới : 531000
+- Xu Thay Đổi : -12000
+----------Thời Gian : 2023-08-27 07:24:24--------
+- Name : kkrot
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 52600
+- Xu Mới : 50600
+- Xu Thay Đổi : -2000
+----------Thời Gian : 2023-08-27 07:26:26--------
+- Name : kkrot
+- Nội Dung : Đặt Tài
+- Xu Cũ : 54200
+- Xu Mới : 51600
+- Xu Thay Đổi : -2600
+----------Thời Gian : 2023-08-27 07:28:22--------
+- Name : kkrot
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 51600
+- Xu Mới : 31600
+- Xu Thay Đổi : -20000
+----------Thời Gian : 2023-08-27 07:29:51--------
+- Name : kkrot
+- Nội Dung : Đặt Tài
+- Xu Cũ : 67600
+- Xu Mới : 64000
+- Xu Thay Đổi : -3600
+----------Thời Gian : 2023-08-27 07:31:05--------
+- Name : kkrot
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 64000
+- Xu Mới : 34000
+- Xu Thay Đổi : -30000
+----------Thời Gian : 2023-08-27 07:32:13--------
+- Name : kkrot
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 58000
+- Xu Mới : 54000
+- Xu Thay Đổi : -4000
+----------Thời Gian : 2023-08-27 07:36:48--------
+- Name : kkrot
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 24000
+- Xu Mới : 22000
+- Xu Thay Đổi : -2000
+----------Thời Gian : 2023-08-27 07:38:15--------
+- Name : kkrot
+- Nội Dung : Đặt Tài
+- Xu Cũ : 22000
+- Xu Mới : 10000
+- Xu Thay Đổi : -12000
+----------Thời Gian : 2023-08-27 07:39:28--------
+- Name : kkrot
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 31600
+- Xu Mới : 28600
+- Xu Thay Đổi : -3000
+----------Thời Gian : 2023-08-27 07:40:46--------
+- Name : kkrot
+- Nội Dung : Đặt Tài
+- Xu Cũ : 34000
+- Xu Mới : 30400
+- Xu Thay Đổi : -3600
+----------Thời Gian : 2023-08-27 07:42:02--------
+- Name : kkrot
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 30400
+- Xu Mới : 18400
+- Xu Thay Đổi : -12000
+----------Thời Gian : 2023-08-27 07:43:48--------
+- Name : kkrot
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 18400
+- Xu Mới : 400
+- Xu Thay Đổi : -18000
+----------Thời Gian : 2023-08-27 07:45:06--------
+- Name : kkrot
+- Nội Dung : Đặt Tài
+- Xu Cũ : 32800
+- Xu Mới : 24800
+- Xu Thay Đổi : -8000
+----------Thời Gian : 2023-08-27 07:46:31--------
+- Name : kkrot
+- Nội Dung : Đặt Tài
+- Xu Cũ : 24800
+- Xu Mới : 16800
+- Xu Thay Đổi : -8000
+----------Thời Gian : 2023-08-27 07:48:47--------
+- Name : kkrot
+- Nội Dung : Đặt Tài
+- Xu Cũ : 31200
+- Xu Mới : 30200
+- Xu Thay Đổi : -1000
+----------Thời Gian : 2023-08-27 07:50:23--------
+- Name : kkrot
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 2200
+- Xu Mới : 0
+- Xu Thay Đổi : -2200
+----------Thời Gian : 2023-08-27 07:53:27--------
+- Name : top1buff
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 18245000
+- Xu Mới : 245000
+- Xu Thay Đổi : -18000000
+----------Thời Gian : 2023-08-27 09:23:19--------
+- Name : longking
+- Nội Dung : Đặt Tài
+- Xu Cũ : 80000
+- Xu Mới : 30000
+- Xu Thay Đổi : -50000
+----------Thời Gian : 2023-08-27 09:24:25--------
+- Name : concactao
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 85222042
+- Xu Mới : 5222042
+- Xu Thay Đổi : -80000000
+----------Thời Gian : 2023-08-27 09:25:40--------
+- Name : concactao
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 149222042
+- Xu Mới : 49222042
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-08-27 09:25:51--------
+- Name : phoneix
+- Nội Dung : Đặt Tài
+- Xu Cũ : 90457887
+- Xu Mới : 457887
+- Xu Thay Đổi : -90000000
+----------Thời Gian : 2023-08-27 09:26:28--------
+- Name : longking
+- Nội Dung : Đặt Tài
+- Xu Cũ : 30000
+- Xu Mới : 0
+- Xu Thay Đổi : -30000
+----------Thời Gian : 2023-08-27 09:27:33--------
+- Name : concactao
+- Nội Dung : Đặt Tài
+- Xu Cũ : 49222042
+- Xu Mới : 9222042
+- Xu Thay Đổi : -40000000
+----------Thời Gian : 2023-08-27 09:27:44--------
+- Name : longking
+- Nội Dung : Đặt Tài
+- Xu Cũ : 54000
+- Xu Mới : 34000
+- Xu Thay Đổi : -20000
+----------Thời Gian : 2023-08-27 10:14:06--------
+- Name : kkrot
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 8000
+- Xu Mới : 5000
+- Xu Thay Đổi : -3000
+----------Thời Gian : 2023-08-27 10:15:40--------
+- Name : kkrot
+- Nội Dung : Đặt Tài
+- Xu Cũ : 10400
+- Xu Mới : 9400
+- Xu Thay Đổi : -1000
+----------Thời Gian : 2023-08-27 10:18:14--------
+- Name : kkrot
+- Nội Dung : Đặt Tài
+- Xu Cũ : 11200
+- Xu Mới : 9200
+- Xu Thay Đổi : -2000
+----------Thời Gian : 2023-08-27 10:19:31--------
+- Name : kkrot
+- Nội Dung : Đặt Tài
+- Xu Cũ : 12800
+- Xu Mới : 10800
+- Xu Thay Đổi : -2000
+----------Thời Gian : 2023-08-27 10:20:55--------
+- Name : kkrot
+- Nội Dung : Đặt Tài
+- Xu Cũ : 10800
+- Xu Mới : 6800
+- Xu Thay Đổi : -4000
+----------Thời Gian : 2023-08-27 10:22:37--------
+- Name : kkrot
+- Nội Dung : Đặt Tài
+- Xu Cũ : 14000
+- Xu Mới : 13000
+- Xu Thay Đổi : -1000
+----------Thời Gian : 2023-08-27 10:23:54--------
+- Name : kkrot
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 3000
+- Xu Mới : 1500
+- Xu Thay Đổi : -1500
+----------Thời Gian : 2023-08-27 10:24:17--------
+- Name : madara
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 42997581
+- Xu Mới : 40997581
+- Xu Thay Đổi : -2000000
+----------Thời Gian : 2023-08-27 10:25:09--------
+- Name : kkrot
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1500
+- Xu Mới : 0
+- Xu Thay Đổi : -1500
+----------Thời Gian : 2023-08-27 10:25:37--------
+- Name : madara
+- Nội Dung : Đặt Tài
+- Xu Cũ : 40997581
+- Xu Mới : 30997581
+- Xu Thay Đổi : -10000000
+----------Thời Gian : 2023-08-27 10:26:28--------
+- Name : madara
+- Nội Dung : Đặt Tài
+- Xu Cũ : 48997581
+- Xu Mới : 38997581
+- Xu Thay Đổi : -10000000
+----------Thời Gian : 2023-08-27 10:26:53--------
+- Name : kkrot
+- Nội Dung : Đặt Tài
+- Xu Cũ : 40000
+- Xu Mới : 37000
+- Xu Thay Đổi : -3000
+----------Thời Gian : 2023-08-27 10:28:13--------
+- Name : kkrot
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 37000
+- Xu Mới : 31000
+- Xu Thay Đổi : -6000
+----------Thời Gian : 2023-08-27 10:30:05--------
+- Name : kkrot
+- Nội Dung : Đặt Tài
+- Xu Cũ : 31000
+- Xu Mới : 11000
+- Xu Thay Đổi : -20000
+----------Thời Gian : 2023-08-27 10:31:26--------
+- Name : kkrot
+- Nội Dung : Đặt Tài
+- Xu Cũ : 11000
+- Xu Mới : 0
+- Xu Thay Đổi : -11000
+----------Thời Gian : 2023-08-27 10:32:48--------
+- Name : kkrot
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 19800
+- Xu Mới : 10900
+- Xu Thay Đổi : -8900
+----------Thời Gian : 2023-08-27 10:34:14--------
+- Name : kkrot
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 26920
+- Xu Mới : 23320
+- Xu Thay Đổi : -3600
+----------Thời Gian : 2023-08-27 10:35:50--------
+- Name : kkrot
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 23320
+- Xu Mới : 22320
+- Xu Thay Đổi : -1000
+----------Thời Gian : 2023-08-27 10:37:10--------
+- Name : kkrot
+- Nội Dung : Đặt Tài
+- Xu Cũ : 24120
+- Xu Mới : 22120
+- Xu Thay Đổi : -2000
+----------Thời Gian : 2023-08-27 10:38:53--------
+- Name : kkrot
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 22120
+- Xu Mới : 2120
+- Xu Thay Đổi : -20000
+----------Thời Gian : 2023-08-27 10:40:46--------
+- Name : kkrot
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 38120
+- Xu Mới : 32120
+- Xu Thay Đổi : -6000
+----------Thời Gian : 2023-08-27 10:41:53--------
+- Name : kkrot
+- Nội Dung : Đặt Tài
+- Xu Cũ : 32120
+- Xu Mới : 2120
+- Xu Thay Đổi : -30000
+----------Thời Gian : 2023-08-27 10:45:08--------
+- Name : kkrot
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 552120
+- Xu Mới : 452120
+- Xu Thay Đổi : -100000
+----------Thời Gian : 2023-08-27 10:46:45--------
+- Name : kkrot
+- Nội Dung : Đặt Tài
+- Xu Cũ : 632120
+- Xu Mới : 630120
+- Xu Thay Đổi : -2000
+----------Thời Gian : 2023-08-27 10:48:13--------
+- Name : kkrot
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 633720
+- Xu Mới : 631720
+- Xu Thay Đổi : -2000
+----------Thời Gian : 2023-08-27 10:49:54--------
+- Name : kkrot
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 631720
+- Xu Mới : 629720
+- Xu Thay Đổi : -2000
+----------Thời Gian : 2023-08-27 10:51:36--------
+- Name : kkrot
+- Nội Dung : Đặt Tài
+- Xu Cũ : 79720
+- Xu Mới : 30720
+- Xu Thay Đổi : -49000
+----------Thời Gian : 2023-08-27 10:53:20--------
+- Name : kkrot
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 80720
+- Xu Mới : 0
+- Xu Thay Đổi : -80720
+----------Thời Gian : 2023-08-27 10:54:39--------
+- Name : kkrot
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 145296
+- Xu Mới : 135296
+- Xu Thay Đổi : -10000
+----------Thời Gian : 2023-08-27 10:56:09--------
+- Name : kkrot
+- Nội Dung : Đặt Tài
+- Xu Cũ : 135296
+- Xu Mới : 82296
+- Xu Thay Đổi : -53000
+----------Thời Gian : 2023-08-27 10:57:25--------
+- Name : kkrot
+- Nội Dung : Đặt Tài
+- Xu Cũ : 107696
+- Xu Mới : 87696
+- Xu Thay Đổi : -20000
+----------Thời Gian : 2023-08-27 10:58:54--------
+- Name : kkrot
+- Nội Dung : Đặt Tài
+- Xu Cũ : 93696
+- Xu Mới : 89736
+- Xu Thay Đổi : -3960
+----------Thời Gian : 2023-08-27 11:00:28--------
+- Name : kkrot
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 10826
+- Xu Mới : 826
+- Xu Thay Đổi : -10000
+----------Thời Gian : 2023-08-27 11:02:26--------
+- Name : kkrot
+- Nội Dung : Đặt Tài
+- Xu Cũ : 79736
+- Xu Mới : 77736
+- Xu Thay Đổi : -2000
+----------Thời Gian : 2023-08-27 11:03:39--------
+- Name : kkrot
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 81336
+- Xu Mới : 77736
+- Xu Thay Đổi : -3600
+----------Thời Gian : 2023-08-27 11:04:52--------
+- Name : kkrot
+- Nội Dung : Đặt Tài
+- Xu Cũ : 84216
+- Xu Mới : 77736
+- Xu Thay Đổi : -6480
+----------Thời Gian : 2023-08-27 11:06:23--------
+- Name : kkrot
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 77736
+- Xu Mới : 67736
+- Xu Thay Đổi : -10000
+----------Thời Gian : 2023-08-27 11:07:46--------
+- Name : kkrot
+- Nội Dung : Đặt Tài
+- Xu Cũ : 85736
+- Xu Mới : 84736
+- Xu Thay Đổi : -1000
+----------Thời Gian : 2023-08-27 11:08:55--------
+- Name : kkrot
+- Nội Dung : Đặt Tài
+- Xu Cũ : 84736
+- Xu Mới : 82736
+- Xu Thay Đổi : -2000
+----------Thời Gian : 2023-08-27 11:10:11--------
+- Name : kkrot
+- Nội Dung : Đặt Tài
+- Xu Cũ : 86336
+- Xu Mới : 76336
+- Xu Thay Đổi : -10000
+----------Thời Gian : 2023-08-27 11:11:48--------
+- Name : kkrot
+- Nội Dung : Đặt Tài
+- Xu Cũ : 76336
+- Xu Mới : 27336
+- Xu Thay Đổi : -49000
+----------Thời Gian : 2023-08-27 11:13:19--------
+- Name : kkrot
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 127336
+- Xu Mới : 336
+- Xu Thay Đổi : -127000
+----------Thời Gian : 2023-08-27 11:14:37--------
+- Name : kkrot
+- Nội Dung : Đặt Tài
+- Xu Cũ : 228936
+- Xu Mới : 226936
+- Xu Thay Đổi : -2000
+----------Thời Gian : 2023-08-27 11:16:50--------
+- Name : kkrot
+- Nội Dung : Đặt Tài
+- Xu Cũ : 26936
+- Xu Mới : 20136
+- Xu Thay Đổi : -6800
+----------Thời Gian : 2023-08-27 11:19:01--------
+- Name : kkrot
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 20136
+- Xu Mới : 16136
+- Xu Thay Đổi : -4000
+----------Thời Gian : 2023-08-27 11:20:14--------
+- Name : kkrot
+- Nội Dung : Đặt Tài
+- Xu Cũ : 16136
+- Xu Mới : 136
+- Xu Thay Đổi : -16000
+----------Thời Gian : 2023-08-27 11:21:21--------
+- Name : kkrot
+- Nội Dung : Đặt Tài
+- Xu Cũ : 28936
+- Xu Mới : 20936
+- Xu Thay Đổi : -8000
+----------Thời Gian : 2023-08-27 11:22:43--------
+- Name : kkrot
+- Nội Dung : Đặt Tài
+- Xu Cũ : 35336
+- Xu Mới : 30336
+- Xu Thay Đổi : -5000
+----------Thời Gian : 2023-08-27 11:23:55--------
+- Name : kkrot
+- Nội Dung : Đặt Tài
+- Xu Cũ : 39336
+- Xu Mới : 35336
+- Xu Thay Đổi : -4000
+----------Thời Gian : 2023-08-27 11:25:27--------
+- Name : kkrot
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 42536
+- Xu Mới : 38536
+- Xu Thay Đổi : -4000
+----------Thời Gian : 2023-08-27 11:26:40--------
+- Name : kkrot
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 45736
+- Xu Mới : 35736
+- Xu Thay Đổi : -10000
+----------Thời Gian : 2023-08-27 12:18:04--------
+- Name : finndl
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1000
+- Xu Mới : 900
+- Xu Thay Đổi : -100
+----------Thời Gian : 2023-08-27 14:31:05--------
+- Name : concactao
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 443857730
+- Xu Mới : 343857730
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-08-27 14:32:26--------
+- Name : concactao
+- Nội Dung : Đặt Tài
+- Xu Cũ : 436357730
+- Xu Mới : 336357730
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-08-27 14:33:36--------
+- Name : concactao
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 516357730
+- Xu Mới : 416357730
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-08-27 14:35:33--------
+- Name : concactao
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 736357730
+- Xu Mới : 636357730
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-08-27 14:36:58--------
+- Name : takashi
+- Nội Dung : Đặt Tài
+- Xu Cũ : 189700000
+- Xu Mới : 89700000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-08-27 14:38:07--------
+- Name : concactao
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 636357730
+- Xu Mới : 536357730
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-08-27 14:38:18--------
+- Name : takashi
+- Nội Dung : Đặt Tài
+- Xu Cũ : 269700000
+- Xu Mới : 169700000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-08-27 14:39:39--------
+- Name : takashi
+- Nội Dung : Đặt Tài
+- Xu Cũ : 249700000
+- Xu Mới : 149700000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-08-27 14:41:40--------
+- Name : takashi
+- Nội Dung : Đặt Tài
+- Xu Cũ : 329700000
+- Xu Mới : 229700000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-08-27 14:42:56--------
+- Name : phuocducc2
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 60940000
+- Xu Mới : 940000
+- Xu Thay Đổi : -60000000
+----------Thời Gian : 2023-08-27 14:44:04--------
+- Name : takashi
+- Nội Dung : Đặt Tài
+- Xu Cũ : 229700000
+- Xu Mới : 129700000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-08-27 14:44:43--------
+- Name : concactao
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 536357730
+- Xu Mới : 436357730
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-08-27 14:45:33--------
+- Name : concactao
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 616357730
+- Xu Mới : 516357730
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-08-27 14:47:02--------
+- Name : concactao
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 516357730
+- Xu Mới : 516357720
+- Xu Thay Đổi : -10
+----------Thời Gian : 2023-08-27 14:48:13--------
+- Name : concactao
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 516357738
+- Xu Mới : 416357738
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-08-27 14:48:17--------
+- Name : phoneix
+- Nội Dung : Đặt Tài
+- Xu Cũ : 102542387
+- Xu Mới : 2542387
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-08-27 14:49:24--------
+- Name : concactao
+- Nội Dung : Đặt Tài
+- Xu Cũ : 416357738
+- Xu Mới : 316357738
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-08-27 14:50:40--------
+- Name : concactao
+- Nội Dung : Đặt Tài
+- Xu Cũ : 496357738
+- Xu Mới : 396357738
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-08-27 14:51:59--------
+- Name : concactao
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 576357738
+- Xu Mới : 476357738
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-08-27 14:53:15--------
+- Name : concactao
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 656357738
+- Xu Mới : 556357738
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-08-27 15:15:18--------
+- Name : phoneix
+- Nội Dung : Đặt Tài
+- Xu Cũ : 182542387
+- Xu Mới : 82542397
+- Xu Thay Đổi : -99999990
+----------Thời Gian : 2023-08-27 15:17:48--------
+- Name : concactao
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 556357738
+- Xu Mới : 456357738
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-08-27 15:19:01--------
+- Name : concactao
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 636357738
+- Xu Mới : 536357738
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-08-27 15:20:20--------
+- Name : concactao
+- Nội Dung : Đặt Tài
+- Xu Cũ : 536357738
+- Xu Mới : 436357738
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-08-27 15:21:31--------
+- Name : concactao
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 436357738
+- Xu Mới : 336357738
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-08-27 15:22:54--------
+- Name : concactao
+- Nội Dung : Đặt Tài
+- Xu Cũ : 336357738
+- Xu Mới : 236357738
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-08-27 15:24:09--------
+- Name : concactao
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 236357738
+- Xu Mới : 136357738
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-08-27 15:25:20--------
+- Name : concactao
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 316357738
+- Xu Mới : 216357738
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-08-27 15:26:38--------
+- Name : concactao
+- Nội Dung : Đặt Tài
+- Xu Cũ : 216357738
+- Xu Mới : 116357738
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-08-27 15:36:29--------
+- Name : concactao
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 203857738
+- Xu Mới : 103857738
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-08-27 16:24:59--------
+- Name : concactao
+- Nội Dung : Đặt Tài
+- Xu Cũ : 413857737
+- Xu Mới : 313857737
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-08-27 18:13:53--------
+- Name : kkrot
+- Nội Dung : Đặt Tài
+- Xu Cũ : 35736
+- Xu Mới : 33736
+- Xu Thay Đổi : -2000
+----------Thời Gian : 2023-08-27 18:15:17--------
+- Name : kkrot
+- Nội Dung : Đặt Tài
+- Xu Cũ : 37336
+- Xu Mới : 36336
+- Xu Thay Đổi : -1000
+----------Thời Gian : 2023-08-27 18:16:33--------
+- Name : kkrot
+- Nội Dung : Đặt Tài
+- Xu Cũ : 38136
+- Xu Mới : 37136
+- Xu Thay Đổi : -1000
+----------Thời Gian : 2023-08-27 18:17:49--------
+- Name : kkrot
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 37136
+- Xu Mới : 17136
+- Xu Thay Đổi : -20000
+----------Thời Gian : 2023-08-27 18:19:08--------
+- Name : kkrot
+- Nội Dung : Đặt Tài
+- Xu Cũ : 53136
+- Xu Mới : 52136
+- Xu Thay Đổi : -1000
+----------Thời Gian : 2023-08-27 18:21:01--------
+- Name : kkrot
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 52136
+- Xu Mới : 50136
+- Xu Thay Đổi : -2000
+----------Thời Gian : 2023-08-27 18:22:11--------
+- Name : kkrot
+- Nội Dung : Đặt Tài
+- Xu Cũ : 50136
+- Xu Mới : 136
+- Xu Thay Đổi : -50000
+----------Thời Gian : 2023-08-27 18:23:51--------
+- Name : kkrot
+- Nội Dung : Đặt Tài
+- Xu Cũ : 100136
+- Xu Mới : 50136
+- Xu Thay Đổi : -50000
+----------Thời Gian : 2023-08-27 18:25:00--------
+- Name : kkrot
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 50136
+- Xu Mới : 136
+- Xu Thay Đổi : -50000
+----------Thời Gian : 2023-08-27 18:26:30--------
+- Name : kkrot
+- Nội Dung : Đặt Tài
+- Xu Cũ : 50136
+- Xu Mới : 20136
+- Xu Thay Đổi : -30000
+----------Thời Gian : 2023-08-27 18:26:58--------
+- Name : iquique
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1060000
+- Xu Mới : 560000
+- Xu Thay Đổi : -500000
+----------Thời Gian : 2023-08-27 18:27:59--------
+- Name : iquique
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 560000
+- Xu Mới : 60000
+- Xu Thay Đổi : -500000
+----------Thời Gian : 2023-08-27 18:28:08--------
+- Name : kkrot
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 20136
+- Xu Mới : 136
+- Xu Thay Đổi : -20000
+----------Thời Gian : 2023-08-27 18:29:39--------
+- Name : kkrot
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 550136
+- Xu Mới : 545136
+- Xu Thay Đổi : -5000
+----------Thời Gian : 2023-08-27 18:30:00--------
+- Name : dudzai
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 2259000
+- Xu Mới : 2249000
+- Xu Thay Đổi : -10000
+----------Thời Gian : 2023-08-27 18:30:56--------
+- Name : kkrot
+- Nội Dung : Đặt Tài
+- Xu Cũ : 545136
+- Xu Mới : 540136
+- Xu Thay Đổi : -5000
+----------Thời Gian : 2023-08-27 18:31:03--------
+- Name : dudzai
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 2249000
+- Xu Mới : 2239000
+- Xu Thay Đổi : -10000
+----------Thời Gian : 2023-08-27 18:32:16--------
+- Name : kkrot
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 549136
+- Xu Mới : 544136
+- Xu Thay Đổi : -5000
+----------Thời Gian : 2023-08-27 18:33:43--------
+- Name : kkrot
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 544136
+- Xu Mới : 534136
+- Xu Thay Đổi : -10000
+----------Thời Gian : 2023-08-27 18:35:05--------
+- Name : kkrot
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 534136
+- Xu Mới : 514136
+- Xu Thay Đổi : -20000
+----------Thời Gian : 2023-08-27 18:36:22--------
+- Name : kkrot
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 550136
+- Xu Mới : 540136
+- Xu Thay Đổi : -10000
+----------Thời Gian : 2023-08-27 18:37:32--------
+- Name : kkrot
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 558136
+- Xu Mới : 540136
+- Xu Thay Đổi : -18000
+----------Thời Gian : 2023-08-27 18:38:51--------
+- Name : kkrot
+- Nội Dung : Đặt Tài
+- Xu Cũ : 540136
+- Xu Mới : 240136
+- Xu Thay Đổi : -300000
+----------Thời Gian : 2023-08-27 18:40:28--------
+- Name : kkrot
+- Nội Dung : Đặt Tài
+- Xu Cũ : 240136
+- Xu Mới : 136
+- Xu Thay Đổi : -240000
+----------Thời Gian : 2023-08-27 18:41:55--------
+- Name : kkrot
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 432136
+- Xu Mới : 402136
+- Xu Thay Đổi : -30000
+----------Thời Gian : 2023-08-27 18:56:21--------
+- Name : kkrot
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 456136
+- Xu Mới : 455136
+- Xu Thay Đổi : -1000
+----------Thời Gian : 2023-08-27 18:57:37--------
+- Name : kkrot
+- Nội Dung : Đặt Tài
+- Xu Cũ : 56936
+- Xu Mới : 55936
+- Xu Thay Đổi : -1000
+----------Thời Gian : 2023-08-27 18:59:25--------
+- Name : kkrot
+- Nội Dung : Đặt Tài
+- Xu Cũ : 57736
+- Xu Mới : 56736
+- Xu Thay Đổi : -1000
+----------Thời Gian : 2023-08-27 19:00:48--------
+- Name : kkrot
+- Nội Dung : Đặt Tài
+- Xu Cũ : 58536
+- Xu Mới : 57536
+- Xu Thay Đổi : -1000
+----------Thời Gian : 2023-08-27 19:01:55--------
+- Name : kkrot
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 59336
+- Xu Mới : 58336
+- Xu Thay Đổi : -1000
+----------Thời Gian : 2023-08-27 19:03:18--------
+- Name : kkrot
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 58336
+- Xu Mới : 48336
+- Xu Thay Đổi : -10000
+----------Thời Gian : 2023-08-27 19:08:15--------
+- Name : kkrot
+- Nội Dung : Đặt Tài
+- Xu Cũ : 18336
+- Xu Mới : 17336
+- Xu Thay Đổi : -1000
+----------Thời Gian : 2023-08-27 19:09:33--------
+- Name : kkrot
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 15336
+- Xu Mới : 14336
+- Xu Thay Đổi : -1000
+----------Thời Gian : 2023-08-27 19:11:20--------
+- Name : kkrot
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 14336
+- Xu Mới : 11336
+- Xu Thay Đổi : -3000
+----------Thời Gian : 2023-08-27 19:13:18--------
+- Name : kkrot
+- Nội Dung : Đặt Tài
+- Xu Cũ : 11336
+- Xu Mới : 6336
+- Xu Thay Đổi : -5000
+----------Thời Gian : 2023-08-27 19:14:55--------
+- Name : kkrot
+- Nội Dung : Đặt Tài
+- Xu Cũ : 6336
+- Xu Mới : 336
+- Xu Thay Đổi : -6000
+----------Thời Gian : 2023-08-27 19:18:04--------
+- Name : kkrot
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 50336
+- Xu Mới : 336
+- Xu Thay Đổi : -50000
+----------Thời Gian : 2023-08-27 19:19:23--------
+- Name : kkrot
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 90336
+- Xu Mới : 89336
+- Xu Thay Đổi : -1000
+----------Thời Gian : 2023-08-27 19:20:35--------
+- Name : kkrot
+- Nội Dung : Đặt Tài
+- Xu Cũ : 91136
+- Xu Mới : 91036
+- Xu Thay Đổi : -100
+----------Thời Gian : 2023-08-27 19:21:59--------
+- Name : kkrot
+- Nội Dung : Đặt Tài
+- Xu Cũ : 91216
+- Xu Mới : 1216
+- Xu Thay Đổi : -90000
+----------Thời Gian : 2023-08-27 19:29:29--------
+- Name : kkrot
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 3216
+- Xu Mới : 2216
+- Xu Thay Đổi : -1000
+----------Thời Gian : 2023-08-27 19:32:32--------
+- Name : kkrot
+- Nội Dung : Đặt Tài
+- Xu Cũ : 2216
+- Xu Mới : 1216
+- Xu Thay Đổi : -1000
+----------Thời Gian : 2023-08-27 19:33:53--------
+- Name : kkrot
+- Nội Dung : Đặt Tài
+- Xu Cũ : 3016
+- Xu Mới : 1216
+- Xu Thay Đổi : -1800
+----------Thời Gian : 2023-08-27 19:35:08--------
+- Name : kkrot
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1216
+- Xu Mới : 16
+- Xu Thay Đổi : -1200
+----------Thời Gian : 2023-08-27 19:36:40--------
+- Name : kkrot
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 2176
+- Xu Mới : 1076
+- Xu Thay Đổi : -1100
+----------Thời Gian : 2023-08-27 19:37:51--------
+- Name : kkrot
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1076
+- Xu Mới : 76
+- Xu Thay Đổi : -1000
+----------Thời Gian : 2023-08-27 19:39:28--------
+- Name : kkrot
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1876
+- Xu Mới : 76
+- Xu Thay Đổi : -1800
+----------Thời Gian : 2023-08-27 19:40:56--------
+- Name : kkrot
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 3316
+- Xu Mới : 2316
+- Xu Thay Đổi : -1000
+----------Thời Gian : 2023-08-27 19:53:43--------
+- Name : huynhdz123
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 909449643
+- Xu Mới : 899449643
+- Xu Thay Đổi : -10000000
+----------Thời Gian : 2023-08-27 20:19:50--------
+- Name : kkrot
+- Nội Dung : Đặt Tài
+- Xu Cũ : 4116
+- Xu Mới : 2116
+- Xu Thay Đổi : -2000
+----------Thời Gian : 2023-08-27 20:21:03--------
+- Name : kkrot
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 5716
+- Xu Mới : 2716
+- Xu Thay Đổi : -3000
+----------Thời Gian : 2023-08-27 20:24:38--------
+- Name : kkrot
+- Nội Dung : Đặt Tài
+- Xu Cũ : 8116
+- Xu Mới : 5116
+- Xu Thay Đổi : -3000
+----------Thời Gian : 2023-08-27 20:25:56--------
+- Name : kkrot
+- Nội Dung : Đặt Tài
+- Xu Cũ : 10516
+- Xu Mới : 516
+- Xu Thay Đổi : -10000
+----------Thời Gian : 2023-08-27 20:27:17--------
+- Name : kkrot
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 18516
+- Xu Mới : 13516
+- Xu Thay Đổi : -5000
+----------Thời Gian : 2023-08-27 20:28:48--------
+- Name : kkrot
+- Nội Dung : Đặt Tài
+- Xu Cũ : 73516
+- Xu Mới : 516
+- Xu Thay Đổi : -73000
+----------Thời Gian : 2023-08-27 20:39:30--------
+- Name : kkrot
+- Nội Dung : Đặt Tài
+- Xu Cũ : 500516
+- Xu Mới : 300516
+- Xu Thay Đổi : -200000
+----------Thời Gian : 2023-08-27 20:41:02--------
+- Name : kkrot
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 660516
+- Xu Mới : 650516
+- Xu Thay Đổi : -10000
+----------Thời Gian : 2023-08-27 20:42:48--------
+- Name : kkrot
+- Nội Dung : Đặt Tài
+- Xu Cũ : 650516
+- Xu Mới : 630516
+- Xu Thay Đổi : -20000
+----------Thời Gian : 2023-08-27 20:43:55--------
+- Name : kkrot
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 630516
+- Xu Mới : 430516
+- Xu Thay Đổi : -200000
+----------Thời Gian : 2023-08-27 20:45:30--------
+- Name : kkrot
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 430516
+- Xu Mới : 516
+- Xu Thay Đổi : -430000
+----------Thời Gian : 2023-08-27 20:54:05--------
+- Name : kkrot102
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 940000
+- Xu Mới : 900000
+- Xu Thay Đổi : -40000
+----------Thời Gian : 2023-08-27 20:57:31--------
+- Name : mainboard
+- Nội Dung : Đặt Tài
+- Xu Cũ : 180180
+- Xu Mới : 130180
+- Xu Thay Đổi : -50000
+----------Thời Gian : 2023-08-27 20:58:55--------
+- Name : mainboard
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 130180
+- Xu Mới : 30180
+- Xu Thay Đổi : -100000
+----------Thời Gian : 2023-08-27 21:00:21--------
+- Name : mainboard
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 30180
+- Xu Mới : 180
+- Xu Thay Đổi : -30000
+----------Thời Gian : 2023-08-27 21:46:16--------
+- Name : concactao
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 313857737
+- Xu Mới : 213857737
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-08-27 21:47:43--------
+- Name : concactao
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 393857737
+- Xu Mới : 293857737
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-08-27 21:49:28--------
+- Name : concactao
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 473857737
+- Xu Mới : 373857737
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-08-27 21:50:36--------
+- Name : concactao
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 553857737
+- Xu Mới : 453857737
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-08-27 21:52:00--------
+- Name : concactao
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 633857737
+- Xu Mới : 533857737
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-08-27 21:53:11--------
+- Name : concactao
+- Nội Dung : Đặt Tài
+- Xu Cũ : 533857737
+- Xu Mới : 433857737
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-08-27 21:54:22--------
+- Name : concactao
+- Nội Dung : Đặt Tài
+- Xu Cũ : 613857737
+- Xu Mới : 513857737
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-08-27 21:55:36--------
+- Name : concactao
+- Nội Dung : Đặt Tài
+- Xu Cũ : 693857737
+- Xu Mới : 593857737
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-08-27 21:56:46--------
+- Name : concactao
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 593857737
+- Xu Mới : 493857737
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-08-27 21:57:58--------
+- Name : concactao
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 203857737
+- Xu Mới : 103857737
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-08-27 21:58:17--------
+- Name : shara
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 6602002
+- Xu Mới : 602002
+- Xu Thay Đổi : -6000000
+----------Thời Gian : 2023-08-27 22:24:21--------
+- Name : ennyline
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 8277333
+- Xu Mới : 277333
+- Xu Thay Đổi : -8000000
+----------Thời Gian : 2023-08-27 22:28:57--------
+- Name : ennyline
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 277333
+- Xu Mới : 7333
+- Xu Thay Đổi : -270000

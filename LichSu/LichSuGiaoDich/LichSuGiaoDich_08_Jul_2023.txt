@@ -1,0 +1,1192 @@
+----------Thời Gian : 2023-07-08 00:38:12--------
+- Name : familyno1 Giao Dịch Với nguoiyeucu
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Dưa hấu tròn : Số Lượng : 27110
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-08 00:38:12--------
+- Name : nguoiyeucu Giao Dịch Với familyno1
+- Item Chuyển : 
+Dưa hấu tròn : Số Lượng : 27110
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-08 09:30:08--------
+- Name : watboss Giao Dịch Với killgirl
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Long Lực Đan : Số Lượng : 500
+Sinh Mệnh Đan : Số Lượng : 500
+Minh Mẫn Đan : Số Lượng : 500
+Kháng Thể Đan : Số Lượng : 500
+Pet Bóng Ma : Số Lượng : 1
+Gậy Mặt Trăng : Số Lượng : 1
+Pet Yêu Tinh : Số Lượng : 1
+Động cơ V- Power : Số Lượng : 1
+Định vị : Số Lượng : 1
+Bình Nitro : Số Lượng : 1
+Bộ điều khiển : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-08 09:30:08--------
+- Name : killgirl Giao Dịch Với watboss
+- Item Chuyển : 
+Long Lực Đan : Số Lượng : 500
+Sinh Mệnh Đan : Số Lượng : 500
+Minh Mẫn Đan : Số Lượng : 500
+Kháng Thể Đan : Số Lượng : 500
+Pet Bóng Ma : Số Lượng : 1
+Gậy Mặt Trăng : Số Lượng : 1
+Pet Yêu Tinh : Số Lượng : 1
+Động cơ V- Power : Số Lượng : 1
+Định vị : Số Lượng : 1
+Bình Nitro : Số Lượng : 1
+Bộ điều khiển : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-08 11:32:25--------
+- Name : killgirl Giao Dịch Với themditvcl
+- Item Chuyển : 
+ Động cơ V- Power : Số Lượng : 1
+ Định vị : Số Lượng : 1
+ Bộ điều khiển : Số Lượng : 1
+ Bình Nitro : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-08 11:32:25--------
+- Name : themditvcl Giao Dịch Với killgirl
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Động cơ V- Power : Số Lượng : 1
+ Định vị : Số Lượng : 1
+ Bộ điều khiển : Số Lượng : 1
+ Bình Nitro : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-08 11:33:33--------
+- Name : vipboy Giao Dịch Với killgirl
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Dây cương : Số Lượng : 1
+Thú trang : Số Lượng : 1
+Yên : Số Lượng : 1
+Giáp thú : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-08 11:33:33--------
+- Name : killgirl Giao Dịch Với vipboy
+- Item Chuyển : 
+Dây cương : Số Lượng : 1
+Thú trang : Số Lượng : 1
+Yên : Số Lượng : 1
+Giáp thú : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-08 11:38:12--------
+- Name : killgirl Giao Dịch Với laotam
+- Item Chuyển : 
+ Giáp thú : Số Lượng : 1
+ Yên : Số Lượng : 1
+ Thú trang : Số Lượng : 1
+ Dây cương : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-08 11:38:12--------
+- Name : laotam Giao Dịch Với killgirl
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Giáp thú : Số Lượng : 1
+ Yên : Số Lượng : 1
+ Thú trang : Số Lượng : 1
+ Dây cương : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-08 11:38:37--------
+- Name : trieupham Giao Dịch Với killgirl
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Bộ điều khiển : Số Lượng : 1
+Định vị : Số Lượng : 1
+Yên : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-08 11:38:37--------
+- Name : killgirl Giao Dịch Với trieupham
+- Item Chuyển : 
+Bộ điều khiển : Số Lượng : 1
+Định vị : Số Lượng : 1
+Yên : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-08 12:12:08--------
+- Name : theking Giao Dịch Với supperidol
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Yên : Số Lượng : 1
+Dây cương : Số Lượng : 1
+Giáp thú : Số Lượng : 1
+Thú trang : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-08 12:24:04--------
+- Name : supperidol Giao Dịch Với theking
+- Item Chuyển : 
+Yên : Số Lượng : 1
+Dây cương : Số Lượng : 1
+Giáp thú : Số Lượng : 1
+Thú trang : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-08 12:25:26--------
+- Name : theking Giao Dịch Với overlord
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Nhật Tử Lam Phong : Số Lượng : 1
+Gậy Mặt Trăng : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-08 12:25:26--------
+- Name : overlord Giao Dịch Với theking
+- Item Chuyển : 
+Nhật Tử Lam Phong : Số Lượng : 1
+Gậy Mặt Trăng : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-08 13:11:16--------
+- Name : watboss Giao Dịch Với killgirl
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Rương Ngọc : Số Lượng : 5846
+Mảnh giấy vụn : Số Lượng : 80
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-08 13:11:16--------
+- Name : killgirl Giao Dịch Với watboss
+- Item Chuyển : 
+Rương Ngọc : Số Lượng : 5846
+Mảnh giấy vụn : Số Lượng : 80
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-08 13:35:23--------
+- Name : watboss Giao Dịch Với killgirl
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Lục Ngọc : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-08 13:35:23--------
+- Name : killgirl Giao Dịch Với watboss
+- Item Chuyển : 
+Lục Ngọc : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-08 13:45:50--------
+- Name : quatvaolon Giao Dịch Với watboss
+- Item Chuyển : 
+ Hakairo Yoroi : Số Lượng : 1
+ Hakairo Yoroi : Số Lượng : 1
+ Hakairo Yoroi : Số Lượng : 1
+ Hakairo Yoroi : Số Lượng : 1
+ Hakairo Yoroi : Số Lượng : 1
+ Hakairo Yoroi : Số Lượng : 1
+ Hakairo Yoroi : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-08 13:45:50--------
+- Name : watboss Giao Dịch Với quatvaolon
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Hakairo Yoroi : Số Lượng : 1
+ Hakairo Yoroi : Số Lượng : 1
+ Hakairo Yoroi : Số Lượng : 1
+ Hakairo Yoroi : Số Lượng : 1
+ Hakairo Yoroi : Số Lượng : 1
+ Hakairo Yoroi : Số Lượng : 1
+ Hakairo Yoroi : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-08 13:46:56--------
+- Name : quatvaolon Giao Dịch Với watboss
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Hakairo Yoroi : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-08 13:46:56--------
+- Name : watboss Giao Dịch Với quatvaolon
+- Item Chuyển : 
+Hakairo Yoroi : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-08 14:08:09--------
+- Name : quanghuy Giao Dịch Với quatvaolon
+- Item Chuyển : 
+ Minh Mẫn Đan : Số Lượng : 8986
+ Sinh Mệnh Đan : Số Lượng : 4584
+ Kháng Thể Đan : Số Lượng : 8972
+ Long Lực Đan : Số Lượng : 4543
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Rương Ngọc : Số Lượng : 3265
+Thông linh thảo : Số Lượng : 1690
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-08 14:08:09--------
+- Name : quatvaolon Giao Dịch Với quanghuy
+- Item Chuyển : 
+Rương Ngọc : Số Lượng : 3265
+Thông linh thảo : Số Lượng : 1690
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Minh Mẫn Đan : Số Lượng : 8986
+ Sinh Mệnh Đan : Số Lượng : 4584
+ Kháng Thể Đan : Số Lượng : 8972
+ Long Lực Đan : Số Lượng : 4543
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-08 14:08:30--------
+- Name : kunai Giao Dịch Với quanghuy
+- Item Chuyển : 
+ Rương Ngọc : Số Lượng : 3697
+ Thông linh thảo : Số Lượng : 1964
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-08 14:08:30--------
+- Name : quanghuy Giao Dịch Với kunai
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Rương Ngọc : Số Lượng : 3697
+ Thông linh thảo : Số Lượng : 1964
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-08 14:46:32--------
+- Name : quatvaolon Giao Dịch Với quanghuy
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Rương Ngọc : Số Lượng : 5000
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-08 14:46:32--------
+- Name : quanghuy Giao Dịch Với quatvaolon
+- Item Chuyển : 
+Rương Ngọc : Số Lượng : 5000
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-08 15:09:50--------
+- Name : quatvaolon Giao Dịch Với quanghuy
+- Item Chuyển : 
+ Lam Tinh Ngọc : Số Lượng : 1
+ Hakairo Yoroi : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-08 15:09:50--------
+- Name : quanghuy Giao Dịch Với quatvaolon
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Lam Tinh Ngọc : Số Lượng : 1
+ Hakairo Yoroi : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-08 15:34:38--------
+- Name : dailong Giao Dịch Với hongkong
+- Item Chuyển : 
+ Bình Nitro : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Haggis : Số Lượng : 1
+Haggis : Số Lượng : 1
+Haggis : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-08 15:34:38--------
+- Name : hongkong Giao Dịch Với dailong
+- Item Chuyển : 
+Haggis : Số Lượng : 1
+Haggis : Số Lượng : 1
+Haggis : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Bình Nitro : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-08 15:55:43--------
+- Name : quanghuy Giao Dịch Với quatvaolon
+- Item Chuyển : 
+ Rương Ngọc : Số Lượng : 8565
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-08 15:55:43--------
+- Name : quatvaolon Giao Dịch Với quanghuy
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Rương Ngọc : Số Lượng : 8565
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-08 16:07:20--------
+- Name : quanghuy Giao Dịch Với quatvaolon
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Lam Tinh Ngọc : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-08 16:07:20--------
+- Name : quatvaolon Giao Dịch Với quanghuy
+- Item Chuyển : 
+Lam Tinh Ngọc : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-08 16:07:44--------
+- Name : quatvaolon Giao Dịch Với quanghuy
+- Item Chuyển : 
+ Rương Ngọc : Số Lượng : 12566
+ Đá danh vọng cấp 2 : Số Lượng : 9004
+ Đá danh vọng cấp 1 : Số Lượng : 11044
+ Long Lực Đan : Số Lượng : 6762
+ Minh Mẫn Đan : Số Lượng : 13474
+ Sinh Mệnh Đan : Số Lượng : 6836
+ Kháng Thể Đan : Số Lượng : 13392
+ Mảnh giấy vụn : Số Lượng : 852
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-08 16:07:44--------
+- Name : quanghuy Giao Dịch Với quatvaolon
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Rương Ngọc : Số Lượng : 12566
+ Đá danh vọng cấp 2 : Số Lượng : 9004
+ Đá danh vọng cấp 1 : Số Lượng : 11044
+ Long Lực Đan : Số Lượng : 6762
+ Minh Mẫn Đan : Số Lượng : 13474
+ Sinh Mệnh Đan : Số Lượng : 6836
+ Kháng Thể Đan : Số Lượng : 13392
+ Mảnh giấy vụn : Số Lượng : 852
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-08 16:12:47--------
+- Name : hongkong Giao Dịch Với dailong
+- Item Chuyển : 
+ Pet Yêu Tinh : Số Lượng : 1
+ Pet Yêu Tinh : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-08 16:12:47--------
+- Name : dailong Giao Dịch Với hongkong
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Pet Yêu Tinh : Số Lượng : 1
+ Pet Yêu Tinh : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-08 16:19:14--------
+- Name : hongkong Giao Dịch Với dailong
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Dây cương : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-08 16:19:14--------
+- Name : dailong Giao Dịch Với hongkong
+- Item Chuyển : 
+Dây cương : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-08 16:19:48--------
+- Name : dailong Giao Dịch Với hongkong
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Mảnh giấy vụn : Số Lượng : 149
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-08 16:19:48--------
+- Name : hongkong Giao Dịch Với dailong
+- Item Chuyển : 
+Mảnh giấy vụn : Số Lượng : 149
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-08 16:25:24--------
+- Name : tiger Giao Dịch Với dailong
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Bộ điều khiển : Số Lượng : 1
+Yên : Số Lượng : 1
+Dây cương : Số Lượng : 1
+Động cơ V- Power : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-08 16:25:24--------
+- Name : dailong Giao Dịch Với tiger
+- Item Chuyển : 
+Bộ điều khiển : Số Lượng : 1
+Yên : Số Lượng : 1
+Dây cương : Số Lượng : 1
+Động cơ V- Power : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-08 16:29:43--------
+- Name : dailong Giao Dịch Với nguoiyeucu
+- Item Chuyển : 
+ Bộ điều khiển : Số Lượng : 1
+ Động cơ V- Power : Số Lượng : 1
+ Yên : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-08 16:29:43--------
+- Name : nguoiyeucu Giao Dịch Với dailong
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Bộ điều khiển : Số Lượng : 1
+ Động cơ V- Power : Số Lượng : 1
+ Yên : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-08 16:30:33--------
+- Name : dailong Giao Dịch Với top1sever
+- Item Chuyển : 
+ Thú trang : Số Lượng : 1
+ Động cơ V- Power : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-08 16:30:33--------
+- Name : top1sever Giao Dịch Với dailong
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Thú trang : Số Lượng : 1
+ Động cơ V- Power : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-08 16:32:58--------
+- Name : trieupham Giao Dịch Với dailong
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Động cơ V- Power : Số Lượng : 1
+Thú trang : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-08 16:32:58--------
+- Name : dailong Giao Dịch Với trieupham
+- Item Chuyển : 
+Động cơ V- Power : Số Lượng : 1
+Thú trang : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-08 19:52:09--------
+- Name : administrator Giao Dịch Với adminsever
+- Item Chuyển : 
+ Harley Davidson : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Hắc ngưu : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-08 19:52:09--------
+- Name : adminsever Giao Dịch Với administrator
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Harley Davidson : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Hắc ngưu : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-08 19:53:09--------
+- Name : administrator Giao Dịch Với adminsever
+- Item Chuyển : 
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Gậy Trái Tim : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-08 19:53:09--------
+- Name : adminsever Giao Dịch Với administrator
+- Item Chuyển : 
+Gậy Trái Tim : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-08 19:53:52--------
+- Name : administrator Giao Dịch Với adminsever
+- Item Chuyển : 
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-08 19:53:52--------
+- Name : adminsever Giao Dịch Với administrator
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-08 19:54:25--------
+- Name : administrator Giao Dịch Với adminsever
+- Item Chuyển : 
+ Hắc ngưu : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Mặt Nạ Hổ Nam : Số Lượng : 1
+ Nhật Tử Lam Phong : Số Lượng : 1
+ Hắc ngưu : Số Lượng : 1
+ Hắc ngưu : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-08 19:54:25--------
+- Name : adminsever Giao Dịch Với administrator
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Hắc ngưu : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+ Mặt Nạ Hổ Nam : Số Lượng : 1
+ Nhật Tử Lam Phong : Số Lượng : 1
+ Hắc ngưu : Số Lượng : 1
+ Hắc ngưu : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-08 21:08:15--------
+- Name : trum39 Giao Dịch Với thanhdat
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Pet Bóng Ma : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-08 21:08:15--------
+- Name : thanhdat Giao Dịch Với trum39
+- Item Chuyển : 
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Pet Bóng Ma : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-08 21:23:42--------
+- Name : trum39 Giao Dịch Với thanhdat
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-08 21:23:42--------
+- Name : thanhdat Giao Dịch Với trum39
+- Item Chuyển : 
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-08 21:51:37--------
+- Name : babyb0yover Giao Dịch Với adminsever
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Long Lực Đan : Số Lượng : 100
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-08 21:51:37--------
+- Name : adminsever Giao Dịch Với babyb0yover
+- Item Chuyển : 
+Long Lực Đan : Số Lượng : 100
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-08 22:13:03--------
+- Name : pedro Giao Dịch Với aobamaki
+- Item Chuyển : 
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Pet Bóng Ma : Số Lượng : 1
+ Pet Yêu Tinh : Số Lượng : 1
+ Gậy Mặt Trăng : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-08 22:13:03--------
+- Name : aobamaki Giao Dịch Với pedro
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Xích Nhãn Ngân Lang : Số Lượng : 1
+ Pet Bóng Ma : Số Lượng : 1
+ Pet Yêu Tinh : Số Lượng : 1
+ Gậy Mặt Trăng : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-08 22:29:31--------
+- Name : luongbboiz Giao Dịch Với yennhi
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Tôm hùm : Số Lượng : 1
+Gà Tây : Số Lượng : 1
+Tôm hùm : Số Lượng : 1
+Bảo hiểm sơ cấp : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-08 22:29:31--------
+- Name : yennhi Giao Dịch Với luongbboiz
+- Item Chuyển : 
+Tôm hùm : Số Lượng : 1
+Gà Tây : Số Lượng : 1
+Tôm hùm : Số Lượng : 1
+Bảo hiểm sơ cấp : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-08 22:33:59--------
+- Name : administrator Giao Dịch Với adminsever
+- Item Chuyển : 
+ Mặt nạ Super Broly : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-08 22:33:59--------
+- Name : adminsever Giao Dịch Với administrator
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Mặt nạ Super Broly : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-08 22:45:21--------
+- Name : aobamaki Giao Dịch Với pedro
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Pet Bóng Ma : Số Lượng : 1
+Mặt Nạ Hổ Nam : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-08 22:45:21--------
+- Name : pedro Giao Dịch Với aobamaki
+- Item Chuyển : 
+Pet Bóng Ma : Số Lượng : 1
+Mặt Nạ Hổ Nam : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-08 22:47:28--------
+- Name : babyb0yover Giao Dịch Với emdayvip
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Kháng Thể Đan : Số Lượng : 43
+Sinh Mệnh Đan : Số Lượng : 41
+Minh Mẫn Đan : Số Lượng : 31
+Long Lực Đan : Số Lượng : 34
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-08 22:47:28--------
+- Name : emdayvip Giao Dịch Với babyb0yover
+- Item Chuyển : 
+Kháng Thể Đan : Số Lượng : 43
+Sinh Mệnh Đan : Số Lượng : 41
+Minh Mẫn Đan : Số Lượng : 31
+Long Lực Đan : Số Lượng : 34
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-08 22:57:59--------
+- Name : aobamaki Giao Dịch Với pedro
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-08 22:57:59--------
+- Name : pedro Giao Dịch Với aobamaki
+- Item Chuyển : 
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-08 22:58:26--------
+- Name : aobamaki Giao Dịch Với pedro
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-08 22:58:26--------
+- Name : pedro Giao Dịch Với aobamaki
+- Item Chuyển : 
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+Harley Davidson : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-08 23:35:53--------
+- Name : luongbboiz Giao Dịch Với marja
+- Item Chuyển : 
+ Harley Davidson : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Bí kíp Đao : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-08 23:35:53--------
+- Name : marja Giao Dịch Với luongbboiz
+- Item Chuyển : 
+Bí kíp Đao : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Harley Davidson : Số Lượng : 1
+ Harley Davidson : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-08 23:57:40--------
+- Name : 0igi0i0i Giao Dịch Với boyx7dz
+- Item Chuyển : 
+ Dưa hấu tròn : Số Lượng : 2514
+ Rương Ngọc : Số Lượng : 147
+ Bùa Bạch ngân : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-08 23:57:40--------
+- Name : boyx7dz Giao Dịch Với 0igi0i0i
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Dưa hấu tròn : Số Lượng : 2514
+ Rương Ngọc : Số Lượng : 147
+ Bùa Bạch ngân : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-08 23:59:01--------
+- Name : boyx7dz Giao Dịch Với 0igi0i0i
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Nhẫn Bạch ngân : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-07-08 23:59:01--------
+- Name : 0igi0i0i Giao Dịch Với boyx7dz
+- Item Chuyển : 
+Nhẫn Bạch ngân : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------

@@ -1,0 +1,294 @@
+----------Thời Gian : 2023-07-04 01:19:01--------
+- Name : admin
+- Nội Dung : Đặt Tài
+- Xu Cũ : 640000000
+- Xu Mới : 639001000
+- Xu Thay Đổi : -999000
+----------Thời Gian : 2023-07-04 17:44:24--------
+- Name : vipboyno1
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1050000
+- Xu Mới : 1040000
+- Xu Thay Đổi : -10000
+----------Thời Gian : 2023-07-04 17:56:04--------
+- Name : vipboyno1
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1058000
+- Xu Mới : 0
+- Xu Thay Đổi : -1058000
+----------Thời Gian : 2023-07-04 17:59:57--------
+- Name : vipboyno1
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1904400
+- Xu Mới : 0
+- Xu Thay Đổi : -1904400
+----------Thời Gian : 2023-07-04 19:47:24--------
+- Name : tiger02
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1000000
+- Xu Mới : 0
+- Xu Thay Đổi : -1000000
+----------Thời Gian : 2023-07-04 20:02:03--------
+- Name : changcodon
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 945004500
+- Xu Mới : 935004500
+- Xu Thay Đổi : -10000000
+----------Thời Gian : 2023-07-04 20:03:35--------
+- Name : vipboyno1
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1000000000
+- Xu Mới : 900000000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-07-04 20:05:11--------
+- Name : vipboyno1
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 850000000
+- Xu Mới : 750000000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-07-04 20:09:55--------
+- Name : vipboyno1
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 988058721
+- Xu Mới : 888058721
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-07-04 20:12:14--------
+- Name : changcodon
+- Nội Dung : Đặt Tài
+- Xu Cũ : 953004500
+- Xu Mới : 853004500
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-07-04 20:13:46--------
+- Name : vipboyno1
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1020000000
+- Xu Mới : 920000000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-07-04 20:15:21--------
+- Name : dmkaj
+- Nội Dung : Đặt Tài
+- Xu Cũ : 2000000000
+- Xu Mới : 1900000000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-07-04 20:15:43--------
+- Name : vipboyno1
+- Nội Dung : Đặt Tài
+- Xu Cũ : 900000000
+- Xu Mới : 800000000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-07-04 20:16:05--------
+- Name : changcodon
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 853004500
+- Xu Mới : 753004500
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-07-04 20:16:42--------
+- Name : changcodon
+- Nội Dung : Đặt Tài
+- Xu Cũ : 702904500
+- Xu Mới : 602904500
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-07-04 20:17:10--------
+- Name : vipboyno1
+- Nội Dung : Đặt Tài
+- Xu Cũ : 980000000
+- Xu Mới : 880000000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-07-04 20:18:09--------
+- Name : changcodon
+- Nội Dung : Đặt Tài
+- Xu Cũ : 782904500
+- Xu Mới : 682904500
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-07-04 20:19:26--------
+- Name : vipboyno1
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1030000000
+- Xu Mới : 930000000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-07-04 20:21:13--------
+- Name : vipboyno1
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 930000000
+- Xu Mới : 830000000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-07-04 20:21:51--------
+- Name : baby9x
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 801788291
+- Xu Mới : 701788291
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-07-04 20:22:40--------
+- Name : vipboyno1
+- Nội Dung : Đặt Tài
+- Xu Cũ : 980000000
+- Xu Mới : 880000000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-07-04 20:23:12--------
+- Name : baby9x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 881788291
+- Xu Mới : 871788291
+- Xu Thay Đổi : -10000000
+----------Thời Gian : 2023-07-04 20:23:52--------
+- Name : baby9x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 978460555
+- Xu Mới : 878460555
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-07-04 20:24:57--------
+- Name : vipboyno1
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1060000000
+- Xu Mới : 960000000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-07-04 20:25:18--------
+- Name : baby9x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1008460555
+- Xu Mới : 908460555
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-07-04 20:26:17--------
+- Name : baby9x
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 908460555
+- Xu Mới : 898460555
+- Xu Thay Đổi : -10000000
+----------Thời Gian : 2023-07-04 20:26:39--------
+- Name : vipboyno1
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1140000000
+- Xu Mới : 1040000000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-07-04 20:28:24--------
+- Name : vipboyno1
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1040000000
+- Xu Mới : 940000000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-07-04 20:31:34--------
+- Name : vipboyno1
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1165500000
+- Xu Mới : 1065500000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-07-04 20:32:44--------
+- Name : vipboyno1
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1245500000
+- Xu Mới : 1145500000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-07-04 20:34:47--------
+- Name : vipboyno1
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1145500000
+- Xu Mới : 1045500000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-07-04 20:41:26--------
+- Name : vipboyno1
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1180000000
+- Xu Mới : 1080000000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-07-04 21:11:43--------
+- Name : c0bebandam
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1001000000
+- Xu Mới : 1000000000
+- Xu Thay Đổi : -1000000
+----------Thời Gian : 2023-07-04 21:27:45--------
+- Name : vipboyno1
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1080000000
+- Xu Mới : 980000000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-07-04 21:30:15--------
+- Name : vipboyno1
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1160000000
+- Xu Mới : 1060000000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-07-04 21:31:30--------
+- Name : vipboyno1
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1240000000
+- Xu Mới : 1140000000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-07-04 21:34:08--------
+- Name : vipboyno1
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1320000000
+- Xu Mới : 1220000000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-07-04 21:39:37--------
+- Name : vipboyno1
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1220000000
+- Xu Mới : 1120000000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-07-04 21:44:50--------
+- Name : vipboyno1
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1120000000
+- Xu Mới : 1020000000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-07-04 21:58:11--------
+- Name : vipboyno1
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1019880000
+- Xu Mới : 919880000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-07-04 21:59:49--------
+- Name : vipboyno1
+- Nội Dung : Đặt Tài
+- Xu Cũ : 919880000
+- Xu Mới : 819880000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-07-04 22:06:47--------
+- Name : vipboyno1
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 999880000
+- Xu Mới : 899880000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-07-04 22:12:40--------
+- Name : vipboyno1
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1079880000
+- Xu Mới : 979880000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-07-04 22:15:10--------
+- Name : vipboyno1
+- Nội Dung : Đặt Tài
+- Xu Cũ : 979880000
+- Xu Mới : 879880000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-07-04 22:17:36--------
+- Name : vipboyno1
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 879880000
+- Xu Mới : 779880000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-07-04 22:21:12--------
+- Name : vipboyno1
+- Nội Dung : Đặt Tài
+- Xu Cũ : 779880000
+- Xu Mới : 679880000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-07-04 22:51:06--------
+- Name : vipboyno1
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1999990000
+- Xu Mới : 1899990000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-07-04 23:16:53--------
+- Name : anhduy
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1994754120
+- Xu Mới : 1994654120
+- Xu Thay Đổi : -100000
+----------Thời Gian : 2023-07-04 23:20:05--------
+- Name : daigia01
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1999990000
+- Xu Mới : 1949990000
+- Xu Thay Đổi : -50000000

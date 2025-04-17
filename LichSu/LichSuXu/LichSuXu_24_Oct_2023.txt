@@ -1,0 +1,1602 @@
+----------Thời Gian : 2023-10-24 00:13:38--------
+- Name : admin1st
+- Tên Giao Dịch :  Góp vào gia tộc 
+- Xu Cũ : 1000750000
+- Xu Mới : 500750000
+- Xu Thay Đổi :-500000000Xu 
+----------Thời Gian : 2023-10-24 00:16:10--------
+- Name : tennhanvat
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 1090000000
+- Xu Mới : 1089000000
+- Xu Thay Đổi :1089000000Xu 
+----------Thời Gian : 2023-10-24 00:16:36--------
+- Name : tennhanvat
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 1089000000
+- Xu Mới : 1088000000
+- Xu Thay Đổi :1088000000Xu 
+----------Thời Gian : 2023-10-24 00:16:55--------
+- Name : tennhanvat
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 1088000000
+- Xu Mới : 1087000000
+- Xu Thay Đổi :1087000000Xu 
+----------Thời Gian : 2023-10-24 00:17:02--------
+- Name : tennhanvat
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 1087000000
+- Xu Mới : 1086000000
+- Xu Thay Đổi :1086000000Xu 
+----------Thời Gian : 2023-10-24 00:17:15--------
+- Name : admin1st
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 500750000
+- Xu Mới : 499750000
+- Xu Thay Đổi :499750000Xu 
+----------Thời Gian : 2023-10-24 00:17:28--------
+- Name : admin1st
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 499750000
+- Xu Mới : 498750000
+- Xu Thay Đổi :498750000Xu 
+----------Thời Gian : 2023-10-24 00:17:45--------
+- Name : admin1st
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 498750000
+- Xu Mới : 497750000
+- Xu Thay Đổi :497750000Xu 
+----------Thời Gian : 2023-10-24 00:18:00--------
+- Name : admin1st
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 497750000
+- Xu Mới : 496750000
+- Xu Thay Đổi :496750000Xu 
+----------Thời Gian : 2023-10-24 00:18:08--------
+- Name : tennhanvat
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 2000000000
+- Xu Mới : 1999000000
+- Xu Thay Đổi :1999000000Xu 
+----------Thời Gian : 2023-10-24 00:18:10--------
+- Name : admin1st
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 496750000
+- Xu Mới : 495750000
+- Xu Thay Đổi :495750000Xu 
+----------Thời Gian : 2023-10-24 00:18:20--------
+- Name : admin1st
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 495750000
+- Xu Mới : 494750000
+- Xu Thay Đổi :494750000Xu 
+----------Thời Gian : 2023-10-24 00:18:35--------
+- Name : admin1st
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 494750000
+- Xu Mới : 493750000
+- Xu Thay Đổi :493750000Xu 
+----------Thời Gian : 2023-10-24 00:18:40--------
+- Name : tennhanvat
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 1999000000
+- Xu Mới : 1998000000
+- Xu Thay Đổi :1998000000Xu 
+----------Thời Gian : 2023-10-24 00:18:46--------
+- Name : tennhanvat
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 1998000000
+- Xu Mới : 1997000000
+- Xu Thay Đổi :1997000000Xu 
+----------Thời Gian : 2023-10-24 00:18:51--------
+- Name : admin1st
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 493750000
+- Xu Mới : 493650000
+- Xu Thay Đổi :-100000Xu 
+----------Thời Gian : 2023-10-24 00:19:19--------
+- Name : tennhanvat
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 1997000000
+- Xu Mới : 1996000000
+- Xu Thay Đổi :1996000000Xu 
+----------Thời Gian : 2023-10-24 00:19:29--------
+- Name : tennhanvat
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 1996000000
+- Xu Mới : 1995000000
+- Xu Thay Đổi :1995000000Xu 
+----------Thời Gian : 2023-10-24 00:19:41--------
+- Name : tennhanvat
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 1995000000
+- Xu Mới : 1994000000
+- Xu Thay Đổi :1994000000Xu 
+----------Thời Gian : 2023-10-24 00:19:55--------
+- Name : tennhanvat
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 1994000000
+- Xu Mới : 1993000000
+- Xu Thay Đổi :1993000000Xu 
+----------Thời Gian : 2023-10-24 00:20:05--------
+- Name : tennhanvat
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 1993000000
+- Xu Mới : 1992000000
+- Xu Thay Đổi :1992000000Xu 
+----------Thời Gian : 2023-10-24 00:20:50--------
+- Name : admin1st
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 493650000
+- Xu Mới : 493150000
+- Xu Thay Đổi :-500000Xu 
+----------Thời Gian : 2023-10-24 00:20:53--------
+- Name : tennhanvat
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 1992000000
+- Xu Mới : 1991000000
+- Xu Thay Đổi :1991000000Xu 
+----------Thời Gian : 2023-10-24 00:21:00--------
+- Name : tennhanvat
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 1991000000
+- Xu Mới : 1990000000
+- Xu Thay Đổi :1990000000Xu 
+----------Thời Gian : 2023-10-24 00:21:02--------
+- Name : admin1st
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 493150000
+- Xu Mới : 492150000
+- Xu Thay Đổi :-1000000Xu 
+----------Thời Gian : 2023-10-24 00:21:10--------
+- Name : tennhanvat
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 1990000000
+- Xu Mới : 1989000000
+- Xu Thay Đổi :1989000000Xu 
+----------Thời Gian : 2023-10-24 00:21:12--------
+- Name : admin1st
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 492150000
+- Xu Mới : 490650000
+- Xu Thay Đổi :-1500000Xu 
+----------Thời Gian : 2023-10-24 00:21:21--------
+- Name : admin1st
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 490650000
+- Xu Mới : 488650000
+- Xu Thay Đổi :-2000000Xu 
+----------Thời Gian : 2023-10-24 00:21:26--------
+- Name : tennhanvat
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 1989000000
+- Xu Mới : 1988000000
+- Xu Thay Đổi :1988000000Xu 
+----------Thời Gian : 2023-10-24 00:21:31--------
+- Name : admin1st
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 488650000
+- Xu Mới : 486150000
+- Xu Thay Đổi :-2500000Xu 
+----------Thời Gian : 2023-10-24 00:21:33--------
+- Name : tennhanvat
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 1988000000
+- Xu Mới : 1987000000
+- Xu Thay Đổi :1987000000Xu 
+----------Thời Gian : 2023-10-24 00:21:34--------
+- Name : admin1st
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 486150000
+- Xu Mới : 483650000
+- Xu Thay Đổi :-2500000Xu 
+----------Thời Gian : 2023-10-24 00:21:39--------
+- Name : tennhanvat
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 1987000000
+- Xu Mới : 1986000000
+- Xu Thay Đổi :1986000000Xu 
+----------Thời Gian : 2023-10-24 00:21:43--------
+- Name : admin1st
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 483650000
+- Xu Mới : 480650000
+- Xu Thay Đổi :-3000000Xu 
+----------Thời Gian : 2023-10-24 00:21:46--------
+- Name : tennhanvat
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 1986000000
+- Xu Mới : 1985000000
+- Xu Thay Đổi :1985000000Xu 
+----------Thời Gian : 2023-10-24 00:21:54--------
+- Name : admin1st
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 480650000
+- Xu Mới : 477150000
+- Xu Thay Đổi :-3500000Xu 
+----------Thời Gian : 2023-10-24 00:22:04--------
+- Name : admin1st
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 477150000
+- Xu Mới : 473150000
+- Xu Thay Đổi :-4000000Xu 
+----------Thời Gian : 2023-10-24 00:22:06--------
+- Name : admin1st
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 473150000
+- Xu Mới : 469150000
+- Xu Thay Đổi :-4000000Xu 
+----------Thời Gian : 2023-10-24 00:22:10--------
+- Name : admin1st
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 469150000
+- Xu Mới : 465150000
+- Xu Thay Đổi :-4000000Xu 
+----------Thời Gian : 2023-10-24 00:22:13--------
+- Name : admin1st
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 465150000
+- Xu Mới : 461150000
+- Xu Thay Đổi :-4000000Xu 
+----------Thời Gian : 2023-10-24 00:22:23--------
+- Name : admin1st
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 461150000
+- Xu Mới : 456650000
+- Xu Thay Đổi :-4500000Xu 
+----------Thời Gian : 2023-10-24 00:22:26--------
+- Name : admin1st
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 456650000
+- Xu Mới : 452150000
+- Xu Thay Đổi :-4500000Xu 
+----------Thời Gian : 2023-10-24 00:22:29--------
+- Name : admin1st
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 452150000
+- Xu Mới : 447650000
+- Xu Thay Đổi :-4500000Xu 
+----------Thời Gian : 2023-10-24 00:22:29--------
+- Name : tennhanvat
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 1985000000
+- Xu Mới : 1984000000
+- Xu Thay Đổi :1984000000Xu 
+----------Thời Gian : 2023-10-24 00:22:35--------
+- Name : admin1st
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 447650000
+- Xu Mới : 443150000
+- Xu Thay Đổi :-4500000Xu 
+----------Thời Gian : 2023-10-24 00:22:38--------
+- Name : admin1st
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 443150000
+- Xu Mới : 438650000
+- Xu Thay Đổi :-4500000Xu 
+----------Thời Gian : 2023-10-24 00:22:41--------
+- Name : admin1st
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 438650000
+- Xu Mới : 434150000
+- Xu Thay Đổi :-4500000Xu 
+----------Thời Gian : 2023-10-24 00:22:43--------
+- Name : admin1st
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 434150000
+- Xu Mới : 429650000
+- Xu Thay Đổi :-4500000Xu 
+----------Thời Gian : 2023-10-24 00:22:46--------
+- Name : admin1st
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 429650000
+- Xu Mới : 425150000
+- Xu Thay Đổi :-4500000Xu 
+----------Thời Gian : 2023-10-24 00:22:48--------
+- Name : tennhanvat
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 1984000000
+- Xu Mới : 1983000000
+- Xu Thay Đổi :1983000000Xu 
+----------Thời Gian : 2023-10-24 00:22:56--------
+- Name : tennhanvat
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 1983000000
+- Xu Mới : 1982000000
+- Xu Thay Đổi :1982000000Xu 
+----------Thời Gian : 2023-10-24 00:22:58--------
+- Name : admin1st
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 425150000
+- Xu Mới : 420150000
+- Xu Thay Đổi :-5000000Xu 
+----------Thời Gian : 2023-10-24 00:23:01--------
+- Name : admin1st
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 420150000
+- Xu Mới : 415150000
+- Xu Thay Đổi :-5000000Xu 
+----------Thời Gian : 2023-10-24 00:23:03--------
+- Name : admin1st
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 415150000
+- Xu Mới : 410150000
+- Xu Thay Đổi :-5000000Xu 
+----------Thời Gian : 2023-10-24 00:23:05--------
+- Name : admin1st
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 410150000
+- Xu Mới : 405150000
+- Xu Thay Đổi :-5000000Xu 
+----------Thời Gian : 2023-10-24 00:23:08--------
+- Name : admin1st
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 405150000
+- Xu Mới : 400150000
+- Xu Thay Đổi :-5000000Xu 
+----------Thời Gian : 2023-10-24 00:23:10--------
+- Name : admin1st
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 400150000
+- Xu Mới : 395150000
+- Xu Thay Đổi :-5000000Xu 
+----------Thời Gian : 2023-10-24 00:23:13--------
+- Name : admin1st
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 395150000
+- Xu Mới : 390150000
+- Xu Thay Đổi :-5000000Xu 
+----------Thời Gian : 2023-10-24 00:23:16--------
+- Name : admin1st
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 390150000
+- Xu Mới : 385150000
+- Xu Thay Đổi :-5000000Xu 
+----------Thời Gian : 2023-10-24 00:23:18--------
+- Name : admin1st
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 385150000
+- Xu Mới : 380150000
+- Xu Thay Đổi :-5000000Xu 
+----------Thời Gian : 2023-10-24 00:23:22--------
+- Name : tennhanvat
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 1982000000
+- Xu Mới : 1981000000
+- Xu Thay Đổi :1981000000Xu 
+----------Thời Gian : 2023-10-24 00:23:23--------
+- Name : admin1st
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 380150000
+- Xu Mới : 375150000
+- Xu Thay Đổi :-5000000Xu 
+----------Thời Gian : 2023-10-24 00:23:26--------
+- Name : admin1st
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 375150000
+- Xu Mới : 370150000
+- Xu Thay Đổi :-5000000Xu 
+----------Thời Gian : 2023-10-24 00:23:28--------
+- Name : admin1st
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 370150000
+- Xu Mới : 365150000
+- Xu Thay Đổi :-5000000Xu 
+----------Thời Gian : 2023-10-24 00:23:30--------
+- Name : tennhanvat
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 1981000000
+- Xu Mới : 1980000000
+- Xu Thay Đổi :1980000000Xu 
+----------Thời Gian : 2023-10-24 00:23:31--------
+- Name : admin1st
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 365150000
+- Xu Mới : 360150000
+- Xu Thay Đổi :-5000000Xu 
+----------Thời Gian : 2023-10-24 00:23:38--------
+- Name : admin1st
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 360150000
+- Xu Mới : 355150000
+- Xu Thay Đổi :-5000000Xu 
+----------Thời Gian : 2023-10-24 00:23:40--------
+- Name : tennhanvat
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 1980000000
+- Xu Mới : 1979000000
+- Xu Thay Đổi :1979000000Xu 
+----------Thời Gian : 2023-10-24 00:23:47--------
+- Name : tennhanvat
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 1979000000
+- Xu Mới : 1978000000
+- Xu Thay Đổi :1978000000Xu 
+----------Thời Gian : 2023-10-24 00:23:49--------
+- Name : admin1st
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 355150000
+- Xu Mới : 349650000
+- Xu Thay Đổi :-5500000Xu 
+----------Thời Gian : 2023-10-24 00:23:51--------
+- Name : admin1st
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 349650000
+- Xu Mới : 344150000
+- Xu Thay Đổi :-5500000Xu 
+----------Thời Gian : 2023-10-24 00:23:54--------
+- Name : admin1st
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 344150000
+- Xu Mới : 338650000
+- Xu Thay Đổi :-5500000Xu 
+----------Thời Gian : 2023-10-24 00:23:56--------
+- Name : admin1st
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 338650000
+- Xu Mới : 333150000
+- Xu Thay Đổi :-5500000Xu 
+----------Thời Gian : 2023-10-24 00:23:57--------
+- Name : tennhanvat
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 1978000000
+- Xu Mới : 1977000000
+- Xu Thay Đổi :1977000000Xu 
+----------Thời Gian : 2023-10-24 00:23:58--------
+- Name : admin1st
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 333150000
+- Xu Mới : 327650000
+- Xu Thay Đổi :-5500000Xu 
+----------Thời Gian : 2023-10-24 00:24:00--------
+- Name : admin1st
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 327650000
+- Xu Mới : 322150000
+- Xu Thay Đổi :-5500000Xu 
+----------Thời Gian : 2023-10-24 00:24:03--------
+- Name : admin1st
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 322150000
+- Xu Mới : 316650000
+- Xu Thay Đổi :-5500000Xu 
+----------Thời Gian : 2023-10-24 00:24:05--------
+- Name : tennhanvat
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 1977000000
+- Xu Mới : 1976000000
+- Xu Thay Đổi :1976000000Xu 
+----------Thời Gian : 2023-10-24 00:24:14--------
+- Name : admin1st
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 316650000
+- Xu Mới : 310650000
+- Xu Thay Đổi :-6000000Xu 
+----------Thời Gian : 2023-10-24 00:24:17--------
+- Name : admin1st
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 310650000
+- Xu Mới : 304650000
+- Xu Thay Đổi :-6000000Xu 
+----------Thời Gian : 2023-10-24 00:24:19--------
+- Name : admin1st
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 304650000
+- Xu Mới : 298650000
+- Xu Thay Đổi :-6000000Xu 
+----------Thời Gian : 2023-10-24 00:24:21--------
+- Name : admin1st
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 298650000
+- Xu Mới : 292650000
+- Xu Thay Đổi :-6000000Xu 
+----------Thời Gian : 2023-10-24 00:24:23--------
+- Name : admin1st
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 292650000
+- Xu Mới : 286650000
+- Xu Thay Đổi :-6000000Xu 
+----------Thời Gian : 2023-10-24 00:24:25--------
+- Name : admin1st
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 286650000
+- Xu Mới : 280650000
+- Xu Thay Đổi :-6000000Xu 
+----------Thời Gian : 2023-10-24 00:24:28--------
+- Name : admin1st
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 280650000
+- Xu Mới : 274650000
+- Xu Thay Đổi :-6000000Xu 
+----------Thời Gian : 2023-10-24 00:24:30--------
+- Name : admin1st
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 274650000
+- Xu Mới : 268650000
+- Xu Thay Đổi :-6000000Xu 
+----------Thời Gian : 2023-10-24 00:24:30--------
+- Name : tennhanvat
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 1976000000
+- Xu Mới : 1975000000
+- Xu Thay Đổi :1975000000Xu 
+----------Thời Gian : 2023-10-24 00:24:32--------
+- Name : admin1st
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 268650000
+- Xu Mới : 262650000
+- Xu Thay Đổi :-6000000Xu 
+----------Thời Gian : 2023-10-24 00:24:35--------
+- Name : admin1st
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 262650000
+- Xu Mới : 256650000
+- Xu Thay Đổi :-6000000Xu 
+----------Thời Gian : 2023-10-24 00:24:37--------
+- Name : tennhanvat
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 1975000000
+- Xu Mới : 1974000000
+- Xu Thay Đổi :1974000000Xu 
+----------Thời Gian : 2023-10-24 00:24:45--------
+- Name : admin1st
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 256650000
+- Xu Mới : 250150000
+- Xu Thay Đổi :-6500000Xu 
+----------Thời Gian : 2023-10-24 00:24:48--------
+- Name : tennhanvat
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 1974000000
+- Xu Mới : 1973000000
+- Xu Thay Đổi :1973000000Xu 
+----------Thời Gian : 2023-10-24 00:24:48--------
+- Name : admin1st
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 250150000
+- Xu Mới : 243650000
+- Xu Thay Đổi :-6500000Xu 
+----------Thời Gian : 2023-10-24 00:24:51--------
+- Name : admin1st
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 243650000
+- Xu Mới : 237150000
+- Xu Thay Đổi :-6500000Xu 
+----------Thời Gian : 2023-10-24 00:24:53--------
+- Name : tennhanvat
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 1973000000
+- Xu Mới : 1972000000
+- Xu Thay Đổi :1972000000Xu 
+----------Thời Gian : 2023-10-24 00:24:53--------
+- Name : admin1st
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 237150000
+- Xu Mới : 230650000
+- Xu Thay Đổi :-6500000Xu 
+----------Thời Gian : 2023-10-24 00:25:03--------
+- Name : tennhanvat
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 1972000000
+- Xu Mới : 1971000000
+- Xu Thay Đổi :1971000000Xu 
+----------Thời Gian : 2023-10-24 00:25:03--------
+- Name : admin1st
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 230650000
+- Xu Mới : 223650000
+- Xu Thay Đổi :-7000000Xu 
+----------Thời Gian : 2023-10-24 00:25:06--------
+- Name : admin1st
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 223650000
+- Xu Mới : 216650000
+- Xu Thay Đổi :-7000000Xu 
+----------Thời Gian : 2023-10-24 00:25:09--------
+- Name : admin1st
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 216650000
+- Xu Mới : 209650000
+- Xu Thay Đổi :-7000000Xu 
+----------Thời Gian : 2023-10-24 00:25:14--------
+- Name : tennhanvat
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 1971000000
+- Xu Mới : 1970000000
+- Xu Thay Đổi :1970000000Xu 
+----------Thời Gian : 2023-10-24 00:25:19--------
+- Name : admin1st
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 209650000
+- Xu Mới : 201650000
+- Xu Thay Đổi :-8000000Xu 
+----------Thời Gian : 2023-10-24 00:25:22--------
+- Name : admin1st
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 201650000
+- Xu Mới : 193650000
+- Xu Thay Đổi :-8000000Xu 
+----------Thời Gian : 2023-10-24 00:25:25--------
+- Name : admin1st
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 193650000
+- Xu Mới : 185650000
+- Xu Thay Đổi :-8000000Xu 
+----------Thời Gian : 2023-10-24 00:25:28--------
+- Name : admin1st
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 185650000
+- Xu Mới : 177650000
+- Xu Thay Đổi :-8000000Xu 
+----------Thời Gian : 2023-10-24 00:25:29--------
+- Name : tennhanvat
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 1970000000
+- Xu Mới : 1969000000
+- Xu Thay Đổi :1969000000Xu 
+----------Thời Gian : 2023-10-24 00:25:30--------
+- Name : admin1st
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 177650000
+- Xu Mới : 169650000
+- Xu Thay Đổi :-8000000Xu 
+----------Thời Gian : 2023-10-24 00:25:33--------
+- Name : admin1st
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 169650000
+- Xu Mới : 161650000
+- Xu Thay Đổi :-8000000Xu 
+----------Thời Gian : 2023-10-24 00:25:35--------
+- Name : admin1st
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 161650000
+- Xu Mới : 153650000
+- Xu Thay Đổi :-8000000Xu 
+----------Thời Gian : 2023-10-24 00:25:36--------
+- Name : tennhanvat
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 1969000000
+- Xu Mới : 1968000000
+- Xu Thay Đổi :1968000000Xu 
+----------Thời Gian : 2023-10-24 00:25:38--------
+- Name : admin1st
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 153650000
+- Xu Mới : 145650000
+- Xu Thay Đổi :-8000000Xu 
+----------Thời Gian : 2023-10-24 00:25:41--------
+- Name : admin1st
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 145650000
+- Xu Mới : 137650000
+- Xu Thay Đổi :-8000000Xu 
+----------Thời Gian : 2023-10-24 00:25:43--------
+- Name : admin1st
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 137650000
+- Xu Mới : 129650000
+- Xu Thay Đổi :-8000000Xu 
+----------Thời Gian : 2023-10-24 00:25:45--------
+- Name : admin1st
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 129650000
+- Xu Mới : 121650000
+- Xu Thay Đổi :-8000000Xu 
+----------Thời Gian : 2023-10-24 00:25:48--------
+- Name : admin1st
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 121650000
+- Xu Mới : 113650000
+- Xu Thay Đổi :-8000000Xu 
+----------Thời Gian : 2023-10-24 00:25:51--------
+- Name : admin1st
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 113650000
+- Xu Mới : 105650000
+- Xu Thay Đổi :-8000000Xu 
+----------Thời Gian : 2023-10-24 00:25:53--------
+- Name : admin1st
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 105650000
+- Xu Mới : 97650000
+- Xu Thay Đổi :-8000000Xu 
+----------Thời Gian : 2023-10-24 00:25:56--------
+- Name : admin1st
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 97650000
+- Xu Mới : 89650000
+- Xu Thay Đổi :-8000000Xu 
+----------Thời Gian : 2023-10-24 00:25:58--------
+- Name : admin1st
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 89650000
+- Xu Mới : 81650000
+- Xu Thay Đổi :-8000000Xu 
+----------Thời Gian : 2023-10-24 00:26:01--------
+- Name : nsosekong
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 999990000
+- Xu Mới : 1000990000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-10-24 00:26:01--------
+- Name : admin1st
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 81650000
+- Xu Mới : 73650000
+- Xu Thay Đổi :-8000000Xu 
+----------Thời Gian : 2023-10-24 00:26:03--------
+- Name : admin1st
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 73650000
+- Xu Mới : 65650000
+- Xu Thay Đổi :-8000000Xu 
+----------Thời Gian : 2023-10-24 00:26:06--------
+- Name : admin1st
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 65650000
+- Xu Mới : 57650000
+- Xu Thay Đổi :-8000000Xu 
+----------Thời Gian : 2023-10-24 00:26:26--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1968000000
+- Xu Mới : 1967900000
+- Xu Thay Đổi :-100000Xu 
+----------Thời Gian : 2023-10-24 00:26:49--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1967900000
+- Xu Mới : 1967400000
+- Xu Thay Đổi :-500000Xu 
+----------Thời Gian : 2023-10-24 00:26:56--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1967400000
+- Xu Mới : 1966400000
+- Xu Thay Đổi :-1000000Xu 
+----------Thời Gian : 2023-10-24 00:27:03--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1966400000
+- Xu Mới : 1964900000
+- Xu Thay Đổi :-1500000Xu 
+----------Thời Gian : 2023-10-24 00:27:09--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1964900000
+- Xu Mới : 1963400000
+- Xu Thay Đổi :-1500000Xu 
+----------Thời Gian : 2023-10-24 00:27:12--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1963400000
+- Xu Mới : 1961900000
+- Xu Thay Đổi :-1500000Xu 
+----------Thời Gian : 2023-10-24 00:27:31--------
+- Name : bocuaban
+- Tên Giao Dịch :  Góp vào gia tộc 
+- Xu Cũ : 1000785000
+- Xu Mới : 800785000
+- Xu Thay Đổi :-200000000Xu 
+----------Thời Gian : 2023-10-24 00:27:42--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1961900000
+- Xu Mới : 1959900000
+- Xu Thay Đổi :-2000000Xu 
+----------Thời Gian : 2023-10-24 00:27:45--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1959900000
+- Xu Mới : 1957900000
+- Xu Thay Đổi :-2000000Xu 
+----------Thời Gian : 2023-10-24 00:27:52--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1957900000
+- Xu Mới : 1955400000
+- Xu Thay Đổi :-2500000Xu 
+----------Thời Gian : 2023-10-24 00:27:54--------
+- Name : bocuaban
+- Tên Giao Dịch :  Góp vào gia tộc 
+- Xu Cũ : 800785000
+- Xu Mới : 785000
+- Xu Thay Đổi :-800000000Xu 
+----------Thời Gian : 2023-10-24 00:28:00--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1955400000
+- Xu Mới : 1952400000
+- Xu Thay Đổi :-3000000Xu 
+----------Thời Gian : 2023-10-24 00:28:05--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1952400000
+- Xu Mới : 1949400000
+- Xu Thay Đổi :-3000000Xu 
+----------Thời Gian : 2023-10-24 00:28:08--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1949400000
+- Xu Mới : 1946400000
+- Xu Thay Đổi :-3000000Xu 
+----------Thời Gian : 2023-10-24 00:28:16--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1946400000
+- Xu Mới : 1942900000
+- Xu Thay Đổi :-3500000Xu 
+----------Thời Gian : 2023-10-24 00:28:19--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1942900000
+- Xu Mới : 1939400000
+- Xu Thay Đổi :-3500000Xu 
+----------Thời Gian : 2023-10-24 00:28:24--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1939400000
+- Xu Mới : 1935900000
+- Xu Thay Đổi :-3500000Xu 
+----------Thời Gian : 2023-10-24 00:28:31--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1935900000
+- Xu Mới : 1931900000
+- Xu Thay Đổi :-4000000Xu 
+----------Thời Gian : 2023-10-24 00:28:33--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1931900000
+- Xu Mới : 1927900000
+- Xu Thay Đổi :-4000000Xu 
+----------Thời Gian : 2023-10-24 00:28:37--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1927900000
+- Xu Mới : 1923900000
+- Xu Thay Đổi :-4000000Xu 
+----------Thời Gian : 2023-10-24 00:28:39--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1923900000
+- Xu Mới : 1919900000
+- Xu Thay Đổi :-4000000Xu 
+----------Thời Gian : 2023-10-24 00:28:45--------
+- Name : bocuaban
+- Tên Giao Dịch :  Góp vào gia tộc 
+- Xu Cũ : 1000785000
+- Xu Mới : 500785000
+- Xu Thay Đổi :-500000000Xu 
+----------Thời Gian : 2023-10-24 00:28:46--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1919900000
+- Xu Mới : 1915400000
+- Xu Thay Đổi :-4500000Xu 
+----------Thời Gian : 2023-10-24 00:28:58--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1915400000
+- Xu Mới : 1910400000
+- Xu Thay Đổi :-5000000Xu 
+----------Thời Gian : 2023-10-24 00:29:02--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1910400000
+- Xu Mới : 1905400000
+- Xu Thay Đổi :-5000000Xu 
+----------Thời Gian : 2023-10-24 00:29:12--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1905400000
+- Xu Mới : 1899900000
+- Xu Thay Đổi :-5500000Xu 
+----------Thời Gian : 2023-10-24 00:29:15--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1899900000
+- Xu Mới : 1894400000
+- Xu Thay Đổi :-5500000Xu 
+----------Thời Gian : 2023-10-24 00:29:17--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1894400000
+- Xu Mới : 1888900000
+- Xu Thay Đổi :-5500000Xu 
+----------Thời Gian : 2023-10-24 00:29:19--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1888900000
+- Xu Mới : 1883400000
+- Xu Thay Đổi :-5500000Xu 
+----------Thời Gian : 2023-10-24 00:29:21--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1883400000
+- Xu Mới : 1877900000
+- Xu Thay Đổi :-5500000Xu 
+----------Thời Gian : 2023-10-24 00:29:23--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1877900000
+- Xu Mới : 1872400000
+- Xu Thay Đổi :-5500000Xu 
+----------Thời Gian : 2023-10-24 00:29:25--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1872400000
+- Xu Mới : 1866900000
+- Xu Thay Đổi :-5500000Xu 
+----------Thời Gian : 2023-10-24 00:29:27--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1866900000
+- Xu Mới : 1861400000
+- Xu Thay Đổi :-5500000Xu 
+----------Thời Gian : 2023-10-24 00:29:42--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1861400000
+- Xu Mới : 1855900000
+- Xu Thay Đổi :-5500000Xu 
+----------Thời Gian : 2023-10-24 00:29:45--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1855900000
+- Xu Mới : 1850400000
+- Xu Thay Đổi :-5500000Xu 
+----------Thời Gian : 2023-10-24 00:29:52--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1850400000
+- Xu Mới : 1844900000
+- Xu Thay Đổi :-5500000Xu 
+----------Thời Gian : 2023-10-24 00:29:55--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1844900000
+- Xu Mới : 1839400000
+- Xu Thay Đổi :-5500000Xu 
+----------Thời Gian : 2023-10-24 00:29:57--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1839400000
+- Xu Mới : 1833900000
+- Xu Thay Đổi :-5500000Xu 
+----------Thời Gian : 2023-10-24 00:29:59--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1833900000
+- Xu Mới : 1828400000
+- Xu Thay Đổi :-5500000Xu 
+----------Thời Gian : 2023-10-24 00:30:03--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1828400000
+- Xu Mới : 1822900000
+- Xu Thay Đổi :-5500000Xu 
+----------Thời Gian : 2023-10-24 00:30:05--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1822900000
+- Xu Mới : 1817400000
+- Xu Thay Đổi :-5500000Xu 
+----------Thời Gian : 2023-10-24 00:30:09--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1817400000
+- Xu Mới : 1811900000
+- Xu Thay Đổi :-5500000Xu 
+----------Thời Gian : 2023-10-24 00:30:12--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1811900000
+- Xu Mới : 1806400000
+- Xu Thay Đổi :-5500000Xu 
+----------Thời Gian : 2023-10-24 00:30:14--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1806400000
+- Xu Mới : 1800900000
+- Xu Thay Đổi :-5500000Xu 
+----------Thời Gian : 2023-10-24 00:30:18--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1800900000
+- Xu Mới : 1795400000
+- Xu Thay Đổi :-5500000Xu 
+----------Thời Gian : 2023-10-24 00:30:20--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1795400000
+- Xu Mới : 1789900000
+- Xu Thay Đổi :-5500000Xu 
+----------Thời Gian : 2023-10-24 00:30:24--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1789900000
+- Xu Mới : 1784400000
+- Xu Thay Đổi :-5500000Xu 
+----------Thời Gian : 2023-10-24 00:30:34--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1784400000
+- Xu Mới : 1778400000
+- Xu Thay Đổi :-6000000Xu 
+----------Thời Gian : 2023-10-24 00:30:36--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1778400000
+- Xu Mới : 1772400000
+- Xu Thay Đổi :-6000000Xu 
+----------Thời Gian : 2023-10-24 00:30:38--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1772400000
+- Xu Mới : 1766400000
+- Xu Thay Đổi :-6000000Xu 
+----------Thời Gian : 2023-10-24 00:30:45--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1766400000
+- Xu Mới : 1760400000
+- Xu Thay Đổi :-6000000Xu 
+----------Thời Gian : 2023-10-24 00:31:32--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1760400000
+- Xu Mới : 1754400000
+- Xu Thay Đổi :-6000000Xu 
+----------Thời Gian : 2023-10-24 00:31:35--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1754400000
+- Xu Mới : 1748400000
+- Xu Thay Đổi :-6000000Xu 
+----------Thời Gian : 2023-10-24 00:31:37--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1748400000
+- Xu Mới : 1742400000
+- Xu Thay Đổi :-6000000Xu 
+----------Thời Gian : 2023-10-24 00:31:39--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1742400000
+- Xu Mới : 1736400000
+- Xu Thay Đổi :-6000000Xu 
+----------Thời Gian : 2023-10-24 00:31:54--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1736400000
+- Xu Mới : 1730400000
+- Xu Thay Đổi :-6000000Xu 
+----------Thời Gian : 2023-10-24 00:31:56--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1730400000
+- Xu Mới : 1724400000
+- Xu Thay Đổi :-6000000Xu 
+----------Thời Gian : 2023-10-24 00:31:59--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1724400000
+- Xu Mới : 1718400000
+- Xu Thay Đổi :-6000000Xu 
+----------Thời Gian : 2023-10-24 00:32:01--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1718400000
+- Xu Mới : 1712400000
+- Xu Thay Đổi :-6000000Xu 
+----------Thời Gian : 2023-10-24 00:32:03--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1712400000
+- Xu Mới : 1706400000
+- Xu Thay Đổi :-6000000Xu 
+----------Thời Gian : 2023-10-24 00:32:04--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1706400000
+- Xu Mới : 1700400000
+- Xu Thay Đổi :-6000000Xu 
+----------Thời Gian : 2023-10-24 00:32:06--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1700400000
+- Xu Mới : 1694400000
+- Xu Thay Đổi :-6000000Xu 
+----------Thời Gian : 2023-10-24 00:32:11--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1694400000
+- Xu Mới : 1688400000
+- Xu Thay Đổi :-6000000Xu 
+----------Thời Gian : 2023-10-24 00:32:13--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1688400000
+- Xu Mới : 1682400000
+- Xu Thay Đổi :-6000000Xu 
+----------Thời Gian : 2023-10-24 00:32:20--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1682400000
+- Xu Mới : 1675900000
+- Xu Thay Đổi :-6500000Xu 
+----------Thời Gian : 2023-10-24 00:32:34--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1675900000
+- Xu Mới : 1669400000
+- Xu Thay Đổi :-6500000Xu 
+----------Thời Gian : 2023-10-24 00:32:37--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1669400000
+- Xu Mới : 1662900000
+- Xu Thay Đổi :-6500000Xu 
+----------Thời Gian : 2023-10-24 00:32:53--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1662900000
+- Xu Mới : 1656400000
+- Xu Thay Đổi :-6500000Xu 
+----------Thời Gian : 2023-10-24 00:33:00--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1656400000
+- Xu Mới : 1649400000
+- Xu Thay Đổi :-7000000Xu 
+----------Thời Gian : 2023-10-24 00:33:03--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1649400000
+- Xu Mới : 1642400000
+- Xu Thay Đổi :-7000000Xu 
+----------Thời Gian : 2023-10-24 00:33:06--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1642400000
+- Xu Mới : 1635400000
+- Xu Thay Đổi :-7000000Xu 
+----------Thời Gian : 2023-10-24 00:33:08--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1635400000
+- Xu Mới : 1628400000
+- Xu Thay Đổi :-7000000Xu 
+----------Thời Gian : 2023-10-24 00:33:11--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1628400000
+- Xu Mới : 1621400000
+- Xu Thay Đổi :-7000000Xu 
+----------Thời Gian : 2023-10-24 00:33:13--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1621400000
+- Xu Mới : 1614400000
+- Xu Thay Đổi :-7000000Xu 
+----------Thời Gian : 2023-10-24 00:33:16--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1614400000
+- Xu Mới : 1607400000
+- Xu Thay Đổi :-7000000Xu 
+----------Thời Gian : 2023-10-24 00:33:20--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1607400000
+- Xu Mới : 1600400000
+- Xu Thay Đổi :-7000000Xu 
+----------Thời Gian : 2023-10-24 00:33:22--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1600400000
+- Xu Mới : 1593400000
+- Xu Thay Đổi :-7000000Xu 
+----------Thời Gian : 2023-10-24 00:33:27--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1593400000
+- Xu Mới : 1586400000
+- Xu Thay Đổi :-7000000Xu 
+----------Thời Gian : 2023-10-24 00:33:30--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1586400000
+- Xu Mới : 1579400000
+- Xu Thay Đổi :-7000000Xu 
+----------Thời Gian : 2023-10-24 00:33:33--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1579400000
+- Xu Mới : 1572400000
+- Xu Thay Đổi :-7000000Xu 
+----------Thời Gian : 2023-10-24 00:33:36--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1572400000
+- Xu Mới : 1565400000
+- Xu Thay Đổi :-7000000Xu 
+----------Thời Gian : 2023-10-24 00:33:39--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1565400000
+- Xu Mới : 1558400000
+- Xu Thay Đổi :-7000000Xu 
+----------Thời Gian : 2023-10-24 00:33:43--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1558400000
+- Xu Mới : 1551400000
+- Xu Thay Đổi :-7000000Xu 
+----------Thời Gian : 2023-10-24 00:33:45--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1551400000
+- Xu Mới : 1544400000
+- Xu Thay Đổi :-7000000Xu 
+----------Thời Gian : 2023-10-24 00:33:48--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1544400000
+- Xu Mới : 1537400000
+- Xu Thay Đổi :-7000000Xu 
+----------Thời Gian : 2023-10-24 00:33:51--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1537400000
+- Xu Mới : 1530400000
+- Xu Thay Đổi :-7000000Xu 
+----------Thời Gian : 2023-10-24 00:33:54--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1530400000
+- Xu Mới : 1523400000
+- Xu Thay Đổi :-7000000Xu 
+----------Thời Gian : 2023-10-24 00:33:54--------
+- Name : quanbattu
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 1000000000
+- Xu Mới : 1001000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-10-24 00:33:56--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1523400000
+- Xu Mới : 1516400000
+- Xu Thay Đổi :-7000000Xu 
+----------Thời Gian : 2023-10-24 00:33:58--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1516400000
+- Xu Mới : 1509400000
+- Xu Thay Đổi :-7000000Xu 
+----------Thời Gian : 2023-10-24 00:34:00--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1509400000
+- Xu Mới : 1502400000
+- Xu Thay Đổi :-7000000Xu 
+----------Thời Gian : 2023-10-24 00:34:02--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1502400000
+- Xu Mới : 1495400000
+- Xu Thay Đổi :-7000000Xu 
+----------Thời Gian : 2023-10-24 00:34:04--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1495400000
+- Xu Mới : 1488400000
+- Xu Thay Đổi :-7000000Xu 
+----------Thời Gian : 2023-10-24 00:34:06--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1488400000
+- Xu Mới : 1481400000
+- Xu Thay Đổi :-7000000Xu 
+----------Thời Gian : 2023-10-24 00:34:09--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1481400000
+- Xu Mới : 1474400000
+- Xu Thay Đổi :-7000000Xu 
+----------Thời Gian : 2023-10-24 00:34:11--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1474400000
+- Xu Mới : 1467400000
+- Xu Thay Đổi :-7000000Xu 
+----------Thời Gian : 2023-10-24 00:34:26--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1467400000
+- Xu Mới : 1459400000
+- Xu Thay Đổi :-8000000Xu 
+----------Thời Gian : 2023-10-24 00:34:52--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1459400000
+- Xu Mới : 1451400000
+- Xu Thay Đổi :-8000000Xu 
+----------Thời Gian : 2023-10-24 00:34:55--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1451400000
+- Xu Mới : 1443400000
+- Xu Thay Đổi :-8000000Xu 
+----------Thời Gian : 2023-10-24 00:34:57--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1443400000
+- Xu Mới : 1435400000
+- Xu Thay Đổi :-8000000Xu 
+----------Thời Gian : 2023-10-24 00:35:00--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1435400000
+- Xu Mới : 1427400000
+- Xu Thay Đổi :-8000000Xu 
+----------Thời Gian : 2023-10-24 00:35:02--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1427400000
+- Xu Mới : 1419400000
+- Xu Thay Đổi :-8000000Xu 
+----------Thời Gian : 2023-10-24 00:35:04--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1419400000
+- Xu Mới : 1411400000
+- Xu Thay Đổi :-8000000Xu 
+----------Thời Gian : 2023-10-24 00:35:08--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1411400000
+- Xu Mới : 1403400000
+- Xu Thay Đổi :-8000000Xu 
+----------Thời Gian : 2023-10-24 00:35:10--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1403400000
+- Xu Mới : 1395400000
+- Xu Thay Đổi :-8000000Xu 
+----------Thời Gian : 2023-10-24 00:35:12--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1395400000
+- Xu Mới : 1387400000
+- Xu Thay Đổi :-8000000Xu 
+----------Thời Gian : 2023-10-24 00:35:14--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1387400000
+- Xu Mới : 1379400000
+- Xu Thay Đổi :-8000000Xu 
+----------Thời Gian : 2023-10-24 00:35:18--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1379400000
+- Xu Mới : 1371400000
+- Xu Thay Đổi :-8000000Xu 
+----------Thời Gian : 2023-10-24 00:35:20--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1371400000
+- Xu Mới : 1363400000
+- Xu Thay Đổi :-8000000Xu 
+----------Thời Gian : 2023-10-24 00:35:22--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1363400000
+- Xu Mới : 1355400000
+- Xu Thay Đổi :-8000000Xu 
+----------Thời Gian : 2023-10-24 00:35:36--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1355400000
+- Xu Mới : 1347400000
+- Xu Thay Đổi :-8000000Xu 
+----------Thời Gian : 2023-10-24 00:35:39--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1347400000
+- Xu Mới : 1339400000
+- Xu Thay Đổi :-8000000Xu 
+----------Thời Gian : 2023-10-24 00:35:42--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1339400000
+- Xu Mới : 1331400000
+- Xu Thay Đổi :-8000000Xu 
+----------Thời Gian : 2023-10-24 00:35:44--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1331400000
+- Xu Mới : 1323400000
+- Xu Thay Đổi :-8000000Xu 
+----------Thời Gian : 2023-10-24 00:35:46--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1323400000
+- Xu Mới : 1315400000
+- Xu Thay Đổi :-8000000Xu 
+----------Thời Gian : 2023-10-24 00:35:48--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1315400000
+- Xu Mới : 1307400000
+- Xu Thay Đổi :-8000000Xu 
+----------Thời Gian : 2023-10-24 00:35:52--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1307400000
+- Xu Mới : 1299400000
+- Xu Thay Đổi :-8000000Xu 
+----------Thời Gian : 2023-10-24 00:35:54--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1299400000
+- Xu Mới : 1291400000
+- Xu Thay Đổi :-8000000Xu 
+----------Thời Gian : 2023-10-24 00:35:56--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1291400000
+- Xu Mới : 1283400000
+- Xu Thay Đổi :-8000000Xu 
+----------Thời Gian : 2023-10-24 00:36:01--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1283400000
+- Xu Mới : 1275400000
+- Xu Thay Đổi :-8000000Xu 
+----------Thời Gian : 2023-10-24 00:36:15--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1275400000
+- Xu Mới : 1267400000
+- Xu Thay Đổi :-8000000Xu 
+----------Thời Gian : 2023-10-24 00:36:17--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1267400000
+- Xu Mới : 1259400000
+- Xu Thay Đổi :-8000000Xu 
+----------Thời Gian : 2023-10-24 00:36:20--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1259400000
+- Xu Mới : 1251400000
+- Xu Thay Đổi :-8000000Xu 
+----------Thời Gian : 2023-10-24 00:36:38--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1251400000
+- Xu Mới : 1243400000
+- Xu Thay Đổi :-8000000Xu 
+----------Thời Gian : 2023-10-24 00:36:40--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1243400000
+- Xu Mới : 1235400000
+- Xu Thay Đổi :-8000000Xu 
+----------Thời Gian : 2023-10-24 00:36:43--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1235400000
+- Xu Mới : 1227400000
+- Xu Thay Đổi :-8000000Xu 
+----------Thời Gian : 2023-10-24 00:36:45--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1227400000
+- Xu Mới : 1219400000
+- Xu Thay Đổi :-8000000Xu 
+----------Thời Gian : 2023-10-24 00:36:47--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1219400000
+- Xu Mới : 1211400000
+- Xu Thay Đổi :-8000000Xu 
+----------Thời Gian : 2023-10-24 00:36:50--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1211400000
+- Xu Mới : 1203400000
+- Xu Thay Đổi :-8000000Xu 
+----------Thời Gian : 2023-10-24 00:36:53--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1203400000
+- Xu Mới : 1195400000
+- Xu Thay Đổi :-8000000Xu 
+----------Thời Gian : 2023-10-24 00:36:56--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1195400000
+- Xu Mới : 1187400000
+- Xu Thay Đổi :-8000000Xu 
+----------Thời Gian : 2023-10-24 00:36:58--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1187400000
+- Xu Mới : 1179400000
+- Xu Thay Đổi :-8000000Xu 
+----------Thời Gian : 2023-10-24 00:37:01--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1179400000
+- Xu Mới : 1171400000
+- Xu Thay Đổi :-8000000Xu 
+----------Thời Gian : 2023-10-24 00:37:13--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1171400000
+- Xu Mới : 1163400000
+- Xu Thay Đổi :-8000000Xu 
+----------Thời Gian : 2023-10-24 00:37:15--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1163400000
+- Xu Mới : 1155400000
+- Xu Thay Đổi :-8000000Xu 
+----------Thời Gian : 2023-10-24 00:37:18--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1155400000
+- Xu Mới : 1147400000
+- Xu Thay Đổi :-8000000Xu 
+----------Thời Gian : 2023-10-24 00:37:20--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1147400000
+- Xu Mới : 1139400000
+- Xu Thay Đổi :-8000000Xu 
+----------Thời Gian : 2023-10-24 00:37:22--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1139400000
+- Xu Mới : 1131400000
+- Xu Thay Đổi :-8000000Xu 
+----------Thời Gian : 2023-10-24 00:37:24--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1131400000
+- Xu Mới : 1123400000
+- Xu Thay Đổi :-8000000Xu 
+----------Thời Gian : 2023-10-24 00:37:26--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1123400000
+- Xu Mới : 1115400000
+- Xu Thay Đổi :-8000000Xu 
+----------Thời Gian : 2023-10-24 00:37:28--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1115400000
+- Xu Mới : 1107400000
+- Xu Thay Đổi :-8000000Xu 
+----------Thời Gian : 2023-10-24 00:37:30--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1107400000
+- Xu Mới : 1099400000
+- Xu Thay Đổi :-8000000Xu 
+----------Thời Gian : 2023-10-24 00:37:32--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1099400000
+- Xu Mới : 1091400000
+- Xu Thay Đổi :-8000000Xu 
+----------Thời Gian : 2023-10-24 00:37:34--------
+- Name : tennhanvat
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1091400000
+- Xu Mới : 1083400000
+- Xu Thay Đổi :-8000000Xu 

@@ -1,0 +1,6018 @@
+----------Thời Gian : 2023-08-18 00:00:12--------
+- Name : bekien20cm
+- Tên Giao Dịch :  Đặt Vòng Xoay May Mắn
+- Xu Cũ : 1668735
+- Xu Mới : 1658735
+- Xu Thay Đổi :-10000Xu 
+----------Thời Gian : 2023-08-18 00:00:37--------
+- Name : bekien20cm
+- Tên Giao Dịch :  Đặt Vòng Xoay May Mắn
+- Xu Cũ : 1658735
+- Xu Mới : 1608735
+- Xu Thay Đổi :-50000Xu 
+----------Thời Gian : 2023-08-18 00:01:18--------
+- Name : bekien20cm
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 1608735
+- Xu Mới : 1558735
+- Xu Thay Đổi :-50000Xu 
+----------Thời Gian : 2023-08-18 00:02:11--------
+- Name : bekien20cm
+- Tên Giao Dịch : Thắng Vòng Xoay May Mắn
+- Xu Cũ : 1558735
+- Xu Mới : 1709784
+- Xu Thay Đổi :151049Xu 
+----------Thời Gian : 2023-08-18 00:32:38--------
+- Name : 13xkunai
+- Tên Giao Dịch : Luyện Bí Kíp
+- Xu Cũ : 1141345
+- Xu Mới : 141345
+- Xu Thay Đổi :-1000000Xu 
+----------Thời Gian : 2023-08-18 00:33:07--------
+- Name : 13xkunai
+- Tên Giao Dịch : Luyện Bí Kíp
+- Xu Cũ : 25141345
+- Xu Mới : 24141345
+- Xu Thay Đổi :-1000000Xu 
+----------Thời Gian : 2023-08-18 00:33:16--------
+- Name : 13xkunai
+- Tên Giao Dịch : Luyện Bí Kíp
+- Xu Cũ : 24141345
+- Xu Mới : 23141345
+- Xu Thay Đổi :-1000000Xu 
+----------Thời Gian : 2023-08-18 00:33:23--------
+- Name : 13xkunai
+- Tên Giao Dịch : Luyện Bí Kíp
+- Xu Cũ : 23141345
+- Xu Mới : 22141345
+- Xu Thay Đổi :-1000000Xu 
+----------Thời Gian : 2023-08-18 00:33:32--------
+- Name : 13xkunai
+- Tên Giao Dịch : Luyện Bí Kíp
+- Xu Cũ : 22141345
+- Xu Mới : 21141345
+- Xu Thay Đổi :-1000000Xu 
+----------Thời Gian : 2023-08-18 00:33:40--------
+- Name : 13xkunai
+- Tên Giao Dịch : Luyện Bí Kíp
+- Xu Cũ : 21141345
+- Xu Mới : 20141345
+- Xu Thay Đổi :-1000000Xu 
+----------Thời Gian : 2023-08-18 00:33:47--------
+- Name : 13xkunai
+- Tên Giao Dịch : Luyện Bí Kíp
+- Xu Cũ : 20141345
+- Xu Mới : 19141345
+- Xu Thay Đổi :-1000000Xu 
+----------Thời Gian : 2023-08-18 00:34:02--------
+- Name : 13xkunai
+- Tên Giao Dịch : Luyện Bí Kíp
+- Xu Cũ : 19141345
+- Xu Mới : 18141345
+- Xu Thay Đổi :-1000000Xu 
+----------Thời Gian : 2023-08-18 00:34:11--------
+- Name : 13xkunai
+- Tên Giao Dịch : Luyện Bí Kíp
+- Xu Cũ : 18141345
+- Xu Mới : 17141345
+- Xu Thay Đổi :-1000000Xu 
+----------Thời Gian : 2023-08-18 00:34:19--------
+- Name : 13xkunai
+- Tên Giao Dịch : Luyện Bí Kíp
+- Xu Cũ : 17141345
+- Xu Mới : 16141345
+- Xu Thay Đổi :-1000000Xu 
+----------Thời Gian : 2023-08-18 00:34:28--------
+- Name : 13xkunai
+- Tên Giao Dịch : Luyện Bí Kíp
+- Xu Cũ : 16141345
+- Xu Mới : 15141345
+- Xu Thay Đổi :-1000000Xu 
+----------Thời Gian : 2023-08-18 00:34:36--------
+- Name : 13xkunai
+- Tên Giao Dịch : Luyện Bí Kíp
+- Xu Cũ : 15141345
+- Xu Mới : 14141345
+- Xu Thay Đổi :-1000000Xu 
+----------Thời Gian : 2023-08-18 00:34:46--------
+- Name : 13xkunai
+- Tên Giao Dịch : Luyện Bí Kíp
+- Xu Cũ : 14141345
+- Xu Mới : 13141345
+- Xu Thay Đổi :-1000000Xu 
+----------Thời Gian : 2023-08-18 00:35:02--------
+- Name : 13xkunai
+- Tên Giao Dịch : Luyện Bí Kíp
+- Xu Cũ : 13141345
+- Xu Mới : 12141345
+- Xu Thay Đổi :-1000000Xu 
+----------Thời Gian : 2023-08-18 00:35:16--------
+- Name : 13xkunai
+- Tên Giao Dịch : Luyện Bí Kíp
+- Xu Cũ : 12141345
+- Xu Mới : 11141345
+- Xu Thay Đổi :-1000000Xu 
+----------Thời Gian : 2023-08-18 00:35:26--------
+- Name : 13xkunai
+- Tên Giao Dịch : Luyện Bí Kíp
+- Xu Cũ : 11141345
+- Xu Mới : 10141345
+- Xu Thay Đổi :-1000000Xu 
+----------Thời Gian : 2023-08-18 00:35:35--------
+- Name : 13xkunai
+- Tên Giao Dịch : Luyện Bí Kíp
+- Xu Cũ : 10141345
+- Xu Mới : 9141345
+- Xu Thay Đổi :-1000000Xu 
+----------Thời Gian : 2023-08-18 00:35:44--------
+- Name : 13xkunai
+- Tên Giao Dịch : Luyện Bí Kíp
+- Xu Cũ : 9141345
+- Xu Mới : 8141345
+- Xu Thay Đổi :-1000000Xu 
+----------Thời Gian : 2023-08-18 00:35:51--------
+- Name : 13xkunai
+- Tên Giao Dịch : Luyện Bí Kíp
+- Xu Cũ : 8141345
+- Xu Mới : 7141345
+- Xu Thay Đổi :-1000000Xu 
+----------Thời Gian : 2023-08-18 00:56:13--------
+- Name : ffnrg
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 1144000
+- Xu Mới : 1094000
+- Xu Thay Đổi :-50000Xu 
+----------Thời Gian : 2023-08-18 01:18:35--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 150736430
+- Xu Mới : 149736430
+- Xu Thay Đổi :149736430Xu 
+----------Thời Gian : 2023-08-18 01:18:49--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 149736430
+- Xu Mới : 148736430
+- Xu Thay Đổi :148736430Xu 
+----------Thời Gian : 2023-08-18 01:19:05--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 148736430
+- Xu Mới : 147736430
+- Xu Thay Đổi :147736430Xu 
+----------Thời Gian : 2023-08-18 01:19:13--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 147736430
+- Xu Mới : 146736430
+- Xu Thay Đổi :146736430Xu 
+----------Thời Gian : 2023-08-18 01:19:22--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 146736430
+- Xu Mới : 145736430
+- Xu Thay Đổi :145736430Xu 
+----------Thời Gian : 2023-08-18 01:19:36--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 145736430
+- Xu Mới : 144736430
+- Xu Thay Đổi :144736430Xu 
+----------Thời Gian : 2023-08-18 01:19:47--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 144736430
+- Xu Mới : 143736430
+- Xu Thay Đổi :143736430Xu 
+----------Thời Gian : 2023-08-18 01:19:56--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 143736430
+- Xu Mới : 142736430
+- Xu Thay Đổi :142736430Xu 
+----------Thời Gian : 2023-08-18 01:20:05--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 142736430
+- Xu Mới : 141736430
+- Xu Thay Đổi :141736430Xu 
+----------Thời Gian : 2023-08-18 01:20:28--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 141736430
+- Xu Mới : 141636430
+- Xu Thay Đổi :-100000Xu 
+----------Thời Gian : 2023-08-18 01:20:45--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 141636430
+- Xu Mới : 141136430
+- Xu Thay Đổi :-500000Xu 
+----------Thời Gian : 2023-08-18 01:20:49--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 141136430
+- Xu Mới : 140636430
+- Xu Thay Đổi :-500000Xu 
+----------Thời Gian : 2023-08-18 01:20:56--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 140636430
+- Xu Mới : 139636430
+- Xu Thay Đổi :-1000000Xu 
+----------Thời Gian : 2023-08-18 01:21:08--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 139636430
+- Xu Mới : 138136430
+- Xu Thay Đổi :-1500000Xu 
+----------Thời Gian : 2023-08-18 01:21:30--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 138136430
+- Xu Mới : 136136430
+- Xu Thay Đổi :-2000000Xu 
+----------Thời Gian : 2023-08-18 01:21:57--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 136136430
+- Xu Mới : 133636430
+- Xu Thay Đổi :-2500000Xu 
+----------Thời Gian : 2023-08-18 01:22:07--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 133636430
+- Xu Mới : 130636430
+- Xu Thay Đổi :-3000000Xu 
+----------Thời Gian : 2023-08-18 01:29:59--------
+- Name : trainghiemgame
+- Tên Giao Dịch :  Đổi 100000 coin ra Xu 
+- Xu Cũ : 130636430
+- Xu Mới : 1130636430
+- Xu Thay Đổi :1130636430Xu 
+----------Thời Gian : 2023-08-18 01:30:02--------
+- Name : sffdf
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 01:32:28--------
+- Name : bleach
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 01:42:59--------
+- Name : boy2xxx
+- Tên Giao Dịch : Luyện Bí Kíp
+- Xu Cũ : 1367000
+- Xu Mới : 367000
+- Xu Thay Đổi :-1000000Xu 
+----------Thời Gian : 2023-08-18 01:48:52--------
+- Name : boy2xxx
+- Tên Giao Dịch : Luyện Bí Kíp
+- Xu Cũ : 1366000
+- Xu Mới : 366000
+- Xu Thay Đổi :-1000000Xu 
+----------Thời Gian : 2023-08-18 01:50:51--------
+- Name : sffdfe
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 01:50:56--------
+- Name : abcdx
+- Tên Giao Dịch : Làm 2 Cỏ ba lá Bằng Xu
+- Xu Cũ : 262000
+- Xu Mới : 62000
+- Xu Thay Đổi :-200000Xu 
+----------Thời Gian : 2023-08-18 01:59:55--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 1130636430
+- Xu Mới : 1129636430
+- Xu Thay Đổi :1129636430Xu 
+----------Thời Gian : 2023-08-18 02:00:05--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 1129636430
+- Xu Mới : 1128636430
+- Xu Thay Đổi :1128636430Xu 
+----------Thời Gian : 2023-08-18 02:00:13--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 1128636430
+- Xu Mới : 1127636430
+- Xu Thay Đổi :1127636430Xu 
+----------Thời Gian : 2023-08-18 02:00:27--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 1127636430
+- Xu Mới : 1126636430
+- Xu Thay Đổi :1126636430Xu 
+----------Thời Gian : 2023-08-18 02:00:35--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 1126636430
+- Xu Mới : 1125636430
+- Xu Thay Đổi :1125636430Xu 
+----------Thời Gian : 2023-08-18 02:00:42--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 1125636430
+- Xu Mới : 1124636430
+- Xu Thay Đổi :1124636430Xu 
+----------Thời Gian : 2023-08-18 02:00:53--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 1124636430
+- Xu Mới : 1123636430
+- Xu Thay Đổi :1123636430Xu 
+----------Thời Gian : 2023-08-18 02:01:01--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 1123636430
+- Xu Mới : 1122636430
+- Xu Thay Đổi :1122636430Xu 
+----------Thời Gian : 2023-08-18 02:01:08--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 1122636430
+- Xu Mới : 1121636430
+- Xu Thay Đổi :1121636430Xu 
+----------Thời Gian : 2023-08-18 02:01:18--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 1121636430
+- Xu Mới : 1120636430
+- Xu Thay Đổi :1120636430Xu 
+----------Thời Gian : 2023-08-18 02:01:25--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 1120636430
+- Xu Mới : 1119636430
+- Xu Thay Đổi :1119636430Xu 
+----------Thời Gian : 2023-08-18 02:01:34--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 1119636430
+- Xu Mới : 1118636430
+- Xu Thay Đổi :1118636430Xu 
+----------Thời Gian : 2023-08-18 02:01:52--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 1118636430
+- Xu Mới : 1117636430
+- Xu Thay Đổi :1117636430Xu 
+----------Thời Gian : 2023-08-18 02:01:59--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 1117636430
+- Xu Mới : 1116636430
+- Xu Thay Đổi :1116636430Xu 
+----------Thời Gian : 2023-08-18 02:02:07--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 1116636430
+- Xu Mới : 1115636430
+- Xu Thay Đổi :1115636430Xu 
+----------Thời Gian : 2023-08-18 02:02:16--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 1115636430
+- Xu Mới : 1114636430
+- Xu Thay Đổi :1114636430Xu 
+----------Thời Gian : 2023-08-18 02:02:23--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 1114636430
+- Xu Mới : 1113636430
+- Xu Thay Đổi :1113636430Xu 
+----------Thời Gian : 2023-08-18 02:02:33--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 1113636430
+- Xu Mới : 1112636430
+- Xu Thay Đổi :1112636430Xu 
+----------Thời Gian : 2023-08-18 02:02:40--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 1112636430
+- Xu Mới : 1111636430
+- Xu Thay Đổi :1111636430Xu 
+----------Thời Gian : 2023-08-18 02:02:46--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 1111636430
+- Xu Mới : 1110636430
+- Xu Thay Đổi :1110636430Xu 
+----------Thời Gian : 2023-08-18 02:02:58--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 1110636430
+- Xu Mới : 1109636430
+- Xu Thay Đổi :1109636430Xu 
+----------Thời Gian : 2023-08-18 02:03:12--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 1109636430
+- Xu Mới : 1108636430
+- Xu Thay Đổi :1108636430Xu 
+----------Thời Gian : 2023-08-18 02:03:19--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 1108636430
+- Xu Mới : 1107636430
+- Xu Thay Đổi :1107636430Xu 
+----------Thời Gian : 2023-08-18 02:03:26--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 1107636430
+- Xu Mới : 1106636430
+- Xu Thay Đổi :1106636430Xu 
+----------Thời Gian : 2023-08-18 02:03:33--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 1106636430
+- Xu Mới : 1105636430
+- Xu Thay Đổi :1105636430Xu 
+----------Thời Gian : 2023-08-18 02:03:39--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 1105636430
+- Xu Mới : 1104636430
+- Xu Thay Đổi :1104636430Xu 
+----------Thời Gian : 2023-08-18 02:03:47--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 1104636430
+- Xu Mới : 1103636430
+- Xu Thay Đổi :1103636430Xu 
+----------Thời Gian : 2023-08-18 02:03:59--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 1103636430
+- Xu Mới : 1102636430
+- Xu Thay Đổi :1102636430Xu 
+----------Thời Gian : 2023-08-18 02:04:05--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 1102636430
+- Xu Mới : 1101636430
+- Xu Thay Đổi :1101636430Xu 
+----------Thời Gian : 2023-08-18 02:04:15--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 1101636430
+- Xu Mới : 1100636430
+- Xu Thay Đổi :1100636430Xu 
+----------Thời Gian : 2023-08-18 02:04:21--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 1100636430
+- Xu Mới : 1099636430
+- Xu Thay Đổi :1099636430Xu 
+----------Thời Gian : 2023-08-18 02:04:27--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 1099636430
+- Xu Mới : 1098636430
+- Xu Thay Đổi :1098636430Xu 
+----------Thời Gian : 2023-08-18 02:04:33--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 1098636430
+- Xu Mới : 1097636430
+- Xu Thay Đổi :1097636430Xu 
+----------Thời Gian : 2023-08-18 02:04:40--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 1097636430
+- Xu Mới : 1096636430
+- Xu Thay Đổi :1096636430Xu 
+----------Thời Gian : 2023-08-18 02:04:47--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 1096636430
+- Xu Mới : 1095636430
+- Xu Thay Đổi :1095636430Xu 
+----------Thời Gian : 2023-08-18 02:04:55--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 1095636430
+- Xu Mới : 1094636430
+- Xu Thay Đổi :1094636430Xu 
+----------Thời Gian : 2023-08-18 02:05:01--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 1094636430
+- Xu Mới : 1093636430
+- Xu Thay Đổi :1093636430Xu 
+----------Thời Gian : 2023-08-18 02:05:07--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 1093636430
+- Xu Mới : 1092636430
+- Xu Thay Đổi :1092636430Xu 
+----------Thời Gian : 2023-08-18 02:05:16--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 1092636430
+- Xu Mới : 1091636430
+- Xu Thay Đổi :1091636430Xu 
+----------Thời Gian : 2023-08-18 02:05:22--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 1091636430
+- Xu Mới : 1090636430
+- Xu Thay Đổi :1090636430Xu 
+----------Thời Gian : 2023-08-18 02:05:29--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 1090636430
+- Xu Mới : 1089636430
+- Xu Thay Đổi :1089636430Xu 
+----------Thời Gian : 2023-08-18 02:05:35--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 1089636430
+- Xu Mới : 1088636430
+- Xu Thay Đổi :1088636430Xu 
+----------Thời Gian : 2023-08-18 02:05:43--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 1088636430
+- Xu Mới : 1087636430
+- Xu Thay Đổi :1087636430Xu 
+----------Thời Gian : 2023-08-18 02:05:51--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 1087636430
+- Xu Mới : 1086636430
+- Xu Thay Đổi :1086636430Xu 
+----------Thời Gian : 2023-08-18 02:05:58--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 1086636430
+- Xu Mới : 1085636430
+- Xu Thay Đổi :1085636430Xu 
+----------Thời Gian : 2023-08-18 02:06:26--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 1085636430
+- Xu Mới : 1084636430
+- Xu Thay Đổi :1084636430Xu 
+----------Thời Gian : 2023-08-18 02:06:33--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 1084636430
+- Xu Mới : 1083636430
+- Xu Thay Đổi :1083636430Xu 
+----------Thời Gian : 2023-08-18 02:06:43--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 1083636430
+- Xu Mới : 1082636430
+- Xu Thay Đổi :1082636430Xu 
+----------Thời Gian : 2023-08-18 02:06:51--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 1082636430
+- Xu Mới : 1081636430
+- Xu Thay Đổi :1081636430Xu 
+----------Thời Gian : 2023-08-18 02:06:57--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 1081636430
+- Xu Mới : 1080636430
+- Xu Thay Đổi :1080636430Xu 
+----------Thời Gian : 2023-08-18 02:07:04--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 1080636430
+- Xu Mới : 1079636430
+- Xu Thay Đổi :1079636430Xu 
+----------Thời Gian : 2023-08-18 02:07:10--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 1079636430
+- Xu Mới : 1078636430
+- Xu Thay Đổi :1078636430Xu 
+----------Thời Gian : 2023-08-18 02:07:16--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 1078636430
+- Xu Mới : 1077636430
+- Xu Thay Đổi :1077636430Xu 
+----------Thời Gian : 2023-08-18 02:07:22--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 1077636430
+- Xu Mới : 1076636430
+- Xu Thay Đổi :1076636430Xu 
+----------Thời Gian : 2023-08-18 02:07:29--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 1076636430
+- Xu Mới : 1075636430
+- Xu Thay Đổi :1075636430Xu 
+----------Thời Gian : 2023-08-18 02:07:36--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 1075636430
+- Xu Mới : 1074636430
+- Xu Thay Đổi :1074636430Xu 
+----------Thời Gian : 2023-08-18 02:07:42--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 1074636430
+- Xu Mới : 1073636430
+- Xu Thay Đổi :1073636430Xu 
+----------Thời Gian : 2023-08-18 02:07:48--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 1073636430
+- Xu Mới : 1072636430
+- Xu Thay Đổi :1072636430Xu 
+----------Thời Gian : 2023-08-18 02:07:54--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 1072636430
+- Xu Mới : 1071636430
+- Xu Thay Đổi :1071636430Xu 
+----------Thời Gian : 2023-08-18 02:08:01--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 1071636430
+- Xu Mới : 1070636430
+- Xu Thay Đổi :1070636430Xu 
+----------Thời Gian : 2023-08-18 02:08:11--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 1070636430
+- Xu Mới : 1069636430
+- Xu Thay Đổi :1069636430Xu 
+----------Thời Gian : 2023-08-18 02:08:22--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 1069636430
+- Xu Mới : 1068636430
+- Xu Thay Đổi :1068636430Xu 
+----------Thời Gian : 2023-08-18 02:08:32--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1068636430
+- Xu Mới : 1068536430
+- Xu Thay Đổi :-100000Xu 
+----------Thời Gian : 2023-08-18 02:09:02--------
+- Name : trainghiemgame
+- Tên Giao Dịch :  Góp vào gia tộc 
+- Xu Cũ : 1068536430
+- Xu Mới : 1018536430
+- Xu Thay Đổi :-50000000Xu 
+----------Thời Gian : 2023-08-18 02:10:26--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 1018536430
+- Xu Mới : 1017536430
+- Xu Thay Đổi :1017536430Xu 
+----------Thời Gian : 2023-08-18 02:10:41--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 1017536430
+- Xu Mới : 1016536430
+- Xu Thay Đổi :1016536430Xu 
+----------Thời Gian : 2023-08-18 02:10:50--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 1016536430
+- Xu Mới : 1015536430
+- Xu Thay Đổi :1015536430Xu 
+----------Thời Gian : 2023-08-18 02:10:57--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 1015536430
+- Xu Mới : 1014536430
+- Xu Thay Đổi :1014536430Xu 
+----------Thời Gian : 2023-08-18 02:11:04--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 1014536430
+- Xu Mới : 1013536430
+- Xu Thay Đổi :1013536430Xu 
+----------Thời Gian : 2023-08-18 02:11:13--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 1013536430
+- Xu Mới : 1012536430
+- Xu Thay Đổi :1012536430Xu 
+----------Thời Gian : 2023-08-18 02:11:25--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 1012536430
+- Xu Mới : 1011536430
+- Xu Thay Đổi :1011536430Xu 
+----------Thời Gian : 2023-08-18 02:11:31--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 1011536430
+- Xu Mới : 1010536430
+- Xu Thay Đổi :1010536430Xu 
+----------Thời Gian : 2023-08-18 02:12:43--------
+- Name : boy2xxx
+- Tên Giao Dịch : Luyện Bí Kíp
+- Xu Cũ : 1366000
+- Xu Mới : 366000
+- Xu Thay Đổi :-1000000Xu 
+----------Thời Gian : 2023-08-18 02:13:02--------
+- Name : boy2xxx
+- Tên Giao Dịch : Nâng Cấp Bí Kíp
+- Xu Cũ : 366000
+- Xu Mới : 266000
+- Xu Thay Đổi :-100000Xu 
+----------Thời Gian : 2023-08-18 02:26:28--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 1010536430
+- Xu Mới : 1009536430
+- Xu Thay Đổi :1009536430Xu 
+----------Thời Gian : 2023-08-18 02:38:34--------
+- Name : alicia
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 03:04:32--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 309506430
+- Xu Mới : 308506430
+- Xu Thay Đổi :308506430Xu 
+----------Thời Gian : 2023-08-18 03:04:41--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 308506430
+- Xu Mới : 307506430
+- Xu Thay Đổi :307506430Xu 
+----------Thời Gian : 2023-08-18 03:04:49--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 307506430
+- Xu Mới : 306506430
+- Xu Thay Đổi :306506430Xu 
+----------Thời Gian : 2023-08-18 03:14:19--------
+- Name : alicia
+- Tên Giao Dịch : Luyện Bí Kíp
+- Xu Cũ : 1970000
+- Xu Mới : 970000
+- Xu Thay Đổi :-1000000Xu 
+----------Thời Gian : 2023-08-18 03:15:23--------
+- Name : alicia
+- Tên Giao Dịch : Luyện Bí Kíp
+- Xu Cũ : 8070000
+- Xu Mới : 7070000
+- Xu Thay Đổi :-1000000Xu 
+----------Thời Gian : 2023-08-18 03:15:39--------
+- Name : alicia
+- Tên Giao Dịch : Nâng Cấp Bí Kíp
+- Xu Cũ : 7070000
+- Xu Mới : 6970000
+- Xu Thay Đổi :-100000Xu 
+----------Thời Gian : 2023-08-18 03:16:24--------
+- Name : alicia
+- Tên Giao Dịch : Nâng Cấp Bí Kíp
+- Xu Cũ : 6970000
+- Xu Mới : 6470000
+- Xu Thay Đổi :-500000Xu 
+----------Thời Gian : 2023-08-18 03:34:04--------
+- Name : alicia
+- Tên Giao Dịch :  Góp vào gia tộc 
+- Xu Cũ : 6254000
+- Xu Mới : 5754000
+- Xu Thay Đổi :-500000Xu 
+----------Thời Gian : 2023-08-18 03:51:37--------
+- Name : ninjabosss
+- Tên Giao Dịch : Nâng Cấp Bí Kíp
+- Xu Cũ : 248000
+- Xu Mới : 148000
+- Xu Thay Đổi :-100000Xu 
+----------Thời Gian : 2023-08-18 04:02:13--------
+- Name : bossninja
+- Tên Giao Dịch : Nâng Cấp Bí Kíp
+- Xu Cũ : 736500
+- Xu Mới : 636500
+- Xu Thay Đổi :-100000Xu 
+----------Thời Gian : 2023-08-18 04:20:01--------
+- Name : kunaimu
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 04:34:03--------
+- Name : chobuavn
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 50624900
+- Xu Mới : 624900
+- Xu Thay Đổi :-50000000Xu 
+----------Thời Gian : 2023-08-18 04:35:02--------
+- Name : chobuavn
+- Tên Giao Dịch : Thắng Tài Xỉu : 
+- Xu Cũ : 624900
+- Xu Mới : 90624900
+- Xu Thay Đổi :90000000Xu 
+----------Thời Gian : 2023-08-18 04:40:37--------
+- Name : mjtpgd
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 04:49:26--------
+- Name : chobuavn
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 90624900
+- Xu Mới : 624900
+- Xu Thay Đổi :-90000000Xu 
+----------Thời Gian : 2023-08-18 04:50:25--------
+- Name : chobuavn
+- Tên Giao Dịch : Thắng Tài Xỉu : 
+- Xu Cũ : 624900
+- Xu Mới : 162624900
+- Xu Thay Đổi :162000000Xu 
+----------Thời Gian : 2023-08-18 04:51:13--------
+- Name : chobuavn
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 162624900
+- Xu Mới : 102624900
+- Xu Thay Đổi :-60000000Xu 
+----------Thời Gian : 2023-08-18 04:52:11--------
+- Name : chobuavn
+- Tên Giao Dịch : Thắng Tài Xỉu : 
+- Xu Cũ : 102624900
+- Xu Mới : 210624900
+- Xu Thay Đổi :108000000Xu 
+----------Thời Gian : 2023-08-18 05:14:52--------
+- Name : chobuavn
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 180624900
+- Xu Mới : 110624900
+- Xu Thay Đổi :-70000000Xu 
+----------Thời Gian : 2023-08-18 05:15:51--------
+- Name : chobuavn
+- Tên Giao Dịch : Thắng Tài Xỉu : 
+- Xu Cũ : 110624900
+- Xu Mới : 236624900
+- Xu Thay Đổi :126000000Xu 
+----------Thời Gian : 2023-08-18 05:37:14--------
+- Name : onirin
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 05:48:14--------
+- Name : hieutruongbeta
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 811800
+- Xu Mới : 311800
+- Xu Thay Đổi :-500000Xu 
+----------Thời Gian : 2023-08-18 05:49:13--------
+- Name : hieutruongbeta
+- Tên Giao Dịch : Thắng Tài Xỉu : 
+- Xu Cũ : 311800
+- Xu Mới : 1211800
+- Xu Thay Đổi :900000Xu 
+----------Thời Gian : 2023-08-18 05:50:21--------
+- Name : hieutruongbeta
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 1211800
+- Xu Mới : 1111800
+- Xu Thay Đổi :-100000Xu 
+----------Thời Gian : 2023-08-18 05:51:19--------
+- Name : hieutruongbeta
+- Tên Giao Dịch : Thắng Tài Xỉu : 
+- Xu Cũ : 1111800
+- Xu Mới : 1291800
+- Xu Thay Đổi :180000Xu 
+----------Thời Gian : 2023-08-18 05:51:45--------
+- Name : hieutruongbeta
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 1291800
+- Xu Mới : 1096800
+- Xu Thay Đổi :-195000Xu 
+----------Thời Gian : 2023-08-18 05:52:55--------
+- Name : hieutruongbeta
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 1096800
+- Xu Mới : 596800
+- Xu Thay Đổi :-500000Xu 
+----------Thời Gian : 2023-08-18 05:56:36--------
+- Name : hieutruongbeta
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 596800
+- Xu Mới : 800
+- Xu Thay Đổi :-596000Xu 
+----------Thời Gian : 2023-08-18 06:19:41--------
+- Name : shinobi
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 06:29:45--------
+- Name : dvhjdk
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 06:42:53--------
+- Name : boynhangheo
+- Tên Giao Dịch :  Đặt Vòng Xoay May Mắn
+- Xu Cũ : 5397752
+- Xu Mới : 5298753
+- Xu Thay Đổi :-98999Xu 
+----------Thời Gian : 2023-08-18 07:24:01--------
+- Name : ngocdz
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 600528656
+- Xu Mới : 590528656
+- Xu Thay Đổi :-10000000Xu 
+----------Thời Gian : 2023-08-18 07:25:00--------
+- Name : ngocdz
+- Tên Giao Dịch : Thắng Tài Xỉu : 
+- Xu Cũ : 590528656
+- Xu Mới : 608528656
+- Xu Thay Đổi :18000000Xu 
+----------Thời Gian : 2023-08-18 08:14:00--------
+- Name : hoavip1
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 08:14:02--------
+- Name : lleuleu
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 603100
+- Xu Mới : 103100
+- Xu Thay Đổi :-500000Xu 
+----------Thời Gian : 2023-08-18 08:15:01--------
+- Name : lleuleu
+- Tên Giao Dịch : Thắng Tài Xỉu : 
+- Xu Cũ : 103100
+- Xu Mới : 1003100
+- Xu Thay Đổi :900000Xu 
+----------Thời Gian : 2023-08-18 08:15:29--------
+- Name : lleuleu
+- Tên Giao Dịch : Luyện Bí Kíp
+- Xu Cũ : 1003100
+- Xu Mới : 3100
+- Xu Thay Đổi :-1000000Xu 
+----------Thời Gian : 2023-08-18 08:23:33--------
+- Name : ha1001
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 639450
+- Xu Mới : 39450
+- Xu Thay Đổi :-600000Xu 
+----------Thời Gian : 2023-08-18 08:24:31--------
+- Name : ha1001
+- Tên Giao Dịch : Thắng Tài Xỉu : 
+- Xu Cũ : 39450
+- Xu Mới : 1119450
+- Xu Thay Đổi :1080000Xu 
+----------Thời Gian : 2023-08-18 08:27:00--------
+- Name : ha1001
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 1119450
+- Xu Mới : 119450
+- Xu Thay Đổi :-1000000Xu 
+----------Thời Gian : 2023-08-18 08:27:59--------
+- Name : ha1001
+- Tên Giao Dịch : Thắng Tài Xỉu : 
+- Xu Cũ : 119450
+- Xu Mới : 1919450
+- Xu Thay Đổi :1800000Xu 
+----------Thời Gian : 2023-08-18 08:28:07--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 306506430
+- Xu Mới : 306406430
+- Xu Thay Đổi :-100000Xu 
+----------Thời Gian : 2023-08-18 08:29:13--------
+- Name : trainghiemgame
+- Tên Giao Dịch :  Góp vào gia tộc 
+- Xu Cũ : 306406430
+- Xu Mới : 206406430
+- Xu Thay Đổi :-100000000Xu 
+----------Thời Gian : 2023-08-18 08:30:07--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 206406430
+- Xu Mới : 205406430
+- Xu Thay Đổi :205406430Xu 
+----------Thời Gian : 2023-08-18 08:30:16--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 205406430
+- Xu Mới : 204406430
+- Xu Thay Đổi :204406430Xu 
+----------Thời Gian : 2023-08-18 08:30:34--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 204406430
+- Xu Mới : 203406430
+- Xu Thay Đổi :203406430Xu 
+----------Thời Gian : 2023-08-18 08:30:45--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 203406430
+- Xu Mới : 202406430
+- Xu Thay Đổi :202406430Xu 
+----------Thời Gian : 2023-08-18 08:30:53--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 202406430
+- Xu Mới : 201406430
+- Xu Thay Đổi :201406430Xu 
+----------Thời Gian : 2023-08-18 08:31:03--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 201406430
+- Xu Mới : 200406430
+- Xu Thay Đổi :200406430Xu 
+----------Thời Gian : 2023-08-18 08:31:11--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 200406430
+- Xu Mới : 199406430
+- Xu Thay Đổi :199406430Xu 
+----------Thời Gian : 2023-08-18 08:31:19--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 199406430
+- Xu Mới : 198406430
+- Xu Thay Đổi :198406430Xu 
+----------Thời Gian : 2023-08-18 08:31:27--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 198406430
+- Xu Mới : 197406430
+- Xu Thay Đổi :197406430Xu 
+----------Thời Gian : 2023-08-18 08:31:38--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 197406430
+- Xu Mới : 196406430
+- Xu Thay Đổi :196406430Xu 
+----------Thời Gian : 2023-08-18 08:31:45--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 196406430
+- Xu Mới : 195406430
+- Xu Thay Đổi :195406430Xu 
+----------Thời Gian : 2023-08-18 08:31:52--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 195406430
+- Xu Mới : 194406430
+- Xu Thay Đổi :194406430Xu 
+----------Thời Gian : 2023-08-18 08:32:01--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 194406430
+- Xu Mới : 193406430
+- Xu Thay Đổi :193406430Xu 
+----------Thời Gian : 2023-08-18 08:32:09--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 193406430
+- Xu Mới : 192406430
+- Xu Thay Đổi :192406430Xu 
+----------Thời Gian : 2023-08-18 08:32:19--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 192406430
+- Xu Mới : 191406430
+- Xu Thay Đổi :191406430Xu 
+----------Thời Gian : 2023-08-18 08:32:26--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 191406430
+- Xu Mới : 190406430
+- Xu Thay Đổi :190406430Xu 
+----------Thời Gian : 2023-08-18 08:32:34--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 190406430
+- Xu Mới : 189406430
+- Xu Thay Đổi :189406430Xu 
+----------Thời Gian : 2023-08-18 08:32:42--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 189406430
+- Xu Mới : 188406430
+- Xu Thay Đổi :188406430Xu 
+----------Thời Gian : 2023-08-18 08:32:49--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 188406430
+- Xu Mới : 187406430
+- Xu Thay Đổi :187406430Xu 
+----------Thời Gian : 2023-08-18 08:32:56--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 187406430
+- Xu Mới : 186406430
+- Xu Thay Đổi :186406430Xu 
+----------Thời Gian : 2023-08-18 08:33:07--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 186406430
+- Xu Mới : 185406430
+- Xu Thay Đổi :185406430Xu 
+----------Thời Gian : 2023-08-18 08:33:14--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 185406430
+- Xu Mới : 184406430
+- Xu Thay Đổi :184406430Xu 
+----------Thời Gian : 2023-08-18 08:33:23--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 184406430
+- Xu Mới : 183406430
+- Xu Thay Đổi :183406430Xu 
+----------Thời Gian : 2023-08-18 08:33:35--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 183406430
+- Xu Mới : 182406430
+- Xu Thay Đổi :182406430Xu 
+----------Thời Gian : 2023-08-18 08:34:11--------
+- Name : vngamer1
+- Tên Giao Dịch :  Đặt Vòng Xoay May Mắn
+- Xu Cũ : 216595131
+- Xu Mới : 216585131
+- Xu Thay Đổi :-10000Xu 
+----------Thời Gian : 2023-08-18 08:34:17--------
+- Name : vngamer1
+- Tên Giao Dịch :  Đặt Vòng Xoay May Mắn
+- Xu Cũ : 216585131
+- Xu Mới : 216575131
+- Xu Thay Đổi :-10000Xu 
+----------Thời Gian : 2023-08-18 08:34:23--------
+- Name : vngamer1
+- Tên Giao Dịch :  Đặt Vòng Xoay May Mắn
+- Xu Cũ : 216575131
+- Xu Mới : 216565131
+- Xu Thay Đổi :-10000Xu 
+----------Thời Gian : 2023-08-18 08:40:22--------
+- Name : creamsoda
+- Tên Giao Dịch : Nâng Cấp Bí Kíp
+- Xu Cũ : 43782152
+- Xu Mới : 41782152
+- Xu Thay Đổi :-2000000Xu 
+----------Thời Gian : 2023-08-18 08:40:29--------
+- Name : creamsoda
+- Tên Giao Dịch : Nâng Cấp Bí Kíp
+- Xu Cũ : 41782152
+- Xu Mới : 39782152
+- Xu Thay Đổi :-2000000Xu 
+----------Thời Gian : 2023-08-18 08:45:18--------
+- Name : vngamer1
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 216565131
+- Xu Mới : 215065131
+- Xu Thay Đổi :-1500000Xu 
+----------Thời Gian : 2023-08-18 09:07:25--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 182401430
+- Xu Mới : 181401430
+- Xu Thay Đổi :181401430Xu 
+----------Thời Gian : 2023-08-18 09:07:34--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 181401430
+- Xu Mới : 180401430
+- Xu Thay Đổi :180401430Xu 
+----------Thời Gian : 2023-08-18 09:07:53--------
+- Name : phuocduc0
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 09:09:58--------
+- Name : phuocducc0
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 09:12:00--------
+- Name : phuocducc2
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 09:15:39--------
+- Name : phuocducc1
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 09:16:22--------
+- Name : giapkuto
+- Tên Giao Dịch :  Rời Khỏi Gia Tộc 
+- Xu Cũ : 985000
+- Xu Mới : 975000
+- Xu Thay Đổi :-10000Xu 
+----------Thời Gian : 2023-08-18 09:17:12--------
+- Name : proplayer1999
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 09:17:26--------
+- Name : phuocducc3
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 09:18:36--------
+- Name : phuocducc4
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 09:19:33--------
+- Name : onehitcmnr
+- Tên Giao Dịch :  Rời Khỏi Gia Tộc 
+- Xu Cũ : 77848364
+- Xu Mới : 77838364
+- Xu Thay Đổi :-10000Xu 
+----------Thời Gian : 2023-08-18 09:22:43--------
+- Name : huynhdz123
+- Tên Giao Dịch :  Rời Khỏi Gia Tộc 
+- Xu Cũ : 9364643
+- Xu Mới : 9354643
+- Xu Thay Đổi :-10000Xu 
+----------Thời Gian : 2023-08-18 09:23:11--------
+- Name : hoang1606
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 09:29:36--------
+- Name : cavequat
+- Tên Giao Dịch :  Rời Khỏi Gia Tộc 
+- Xu Cũ : 22216492
+- Xu Mới : 22206492
+- Xu Thay Đổi :-10000Xu 
+----------Thời Gian : 2023-08-18 09:31:28--------
+- Name : saxuke174
+- Tên Giao Dịch :  Đổi 100000 coin ra Xu 
+- Xu Cũ : 206722895
+- Xu Mới : 1206722895
+- Xu Thay Đổi :1206722895Xu 
+----------Thời Gian : 2023-08-18 09:31:35--------
+- Name : onehitcmnr
+- Tên Giao Dịch :  Góp vào gia tộc 
+- Xu Cũ : 77838364
+- Xu Mới : 72838364
+- Xu Thay Đổi :-5000000Xu 
+----------Thời Gian : 2023-08-18 09:36:55--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 180401430
+- Xu Mới : 179401430
+- Xu Thay Đổi :179401430Xu 
+----------Thời Gian : 2023-08-18 09:37:03--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 179401430
+- Xu Mới : 178401430
+- Xu Thay Đổi :178401430Xu 
+----------Thời Gian : 2023-08-18 09:57:29--------
+- Name : vngamer1
+- Tên Giao Dịch :  Đặt Vòng Xoay May Mắn
+- Xu Cũ : 215065131
+- Xu Mới : 215055131
+- Xu Thay Đổi :-10000Xu 
+----------Thời Gian : 2023-08-18 09:57:41--------
+- Name : vngamer1
+- Tên Giao Dịch :  Đặt Vòng Xoay May Mắn
+- Xu Cũ : 215055131
+- Xu Mới : 215045131
+- Xu Thay Đổi :-10000Xu 
+----------Thời Gian : 2023-08-18 09:57:46--------
+- Name : vngamer1
+- Tên Giao Dịch :  Đặt Vòng Xoay May Mắn
+- Xu Cũ : 215045131
+- Xu Mới : 215035131
+- Xu Thay Đổi :-10000Xu 
+----------Thời Gian : 2023-08-18 09:58:48--------
+- Name : vngamer1
+- Tên Giao Dịch :  Đặt Vòng Xoay May Mắn
+- Xu Cũ : 215035131
+- Xu Mới : 205035131
+- Xu Thay Đổi :-10000000Xu 
+----------Thời Gian : 2023-08-18 09:59:49--------
+- Name : proplayer1999
+- Tên Giao Dịch : Nâng Cấp Bí Kíp
+- Xu Cũ : 800000
+- Xu Mới : 700000
+- Xu Thay Đổi :-100000Xu 
+----------Thời Gian : 2023-08-18 10:00:06--------
+- Name : vngamer1
+- Tên Giao Dịch :  Đặt Vòng Xoay May Mắn
+- Xu Cũ : 205035131
+- Xu Mới : 205025131
+- Xu Thay Đổi :-10000Xu 
+----------Thời Gian : 2023-08-18 10:01:50--------
+- Name : vdmqhuong1
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 10:03:21--------
+- Name : vdmqhuong
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 10:03:27--------
+- Name : 1hitvenha
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 10:05:46--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 178401430
+- Xu Mới : 178301430
+- Xu Thay Đổi :-100000Xu 
+----------Thời Gian : 2023-08-18 10:05:53--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 178301430
+- Xu Mới : 177801430
+- Xu Thay Đổi :-500000Xu 
+----------Thời Gian : 2023-08-18 10:05:58--------
+- Name : hoavip1
+- Tên Giao Dịch :  Đặt Vòng Xoay May Mắn
+- Xu Cũ : 1055000
+- Xu Mới : 955000
+- Xu Thay Đổi :-100000Xu 
+----------Thời Gian : 2023-08-18 10:07:57--------
+- Name : vngamer1
+- Tên Giao Dịch : Thắng Vòng Xoay May Mắn
+- Xu Cũ : 205025131
+- Xu Mới : 205158131
+- Xu Thay Đổi :133000Xu 
+----------Thời Gian : 2023-08-18 10:08:49--------
+- Name : hoavip1
+- Tên Giao Dịch :  Đặt Vòng Xoay May Mắn
+- Xu Cũ : 955000
+- Xu Mới : 915000
+- Xu Thay Đổi :-40000Xu 
+----------Thời Gian : 2023-08-18 10:09:06--------
+- Name : hoavip1
+- Tên Giao Dịch :  Đặt Vòng Xoay May Mắn
+- Xu Cũ : 915000
+- Xu Mới : 914999
+- Xu Thay Đổi :-1Xu 
+----------Thời Gian : 2023-08-18 10:10:31--------
+- Name : hoang1111
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 10:11:36--------
+- Name : tuoigisolo
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 10:15:21--------
+- Name : tienbryvn
+- Tên Giao Dịch :  Đặt Vòng Xoay May Mắn
+- Xu Cũ : 342254321
+- Xu Mới : 331143210
+- Xu Thay Đổi :-11111111Xu 
+----------Thời Gian : 2023-08-18 10:17:21--------
+- Name : tienbryvn
+- Tên Giao Dịch : Thắng Vòng Xoay May Mắn
+- Xu Cũ : 331143210
+- Xu Mới : 351198765
+- Xu Thay Đổi :20055555Xu 
+----------Thời Gian : 2023-08-18 10:17:25--------
+- Name : thichthisolo
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 10:18:44--------
+- Name : treepu
+- Tên Giao Dịch : Nâng Cấp Bí Kíp
+- Xu Cũ : 434345646
+- Xu Mới : 433845646
+- Xu Thay Đổi :-500000Xu 
+----------Thời Gian : 2023-08-18 10:19:04--------
+- Name : treepu
+- Tên Giao Dịch : Nâng Cấp Bí Kíp
+- Xu Cũ : 433845646
+- Xu Mới : 432845646
+- Xu Thay Đổi :-1000000Xu 
+----------Thời Gian : 2023-08-18 10:44:14--------
+- Name : jtwpmg
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 10:46:22--------
+- Name : jtmpw
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 10:49:55--------
+- Name : ha1001
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 1919450
+- Xu Mới : 19450
+- Xu Thay Đổi :-1900000Xu 
+----------Thời Gian : 2023-08-18 10:50:01--------
+- Name : jtpjmws
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 11:26:50--------
+- Name : upnl5
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 11:29:53--------
+- Name : upnl6
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 11:35:01--------
+- Name : trainghiemgame
+- Tên Giao Dịch :  Đổi 100000 coin ra Xu 
+- Xu Cũ : 177801430
+- Xu Mới : 1177801430
+- Xu Thay Đổi :1177801430Xu 
+----------Thời Gian : 2023-08-18 11:37:00--------
+- Name : 1ngaybuonn
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 72890336
+- Xu Mới : 69390336
+- Xu Thay Đổi :-3500000Xu 
+----------Thời Gian : 2023-08-18 11:37:02--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 627801430
+- Xu Mới : 626801430
+- Xu Thay Đổi :-1000000Xu 
+----------Thời Gian : 2023-08-18 11:37:25--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 626801430
+- Xu Mới : 625301430
+- Xu Thay Đổi :-1500000Xu 
+----------Thời Gian : 2023-08-18 11:37:29--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 625301430
+- Xu Mới : 623801430
+- Xu Thay Đổi :-1500000Xu 
+----------Thời Gian : 2023-08-18 11:37:31--------
+- Name : 1ngaybuonn
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 69390336
+- Xu Mới : 56390336
+- Xu Thay Đổi :-13000000Xu 
+----------Thời Gian : 2023-08-18 11:37:31--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 623801430
+- Xu Mới : 622301430
+- Xu Thay Đổi :-1500000Xu 
+----------Thời Gian : 2023-08-18 11:37:34--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 622301430
+- Xu Mới : 620801430
+- Xu Thay Đổi :-1500000Xu 
+----------Thời Gian : 2023-08-18 11:37:37--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 620801430
+- Xu Mới : 619301430
+- Xu Thay Đổi :-1500000Xu 
+----------Thời Gian : 2023-08-18 11:37:39--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 619301430
+- Xu Mới : 617801430
+- Xu Thay Đổi :-1500000Xu 
+----------Thời Gian : 2023-08-18 11:37:51--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 617801430
+- Xu Mới : 615801430
+- Xu Thay Đổi :-2000000Xu 
+----------Thời Gian : 2023-08-18 11:38:14--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 615801430
+- Xu Mới : 613301430
+- Xu Thay Đổi :-2500000Xu 
+----------Thời Gian : 2023-08-18 11:38:17--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 613301430
+- Xu Mới : 610801430
+- Xu Thay Đổi :-2500000Xu 
+----------Thời Gian : 2023-08-18 11:38:19--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 610801430
+- Xu Mới : 608301430
+- Xu Thay Đổi :-2500000Xu 
+----------Thời Gian : 2023-08-18 11:38:22--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 608301430
+- Xu Mới : 605801430
+- Xu Thay Đổi :-2500000Xu 
+----------Thời Gian : 2023-08-18 11:39:19--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 605801430
+- Xu Mới : 602801430
+- Xu Thay Đổi :-3000000Xu 
+----------Thời Gian : 2023-08-18 11:39:22--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 602801430
+- Xu Mới : 599801430
+- Xu Thay Đổi :-3000000Xu 
+----------Thời Gian : 2023-08-18 11:39:30--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 599801430
+- Xu Mới : 596301430
+- Xu Thay Đổi :-3500000Xu 
+----------Thời Gian : 2023-08-18 11:40:07--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 596301430
+- Xu Mới : 592301430
+- Xu Thay Đổi :-4000000Xu 
+----------Thời Gian : 2023-08-18 11:40:10--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 592301430
+- Xu Mới : 588301430
+- Xu Thay Đổi :-4000000Xu 
+----------Thời Gian : 2023-08-18 11:40:19--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 588301430
+- Xu Mới : 584301430
+- Xu Thay Đổi :-4000000Xu 
+----------Thời Gian : 2023-08-18 11:40:26--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 584301430
+- Xu Mới : 579801430
+- Xu Thay Đổi :-4500000Xu 
+----------Thời Gian : 2023-08-18 11:40:34--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 579801430
+- Xu Mới : 574801430
+- Xu Thay Đổi :-5000000Xu 
+----------Thời Gian : 2023-08-18 11:40:37--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 574801430
+- Xu Mới : 569801430
+- Xu Thay Đổi :-5000000Xu 
+----------Thời Gian : 2023-08-18 12:05:50--------
+- Name : devilninja123
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 12:07:40--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 718301430
+- Xu Mới : 713301430
+- Xu Thay Đổi :-5000000Xu 
+----------Thời Gian : 2023-08-18 12:23:35--------
+- Name : 1ngaybuonn
+- Tên Giao Dịch : Nâng Cấp Bí Kíp
+- Xu Cũ : 56390336
+- Xu Mới : 53390336
+- Xu Thay Đổi :-3000000Xu 
+----------Thời Gian : 2023-08-18 12:23:49--------
+- Name : 1ngaybuonn
+- Tên Giao Dịch : Luyện Bí Kíp
+- Xu Cũ : 53390336
+- Xu Mới : 52390336
+- Xu Thay Đổi :-1000000Xu 
+----------Thời Gian : 2023-08-18 12:26:39--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 113301430
+- Xu Mới : 108301430
+- Xu Thay Đổi :-5000000Xu 
+----------Thời Gian : 2023-08-18 12:26:47--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 108301430
+- Xu Mới : 103301430
+- Xu Thay Đổi :-5000000Xu 
+----------Thời Gian : 2023-08-18 12:26:49--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 103301430
+- Xu Mới : 98301430
+- Xu Thay Đổi :-5000000Xu 
+----------Thời Gian : 2023-08-18 12:26:51--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 98301430
+- Xu Mới : 93301430
+- Xu Thay Đổi :-5000000Xu 
+----------Thời Gian : 2023-08-18 12:26:53--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 93301430
+- Xu Mới : 88301430
+- Xu Thay Đổi :-5000000Xu 
+----------Thời Gian : 2023-08-18 12:26:55--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 88301430
+- Xu Mới : 83301430
+- Xu Thay Đổi :-5000000Xu 
+----------Thời Gian : 2023-08-18 12:26:57--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 83301430
+- Xu Mới : 78301430
+- Xu Thay Đổi :-5000000Xu 
+----------Thời Gian : 2023-08-18 12:26:59--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 78301430
+- Xu Mới : 73301430
+- Xu Thay Đổi :-5000000Xu 
+----------Thời Gian : 2023-08-18 12:27:01--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 73301430
+- Xu Mới : 68301430
+- Xu Thay Đổi :-5000000Xu 
+----------Thời Gian : 2023-08-18 12:27:03--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 68301430
+- Xu Mới : 63301430
+- Xu Thay Đổi :-5000000Xu 
+----------Thời Gian : 2023-08-18 12:27:05--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 63301430
+- Xu Mới : 58301430
+- Xu Thay Đổi :-5000000Xu 
+----------Thời Gian : 2023-08-18 12:27:07--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 58301430
+- Xu Mới : 53301430
+- Xu Thay Đổi :-5000000Xu 
+----------Thời Gian : 2023-08-18 12:27:08--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 53301430
+- Xu Mới : 48301430
+- Xu Thay Đổi :-5000000Xu 
+----------Thời Gian : 2023-08-18 12:27:10--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 48301430
+- Xu Mới : 43301430
+- Xu Thay Đổi :-5000000Xu 
+----------Thời Gian : 2023-08-18 12:27:12--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 43301430
+- Xu Mới : 38301430
+- Xu Thay Đổi :-5000000Xu 
+----------Thời Gian : 2023-08-18 12:27:14--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 38301430
+- Xu Mới : 33301430
+- Xu Thay Đổi :-5000000Xu 
+----------Thời Gian : 2023-08-18 12:27:16--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 33301430
+- Xu Mới : 28301430
+- Xu Thay Đổi :-5000000Xu 
+----------Thời Gian : 2023-08-18 12:27:17--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 28301430
+- Xu Mới : 23301430
+- Xu Thay Đổi :-5000000Xu 
+----------Thời Gian : 2023-08-18 12:27:20--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 23301430
+- Xu Mới : 18301430
+- Xu Thay Đổi :-5000000Xu 
+----------Thời Gian : 2023-08-18 12:27:27--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 18301430
+- Xu Mới : 13301430
+- Xu Thay Đổi :-5000000Xu 
+----------Thời Gian : 2023-08-18 12:27:43--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 13301430
+- Xu Mới : 7801430
+- Xu Thay Đổi :-5500000Xu 
+----------Thời Gian : 2023-08-18 12:27:47--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 7801430
+- Xu Mới : 2301430
+- Xu Thay Đổi :-5500000Xu 
+----------Thời Gian : 2023-08-18 12:40:30--------
+- Name : 1ngaybuonn
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 43390336
+- Xu Mới : 20390336
+- Xu Thay Đổi :-23000000Xu 
+----------Thời Gian : 2023-08-18 12:41:28--------
+- Name : 1ngaybuonn
+- Tên Giao Dịch : Thắng Tài Xỉu : 
+- Xu Cũ : 20390336
+- Xu Mới : 61790336
+- Xu Thay Đổi :41400000Xu 
+----------Thời Gian : 2023-08-18 12:42:31--------
+- Name : 1ngaybuonn
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 61790336
+- Xu Mới : 790336
+- Xu Thay Đổi :-61000000Xu 
+----------Thời Gian : 2023-08-18 12:42:53--------
+- Name : 1ngaybuonn
+- Tên Giao Dịch :  Đặt Vòng Xoay May Mắn
+- Xu Cũ : 790336
+- Xu Mới : 690336
+- Xu Thay Đổi :-100000Xu 
+----------Thời Gian : 2023-08-18 12:56:39--------
+- Name : phoneix
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 25077787
+- Xu Mới : 2077787
+- Xu Thay Đổi :-23000000Xu 
+----------Thời Gian : 2023-08-18 12:58:14--------
+- Name : phoneix
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 2077787
+- Xu Mới : 77787
+- Xu Thay Đổi :-2000000Xu 
+----------Thời Gian : 2023-08-18 13:19:32--------
+- Name : maumezz
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 13:19:33--------
+- Name : nubita
+- Tên Giao Dịch :  Đổi 150000 coin ra Xu 
+- Xu Cũ : 970000
+- Xu Mới : 1500970000
+- Xu Thay Đổi :1500970000Xu 
+----------Thời Gian : 2023-08-18 13:36:15--------
+- Name : anhnongdan
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 14127593
+- Xu Mới : 127593
+- Xu Thay Đổi :-14000000Xu 
+----------Thời Gian : 2023-08-18 13:37:13--------
+- Name : anhnongdan
+- Tên Giao Dịch : Thắng Tài Xỉu : 
+- Xu Cũ : 127593
+- Xu Mới : 25327593
+- Xu Thay Đổi :25200000Xu 
+----------Thời Gian : 2023-08-18 13:38:07--------
+- Name : anhnongdan
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 25327593
+- Xu Mới : 327593
+- Xu Thay Đổi :-25000000Xu 
+----------Thời Gian : 2023-08-18 13:43:49--------
+- Name : toi36
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 13:52:46--------
+- Name : vdmqhuong
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 151110000
+- Xu Mới : 136110000
+- Xu Thay Đổi :-15000000Xu 
+----------Thời Gian : 2023-08-18 13:53:57--------
+- Name : vdmqhuong
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 136110000
+- Xu Mới : 106110000
+- Xu Thay Đổi :-30000000Xu 
+----------Thời Gian : 2023-08-18 13:54:27--------
+- Name : upnl4
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 13:55:06--------
+- Name : vdmqhuong
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 106110000
+- Xu Mới : 36110000
+- Xu Thay Đổi :-70000000Xu 
+----------Thời Gian : 2023-08-18 13:56:05--------
+- Name : vdmqhuong
+- Tên Giao Dịch : Thắng Tài Xỉu : 
+- Xu Cũ : 36110000
+- Xu Mới : 162110000
+- Xu Thay Đổi :126000000Xu 
+----------Thời Gian : 2023-08-18 13:56:17--------
+- Name : vdmqhuong
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 162110000
+- Xu Mới : 150110000
+- Xu Thay Đổi :-12000000Xu 
+----------Thời Gian : 2023-08-18 13:57:15--------
+- Name : vdmqhuong
+- Tên Giao Dịch : Thắng Tài Xỉu : 
+- Xu Cũ : 150110000
+- Xu Mới : 171710000
+- Xu Thay Đổi :21600000Xu 
+----------Thời Gian : 2023-08-18 13:57:52--------
+- Name : vdmqhuong
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 150110000
+- Xu Mới : 100110000
+- Xu Thay Đổi :-50000000Xu 
+----------Thời Gian : 2023-08-18 13:58:51--------
+- Name : vdmqhuong
+- Tên Giao Dịch : Thắng Tài Xỉu : 
+- Xu Cũ : 100110000
+- Xu Mới : 190110000
+- Xu Thay Đổi :90000000Xu 
+----------Thời Gian : 2023-08-18 13:59:09--------
+- Name : vdmqhuong
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 190110000
+- Xu Mới : 100110000
+- Xu Thay Đổi :-90000000Xu 
+----------Thời Gian : 2023-08-18 13:59:53--------
+- Name : hoavip1
+- Tên Giao Dịch :  Đặt Vòng Xoay May Mắn
+- Xu Cũ : 914999
+- Xu Mới : 904999
+- Xu Thay Đổi :-10000Xu 
+----------Thời Gian : 2023-08-18 14:00:21--------
+- Name : vdmqhuong
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 100110000
+- Xu Mới : 110000
+- Xu Thay Đổi :-100000000Xu 
+----------Thời Gian : 2023-08-18 14:00:45--------
+- Name : adminlon4ddm
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 1800000
+- Xu Mới : 0
+- Xu Thay Đổi :-1800000Xu 
+----------Thời Gian : 2023-08-18 14:01:20--------
+- Name : adminlon4ddm
+- Tên Giao Dịch : Thắng Tài Xỉu : 
+- Xu Cũ : 0
+- Xu Mới : 3240000
+- Xu Thay Đổi :3240000Xu 
+----------Thời Gian : 2023-08-18 14:02:01--------
+- Name : adminlon4ddm
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 3240000
+- Xu Mới : 40000
+- Xu Thay Đổi :-3200000Xu 
+----------Thời Gian : 2023-08-18 14:02:59--------
+- Name : adminlon4ddm
+- Tên Giao Dịch : Thắng Tài Xỉu : 
+- Xu Cũ : 40000
+- Xu Mới : 5800000
+- Xu Thay Đổi :5760000Xu 
+----------Thời Gian : 2023-08-18 14:03:34--------
+- Name : huong
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 108548997
+- Xu Mới : 8548997
+- Xu Thay Đổi :-100000000Xu 
+----------Thời Gian : 2023-08-18 14:03:35--------
+- Name : adminlon4ddm
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 5800000
+- Xu Mới : 0
+- Xu Thay Đổi :-5800000Xu 
+----------Thời Gian : 2023-08-18 14:04:32--------
+- Name : huong
+- Tên Giao Dịch : Thắng Tài Xỉu : 
+- Xu Cũ : 258548997
+- Xu Mới : 438548997
+- Xu Thay Đổi :180000000Xu 
+----------Thời Gian : 2023-08-18 14:05:01--------
+- Name : huong
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 438548997
+- Xu Mới : 400548997
+- Xu Thay Đổi :-38000000Xu 
+----------Thời Gian : 2023-08-18 14:06:01--------
+- Name : huong
+- Tên Giao Dịch : Thắng Tài Xỉu : 
+- Xu Cũ : 400548997
+- Xu Mới : 468948997
+- Xu Thay Đổi :68400000Xu 
+----------Thời Gian : 2023-08-18 14:06:23--------
+- Name : huong
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 468948997
+- Xu Mới : 439948997
+- Xu Thay Đổi :-29000000Xu 
+----------Thời Gian : 2023-08-18 14:07:49--------
+- Name : huong
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 439948997
+- Xu Mới : 400948997
+- Xu Thay Đổi :-39000000Xu 
+----------Thời Gian : 2023-08-18 14:09:15--------
+- Name : huong
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 100948997
+- Xu Mới : 948997
+- Xu Thay Đổi :-100000000Xu 
+----------Thời Gian : 2023-08-18 14:10:04--------
+- Name : chobuavn
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 236624900
+- Xu Mới : 206624900
+- Xu Thay Đổi :-30000000Xu 
+----------Thời Gian : 2023-08-18 14:10:37--------
+- Name : huong
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 200948997
+- Xu Mới : 100948997
+- Xu Thay Đổi :-100000000Xu 
+----------Thời Gian : 2023-08-18 14:11:01--------
+- Name : chobuavn
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 206624900
+- Xu Mới : 200624900
+- Xu Thay Đổi :-6000000Xu 
+----------Thời Gian : 2023-08-18 14:11:53--------
+- Name : huong
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 100948997
+- Xu Mới : 948997
+- Xu Thay Đổi :-100000000Xu 
+----------Thời Gian : 2023-08-18 14:12:34--------
+- Name : chobuavn
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 200624900
+- Xu Mới : 200624850
+- Xu Thay Đổi :-50Xu 
+----------Thời Gian : 2023-08-18 14:12:52--------
+- Name : huong
+- Tên Giao Dịch : Thắng Tài Xỉu : 
+- Xu Cũ : 200948997
+- Xu Mới : 380948997
+- Xu Thay Đổi :180000000Xu 
+----------Thời Gian : 2023-08-18 14:13:41--------
+- Name : huong
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 380948997
+- Xu Mới : 280948997
+- Xu Thay Đổi :-100000000Xu 
+----------Thời Gian : 2023-08-18 14:14:01--------
+- Name : chobuavn
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 200624850
+- Xu Mới : 100624850
+- Xu Thay Đổi :-100000000Xu 
+----------Thời Gian : 2023-08-18 14:14:59--------
+- Name : huong
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 280948997
+- Xu Mới : 180948997
+- Xu Thay Đổi :-100000000Xu 
+----------Thời Gian : 2023-08-18 14:15:07--------
+- Name : chobuavn
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 100624850
+- Xu Mới : 90624850
+- Xu Thay Đổi :-10000000Xu 
+----------Thời Gian : 2023-08-18 14:15:58--------
+- Name : huong
+- Tên Giao Dịch : Thắng Tài Xỉu : 
+- Xu Cũ : 180948997
+- Xu Mới : 360948997
+- Xu Thay Đổi :180000000Xu 
+----------Thời Gian : 2023-08-18 14:16:13--------
+- Name : huong
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 360948997
+- Xu Mới : 260948997
+- Xu Thay Đổi :-100000000Xu 
+----------Thời Gian : 2023-08-18 14:16:48--------
+- Name : anhnongdan
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 90327593
+- Xu Mới : 327593
+- Xu Thay Đổi :-90000000Xu 
+----------Thời Gian : 2023-08-18 14:17:35--------
+- Name : huong
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 260948997
+- Xu Mới : 160948997
+- Xu Thay Đổi :-100000000Xu 
+----------Thời Gian : 2023-08-18 14:18:51--------
+- Name : huong
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 160948997
+- Xu Mới : 60948997
+- Xu Thay Đổi :-100000000Xu 
+----------Thời Gian : 2023-08-18 14:20:17--------
+- Name : huong
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 160948997
+- Xu Mới : 60948997
+- Xu Thay Đổi :-100000000Xu 
+----------Thời Gian : 2023-08-18 14:21:37--------
+- Name : huong
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 60948997
+- Xu Mới : 20948997
+- Xu Thay Đổi :-40000000Xu 
+----------Thời Gian : 2023-08-18 14:22:03--------
+- Name : iavaodau
+- Tên Giao Dịch :  Góp vào gia tộc 
+- Xu Cũ : 446333
+- Xu Mới : 436333
+- Xu Thay Đổi :-10000Xu 
+----------Thời Gian : 2023-08-18 14:29:53--------
+- Name : huynhdz123
+- Tên Giao Dịch : Luyện Bí Kíp
+- Xu Cũ : 9354643
+- Xu Mới : 8354643
+- Xu Thay Đổi :-1000000Xu 
+----------Thời Gian : 2023-08-18 14:37:14--------
+- Name : iavaodau
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 436333
+- Xu Mới : 336333
+- Xu Thay Đổi :-100000Xu 
+----------Thời Gian : 2023-08-18 14:38:37--------
+- Name : iavaodau
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 336333
+- Xu Mới : 136333
+- Xu Thay Đổi :-200000Xu 
+----------Thời Gian : 2023-08-18 14:39:35--------
+- Name : iavaodau
+- Tên Giao Dịch : Thắng Tài Xỉu : 
+- Xu Cũ : 136333
+- Xu Mới : 496333
+- Xu Thay Đổi :360000Xu 
+----------Thời Gian : 2023-08-18 14:40:37--------
+- Name : iavaodau
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 496333
+- Xu Mới : 396333
+- Xu Thay Đổi :-100000Xu 
+----------Thời Gian : 2023-08-18 14:41:35--------
+- Name : iavaodau
+- Tên Giao Dịch : Thắng Tài Xỉu : 
+- Xu Cũ : 396333
+- Xu Mới : 576333
+- Xu Thay Đổi :180000Xu 
+----------Thời Gian : 2023-08-18 14:42:24--------
+- Name : phuocduc1
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 62000000
+- Xu Mới : 0
+- Xu Thay Đổi :-62000000Xu 
+----------Thời Gian : 2023-08-18 14:43:00--------
+- Name : iavaodau
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 576333
+- Xu Mới : 476333
+- Xu Thay Đổi :-100000Xu 
+----------Thời Gian : 2023-08-18 14:43:23--------
+- Name : phuocduc1
+- Tên Giao Dịch : Thắng Tài Xỉu : 
+- Xu Cũ : 0
+- Xu Mới : 111600000
+- Xu Thay Đổi :111600000Xu 
+----------Thời Gian : 2023-08-18 14:43:23--------
+- Name : iavaodau
+- Tên Giao Dịch : Thắng Tài Xỉu : 
+- Xu Cũ : 476333
+- Xu Mới : 656333
+- Xu Thay Đổi :180000Xu 
+----------Thời Gian : 2023-08-18 14:43:33--------
+- Name : phuocduc1
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 111600000
+- Xu Mới : 11600000
+- Xu Thay Đổi :-100000000Xu 
+----------Thời Gian : 2023-08-18 14:43:41--------
+- Name : iavaodau
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 656333
+- Xu Mới : 556333
+- Xu Thay Đổi :-100000Xu 
+----------Thời Gian : 2023-08-18 14:45:39--------
+- Name : phuocduc1
+- Tên Giao Dịch :  Đặt Vòng Xoay May Mắn
+- Xu Cũ : 111600000
+- Xu Mới : 61600000
+- Xu Thay Đổi :-50000000Xu 
+----------Thời Gian : 2023-08-18 14:46:17--------
+- Name : anhlavip
+- Tên Giao Dịch :  Đặt Vòng Xoay May Mắn
+- Xu Cũ : 1435248154
+- Xu Mới : 1385248154
+- Xu Thay Đổi :-50000000Xu 
+----------Thời Gian : 2023-08-18 14:48:16--------
+- Name : anhlavip
+- Tên Giao Dịch : Thắng Vòng Xoay May Mắn
+- Xu Cũ : 1385248154
+- Xu Mới : 1480248154
+- Xu Thay Đổi :95000000Xu 
+----------Thời Gian : 2023-08-18 14:48:25--------
+- Name : phuocduc1
+- Tên Giao Dịch :  Đặt Vòng Xoay May Mắn
+- Xu Cũ : 61595000
+- Xu Mới : 11595000
+- Xu Thay Đổi :-50000000Xu 
+----------Thời Gian : 2023-08-18 14:48:27--------
+- Name : anhlavip
+- Tên Giao Dịch :  Đặt Vòng Xoay May Mắn
+- Xu Cũ : 1480248154
+- Xu Mới : 1430248154
+- Xu Thay Đổi :-50000000Xu 
+----------Thời Gian : 2023-08-18 14:50:26--------
+- Name : anhlavip
+- Tên Giao Dịch : Thắng Vòng Xoay May Mắn
+- Xu Cũ : 1430248154
+- Xu Mới : 1525248154
+- Xu Thay Đổi :95000000Xu 
+----------Thời Gian : 2023-08-18 14:51:24--------
+- Name : htn3s
+- Tên Giao Dịch : Làm 700 Cỏ ba lá Bằng Xu
+- Xu Cũ : 561357545
+- Xu Mới : 491357545
+- Xu Thay Đổi :-70000000Xu 
+----------Thời Gian : 2023-08-18 14:51:46--------
+- Name : htn3s
+- Tên Giao Dịch : Làm 97 Cỏ ba lá Bằng Xu
+- Xu Cũ : 491357545
+- Xu Mới : 481657545
+- Xu Thay Đổi :-9700000Xu 
+----------Thời Gian : 2023-08-18 14:52:07--------
+- Name : anhlavip
+- Tên Giao Dịch :  Đặt Vòng Xoay May Mắn
+- Xu Cũ : 1525248154
+- Xu Mới : 1475248154
+- Xu Thay Đổi :-50000000Xu 
+----------Thời Gian : 2023-08-18 14:52:24--------
+- Name : chobuavn
+- Tên Giao Dịch :  Đặt Vòng Xoay May Mắn
+- Xu Cũ : 50624850
+- Xu Mới : 624850
+- Xu Thay Đổi :-50000000Xu 
+----------Thời Gian : 2023-08-18 14:52:27--------
+- Name : phuocduc1
+- Tên Giao Dịch :  Đặt Vòng Xoay May Mắn
+- Xu Cũ : 161595000
+- Xu Mới : 111595000
+- Xu Thay Đổi :-50000000Xu 
+----------Thời Gian : 2023-08-18 14:52:59--------
+- Name : phuocduc1
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 111595000
+- Xu Mới : 11595000
+- Xu Thay Đổi :-100000000Xu 
+----------Thời Gian : 2023-08-18 14:54:23--------
+- Name : anhlavip
+- Tên Giao Dịch : Thắng Vòng Xoay May Mắn
+- Xu Cũ : 1475248154
+- Xu Mới : 1617748154
+- Xu Thay Đổi :142500000Xu 
+----------Thời Gian : 2023-08-18 14:59:15--------
+- Name : gaobac
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 15:13:28--------
+- Name : phong4
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 2627920
+- Xu Mới : 2627900
+- Xu Thay Đổi :-20Xu 
+----------Thời Gian : 2023-08-18 15:15:26--------
+- Name : trumcung
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 15:18:29--------
+- Name : trumcung
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 1000000
+- Xu Mới : 995000
+- Xu Thay Đổi :-5000Xu 
+----------Thời Gian : 2023-08-18 15:20:53--------
+- Name : trumdola
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 254156
+- Xu Mới : 200006
+- Xu Thay Đổi :-54150Xu 
+----------Thời Gian : 2023-08-18 15:21:52--------
+- Name : trumdola
+- Tên Giao Dịch : Thắng Tài Xỉu : 
+- Xu Cũ : 200006
+- Xu Mới : 297476
+- Xu Thay Đổi :97470Xu 
+----------Thời Gian : 2023-08-18 15:22:59--------
+- Name : leovanpheo1
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 2773
+- Xu Mới : 3
+- Xu Thay Đổi :-2770Xu 
+----------Thời Gian : 2023-08-18 15:23:57--------
+- Name : leovanpheo1
+- Tên Giao Dịch : Thắng Tài Xỉu : 
+- Xu Cũ : 3
+- Xu Mới : 4989
+- Xu Thay Đổi :4986Xu 
+----------Thời Gian : 2023-08-18 15:24:19--------
+- Name : leovanpheo1
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 4989
+- Xu Mới : 9
+- Xu Thay Đổi :-4980Xu 
+----------Thời Gian : 2023-08-18 15:35:22--------
+- Name : nolike
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 3973400
+- Xu Mới : 3973000
+- Xu Thay Đổi :-400Xu 
+----------Thời Gian : 2023-08-18 15:36:21--------
+- Name : nolike
+- Tên Giao Dịch : Thắng Tài Xỉu : 
+- Xu Cũ : 3973000
+- Xu Mới : 3973720
+- Xu Thay Đổi :720Xu 
+----------Thời Gian : 2023-08-18 15:40:57--------
+- Name : phongdz11
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 5500008
+- Xu Mới : 5000008
+- Xu Thay Đổi :-500000Xu 
+----------Thời Gian : 2023-08-18 15:41:55--------
+- Name : phongdz11
+- Tên Giao Dịch : Thắng Tài Xỉu : 
+- Xu Cũ : 5000008
+- Xu Mới : 5900008
+- Xu Thay Đổi :900000Xu 
+----------Thời Gian : 2023-08-18 15:42:04--------
+- Name : anhlavip
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1469748145
+- Xu Mới : 1463748145
+- Xu Thay Đổi :-6000000Xu 
+----------Thời Gian : 2023-08-18 15:42:06--------
+- Name : anhlavip
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1463748145
+- Xu Mới : 1457748145
+- Xu Thay Đổi :-6000000Xu 
+----------Thời Gian : 2023-08-18 15:42:08--------
+- Name : anhlavip
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1457748145
+- Xu Mới : 1451748145
+- Xu Thay Đổi :-6000000Xu 
+----------Thời Gian : 2023-08-18 15:42:16--------
+- Name : anhlavip
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1451748145
+- Xu Mới : 1445748145
+- Xu Thay Đổi :-6000000Xu 
+----------Thời Gian : 2023-08-18 15:42:47--------
+- Name : anhlavip
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1445748145
+- Xu Mới : 1439248145
+- Xu Thay Đổi :-6500000Xu 
+----------Thời Gian : 2023-08-18 15:42:48--------
+- Name : anhlavip
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1439248145
+- Xu Mới : 1432748145
+- Xu Thay Đổi :-6500000Xu 
+----------Thời Gian : 2023-08-18 15:42:49--------
+- Name : anhlavip
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1432748145
+- Xu Mới : 1426248145
+- Xu Thay Đổi :-6500000Xu 
+----------Thời Gian : 2023-08-18 15:42:54--------
+- Name : anhlavip
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1426248145
+- Xu Mới : 1419748145
+- Xu Thay Đổi :-6500000Xu 
+----------Thời Gian : 2023-08-18 15:43:03--------
+- Name : anhlavip
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 1419748145
+- Xu Mới : 1413248145
+- Xu Thay Đổi :-6500000Xu 
+----------Thời Gian : 2023-08-18 15:43:23--------
+- Name : anhlavip
+- Tên Giao Dịch : Nâng Cấp Bí Kíp
+- Xu Cũ : 1413248145
+- Xu Mới : 1405248145
+- Xu Thay Đổi :-8000000Xu 
+----------Thời Gian : 2023-08-18 15:43:24--------
+- Name : anhlavip
+- Tên Giao Dịch : Nâng Cấp Bí Kíp
+- Xu Cũ : 1405248145
+- Xu Mới : 1397248145
+- Xu Thay Đổi :-8000000Xu 
+----------Thời Gian : 2023-08-18 15:43:26--------
+- Name : anhlavip
+- Tên Giao Dịch : Nâng Cấp Bí Kíp
+- Xu Cũ : 1397248145
+- Xu Mới : 1389248145
+- Xu Thay Đổi :-8000000Xu 
+----------Thời Gian : 2023-08-18 15:43:33--------
+- Name : anhlavip
+- Tên Giao Dịch : Nâng Cấp Bí Kíp
+- Xu Cũ : 1389248145
+- Xu Mới : 1381248145
+- Xu Thay Đổi :-8000000Xu 
+----------Thời Gian : 2023-08-18 15:43:34--------
+- Name : anhlavip
+- Tên Giao Dịch : Nâng Cấp Bí Kíp
+- Xu Cũ : 1381248145
+- Xu Mới : 1373248145
+- Xu Thay Đổi :-8000000Xu 
+----------Thời Gian : 2023-08-18 15:43:37--------
+- Name : anhlavip
+- Tên Giao Dịch : Nâng Cấp Bí Kíp
+- Xu Cũ : 1373248145
+- Xu Mới : 1365248145
+- Xu Thay Đổi :-8000000Xu 
+----------Thời Gian : 2023-08-18 15:43:45--------
+- Name : anhlavip
+- Tên Giao Dịch : Nâng Cấp Bí Kíp
+- Xu Cũ : 1365248145
+- Xu Mới : 1357248145
+- Xu Thay Đổi :-8000000Xu 
+----------Thời Gian : 2023-08-18 15:43:55--------
+- Name : anhlavip
+- Tên Giao Dịch : Nâng Cấp Bí Kíp
+- Xu Cũ : 1357248145
+- Xu Mới : 1349248145
+- Xu Thay Đổi :-8000000Xu 
+----------Thời Gian : 2023-08-18 15:43:57--------
+- Name : anhlavip
+- Tên Giao Dịch : Nâng Cấp Bí Kíp
+- Xu Cũ : 1349248145
+- Xu Mới : 1341248145
+- Xu Thay Đổi :-8000000Xu 
+----------Thời Gian : 2023-08-18 15:43:59--------
+- Name : anhlavip
+- Tên Giao Dịch : Nâng Cấp Bí Kíp
+- Xu Cũ : 1341248145
+- Xu Mới : 1333248145
+- Xu Thay Đổi :-8000000Xu 
+----------Thời Gian : 2023-08-18 15:44:05--------
+- Name : anhlavip
+- Tên Giao Dịch : Nâng Cấp Bí Kíp
+- Xu Cũ : 1333248145
+- Xu Mới : 1325248145
+- Xu Thay Đổi :-8000000Xu 
+----------Thời Gian : 2023-08-18 15:44:06--------
+- Name : anhlavip
+- Tên Giao Dịch : Nâng Cấp Bí Kíp
+- Xu Cũ : 1325248145
+- Xu Mới : 1317248145
+- Xu Thay Đổi :-8000000Xu 
+----------Thời Gian : 2023-08-18 15:44:08--------
+- Name : anhlavip
+- Tên Giao Dịch : Nâng Cấp Bí Kíp
+- Xu Cũ : 1317248145
+- Xu Mới : 1309248145
+- Xu Thay Đổi :-8000000Xu 
+----------Thời Gian : 2023-08-18 15:44:11--------
+- Name : anhlavip
+- Tên Giao Dịch : Nâng Cấp Bí Kíp
+- Xu Cũ : 1309248145
+- Xu Mới : 1301248145
+- Xu Thay Đổi :-8000000Xu 
+----------Thời Gian : 2023-08-18 15:44:12--------
+- Name : anhlavip
+- Tên Giao Dịch : Nâng Cấp Bí Kíp
+- Xu Cũ : 1301248145
+- Xu Mới : 1293248145
+- Xu Thay Đổi :-8000000Xu 
+----------Thời Gian : 2023-08-18 15:44:14--------
+- Name : anhlavip
+- Tên Giao Dịch : Nâng Cấp Bí Kíp
+- Xu Cũ : 1293248145
+- Xu Mới : 1285248145
+- Xu Thay Đổi :-8000000Xu 
+----------Thời Gian : 2023-08-18 15:44:16--------
+- Name : anhlavip
+- Tên Giao Dịch : Nâng Cấp Bí Kíp
+- Xu Cũ : 1285248145
+- Xu Mới : 1277248145
+- Xu Thay Đổi :-8000000Xu 
+----------Thời Gian : 2023-08-18 15:51:33--------
+- Name : anhlavip
+- Tên Giao Dịch :  Đặt Vòng Xoay May Mắn
+- Xu Cũ : 1277248145
+- Xu Mới : 1227248145
+- Xu Thay Đổi :-50000000Xu 
+----------Thời Gian : 2023-08-18 15:51:49--------
+- Name : tienbryvn
+- Tên Giao Dịch : Nâng Cấp Bí Kíp
+- Xu Cũ : 351198765
+- Xu Mới : 346698765
+- Xu Thay Đổi :-4500000Xu 
+----------Thời Gian : 2023-08-18 15:51:55--------
+- Name : tienbryvn
+- Tên Giao Dịch : Nâng Cấp Bí Kíp
+- Xu Cũ : 346698765
+- Xu Mới : 342198765
+- Xu Thay Đổi :-4500000Xu 
+----------Thời Gian : 2023-08-18 15:52:03--------
+- Name : tienbryvn
+- Tên Giao Dịch : Nâng Cấp Bí Kíp
+- Xu Cũ : 342198765
+- Xu Mới : 337698765
+- Xu Thay Đổi :-4500000Xu 
+----------Thời Gian : 2023-08-18 15:52:07--------
+- Name : tienbryvn
+- Tên Giao Dịch : Nâng Cấp Bí Kíp
+- Xu Cũ : 337698765
+- Xu Mới : 333198765
+- Xu Thay Đổi :-4500000Xu 
+----------Thời Gian : 2023-08-18 15:52:13--------
+- Name : tienbryvn
+- Tên Giao Dịch : Nâng Cấp Bí Kíp
+- Xu Cũ : 333198765
+- Xu Mới : 328698765
+- Xu Thay Đổi :-4500000Xu 
+----------Thời Gian : 2023-08-18 15:52:16--------
+- Name : tienbryvn
+- Tên Giao Dịch : Nâng Cấp Bí Kíp
+- Xu Cũ : 328698765
+- Xu Mới : 324198765
+- Xu Thay Đổi :-4500000Xu 
+----------Thời Gian : 2023-08-18 15:52:19--------
+- Name : tienbryvn
+- Tên Giao Dịch : Nâng Cấp Bí Kíp
+- Xu Cũ : 324198765
+- Xu Mới : 319698765
+- Xu Thay Đổi :-4500000Xu 
+----------Thời Gian : 2023-08-18 15:52:25--------
+- Name : tienbryvn
+- Tên Giao Dịch : Nâng Cấp Bí Kíp
+- Xu Cũ : 319698765
+- Xu Mới : 315198765
+- Xu Thay Đổi :-4500000Xu 
+----------Thời Gian : 2023-08-18 15:52:33--------
+- Name : tienbryvn
+- Tên Giao Dịch : Nâng Cấp Bí Kíp
+- Xu Cũ : 315198765
+- Xu Mới : 310698765
+- Xu Thay Đổi :-4500000Xu 
+----------Thời Gian : 2023-08-18 15:52:43--------
+- Name : tienbryvn
+- Tên Giao Dịch : Nâng Cấp Bí Kíp
+- Xu Cũ : 310698765
+- Xu Mới : 306198765
+- Xu Thay Đổi :-4500000Xu 
+----------Thời Gian : 2023-08-18 15:52:48--------
+- Name : tienbryvn
+- Tên Giao Dịch : Nâng Cấp Bí Kíp
+- Xu Cũ : 306198765
+- Xu Mới : 301698765
+- Xu Thay Đổi :-4500000Xu 
+----------Thời Gian : 2023-08-18 15:52:53--------
+- Name : tienbryvn
+- Tên Giao Dịch : Nâng Cấp Bí Kíp
+- Xu Cũ : 301698765
+- Xu Mới : 297198765
+- Xu Thay Đổi :-4500000Xu 
+----------Thời Gian : 2023-08-18 15:53:06--------
+- Name : tienbryvn
+- Tên Giao Dịch : Nâng Cấp Bí Kíp
+- Xu Cũ : 297198765
+- Xu Mới : 292698765
+- Xu Thay Đổi :-4500000Xu 
+----------Thời Gian : 2023-08-18 15:53:10--------
+- Name : tienbryvn
+- Tên Giao Dịch : Nâng Cấp Bí Kíp
+- Xu Cũ : 292698765
+- Xu Mới : 288198765
+- Xu Thay Đổi :-4500000Xu 
+----------Thời Gian : 2023-08-18 15:53:13--------
+- Name : tienbryvn
+- Tên Giao Dịch : Nâng Cấp Bí Kíp
+- Xu Cũ : 288198765
+- Xu Mới : 283698765
+- Xu Thay Đổi :-4500000Xu 
+----------Thời Gian : 2023-08-18 15:53:15--------
+- Name : tienbryvn
+- Tên Giao Dịch : Nâng Cấp Bí Kíp
+- Xu Cũ : 283698765
+- Xu Mới : 279198765
+- Xu Thay Đổi :-4500000Xu 
+----------Thời Gian : 2023-08-18 15:58:11--------
+- Name : manhnhan
+- Tên Giao Dịch :  Đặt Vòng Xoay May Mắn
+- Xu Cũ : 692695110
+- Xu Mới : 650000000
+- Xu Thay Đổi :-42695110Xu 
+----------Thời Gian : 2023-08-18 16:00:10--------
+- Name : anhlavip
+- Tên Giao Dịch : Thắng Vòng Xoay May Mắn
+- Xu Cũ : 1227248145
+- Xu Mới : 1315308499
+- Xu Thay Đổi :88060354Xu 
+----------Thời Gian : 2023-08-18 16:17:55--------
+- Name : anhlavip
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 1315308499
+- Xu Mới : 1215308499
+- Xu Thay Đổi :-100000000Xu 
+----------Thời Gian : 2023-08-18 16:18:36--------
+- Name : lamlam
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 16:18:54--------
+- Name : anhlavip
+- Tên Giao Dịch : Thắng Tài Xỉu : 
+- Xu Cũ : 915308499
+- Xu Mới : 1095308499
+- Xu Thay Đổi :180000000Xu 
+----------Thời Gian : 2023-08-18 16:19:34--------
+- Name : anhlavip
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 1095308499
+- Xu Mới : 995308499
+- Xu Thay Đổi :-100000000Xu 
+----------Thời Gian : 2023-08-18 16:20:00--------
+- Name : nlskup
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 300100099
+- Xu Mới : 200100099
+- Xu Thay Đổi :-100000000Xu 
+----------Thời Gian : 2023-08-18 16:20:45--------
+- Name : anhlavip
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 995308499
+- Xu Mới : 895308499
+- Xu Thay Đổi :-100000000Xu 
+----------Thời Gian : 2023-08-18 16:20:55--------
+- Name : nlskup
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 200100099
+- Xu Mới : 100100099
+- Xu Thay Đổi :-100000000Xu 
+----------Thời Gian : 2023-08-18 16:22:00--------
+- Name : anhlavip
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 895308499
+- Xu Mới : 795308499
+- Xu Thay Đổi :-100000000Xu 
+----------Thời Gian : 2023-08-18 16:22:08--------
+- Name : nlskup
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 100100099
+- Xu Mới : 100099
+- Xu Thay Đổi :-100000000Xu 
+----------Thời Gian : 2023-08-18 16:22:59--------
+- Name : anhlavip
+- Tên Giao Dịch : Thắng Tài Xỉu : 
+- Xu Cũ : 795308499
+- Xu Mới : 975308499
+- Xu Thay Đổi :180000000Xu 
+----------Thời Gian : 2023-08-18 16:22:59--------
+- Name : nlskup
+- Tên Giao Dịch : Thắng Tài Xỉu : 
+- Xu Cũ : 100099
+- Xu Mới : 180100099
+- Xu Thay Đổi :180000000Xu 
+----------Thời Gian : 2023-08-18 16:23:07--------
+- Name : anhlavip
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 975308499
+- Xu Mới : 875308499
+- Xu Thay Đổi :-100000000Xu 
+----------Thời Gian : 2023-08-18 16:23:16--------
+- Name : nlskup
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 180100099
+- Xu Mới : 80100099
+- Xu Thay Đổi :-100000000Xu 
+----------Thời Gian : 2023-08-18 16:24:27--------
+- Name : anhlavip
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 875308499
+- Xu Mới : 775308499
+- Xu Thay Đổi :-100000000Xu 
+----------Thời Gian : 2023-08-18 16:24:36--------
+- Name : nlskup
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 80100099
+- Xu Mới : 100099
+- Xu Thay Đổi :-80000000Xu 
+----------Thời Gian : 2023-08-18 16:25:26--------
+- Name : anhlavip
+- Tên Giao Dịch : Thắng Tài Xỉu : 
+- Xu Cũ : 775308499
+- Xu Mới : 955308499
+- Xu Thay Đổi :180000000Xu 
+----------Thời Gian : 2023-08-18 16:25:26--------
+- Name : nlskup
+- Tên Giao Dịch : Thắng Tài Xỉu : 
+- Xu Cũ : 100099
+- Xu Mới : 144100099
+- Xu Thay Đổi :144000000Xu 
+----------Thời Gian : 2023-08-18 16:31:56--------
+- Name : hihizzz
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 16240000
+- Xu Mới : 16000000
+- Xu Thay Đổi :-240000Xu 
+----------Thời Gian : 2023-08-18 16:32:55--------
+- Name : hihizzz
+- Tên Giao Dịch : Thắng Tài Xỉu : 
+- Xu Cũ : 16000000
+- Xu Mới : 16432000
+- Xu Thay Đổi :432000Xu 
+----------Thời Gian : 2023-08-18 16:35:15--------
+- Name : nlskup
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 144100099
+- Xu Mới : 44100099
+- Xu Thay Đổi :-100000000Xu 
+----------Thời Gian : 2023-08-18 16:35:34--------
+- Name : anhlavip
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 955308499
+- Xu Mới : 945308499
+- Xu Thay Đổi :-10000000Xu 
+----------Thời Gian : 2023-08-18 16:36:13--------
+- Name : nlskup
+- Tên Giao Dịch : Thắng Tài Xỉu : 
+- Xu Cũ : 44100099
+- Xu Mới : 224100099
+- Xu Thay Đổi :180000000Xu 
+----------Thời Gian : 2023-08-18 16:36:13--------
+- Name : anhlavip
+- Tên Giao Dịch : Thắng Tài Xỉu : 
+- Xu Cũ : 945308499
+- Xu Mới : 963308499
+- Xu Thay Đổi :18000000Xu 
+----------Thời Gian : 2023-08-18 16:36:47--------
+- Name : anhlavip
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 963308499
+- Xu Mới : 863308499
+- Xu Thay Đổi :-100000000Xu 
+----------Thời Gian : 2023-08-18 16:37:02--------
+- Name : nlskup
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 224100099
+- Xu Mới : 124100099
+- Xu Thay Đổi :-100000000Xu 
+----------Thời Gian : 2023-08-18 16:37:46--------
+- Name : anhlavip
+- Tên Giao Dịch : Thắng Tài Xỉu : 
+- Xu Cũ : 863308499
+- Xu Mới : 1043308499
+- Xu Thay Đổi :180000000Xu 
+----------Thời Gian : 2023-08-18 16:37:46--------
+- Name : nlskup
+- Tên Giao Dịch : Thắng Tài Xỉu : 
+- Xu Cũ : 124100099
+- Xu Mới : 304100099
+- Xu Thay Đổi :180000000Xu 
+----------Thời Gian : 2023-08-18 16:38:27--------
+- Name : nlskup
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 304100099
+- Xu Mới : 204100099
+- Xu Thay Đổi :-100000000Xu 
+----------Thời Gian : 2023-08-18 16:38:47--------
+- Name : anhlavip
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 1043308499
+- Xu Mới : 943308499
+- Xu Thay Đổi :-100000000Xu 
+----------Thời Gian : 2023-08-18 16:39:25--------
+- Name : nlskup
+- Tên Giao Dịch : Thắng Tài Xỉu : 
+- Xu Cũ : 204100099
+- Xu Mới : 384100099
+- Xu Thay Đổi :180000000Xu 
+----------Thời Gian : 2023-08-18 16:39:25--------
+- Name : anhlavip
+- Tên Giao Dịch : Thắng Tài Xỉu : 
+- Xu Cũ : 943308499
+- Xu Mới : 1123308499
+- Xu Thay Đổi :180000000Xu 
+----------Thời Gian : 2023-08-18 16:40:07--------
+- Name : anhlavip
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 1123308499
+- Xu Mới : 1023308499
+- Xu Thay Đổi :-100000000Xu 
+----------Thời Gian : 2023-08-18 16:40:20--------
+- Name : nlskup
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 384100099
+- Xu Mới : 284100099
+- Xu Thay Đổi :-100000000Xu 
+----------Thời Gian : 2023-08-18 16:41:06--------
+- Name : anhlavip
+- Tên Giao Dịch : Thắng Tài Xỉu : 
+- Xu Cũ : 1023308499
+- Xu Mới : 1203308499
+- Xu Thay Đổi :180000000Xu 
+----------Thời Gian : 2023-08-18 16:41:06--------
+- Name : nlskup
+- Tên Giao Dịch : Thắng Tài Xỉu : 
+- Xu Cũ : 284100099
+- Xu Mới : 464100099
+- Xu Thay Đổi :180000000Xu 
+----------Thời Gian : 2023-08-18 16:41:19--------
+- Name : nlskup
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 464100099
+- Xu Mới : 364100099
+- Xu Thay Đổi :-100000000Xu 
+----------Thời Gian : 2023-08-18 16:41:35--------
+- Name : anhlavip
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 1203308499
+- Xu Mới : 1103308499
+- Xu Thay Đổi :-100000000Xu 
+----------Thời Gian : 2023-08-18 16:42:33--------
+- Name : anhlavip
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 1103308499
+- Xu Mới : 1003308499
+- Xu Thay Đổi :-100000000Xu 
+----------Thời Gian : 2023-08-18 16:42:40--------
+- Name : nlskup
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 364100099
+- Xu Mới : 264100099
+- Xu Thay Đổi :-100000000Xu 
+----------Thời Gian : 2023-08-18 16:44:40--------
+- Name : anhlavip
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 1267308499
+- Xu Mới : 1167308499
+- Xu Thay Đổi :-100000000Xu 
+----------Thời Gian : 2023-08-18 16:51:08--------
+- Name : nubita
+- Tên Giao Dịch :  Đổi 30000 coin ra Xu 
+- Xu Cũ : 81970000
+- Xu Mới : 381970000
+- Xu Thay Đổi :381970000Xu 
+----------Thời Gian : 2023-08-18 16:54:06--------
+- Name : 1ngaybuonn
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 330823336
+- Xu Mới : 300823336
+- Xu Thay Đổi :-30000000Xu 
+----------Thời Gian : 2023-08-18 16:55:05--------
+- Name : 1ngaybuonn
+- Tên Giao Dịch : Thắng Tài Xỉu : 
+- Xu Cũ : 300823336
+- Xu Mới : 354823336
+- Xu Thay Đổi :54000000Xu 
+----------Thời Gian : 2023-08-18 16:59:21--------
+- Name : dramatic3
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 17:21:36--------
+- Name : dramatic3
+- Tên Giao Dịch :  Góp vào gia tộc 
+- Xu Cũ : 1000000
+- Xu Mới : 999999
+- Xu Thay Đổi :-1Xu 
+----------Thời Gian : 2023-08-18 17:21:57--------
+- Name : dramatic3
+- Tên Giao Dịch :  Góp vào gia tộc 
+- Xu Cũ : 999999
+- Xu Mới : 0
+- Xu Thay Đổi :-999999Xu 
+----------Thời Gian : 2023-08-18 17:26:36--------
+- Name : trumcung
+- Tên Giao Dịch : Làm 1 Cỏ ba lá Bằng Xu
+- Xu Cũ : 925000
+- Xu Mới : 825000
+- Xu Thay Đổi :-100000Xu 
+----------Thời Gian : 2023-08-18 17:26:54--------
+- Name : trumcung
+- Tên Giao Dịch : Làm 2 Cỏ ba lá Bằng Xu
+- Xu Cũ : 825000
+- Xu Mới : 625000
+- Xu Thay Đổi :-200000Xu 
+----------Thời Gian : 2023-08-18 17:28:35--------
+- Name : vinataba
+- Tên Giao Dịch : Nâng Cấp Bí Kíp
+- Xu Cũ : 113351559
+- Xu Mới : 107351559
+- Xu Thay Đổi :-6000000Xu 
+----------Thời Gian : 2023-08-18 17:28:36--------
+- Name : vinataba
+- Tên Giao Dịch : Nâng Cấp Bí Kíp
+- Xu Cũ : 107351559
+- Xu Mới : 101351559
+- Xu Thay Đổi :-6000000Xu 
+----------Thời Gian : 2023-08-18 17:28:40--------
+- Name : vinataba
+- Tên Giao Dịch : Nâng Cấp Bí Kíp
+- Xu Cũ : 101351559
+- Xu Mới : 95351559
+- Xu Thay Đổi :-6000000Xu 
+----------Thời Gian : 2023-08-18 17:35:09--------
+- Name : 1ngaybuonn
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 92823111
+- Xu Mới : 62823111
+- Xu Thay Đổi :-30000000Xu 
+----------Thời Gian : 2023-08-18 17:36:07--------
+- Name : 1ngaybuonn
+- Tên Giao Dịch : Thắng Tài Xỉu : 
+- Xu Cũ : 62823111
+- Xu Mới : 116823111
+- Xu Thay Đổi :54000000Xu 
+----------Thời Gian : 2023-08-18 17:36:54--------
+- Name : kanrcao
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 17:40:03--------
+- Name : tunlord
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 18:24:25--------
+- Name : idolnso
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 18:24:35--------
+- Name : jinjin0108
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 18:24:48--------
+- Name : ditvaolol
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 18:26:28--------
+- Name : icrank
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 18:28:01--------
+- Name : icranks
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 18:28:18--------
+- Name : kayzii
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 18:29:34--------
+- Name : vodanhnso
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 18:30:12--------
+- Name : banhmi
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 18:31:05--------
+- Name : 1quatvelag
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 18:31:48--------
+- Name : chimtodan
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 18:32:31--------
+- Name : 1quatvetruong
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 18:34:13--------
+- Name : holdme
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 18:35:04--------
+- Name : topvip
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 18:35:31--------
+- Name : tphucz
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 18:36:06--------
+- Name : loncaicu
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 18:37:31--------
+- Name : saytome
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 18:38:18--------
+- Name : tphuczz
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 18:39:03--------
+- Name : saytome
+- Tên Giao Dịch :  Đặt Vòng Xoay May Mắn
+- Xu Cũ : 1000000
+- Xu Mới : 990000
+- Xu Thay Đổi :-10000Xu 
+----------Thời Gian : 2023-08-18 18:40:07--------
+- Name : boiphoco
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 18:40:16--------
+- Name : thientu
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 18:40:58--------
+- Name : tphucz
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 1000000
+- Xu Mới : 0
+- Xu Thay Đổi :-1000000Xu 
+----------Thời Gian : 2023-08-18 18:41:57--------
+- Name : tphucz
+- Tên Giao Dịch : Thắng Tài Xỉu : 
+- Xu Cũ : 0
+- Xu Mới : 1800000
+- Xu Thay Đổi :1800000Xu 
+----------Thời Gian : 2023-08-18 18:42:12--------
+- Name : dng27x
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 18:43:25--------
+- Name : saytome
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 990000
+- Xu Mới : 490000
+- Xu Thay Đổi :-500000Xu 
+----------Thời Gian : 2023-08-18 18:43:53--------
+- Name : manclup
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 18:44:23--------
+- Name : kansrt
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 18:44:23--------
+- Name : saytome
+- Tên Giao Dịch : Thắng Tài Xỉu : 
+- Xu Cũ : 490000
+- Xu Mới : 1390000
+- Xu Thay Đổi :900000Xu 
+----------Thời Gian : 2023-08-18 18:45:42--------
+- Name : trumcung
+- Tên Giao Dịch : Luyện Bí Kíp
+- Xu Cũ : 45625000
+- Xu Mới : 44625000
+- Xu Thay Đổi :-1000000Xu 
+----------Thời Gian : 2023-08-18 18:45:57--------
+- Name : tuyetvoi
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 18:45:57--------
+- Name : trumcung
+- Tên Giao Dịch : Luyện Bí Kíp
+- Xu Cũ : 44625000
+- Xu Mới : 43625000
+- Xu Thay Đổi :-1000000Xu 
+----------Thời Gian : 2023-08-18 18:46:05--------
+- Name : trumcung
+- Tên Giao Dịch : Luyện Bí Kíp
+- Xu Cũ : 43625000
+- Xu Mới : 42625000
+- Xu Thay Đổi :-1000000Xu 
+----------Thời Gian : 2023-08-18 18:46:12--------
+- Name : trumcung
+- Tên Giao Dịch : Luyện Bí Kíp
+- Xu Cũ : 42625000
+- Xu Mới : 41625000
+- Xu Thay Đổi :-1000000Xu 
+----------Thời Gian : 2023-08-18 18:46:19--------
+- Name : trumcung
+- Tên Giao Dịch : Luyện Bí Kíp
+- Xu Cũ : 41625000
+- Xu Mới : 40625000
+- Xu Thay Đổi :-1000000Xu 
+----------Thời Gian : 2023-08-18 18:46:24--------
+- Name : trumcung
+- Tên Giao Dịch : Luyện Bí Kíp
+- Xu Cũ : 40625000
+- Xu Mới : 39625000
+- Xu Thay Đổi :-1000000Xu 
+----------Thời Gian : 2023-08-18 18:46:31--------
+- Name : trumcung
+- Tên Giao Dịch : Luyện Bí Kíp
+- Xu Cũ : 39625000
+- Xu Mới : 38625000
+- Xu Thay Đổi :-1000000Xu 
+----------Thời Gian : 2023-08-18 18:46:40--------
+- Name : trumcung
+- Tên Giao Dịch : Luyện Bí Kíp
+- Xu Cũ : 38625000
+- Xu Mới : 37625000
+- Xu Thay Đổi :-1000000Xu 
+----------Thời Gian : 2023-08-18 18:46:44--------
+- Name : trumcung
+- Tên Giao Dịch : Luyện Bí Kíp
+- Xu Cũ : 37625000
+- Xu Mới : 36625000
+- Xu Thay Đổi :-1000000Xu 
+----------Thời Gian : 2023-08-18 18:46:54--------
+- Name : trumcung
+- Tên Giao Dịch : Luyện Bí Kíp
+- Xu Cũ : 36625000
+- Xu Mới : 35625000
+- Xu Thay Đổi :-1000000Xu 
+----------Thời Gian : 2023-08-18 18:46:59--------
+- Name : trumcung
+- Tên Giao Dịch : Luyện Bí Kíp
+- Xu Cũ : 35625000
+- Xu Mới : 34625000
+- Xu Thay Đổi :-1000000Xu 
+----------Thời Gian : 2023-08-18 18:47:11--------
+- Name : trumcung
+- Tên Giao Dịch : Luyện Bí Kíp
+- Xu Cũ : 34625000
+- Xu Mới : 33625000
+- Xu Thay Đổi :-1000000Xu 
+----------Thời Gian : 2023-08-18 18:47:19--------
+- Name : trumcung
+- Tên Giao Dịch : Luyện Bí Kíp
+- Xu Cũ : 33625000
+- Xu Mới : 32625000
+- Xu Thay Đổi :-1000000Xu 
+----------Thời Gian : 2023-08-18 18:47:32--------
+- Name : trumcung
+- Tên Giao Dịch : Luyện Bí Kíp
+- Xu Cũ : 32625000
+- Xu Mới : 31625000
+- Xu Thay Đổi :-1000000Xu 
+----------Thời Gian : 2023-08-18 18:47:37--------
+- Name : trumcung
+- Tên Giao Dịch : Luyện Bí Kíp
+- Xu Cũ : 31625000
+- Xu Mới : 30625000
+- Xu Thay Đổi :-1000000Xu 
+----------Thời Gian : 2023-08-18 18:47:43--------
+- Name : trumcung
+- Tên Giao Dịch : Luyện Bí Kíp
+- Xu Cũ : 30625000
+- Xu Mới : 29625000
+- Xu Thay Đổi :-1000000Xu 
+----------Thời Gian : 2023-08-18 18:47:48--------
+- Name : trumcung
+- Tên Giao Dịch : Luyện Bí Kíp
+- Xu Cũ : 29625000
+- Xu Mới : 28625000
+- Xu Thay Đổi :-1000000Xu 
+----------Thời Gian : 2023-08-18 18:47:55--------
+- Name : trumcung
+- Tên Giao Dịch : Luyện Bí Kíp
+- Xu Cũ : 28625000
+- Xu Mới : 27625000
+- Xu Thay Đổi :-1000000Xu 
+----------Thời Gian : 2023-08-18 18:48:00--------
+- Name : trumcung
+- Tên Giao Dịch : Luyện Bí Kíp
+- Xu Cũ : 27625000
+- Xu Mới : 26625000
+- Xu Thay Đổi :-1000000Xu 
+----------Thời Gian : 2023-08-18 18:48:09--------
+- Name : trumcung
+- Tên Giao Dịch : Nâng Cấp Bí Kíp
+- Xu Cũ : 26625000
+- Xu Mới : 26525000
+- Xu Thay Đổi :-100000Xu 
+----------Thời Gian : 2023-08-18 18:48:32--------
+- Name : trumcung
+- Tên Giao Dịch : Luyện Bí Kíp
+- Xu Cũ : 26525000
+- Xu Mới : 25525000
+- Xu Thay Đổi :-1000000Xu 
+----------Thời Gian : 2023-08-18 18:48:40--------
+- Name : trumcung
+- Tên Giao Dịch : Luyện Bí Kíp
+- Xu Cũ : 25525000
+- Xu Mới : 24525000
+- Xu Thay Đổi :-1000000Xu 
+----------Thời Gian : 2023-08-18 18:48:47--------
+- Name : trumcung
+- Tên Giao Dịch : Luyện Bí Kíp
+- Xu Cũ : 24525000
+- Xu Mới : 23525000
+- Xu Thay Đổi :-1000000Xu 
+----------Thời Gian : 2023-08-18 18:48:57--------
+- Name : trumcung
+- Tên Giao Dịch : Luyện Bí Kíp
+- Xu Cũ : 23525000
+- Xu Mới : 22525000
+- Xu Thay Đổi :-1000000Xu 
+----------Thời Gian : 2023-08-18 18:49:02--------
+- Name : trumcung
+- Tên Giao Dịch : Luyện Bí Kíp
+- Xu Cũ : 22525000
+- Xu Mới : 21525000
+- Xu Thay Đổi :-1000000Xu 
+----------Thời Gian : 2023-08-18 18:49:07--------
+- Name : trumcung
+- Tên Giao Dịch : Luyện Bí Kíp
+- Xu Cũ : 21525000
+- Xu Mới : 20525000
+- Xu Thay Đổi :-1000000Xu 
+----------Thời Gian : 2023-08-18 18:49:14--------
+- Name : trumcung
+- Tên Giao Dịch : Luyện Bí Kíp
+- Xu Cũ : 20525000
+- Xu Mới : 19525000
+- Xu Thay Đổi :-1000000Xu 
+----------Thời Gian : 2023-08-18 18:49:20--------
+- Name : trumcung
+- Tên Giao Dịch : Luyện Bí Kíp
+- Xu Cũ : 19525000
+- Xu Mới : 18525000
+- Xu Thay Đổi :-1000000Xu 
+----------Thời Gian : 2023-08-18 18:49:31--------
+- Name : trumcung
+- Tên Giao Dịch : Nâng Cấp Bí Kíp
+- Xu Cũ : 18525000
+- Xu Mới : 18425000
+- Xu Thay Đổi :-100000Xu 
+----------Thời Gian : 2023-08-18 18:49:36--------
+- Name : trumcung
+- Tên Giao Dịch : Nâng Cấp Bí Kíp
+- Xu Cũ : 18425000
+- Xu Mới : 18325000
+- Xu Thay Đổi :-100000Xu 
+----------Thời Gian : 2023-08-18 18:50:44--------
+- Name : chicken3x
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 18:51:09--------
+- Name : mainboard
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 18:51:51--------
+- Name : trumcung
+- Tên Giao Dịch : Làm 1 Cỏ ba lá Bằng Xu
+- Xu Cũ : 18325000
+- Xu Mới : 18225000
+- Xu Thay Đổi :-100000Xu 
+----------Thời Gian : 2023-08-18 18:59:44--------
+- Name : top1xoms
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 19:02:32--------
+- Name : can5do
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 19:03:37--------
+- Name : tuvitinh
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 19:06:57--------
+- Name : hoankoi
+- Tên Giao Dịch : Nâng Cấp Bí Kíp
+- Xu Cũ : 910000
+- Xu Mới : 810000
+- Xu Thay Đổi :-100000Xu 
+----------Thời Gian : 2023-08-18 19:09:09--------
+- Name : hihizzz
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 16669600
+- Xu Mới : 16669000
+- Xu Thay Đổi :-600Xu 
+----------Thời Gian : 2023-08-18 19:11:49--------
+- Name : chapcaclop
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 19:21:23--------
+- Name : nhin1nghin
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 19:25:53--------
+- Name : tapchoi
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 19:27:09--------
+- Name : tieuhoangtu
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 19:28:04--------
+- Name : 0a0a0b
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 19:31:33--------
+- Name : hanmactu
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 19:34:39--------
+- Name : connitnha
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 19:35:41--------
+- Name : canhsat113
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 19:38:04--------
+- Name : banhmi
+- Tên Giao Dịch : Làm 1 Cỏ ba lá Bằng Xu
+- Xu Cũ : 1179500
+- Xu Mới : 1079500
+- Xu Thay Đổi :-100000Xu 
+----------Thời Gian : 2023-08-18 19:38:50--------
+- Name : banhmi
+- Tên Giao Dịch : Làm 1 Cỏ ba lá Bằng Xu
+- Xu Cũ : 1079500
+- Xu Mới : 979500
+- Xu Thay Đổi :-100000Xu 
+----------Thời Gian : 2023-08-18 19:39:14--------
+- Name : nsominh
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 19:40:14--------
+- Name : tuanvu
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 19:41:08--------
+- Name : balo1
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 19:45:36--------
+- Name : 1dapvelangg
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 19:48:05--------
+- Name : tphucz
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 1720000
+- Xu Mới : 220000
+- Xu Thay Đổi :-1500000Xu 
+----------Thời Gian : 2023-08-18 19:49:04--------
+- Name : tphucz
+- Tên Giao Dịch : Thắng Tài Xỉu : 
+- Xu Cũ : 150000
+- Xu Mới : 2850000
+- Xu Thay Đổi :2700000Xu 
+----------Thời Gian : 2023-08-18 19:49:27--------
+- Name : tphucz
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 2850000
+- Xu Mới : 850000
+- Xu Thay Đổi :-2000000Xu 
+----------Thời Gian : 2023-08-18 19:49:41--------
+- Name : nolike
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 3948000
+- Xu Mới : 3800000
+- Xu Thay Đổi :-148000Xu 
+----------Thời Gian : 2023-08-18 19:50:00--------
+- Name : hihizzz
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 16707800
+- Xu Mới : 16600000
+- Xu Thay Đổi :-107800Xu 
+----------Thời Gian : 2023-08-18 19:50:26--------
+- Name : nolike
+- Tên Giao Dịch : Thắng Tài Xỉu : 
+- Xu Cũ : 3800000
+- Xu Mới : 4066400
+- Xu Thay Đổi :266400Xu 
+----------Thời Gian : 2023-08-18 19:50:26--------
+- Name : hihizzz
+- Tên Giao Dịch : Thắng Tài Xỉu : 
+- Xu Cũ : 16600000
+- Xu Mới : 16794040
+- Xu Thay Đổi :194040Xu 
+----------Thời Gian : 2023-08-18 19:51:51--------
+- Name : tlynh08
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 19:52:11--------
+- Name : gacon1
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 19:52:25--------
+- Name : hihizzz
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 16790440
+- Xu Mới : 16790400
+- Xu Thay Đổi :-40Xu 
+----------Thời Gian : 2023-08-18 19:53:03--------
+- Name : gacon2
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 19:53:24--------
+- Name : hihizzz
+- Tên Giao Dịch : Thắng Tài Xỉu : 
+- Xu Cũ : 16790400
+- Xu Mới : 16790472
+- Xu Thay Đổi :72Xu 
+----------Thời Gian : 2023-08-18 19:53:39--------
+- Name : gacon3
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 19:55:23--------
+- Name : phongdz11
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 5895008
+- Xu Mới : 5850008
+- Xu Thay Đổi :-45000Xu 
+----------Thời Gian : 2023-08-18 19:56:22--------
+- Name : phongdz11
+- Tên Giao Dịch : Thắng Tài Xỉu : 
+- Xu Cũ : 5850008
+- Xu Mới : 5931008
+- Xu Thay Đổi :81000Xu 
+----------Thời Gian : 2023-08-18 19:56:51--------
+- Name : phongdz11
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 5931008
+- Xu Mới : 5900008
+- Xu Thay Đổi :-31000Xu 
+----------Thời Gian : 2023-08-18 19:57:50--------
+- Name : phongdz11
+- Tên Giao Dịch : Thắng Tài Xỉu : 
+- Xu Cũ : 5900008
+- Xu Mới : 5955808
+- Xu Thay Đổi :55800Xu 
+----------Thời Gian : 2023-08-18 19:58:17--------
+- Name : adminfake
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 19:59:47--------
+- Name : bdhdudnd
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 20:03:50--------
+- Name : nubita
+- Tên Giao Dịch :  Đổi 200000 coin ra Xu 
+- Xu Cũ : 0
+- Xu Mới : 2000000000
+- Xu Thay Đổi :2000000000Xu 
+----------Thời Gian : 2023-08-18 20:04:28--------
+- Name : nubita
+- Tên Giao Dịch :  Đổi 200000 coin ra Xu 
+- Xu Cũ : 0
+- Xu Mới : 2000000000
+- Xu Thay Đổi :2000000000Xu 
+----------Thời Gian : 2023-08-18 20:05:19--------
+- Name : nubita
+- Tên Giao Dịch :  Đổi 200000 coin ra Xu 
+- Xu Cũ : 0
+- Xu Mới : 2000000000
+- Xu Thay Đổi :2000000000Xu 
+----------Thời Gian : 2023-08-18 20:08:26--------
+- Name : nubita
+- Tên Giao Dịch :  Đổi 100000 coin ra Xu 
+- Xu Cũ : 0
+- Xu Mới : 1000000000
+- Xu Thay Đổi :1000000000Xu 
+----------Thời Gian : 2023-08-18 20:08:54--------
+- Name : tutinh
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 20:13:01--------
+- Name : quyenepgai
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 20:13:43--------
+- Name : phongdz11
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 5955808
+- Xu Mới : 5900008
+- Xu Thay Đổi :-55800Xu 
+----------Thời Gian : 2023-08-18 20:15:26--------
+- Name : hoang1111
+- Tên Giao Dịch : Làm 3 Cỏ ba lá Bằng Xu
+- Xu Cũ : 1100000
+- Xu Mới : 800000
+- Xu Thay Đổi :-300000Xu 
+----------Thời Gian : 2023-08-18 20:16:14--------
+- Name : phongdz11
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 5900008
+- Xu Mới : 5750008
+- Xu Thay Đổi :-150000Xu 
+----------Thời Gian : 2023-08-18 20:17:13--------
+- Name : phongdz11
+- Tên Giao Dịch : Thắng Tài Xỉu : 
+- Xu Cũ : 5750008
+- Xu Mới : 6020008
+- Xu Thay Đổi :270000Xu 
+----------Thời Gian : 2023-08-18 20:17:24--------
+- Name : taodz
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 20:18:43--------
+- Name : canhsat113
+- Tên Giao Dịch : Làm 1 Cỏ ba lá Bằng Xu
+- Xu Cũ : 1000000
+- Xu Mới : 900000
+- Xu Thay Đổi :-100000Xu 
+----------Thời Gian : 2023-08-18 20:19:18--------
+- Name : no1tieu
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 20:20:54--------
+- Name : canhsat113
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 900000
+- Xu Mới : 0
+- Xu Thay Đổi :-900000Xu 
+----------Thời Gian : 2023-08-18 20:24:03--------
+- Name : nsoviolet
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 20:24:23--------
+- Name : 2lisaa
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 20:25:06--------
+- Name : rekyann
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 20:27:38--------
+- Name : togiapro
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 20:31:36--------
+- Name : nubita
+- Tên Giao Dịch :  Đổi 200000 coin ra Xu 
+- Xu Cũ : 0
+- Xu Mới : 2000000000
+- Xu Thay Đổi :2000000000Xu 
+----------Thời Gian : 2023-08-18 20:32:47--------
+- Name : trieuquancuto
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 20:36:10--------
+- Name : tqbuff
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 20:36:47--------
+- Name : nubita
+- Tên Giao Dịch :  Đổi 200000 coin ra Xu 
+- Xu Cũ : 0
+- Xu Mới : 2000000000
+- Xu Thay Đổi :2000000000Xu 
+----------Thời Gian : 2023-08-18 20:38:56--------
+- Name : xuanthao
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 20:40:14--------
+- Name : batman204
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 20:42:23--------
+- Name : imouse
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 20:47:02--------
+- Name : anhcachet
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 20:52:37--------
+- Name : chimtodan
+- Tên Giao Dịch :  Đặt Vòng Xoay May Mắn
+- Xu Cũ : 640000
+- Xu Mới : 630000
+- Xu Thay Đổi :-10000Xu 
+----------Thời Gian : 2023-08-18 20:53:16--------
+- Name : adminfake
+- Tên Giao Dịch : Làm 1 Cỏ ba lá Bằng Xu
+- Xu Cũ : 1000000
+- Xu Mới : 900000
+- Xu Thay Đổi :-100000Xu 
+----------Thời Gian : 2023-08-18 20:55:55--------
+- Name : oidoioi
+- Tên Giao Dịch :  Đặt Vòng Xoay May Mắn
+- Xu Cũ : 127365
+- Xu Mới : 117365
+- Xu Thay Đổi :-10000Xu 
+----------Thời Gian : 2023-08-18 20:57:18--------
+- Name : trecolong
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 20:57:55--------
+- Name : chimtodan
+- Tên Giao Dịch : Thắng Vòng Xoay May Mắn
+- Xu Cũ : 630000
+- Xu Mới : 649000
+- Xu Thay Đổi :19000Xu 
+----------Thời Gian : 2023-08-18 20:58:09--------
+- Name : hahahihi
+- Tên Giao Dịch :  Đặt Vòng Xoay May Mắn
+- Xu Cũ : 331898000
+- Xu Mới : 331798000
+- Xu Thay Đổi :-100000Xu 
+----------Thời Gian : 2023-08-18 20:58:13--------
+- Name : adminfake
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 900000
+- Xu Mới : 890000
+- Xu Thay Đổi :-10000Xu 
+----------Thời Gian : 2023-08-18 20:58:50--------
+- Name : missout
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 20:59:06--------
+- Name : taodz
+- Tên Giao Dịch :  Đặt Vòng Xoay May Mắn
+- Xu Cũ : 1100000
+- Xu Mới : 1000000
+- Xu Thay Đổi :-100000Xu 
+----------Thời Gian : 2023-08-18 21:01:06--------
+- Name : hahahihi
+- Tên Giao Dịch : Thắng Vòng Xoay May Mắn
+- Xu Cũ : 211798000
+- Xu Mới : 211988000
+- Xu Thay Đổi :190000Xu 
+----------Thời Gian : 2023-08-18 21:01:21--------
+- Name : chimtodan
+- Tên Giao Dịch :  Đặt Vòng Xoay May Mắn
+- Xu Cũ : 649000
+- Xu Mới : 630000
+- Xu Thay Đổi :-19000Xu 
+----------Thời Gian : 2023-08-18 21:02:09--------
+- Name : teemo
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 21:02:14--------
+- Name : taodz
+- Tên Giao Dịch :  Đặt Vòng Xoay May Mắn
+- Xu Cũ : 1000000
+- Xu Mới : 940001
+- Xu Thay Đổi :-59999Xu 
+----------Thời Gian : 2023-08-18 21:03:10--------
+- Name : hahahihi
+- Tên Giao Dịch :  Đặt Vòng Xoay May Mắn
+- Xu Cũ : 211988000
+- Xu Mới : 211888000
+- Xu Thay Đổi :-100000Xu 
+----------Thời Gian : 2023-08-18 21:04:13--------
+- Name : hahahihi
+- Tên Giao Dịch : Thắng Vòng Xoay May Mắn
+- Xu Cũ : 211888000
+- Xu Mới : 212058049
+- Xu Thay Đổi :170049Xu 
+----------Thời Gian : 2023-08-18 21:04:22--------
+- Name : hahahihi
+- Tên Giao Dịch :  Đặt Vòng Xoay May Mắn
+- Xu Cũ : 212058049
+- Xu Mới : 211958049
+- Xu Thay Đổi :-100000Xu 
+----------Thời Gian : 2023-08-18 21:08:37--------
+- Name : hahahihi
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 211958049
+- Xu Mới : 191958049
+- Xu Thay Đổi :-20000000Xu 
+----------Thời Gian : 2023-08-18 21:10:01--------
+- Name : hahahihi
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 191958049
+- Xu Mới : 151958049
+- Xu Thay Đổi :-40000000Xu 
+----------Thời Gian : 2023-08-18 21:10:33--------
+- Name : hetcuu
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 21:10:59--------
+- Name : hahahihi
+- Tên Giao Dịch : Thắng Tài Xỉu : 
+- Xu Cũ : 151958049
+- Xu Mới : 223958049
+- Xu Thay Đổi :72000000Xu 
+----------Thời Gian : 2023-08-18 21:11:33--------
+- Name : hahahihi
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 223958049
+- Xu Mới : 215958049
+- Xu Thay Đổi :-8000000Xu 
+----------Thời Gian : 2023-08-18 21:12:11--------
+- Name : xu001
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 21:12:26--------
+- Name : genz69
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 21:12:32--------
+- Name : hahahihi
+- Tên Giao Dịch : Thắng Tài Xỉu : 
+- Xu Cũ : 215958049
+- Xu Mới : 230358049
+- Xu Thay Đổi :14400000Xu 
+----------Thời Gian : 2023-08-18 21:15:39--------
+- Name : natra
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 21:15:56--------
+- Name : xu001
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 1000000
+- Xu Mới : 999000
+- Xu Thay Đổi :-1000Xu 
+----------Thời Gian : 2023-08-18 21:17:09--------
+- Name : taodz
+- Tên Giao Dịch :  Đặt Vòng Xoay May Mắn
+- Xu Cũ : 940001
+- Xu Mới : 840001
+- Xu Thay Đổi :-100000Xu 
+----------Thời Gian : 2023-08-18 21:17:17--------
+- Name : gillon
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 21:17:28--------
+- Name : kysibongdem
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 21:17:38--------
+- Name : anhprokd
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 21:17:39--------
+- Name : ahtham
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 21:17:51--------
+- Name : hahahihi
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 230358049
+- Xu Mới : 227358049
+- Xu Thay Đổi :-3000000Xu 
+----------Thời Gian : 2023-08-18 21:18:31--------
+- Name : devilninja123
+- Tên Giao Dịch :  Đặt Vòng Xoay May Mắn
+- Xu Cũ : 1165000
+- Xu Mới : 1155000
+- Xu Thay Đổi :-10000Xu 
+----------Thời Gian : 2023-08-18 21:18:49--------
+- Name : hahahihi
+- Tên Giao Dịch : Thắng Tài Xỉu : 
+- Xu Cũ : 227358049
+- Xu Mới : 232758049
+- Xu Thay Đổi :5400000Xu 
+----------Thời Gian : 2023-08-18 21:19:09--------
+- Name : taodz
+- Tên Giao Dịch : Thắng Vòng Xoay May Mắn
+- Xu Cũ : 840001
+- Xu Mới : 1039501
+- Xu Thay Đổi :199500Xu 
+----------Thời Gian : 2023-08-18 21:19:15--------
+- Name : taodz
+- Tên Giao Dịch :  Đặt Vòng Xoay May Mắn
+- Xu Cũ : 1039501
+- Xu Mới : 939501
+- Xu Thay Đổi :-100000Xu 
+----------Thời Gian : 2023-08-18 21:19:27--------
+- Name : hahahihi
+- Tên Giao Dịch :  Đặt Vòng Xoay May Mắn
+- Xu Cũ : 232758049
+- Xu Mới : 232658049
+- Xu Thay Đổi :-100000Xu 
+----------Thời Gian : 2023-08-18 21:19:33--------
+- Name : devilninja123
+- Tên Giao Dịch :  Đặt Vòng Xoay May Mắn
+- Xu Cũ : 1155000
+- Xu Mới : 1055000
+- Xu Thay Đổi :-100000Xu 
+----------Thời Gian : 2023-08-18 21:19:55--------
+- Name : trumnso
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 21:20:11--------
+- Name : hahahihi
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 232658049
+- Xu Mới : 226658049
+- Xu Thay Đổi :-6000000Xu 
+----------Thời Gian : 2023-08-18 21:20:41--------
+- Name : hattieu
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 21:20:57--------
+- Name : thaidich
+- Tên Giao Dịch :  Đặt Vòng Xoay May Mắn
+- Xu Cũ : 3965290
+- Xu Mới : 3865290
+- Xu Thay Đổi :-100000Xu 
+----------Thời Gian : 2023-08-18 21:21:10--------
+- Name : hahahihi
+- Tên Giao Dịch : Thắng Tài Xỉu : 
+- Xu Cũ : 226658049
+- Xu Mới : 237458049
+- Xu Thay Đổi :10800000Xu 
+----------Thời Gian : 2023-08-18 21:21:24--------
+- Name : xu001
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 999000
+- Xu Mới : 0
+- Xu Thay Đổi :-999000Xu 
+----------Thời Gian : 2023-08-18 21:21:27--------
+- Name : devilninja123
+- Tên Giao Dịch : Thắng Vòng Xoay May Mắn
+- Xu Cũ : 1055000
+- Xu Mới : 1435000
+- Xu Thay Đổi :380000Xu 
+----------Thời Gian : 2023-08-18 21:21:28--------
+- Name : taodz
+- Tên Giao Dịch :  Đặt Vòng Xoay May Mắn
+- Xu Cũ : 939501
+- Xu Mới : 839501
+- Xu Thay Đổi :-100000Xu 
+----------Thời Gian : 2023-08-18 21:21:33--------
+- Name : tienbryvn
+- Tên Giao Dịch :  Đặt Vòng Xoay May Mắn
+- Xu Cũ : 295188769
+- Xu Mới : 295088769
+- Xu Thay Đổi :-100000Xu 
+----------Thời Gian : 2023-08-18 21:22:07--------
+- Name : sieutrom
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 21:22:12--------
+- Name : igames
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 21:22:50--------
+- Name : devilninja123
+- Tên Giao Dịch :  Đặt Vòng Xoay May Mắn
+- Xu Cũ : 1435000
+- Xu Mới : 1335000
+- Xu Thay Đổi :-100000Xu 
+----------Thời Gian : 2023-08-18 21:23:33--------
+- Name : taodz
+- Tên Giao Dịch : Thắng Vòng Xoay May Mắn
+- Xu Cũ : 839501
+- Xu Mới : 1124501
+- Xu Thay Đổi :285000Xu 
+----------Thời Gian : 2023-08-18 21:23:35--------
+- Name : taodz
+- Tên Giao Dịch :  Đặt Vòng Xoay May Mắn
+- Xu Cũ : 1124501
+- Xu Mới : 1085000
+- Xu Thay Đổi :-39501Xu 
+----------Thời Gian : 2023-08-18 21:23:48--------
+- Name : qwater
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 21:24:07--------
+- Name : taodz
+- Tên Giao Dịch :  Đặt Vòng Xoay May Mắn
+- Xu Cũ : 1085000
+- Xu Mới : 1024501
+- Xu Thay Đổi :-60499Xu 
+----------Thời Gian : 2023-08-18 21:24:38--------
+- Name : tienbryvn
+- Tên Giao Dịch :  Đặt Vòng Xoay May Mắn
+- Xu Cũ : 295088769
+- Xu Mới : 294988769
+- Xu Thay Đổi :-100000Xu 
+----------Thời Gian : 2023-08-18 21:25:01--------
+- Name : tobaco
+- Tên Giao Dịch :  Đặt Vòng Xoay May Mắn
+- Xu Cũ : 100000000
+- Xu Mới : 99900000
+- Xu Thay Đổi :-100000Xu 
+----------Thời Gian : 2023-08-18 21:25:14--------
+- Name : hahahihi
+- Tên Giao Dịch :  Đặt Vòng Xoay May Mắn
+- Xu Cũ : 237458049
+- Xu Mới : 237358049
+- Xu Thay Đổi :-100000Xu 
+----------Thời Gian : 2023-08-18 21:25:19--------
+- Name : phongdz11
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 6020008
+- Xu Mới : 5900008
+- Xu Thay Đổi :-120000Xu 
+----------Thời Gian : 2023-08-18 21:25:35--------
+- Name : gamererach
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 21:26:19--------
+- Name : truongacc1
+- Tên Giao Dịch :  Đặt Vòng Xoay May Mắn
+- Xu Cũ : 1358049
+- Xu Mới : 1300000
+- Xu Thay Đổi :-58049Xu 
+----------Thời Gian : 2023-08-18 21:26:32--------
+- Name : phongdz11
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 5900008
+- Xu Mới : 5600008
+- Xu Thay Đổi :-300000Xu 
+----------Thời Gian : 2023-08-18 21:26:38--------
+- Name : tobaco
+- Tên Giao Dịch : Thắng Vòng Xoay May Mắn
+- Xu Cũ : 99900000
+- Xu Mới : 100335146
+- Xu Thay Đổi :435146Xu 
+----------Thời Gian : 2023-08-18 21:26:53--------
+- Name : taodz
+- Tên Giao Dịch :  Đặt Vòng Xoay May Mắn
+- Xu Cũ : 1024501
+- Xu Mới : 924501
+- Xu Thay Đổi :-100000Xu 
+----------Thời Gian : 2023-08-18 21:27:20--------
+- Name : hahahihi
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 236000000
+- Xu Mới : 230000000
+- Xu Thay Đổi :-6000000Xu 
+----------Thời Gian : 2023-08-18 21:27:37--------
+- Name : hahahihi
+- Tên Giao Dịch :  Đặt Vòng Xoay May Mắn
+- Xu Cũ : 230000000
+- Xu Mới : 229900000
+- Xu Thay Đổi :-100000Xu 
+----------Thời Gian : 2023-08-18 21:27:53--------
+- Name : hahahihi
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 229900000
+- Xu Mới : 199900000
+- Xu Thay Đổi :-30000000Xu 
+----------Thời Gian : 2023-08-18 21:28:02--------
+- Name : phongdz11
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 5600008
+- Xu Mới : 5000008
+- Xu Thay Đổi :-600000Xu 
+----------Thời Gian : 2023-08-18 21:28:06--------
+- Name : upngoc1
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 21:28:19--------
+- Name : tobaco
+- Tên Giao Dịch :  Đặt Vòng Xoay May Mắn
+- Xu Cũ : 100335146
+- Xu Mới : 100235146
+- Xu Thay Đổi :-100000Xu 
+----------Thời Gian : 2023-08-18 21:28:27--------
+- Name : truongacc1
+- Tên Giao Dịch :  Đặt Vòng Xoay May Mắn
+- Xu Cũ : 1300000
+- Xu Mới : 1200000
+- Xu Thay Đổi :-100000Xu 
+----------Thời Gian : 2023-08-18 21:28:52--------
+- Name : hahahihi
+- Tên Giao Dịch : Thắng Tài Xỉu : 
+- Xu Cũ : 199900000
+- Xu Mới : 253900000
+- Xu Thay Đổi :54000000Xu 
+----------Thời Gian : 2023-08-18 21:28:52--------
+- Name : phongdz11
+- Tên Giao Dịch : Thắng Tài Xỉu : 
+- Xu Cũ : 5000008
+- Xu Mới : 6080008
+- Xu Thay Đổi :1080000Xu 
+----------Thời Gian : 2023-08-18 21:29:36--------
+- Name : tobaco
+- Tên Giao Dịch : Thắng Vòng Xoay May Mắn
+- Xu Cũ : 100235146
+- Xu Mới : 100615146
+- Xu Thay Đổi :380000Xu 
+----------Thời Gian : 2023-08-18 21:31:06--------
+- Name : supersali
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 21:31:06--------
+- Name : hahahihi
+- Tên Giao Dịch :  Đặt Vòng Xoay May Mắn
+- Xu Cũ : 253900000
+- Xu Mới : 253800000
+- Xu Thay Đổi :-100000Xu 
+----------Thời Gian : 2023-08-18 21:31:43--------
+- Name : chumkunai
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 21:34:02--------
+- Name : tobaco
+- Tên Giao Dịch :  Đặt Vòng Xoay May Mắn
+- Xu Cũ : 100615146
+- Xu Mới : 100515146
+- Xu Thay Đổi :-100000Xu 
+----------Thời Gian : 2023-08-18 21:36:01--------
+- Name : tobaco
+- Tên Giao Dịch : Thắng Vòng Xoay May Mắn
+- Xu Cũ : 100515146
+- Xu Mới : 100705146
+- Xu Thay Đổi :190000Xu 
+----------Thời Gian : 2023-08-18 21:36:18--------
+- Name : quangdz
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 21:37:15--------
+- Name : vocauthuongtien
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 21:37:33--------
+- Name : plusss
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 21:39:00--------
+- Name : juliet
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 21:39:03--------
+- Name : hahahihi
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 253800000
+- Xu Mới : 250000000
+- Xu Thay Đổi :-3800000Xu 
+----------Thời Gian : 2023-08-18 21:39:55--------
+- Name : vocauthuongtien
+- Tên Giao Dịch :  Đặt Vòng Xoay May Mắn
+- Xu Cũ : 1000000
+- Xu Mới : 900001
+- Xu Thay Đổi :-99999Xu 
+----------Thời Gian : 2023-08-18 21:41:32--------
+- Name : hoang1111
+- Tên Giao Dịch : Nâng Cấp Bí Kíp
+- Xu Cũ : 750000
+- Xu Mới : 650000
+- Xu Thay Đổi :-100000Xu 
+----------Thời Gian : 2023-08-18 21:41:39--------
+- Name : cave10k
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 21:43:27--------
+- Name : kiemquy1st
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 21:45:46--------
+- Name : satthienmach
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 21:46:03--------
+- Name : satthienmach
+- Tên Giao Dịch :  Đặt Vòng Xoay May Mắn
+- Xu Cũ : 1000000
+- Xu Mới : 900001
+- Xu Thay Đổi :-99999Xu 
+----------Thời Gian : 2023-08-18 21:46:23--------
+- Name : cccccj
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 21:46:54--------
+- Name : shadowblade
+- Tên Giao Dịch : Làm 10 Cỏ ba lá Bằng Xu
+- Xu Cũ : 209506475
+- Xu Mới : 208506475
+- Xu Thay Đổi :-1000000Xu 
+----------Thời Gian : 2023-08-18 21:48:02--------
+- Name : vocauthuongtien
+- Tên Giao Dịch : Thắng Vòng Xoay May Mắn
+- Xu Cũ : 900001
+- Xu Mới : 1089999
+- Xu Thay Đổi :189998Xu 
+----------Thời Gian : 2023-08-18 21:48:16--------
+- Name : taodz
+- Tên Giao Dịch : Làm 1 Cỏ ba lá Bằng Xu
+- Xu Cũ : 654501
+- Xu Mới : 554501
+- Xu Thay Đổi :-100000Xu 
+----------Thời Gian : 2023-08-18 21:48:30--------
+- Name : zerous
+- Tên Giao Dịch :  Đặt Vòng Xoay May Mắn
+- Xu Cũ : 208000
+- Xu Mới : 108000
+- Xu Thay Đổi :-100000Xu 
+----------Thời Gian : 2023-08-18 21:49:09--------
+- Name : zerous
+- Tên Giao Dịch :  Góp vào gia tộc 
+- Xu Cũ : 108000
+- Xu Mới : 8000
+- Xu Thay Đổi :-100000Xu 
+----------Thời Gian : 2023-08-18 21:49:51--------
+- Name : thanhtu
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 21:51:17--------
+- Name : atulagioi
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 21:52:03--------
+- Name : tamkiem
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 21:53:26--------
+- Name : 1dapvebo
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 21:56:49--------
+- Name : 1m2vnd
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 21:57:59--------
+- Name : zxataradiz
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 21:59:19--------
+- Name : ditvaolol
+- Tên Giao Dịch :  Đặt Vòng Xoay May Mắn
+- Xu Cũ : 1038000
+- Xu Mới : 1028000
+- Xu Thay Đổi :-10000Xu 
+----------Thời Gian : 2023-08-18 22:00:15--------
+- Name : ditvaolol
+- Tên Giao Dịch :  Đặt Vòng Xoay May Mắn
+- Xu Cũ : 1028000
+- Xu Mới : 1026000
+- Xu Thay Đổi :-2000Xu 
+----------Thời Gian : 2023-08-18 22:00:34--------
+- Name : quatvaolol
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 22:01:19--------
+- Name : zerous
+- Tên Giao Dịch : Thắng Vòng Xoay May Mắn
+- Xu Cũ : 8000
+- Xu Mới : 114400
+- Xu Thay Đổi :106400Xu 
+----------Thời Gian : 2023-08-18 22:05:02--------
+- Name : kaisou
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 22:05:40--------
+- Name : anhlavip
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 300000000
+- Xu Mới : 299900000
+- Xu Thay Đổi :-100000Xu 
+----------Thời Gian : 2023-08-18 22:06:12--------
+- Name : okhaha
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 22:06:18--------
+- Name : can5do
+- Tên Giao Dịch :  Rời Khỏi Gia Tộc 
+- Xu Cũ : 529000
+- Xu Mới : 519000
+- Xu Thay Đổi :-10000Xu 
+----------Thời Gian : 2023-08-18 22:06:24--------
+- Name : pluss
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 22:06:41--------
+- Name : thanmeo
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 22:07:10--------
+- Name : taodz
+- Tên Giao Dịch :  Rời Khỏi Gia Tộc 
+- Xu Cũ : 554501
+- Xu Mới : 544501
+- Xu Thay Đổi :-10000Xu 
+----------Thời Gian : 2023-08-18 22:07:26--------
+- Name : anhlavip
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 299900000
+- Xu Mới : 299800000
+- Xu Thay Đổi :-100000Xu 
+----------Thời Gian : 2023-08-18 22:07:35--------
+- Name : tuanhai
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 22:07:43--------
+- Name : zxkundz
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 22:08:09--------
+- Name : evors
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 22:08:38--------
+- Name : anhlavip
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 299800000
+- Xu Mới : 199800000
+- Xu Thay Đổi :-100000000Xu 
+----------Thời Gian : 2023-08-18 22:08:57--------
+- Name : shutup
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 22:09:06--------
+- Name : badaoqua
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 22:09:53--------
+- Name : anhlavip
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 199800000
+- Xu Mới : 100800000
+- Xu Thay Đổi :-99000000Xu 
+----------Thời Gian : 2023-08-18 22:10:51--------
+- Name : anhlavip
+- Tên Giao Dịch : Thắng Tài Xỉu : 
+- Xu Cũ : 800000
+- Xu Mới : 179000000
+- Xu Thay Đổi :178200000Xu 
+----------Thời Gian : 2023-08-18 22:11:05--------
+- Name : anhlavip
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 179000000
+- Xu Mới : 100000000
+- Xu Thay Đổi :-79000000Xu 
+----------Thời Gian : 2023-08-18 22:12:03--------
+- Name : anhlavip
+- Tên Giao Dịch : Thắng Tài Xỉu : 
+- Xu Cũ : 100000000
+- Xu Mới : 242200000
+- Xu Thay Đổi :142200000Xu 
+----------Thời Gian : 2023-08-18 22:12:20--------
+- Name : 1dapve12
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 22:12:32--------
+- Name : anhlavip
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 242200000
+- Xu Mới : 142200000
+- Xu Thay Đổi :-100000000Xu 
+----------Thời Gian : 2023-08-18 22:13:31--------
+- Name : anhlavip
+- Tên Giao Dịch : Thắng Tài Xỉu : 
+- Xu Cũ : 92200000
+- Xu Mới : 272200000
+- Xu Thay Đổi :180000000Xu 
+----------Thời Gian : 2023-08-18 22:14:12--------
+- Name : strum1st
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 22:14:24--------
+- Name : anhlavip
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 272200000
+- Xu Mới : 200200000
+- Xu Thay Đổi :-72000000Xu 
+----------Thời Gian : 2023-08-18 22:14:45--------
+- Name : hahahihi
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 250000000
+- Xu Mới : 245000000
+- Xu Thay Đổi :-5000000Xu 
+----------Thời Gian : 2023-08-18 22:15:01--------
+- Name : hoanganh21
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 22:15:22--------
+- Name : anhlavip
+- Tên Giao Dịch : Thắng Tài Xỉu : 
+- Xu Cũ : 200200000
+- Xu Mới : 329800000
+- Xu Thay Đổi :129600000Xu 
+----------Thời Gian : 2023-08-18 22:15:22--------
+- Name : hahahihi
+- Tên Giao Dịch : Thắng Tài Xỉu : 
+- Xu Cũ : 245000000
+- Xu Mới : 254000000
+- Xu Thay Đổi :9000000Xu 
+----------Thời Gian : 2023-08-18 22:15:42--------
+- Name : anhlavip
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 329800000
+- Xu Mới : 229800000
+- Xu Thay Đổi :-100000000Xu 
+----------Thời Gian : 2023-08-18 22:16:59--------
+- Name : anhlavip
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 229800000
+- Xu Mới : 179800000
+- Xu Thay Đổi :-50000000Xu 
+----------Thời Gian : 2023-08-18 22:17:11--------
+- Name : missout
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 1100000
+- Xu Mới : 100000
+- Xu Thay Đổi :-1000000Xu 
+----------Thời Gian : 2023-08-18 22:17:27--------
+- Name : ciumia
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 22:17:37--------
+- Name : cave10k
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 1000000
+- Xu Mới : 500000
+- Xu Thay Đổi :-500000Xu 
+----------Thời Gian : 2023-08-18 22:17:38--------
+- Name : baybyculi
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 22:17:57--------
+- Name : anhlavip
+- Tên Giao Dịch : Thắng Tài Xỉu : 
+- Xu Cũ : 29800000
+- Xu Mới : 119800000
+- Xu Thay Đổi :90000000Xu 
+----------Thời Gian : 2023-08-18 22:17:57--------
+- Name : missout
+- Tên Giao Dịch : Thắng Tài Xỉu : 
+- Xu Cũ : 100000
+- Xu Mới : 1900000
+- Xu Thay Đổi :1800000Xu 
+----------Thời Gian : 2023-08-18 22:17:57--------
+- Name : cave10k
+- Tên Giao Dịch : Thắng Tài Xỉu : 
+- Xu Cũ : 500000
+- Xu Mới : 1400000
+- Xu Thay Đổi :900000Xu 
+----------Thời Gian : 2023-08-18 22:18:01--------
+- Name : 1dapve8
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 22:18:27--------
+- Name : anhlavip
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 119800000
+- Xu Mới : 69800000
+- Xu Thay Đổi :-50000000Xu 
+----------Thời Gian : 2023-08-18 22:18:28--------
+- Name : cave10k
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 1400000
+- Xu Mới : 900000
+- Xu Thay Đổi :-500000Xu 
+----------Thời Gian : 2023-08-18 22:18:35--------
+- Name : trumpkk
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 22:18:36--------
+- Name : missout
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 1900000
+- Xu Mới : 0
+- Xu Thay Đổi :-1900000Xu 
+----------Thời Gian : 2023-08-18 22:19:19--------
+- Name : kaxinhzai
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 22:19:25--------
+- Name : missout
+- Tên Giao Dịch : Thắng Tài Xỉu : 
+- Xu Cũ : 0
+- Xu Mới : 3420000
+- Xu Thay Đổi :3420000Xu 
+----------Thời Gian : 2023-08-18 22:19:39--------
+- Name : hahahihi
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 254000000
+- Xu Mới : 250000000
+- Xu Thay Đổi :-4000000Xu 
+----------Thời Gian : 2023-08-18 22:19:43--------
+- Name : anhlavip
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 69800000
+- Xu Mới : 800000
+- Xu Thay Đổi :-69000000Xu 
+----------Thời Gian : 2023-08-18 22:19:59--------
+- Name : missout
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 3350000
+- Xu Mới : 350000
+- Xu Thay Đổi :-3000000Xu 
+----------Thời Gian : 2023-08-18 22:20:13--------
+- Name : cave10k
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 900000
+- Xu Mới : 500000
+- Xu Thay Đổi :-400000Xu 
+----------Thời Gian : 2023-08-18 22:20:37--------
+- Name : missout
+- Tên Giao Dịch : Thắng Tài Xỉu : 
+- Xu Cũ : 350000
+- Xu Mới : 5750000
+- Xu Thay Đổi :5400000Xu 
+----------Thời Gian : 2023-08-18 22:20:58--------
+- Name : cave10k
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 500000
+- Xu Mới : 100000
+- Xu Thay Đổi :-400000Xu 
+----------Thời Gian : 2023-08-18 22:21:25--------
+- Name : missout
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 5750000
+- Xu Mới : 750000
+- Xu Thay Đổi :-5000000Xu 
+----------Thời Gian : 2023-08-18 22:21:57--------
+- Name : cave10k
+- Tên Giao Dịch : Thắng Tài Xỉu : 
+- Xu Cũ : 100000
+- Xu Mới : 820000
+- Xu Thay Đổi :720000Xu 
+----------Thời Gian : 2023-08-18 22:21:57--------
+- Name : missout
+- Tên Giao Dịch : Thắng Tài Xỉu : 
+- Xu Cũ : 750000
+- Xu Mới : 9750000
+- Xu Thay Đổi :9000000Xu 
+----------Thời Gian : 2023-08-18 22:22:14--------
+- Name : anhlavip
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 250800000
+- Xu Mới : 150800000
+- Xu Thay Đổi :-100000000Xu 
+----------Thời Gian : 2023-08-18 22:22:21--------
+- Name : hahahihi
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 256000000
+- Xu Mới : 156000000
+- Xu Thay Đổi :-100000000Xu 
+----------Thời Gian : 2023-08-18 22:22:25--------
+- Name : missout
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 9750000
+- Xu Mới : 4750000
+- Xu Thay Đổi :-5000000Xu 
+----------Thời Gian : 2023-08-18 22:22:27--------
+- Name : ngocdz
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 602528656
+- Xu Mới : 592528656
+- Xu Thay Đổi :-10000000Xu 
+----------Thời Gian : 2023-08-18 22:22:40--------
+- Name : cave10k
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 820000
+- Xu Mới : 20000
+- Xu Thay Đổi :-800000Xu 
+----------Thời Gian : 2023-08-18 22:23:13--------
+- Name : hahahihi
+- Tên Giao Dịch : Thắng Tài Xỉu : 
+- Xu Cũ : 156000000
+- Xu Mới : 336000000
+- Xu Thay Đổi :180000000Xu 
+----------Thời Gian : 2023-08-18 22:23:13--------
+- Name : ngocdz
+- Tên Giao Dịch : Thắng Tài Xỉu : 
+- Xu Cũ : 592528656
+- Xu Mới : 610528656
+- Xu Thay Đổi :18000000Xu 
+----------Thời Gian : 2023-08-18 22:23:58--------
+- Name : missout
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 4750000
+- Xu Mới : 750000
+- Xu Thay Đổi :-4000000Xu 
+----------Thời Gian : 2023-08-18 22:23:59--------
+- Name : ngocdz
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 610528656
+- Xu Mới : 609528656
+- Xu Thay Đổi :-1000000Xu 
+----------Thời Gian : 2023-08-18 22:24:43--------
+- Name : maumess
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 22:24:56--------
+- Name : missout
+- Tên Giao Dịch : Thắng Tài Xỉu : 
+- Xu Cũ : 750000
+- Xu Mới : 7950000
+- Xu Thay Đổi :7200000Xu 
+----------Thời Gian : 2023-08-18 22:24:56--------
+- Name : ngocdz
+- Tên Giao Dịch : Thắng Tài Xỉu : 
+- Xu Cũ : 609528656
+- Xu Mới : 611328656
+- Xu Thay Đổi :1800000Xu 
+----------Thời Gian : 2023-08-18 22:25:41--------
+- Name : missout
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 7950000
+- Xu Mới : 2950000
+- Xu Thay Đổi :-5000000Xu 
+----------Thời Gian : 2023-08-18 22:26:29--------
+- Name : anhlavip
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 150800000
+- Xu Mới : 100800000
+- Xu Thay Đổi :-50000000Xu 
+----------Thời Gian : 2023-08-18 22:26:39--------
+- Name : missout
+- Tên Giao Dịch : Thắng Tài Xỉu : 
+- Xu Cũ : 2950000
+- Xu Mới : 11950000
+- Xu Thay Đổi :9000000Xu 
+----------Thời Gian : 2023-08-18 22:27:27--------
+- Name : quangdz
+- Tên Giao Dịch : Làm 1 Cỏ ba lá Bằng Xu
+- Xu Cũ : 1000000
+- Xu Mới : 900000
+- Xu Thay Đổi :-100000Xu 
+----------Thời Gian : 2023-08-18 22:27:27--------
+- Name : missout
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 11950000
+- Xu Mới : 1950000
+- Xu Thay Đổi :-10000000Xu 
+----------Thời Gian : 2023-08-18 22:27:30--------
+- Name : anhlavip
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 100800000
+- Xu Mới : 800000
+- Xu Thay Đổi :-100000000Xu 
+----------Thời Gian : 2023-08-18 22:28:32--------
+- Name : kocanbiec
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 22:28:51--------
+- Name : nsobip
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 22:28:53--------
+- Name : missout
+- Tên Giao Dịch :  Đặt Vòng Xoay May Mắn
+- Xu Cũ : 1950000
+- Xu Mới : 1850000
+- Xu Thay Đổi :-100000Xu 
+----------Thời Gian : 2023-08-18 22:29:03--------
+- Name : phongdz11
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 6080008
+- Xu Mới : 6000008
+- Xu Thay Đổi :-80000Xu 
+----------Thời Gian : 2023-08-18 22:29:44--------
+- Name : ngoccccc
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 545613765
+- Xu Mới : 544613765
+- Xu Thay Đổi :-1000000Xu 
+----------Thời Gian : 2023-08-18 22:30:02--------
+- Name : phongdz11
+- Tên Giao Dịch : Thắng Tài Xỉu : 
+- Xu Cũ : 6000008
+- Xu Mới : 6144008
+- Xu Thay Đổi :144000Xu 
+----------Thời Gian : 2023-08-18 22:30:02--------
+- Name : ngoccccc
+- Tên Giao Dịch : Thắng Tài Xỉu : 
+- Xu Cũ : 544613765
+- Xu Mới : 546413765
+- Xu Thay Đổi :1800000Xu 
+----------Thời Gian : 2023-08-18 22:30:47--------
+- Name : ngoccccc
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 46413765
+- Xu Mới : 45413765
+- Xu Thay Đổi :-1000000Xu 
+----------Thời Gian : 2023-08-18 22:30:56--------
+- Name : taodz
+- Tên Giao Dịch :  Đặt Vòng Xoay May Mắn
+- Xu Cũ : 484501
+- Xu Mới : 384501
+- Xu Thay Đổi :-100000Xu 
+----------Thời Gian : 2023-08-18 22:31:04--------
+- Name : quangdz
+- Tên Giao Dịch :  Đặt Vòng Xoay May Mắn
+- Xu Cũ : 900000
+- Xu Mới : 800000
+- Xu Thay Đổi :-100000Xu 
+----------Thời Gian : 2023-08-18 22:31:43--------
+- Name : billytran
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 22:31:56--------
+- Name : girlkiem
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 22:32:20--------
+- Name : hahahihi
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 336000000
+- Xu Mới : 332400000
+- Xu Thay Đổi :-3600000Xu 
+----------Thời Gian : 2023-08-18 22:32:55--------
+- Name : missout
+- Tên Giao Dịch : Thắng Vòng Xoay May Mắn
+- Xu Cũ : 1850000
+- Xu Mới : 2135000
+- Xu Thay Đổi :285000Xu 
+----------Thời Gian : 2023-08-18 22:32:57--------
+- Name : taodz
+- Tên Giao Dịch :  Đặt Vòng Xoay May Mắn
+- Xu Cũ : 384501
+- Xu Mới : 284501
+- Xu Thay Đổi :-100000Xu 
+----------Thời Gian : 2023-08-18 22:33:01--------
+- Name : kun5do
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 22:33:06--------
+- Name : quangdz
+- Tên Giao Dịch :  Đặt Vòng Xoay May Mắn
+- Xu Cũ : 800000
+- Xu Mới : 700000
+- Xu Thay Đổi :-100000Xu 
+----------Thời Gian : 2023-08-18 22:33:08--------
+- Name : hahahihi
+- Tên Giao Dịch :  Đặt Vòng Xoay May Mắn
+- Xu Cũ : 332400000
+- Xu Mới : 332300000
+- Xu Thay Đổi :-100000Xu 
+----------Thời Gian : 2023-08-18 22:33:37--------
+- Name : sevebip
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 22:33:46--------
+- Name : hahahihi
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 332300000
+- Xu Mới : 300000000
+- Xu Thay Đổi :-32300000Xu 
+----------Thời Gian : 2023-08-18 22:34:05--------
+- Name : ngheone
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 22:35:05--------
+- Name : quangdz
+- Tên Giao Dịch : Thắng Vòng Xoay May Mắn
+- Xu Cũ : 700000
+- Xu Mới : 985000
+- Xu Thay Đổi :285000Xu 
+----------Thời Gian : 2023-08-18 22:35:06--------
+- Name : hahahihi
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 300000000
+- Xu Mới : 200000000
+- Xu Thay Đổi :-100000000Xu 
+----------Thời Gian : 2023-08-18 22:35:11--------
+- Name : ditvaolol
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 1026000
+- Xu Mới : 526000
+- Xu Thay Đổi :-500000Xu 
+----------Thời Gian : 2023-08-18 22:35:29--------
+- Name : taodz
+- Tên Giao Dịch :  Đặt Vòng Xoay May Mắn
+- Xu Cũ : 284501
+- Xu Mới : 200000
+- Xu Thay Đổi :-84501Xu 
+----------Thời Gian : 2023-08-18 22:35:40--------
+- Name : quangdz
+- Tên Giao Dịch :  Đặt Vòng Xoay May Mắn
+- Xu Cũ : 985000
+- Xu Mới : 900000
+- Xu Thay Đổi :-85000Xu 
+----------Thời Gian : 2023-08-18 22:36:04--------
+- Name : hahahihi
+- Tên Giao Dịch : Thắng Tài Xỉu : 
+- Xu Cũ : 200000000
+- Xu Mới : 380000000
+- Xu Thay Đổi :180000000Xu 
+----------Thời Gian : 2023-08-18 22:36:04--------
+- Name : ditvaolol
+- Tên Giao Dịch : Thắng Tài Xỉu : 
+- Xu Cũ : 526000
+- Xu Mới : 1426000
+- Xu Thay Đổi :900000Xu 
+----------Thời Gian : 2023-08-18 22:36:34--------
+- Name : boy18pro
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 22:36:48--------
+- Name : hahahihi
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 380000000
+- Xu Mới : 280000000
+- Xu Thay Đổi :-100000000Xu 
+----------Thời Gian : 2023-08-18 22:36:55--------
+- Name : ngoccccc
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 45413765
+- Xu Mới : 44413765
+- Xu Thay Đổi :-1000000Xu 
+----------Thời Gian : 2023-08-18 22:36:57--------
+- Name : ditvaolol
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 1426000
+- Xu Mới : 1226000
+- Xu Thay Đổi :-200000Xu 
+----------Thời Gian : 2023-08-18 22:37:39--------
+- Name : taodz
+- Tên Giao Dịch : Thắng Vòng Xoay May Mắn
+- Xu Cũ : 200000
+- Xu Mới : 361025
+- Xu Thay Đổi :161025Xu 
+----------Thời Gian : 2023-08-18 22:37:47--------
+- Name : ngoccccc
+- Tên Giao Dịch : Thắng Tài Xỉu : 
+- Xu Cũ : 44413765
+- Xu Mới : 46213765
+- Xu Thay Đổi :1800000Xu 
+----------Thời Gian : 2023-08-18 22:37:47--------
+- Name : ditvaolol
+- Tên Giao Dịch : Thắng Tài Xỉu : 
+- Xu Cũ : 1226000
+- Xu Mới : 1586000
+- Xu Thay Đổi :360000Xu 
+----------Thời Gian : 2023-08-18 22:38:10--------
+- Name : ngoccccc
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 46213765
+- Xu Mới : 45213765
+- Xu Thay Đổi :-1000000Xu 
+----------Thời Gian : 2023-08-18 22:38:16--------
+- Name : hahahihi
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 280000000
+- Xu Mới : 180000000
+- Xu Thay Đổi :-100000000Xu 
+----------Thời Gian : 2023-08-18 22:38:32--------
+- Name : tobaco
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 100705146
+- Xu Mới : 705146
+- Xu Thay Đổi :-100000000Xu 
+----------Thời Gian : 2023-08-18 22:38:40--------
+- Name : neuetontai
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 22:39:08--------
+- Name : ryoma
+- Tên Giao Dịch :  Góp vào gia tộc 
+- Xu Cũ : 140313950
+- Xu Mới : 130313950
+- Xu Thay Đổi :-10000000Xu 
+----------Thời Gian : 2023-08-18 22:39:14--------
+- Name : vipvl2
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 22:40:01--------
+- Name : hahahihi
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 100000000
+- Xu Mới : 0
+- Xu Thay Đổi :-100000000Xu 
+----------Thời Gian : 2023-08-18 22:40:07--------
+- Name : ngoccccc
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 45213765
+- Xu Mới : 44213765
+- Xu Thay Đổi :-1000000Xu 
+----------Thời Gian : 2023-08-18 22:40:11--------
+- Name : tobaco
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 80705146
+- Xu Mới : 705146
+- Xu Thay Đổi :-80000000Xu 
+----------Thời Gian : 2023-08-18 22:40:31--------
+- Name : hasaki
+- Tên Giao Dịch :  Đặt Vòng Xoay May Mắn
+- Xu Cũ : 252507360
+- Xu Mới : 202507360
+- Xu Thay Đổi :-50000000Xu 
+----------Thời Gian : 2023-08-18 22:40:58--------
+- Name : nickhs113
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 22:41:00--------
+- Name : hahahihi
+- Tên Giao Dịch : Thắng Tài Xỉu : 
+- Xu Cũ : 0
+- Xu Mới : 180000000
+- Xu Thay Đổi :180000000Xu 
+----------Thời Gian : 2023-08-18 22:41:00--------
+- Name : tobaco
+- Tên Giao Dịch : Thắng Tài Xỉu : 
+- Xu Cũ : 705146
+- Xu Mới : 144705146
+- Xu Thay Đổi :144000000Xu 
+----------Thời Gian : 2023-08-18 22:41:16--------
+- Name : ditvaolol
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 1586000
+- Xu Mới : 1186000
+- Xu Thay Đổi :-400000Xu 
+----------Thời Gian : 2023-08-18 22:41:31--------
+- Name : nancy
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 22:41:50--------
+- Name : hahahihi
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 180000000
+- Xu Mới : 80000000
+- Xu Thay Đổi :-100000000Xu 
+----------Thời Gian : 2023-08-18 22:41:51--------
+- Name : shadowblade
+- Tên Giao Dịch : Làm 100 Cỏ ba lá Bằng Xu
+- Xu Cũ : 196506475
+- Xu Mới : 186506475
+- Xu Thay Đổi :-10000000Xu 
+----------Thời Gian : 2023-08-18 22:42:02--------
+- Name : tobaco
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 144705146
+- Xu Mới : 44705146
+- Xu Thay Đổi :-100000000Xu 
+----------Thời Gian : 2023-08-18 22:42:14--------
+- Name : ditvaolol
+- Tên Giao Dịch : Thắng Tài Xỉu : 
+- Xu Cũ : 1186000
+- Xu Mới : 1906000
+- Xu Thay Đổi :720000Xu 
+----------Thời Gian : 2023-08-18 22:42:14--------
+- Name : hahahihi
+- Tên Giao Dịch : Thắng Tài Xỉu : 
+- Xu Cũ : 80000000
+- Xu Mới : 260000000
+- Xu Thay Đổi :180000000Xu 
+----------Thời Gian : 2023-08-18 22:42:14--------
+- Name : tobaco
+- Tên Giao Dịch : Thắng Tài Xỉu : 
+- Xu Cũ : 44705146
+- Xu Mới : 224705146
+- Xu Thay Đổi :180000000Xu 
+----------Thời Gian : 2023-08-18 22:42:50--------
+- Name : hahahihi
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 260000000
+- Xu Mới : 160000000
+- Xu Thay Đổi :-100000000Xu 
+----------Thời Gian : 2023-08-18 22:43:01--------
+- Name : ditvaolol
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 1906000
+- Xu Mới : 1306000
+- Xu Thay Đổi :-600000Xu 
+----------Thời Gian : 2023-08-18 22:43:03--------
+- Name : tobaco
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 224705146
+- Xu Mới : 124705146
+- Xu Thay Đổi :-100000000Xu 
+----------Thời Gian : 2023-08-18 22:43:50--------
+- Name : hahahihi
+- Tên Giao Dịch : Thắng Tài Xỉu : 
+- Xu Cũ : 160000000
+- Xu Mới : 340000000
+- Xu Thay Đổi :180000000Xu 
+----------Thời Gian : 2023-08-18 22:43:50--------
+- Name : ditvaolol
+- Tên Giao Dịch : Thắng Tài Xỉu : 
+- Xu Cũ : 1306000
+- Xu Mới : 2386000
+- Xu Thay Đổi :1080000Xu 
+----------Thời Gian : 2023-08-18 22:43:50--------
+- Name : tobaco
+- Tên Giao Dịch : Thắng Tài Xỉu : 
+- Xu Cũ : 124705146
+- Xu Mới : 304705146
+- Xu Thay Đổi :180000000Xu 
+----------Thời Gian : 2023-08-18 22:44:22--------
+- Name : ditvaolol
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 2386000
+- Xu Mới : 1786000
+- Xu Thay Đổi :-600000Xu 
+----------Thời Gian : 2023-08-18 22:44:55--------
+- Name : beteep
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 22:45:11--------
+- Name : xuna9x
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 22:45:39--------
+- Name : zxkaka
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 22:45:44--------
+- Name : ahtham
+- Tên Giao Dịch :  Rời Khỏi Gia Tộc 
+- Xu Cũ : 875000
+- Xu Mới : 865000
+- Xu Thay Đổi :-10000Xu 
+----------Thời Gian : 2023-08-18 22:46:00--------
+- Name : lontothe
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 8789978
+- Xu Mới : 789978
+- Xu Thay Đổi :-8000000Xu 
+----------Thời Gian : 2023-08-18 22:46:29--------
+- Name : ditvaolol
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 1786000
+- Xu Mới : 1036000
+- Xu Thay Đổi :-750000Xu 
+----------Thời Gian : 2023-08-18 22:46:52--------
+- Name : genzo69
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 22:46:59--------
+- Name : lontothe
+- Tên Giao Dịch : Thắng Tài Xỉu : 
+- Xu Cũ : 789978
+- Xu Mới : 15189978
+- Xu Thay Đổi :14400000Xu 
+----------Thời Gian : 2023-08-18 22:46:59--------
+- Name : ditvaolol
+- Tên Giao Dịch : Thắng Tài Xỉu : 
+- Xu Cũ : 1036000
+- Xu Mới : 2386000
+- Xu Thay Đổi :1350000Xu 
+----------Thời Gian : 2023-08-18 22:47:29--------
+- Name : ditvaolol
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 2386000
+- Xu Mới : 1636000
+- Xu Thay Đổi :-750000Xu 
+----------Thời Gian : 2023-08-18 22:47:41--------
+- Name : lontothe
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 15189978
+- Xu Mới : 14189978
+- Xu Thay Đổi :-1000000Xu 
+----------Thời Gian : 2023-08-18 22:47:55--------
+- Name : tamkiem
+- Tên Giao Dịch : Làm 1 Cỏ ba lá Bằng Xu
+- Xu Cũ : 904000
+- Xu Mới : 804000
+- Xu Thay Đổi :-100000Xu 
+----------Thời Gian : 2023-08-18 22:48:27--------
+- Name : ditvaolol
+- Tên Giao Dịch : Thắng Tài Xỉu : 
+- Xu Cũ : 1636000
+- Xu Mới : 2986000
+- Xu Thay Đổi :1350000Xu 
+----------Thời Gian : 2023-08-18 22:48:27--------
+- Name : lontothe
+- Tên Giao Dịch : Thắng Tài Xỉu : 
+- Xu Cũ : 14189978
+- Xu Mới : 15989978
+- Xu Thay Đổi :1800000Xu 
+----------Thời Gian : 2023-08-18 22:48:30--------
+- Name : kiler
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 22:49:22--------
+- Name : lontothe
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 15989978
+- Xu Mới : 14989978
+- Xu Thay Đổi :-1000000Xu 
+----------Thời Gian : 2023-08-18 22:49:24--------
+- Name : ditvaolol
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 2986000
+- Xu Mới : 2436000
+- Xu Thay Đổi :-550000Xu 
+----------Thời Gian : 2023-08-18 22:50:05--------
+- Name : safari
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 22:50:08--------
+- Name : thembululqua
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 22:50:20--------
+- Name : bemun123
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 22:50:21--------
+- Name : ditvaolol
+- Tên Giao Dịch : Thắng Tài Xỉu : 
+- Xu Cũ : 2436000
+- Xu Mới : 3426000
+- Xu Thay Đổi :990000Xu 
+----------Thời Gian : 2023-08-18 22:50:52--------
+- Name : lontothe
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 14989978
+- Xu Mới : 989978
+- Xu Thay Đổi :-14000000Xu 
+----------Thời Gian : 2023-08-18 22:51:15--------
+- Name : ditvaolol
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 3426000
+- Xu Mới : 3176000
+- Xu Thay Đổi :-250000Xu 
+----------Thời Gian : 2023-08-18 22:51:51--------
+- Name : lontothe
+- Tên Giao Dịch : Thắng Tài Xỉu : 
+- Xu Cũ : 989978
+- Xu Mới : 26189978
+- Xu Thay Đổi :25200000Xu 
+----------Thời Gian : 2023-08-18 22:52:27--------
+- Name : lontothe
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 26189978
+- Xu Mới : 25189978
+- Xu Thay Đổi :-1000000Xu 
+----------Thời Gian : 2023-08-18 22:52:45--------
+- Name : ditvaolol
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 3176000
+- Xu Mới : 2626000
+- Xu Thay Đổi :-550000Xu 
+----------Thời Gian : 2023-08-18 22:53:18--------
+- Name : tieudinhvl
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 22:53:31--------
+- Name : adminfake
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 890000
+- Xu Mới : 870000
+- Xu Thay Đổi :-20000Xu 
+----------Thời Gian : 2023-08-18 22:53:40--------
+- Name : kiiler
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 22:53:54--------
+- Name : lontothe
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 25189978
+- Xu Mới : 24189978
+- Xu Thay Đổi :-1000000Xu 
+----------Thời Gian : 2023-08-18 22:54:29--------
+- Name : lontothe
+- Tên Giao Dịch : Thắng Tài Xỉu : 
+- Xu Cũ : 24189978
+- Xu Mới : 25989978
+- Xu Thay Đổi :1800000Xu 
+----------Thời Gian : 2023-08-18 22:54:46--------
+- Name : golfer
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 22:54:50--------
+- Name : lontothe
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 25989978
+- Xu Mới : 24989978
+- Xu Thay Đổi :-1000000Xu 
+----------Thời Gian : 2023-08-18 22:54:50--------
+- Name : kiemdao
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 22:54:58--------
+- Name : ditvaolol
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 2626000
+- Xu Mới : 1126000
+- Xu Thay Đổi :-1500000Xu 
+----------Thời Gian : 2023-08-18 22:55:48--------
+- Name : lontothe
+- Tên Giao Dịch : Thắng Tài Xỉu : 
+- Xu Cũ : 24989978
+- Xu Mới : 26789978
+- Xu Thay Đổi :1800000Xu 
+----------Thời Gian : 2023-08-18 22:55:48--------
+- Name : ditvaolol
+- Tên Giao Dịch : Thắng Tài Xỉu : 
+- Xu Cũ : 1126000
+- Xu Mới : 3826000
+- Xu Thay Đổi :2700000Xu 
+----------Thời Gian : 2023-08-18 22:56:49--------
+- Name : lontothe
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 26789978
+- Xu Mới : 25789978
+- Xu Thay Đổi :-1000000Xu 
+----------Thời Gian : 2023-08-18 22:57:31--------
+- Name : ditvaolol
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 3826000
+- Xu Mới : 3476000
+- Xu Thay Đổi :-350000Xu 
+----------Thời Gian : 2023-08-18 22:57:48--------
+- Name : ditvaolol
+- Tên Giao Dịch : Thắng Tài Xỉu : 
+- Xu Cũ : 3476000
+- Xu Mới : 4106000
+- Xu Thay Đổi :630000Xu 
+----------Thời Gian : 2023-08-18 22:57:56--------
+- Name : tamkiem
+- Tên Giao Dịch : Làm 1 Cỏ ba lá Bằng Xu
+- Xu Cũ : 669000
+- Xu Mới : 569000
+- Xu Thay Đổi :-100000Xu 
+----------Thời Gian : 2023-08-18 22:57:59--------
+- Name : missout
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 2135000
+- Xu Mới : 135000
+- Xu Thay Đổi :-2000000Xu 
+----------Thời Gian : 2023-08-18 22:58:40--------
+- Name : lontothe
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 25789978
+- Xu Mới : 24789978
+- Xu Thay Đổi :-1000000Xu 
+----------Thời Gian : 2023-08-18 22:58:58--------
+- Name : missout
+- Tên Giao Dịch : Thắng Tài Xỉu : 
+- Xu Cũ : 0
+- Xu Mới : 3600000
+- Xu Thay Đổi :3600000Xu 
+----------Thời Gian : 2023-08-18 22:58:58--------
+- Name : lontothe
+- Tên Giao Dịch : Thắng Tài Xỉu : 
+- Xu Cũ : 24789978
+- Xu Mới : 26589978
+- Xu Thay Đổi :1800000Xu 
+----------Thời Gian : 2023-08-18 22:59:40--------
+- Name : ditvaolol
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 4106000
+- Xu Mới : 3006000
+- Xu Thay Đổi :-1100000Xu 
+----------Thời Gian : 2023-08-18 23:00:17--------
+- Name : lontothe
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 26589978
+- Xu Mới : 25589978
+- Xu Thay Đổi :-1000000Xu 
+----------Thời Gian : 2023-08-18 23:00:39--------
+- Name : ditvaolol
+- Tên Giao Dịch : Thắng Tài Xỉu : 
+- Xu Cũ : 3006000
+- Xu Mới : 4986000
+- Xu Thay Đổi :1980000Xu 
+----------Thời Gian : 2023-08-18 23:01:32--------
+- Name : hitle
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 23:01:59--------
+- Name : theboy
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 23:02:11--------
+- Name : goldroger
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 23:02:18--------
+- Name : ditvaolol
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 4986000
+- Xu Mới : 4736000
+- Xu Thay Đổi :-250000Xu 
+----------Thời Gian : 2023-08-18 23:03:42--------
+- Name : missout
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 3600000
+- Xu Mới : 600000
+- Xu Thay Đổi :-3000000Xu 
+----------Thời Gian : 2023-08-18 23:03:44--------
+- Name : ditvaolol
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 4736000
+- Xu Mới : 4186000
+- Xu Thay Đổi :-550000Xu 
+----------Thời Gian : 2023-08-18 23:04:40--------
+- Name : missout
+- Tên Giao Dịch : Thắng Tài Xỉu : 
+- Xu Cũ : 600000
+- Xu Mới : 6000000
+- Xu Thay Đổi :5400000Xu 
+----------Thời Gian : 2023-08-18 23:05:00--------
+- Name : missout
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 6000000
+- Xu Mới : 1000000
+- Xu Thay Đổi :-5000000Xu 
+----------Thời Gian : 2023-08-18 23:05:13--------
+- Name : ditvaolol
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 4186000
+- Xu Mới : 2686000
+- Xu Thay Đổi :-1500000Xu 
+----------Thời Gian : 2023-08-18 23:05:46--------
+- Name : stitch
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 23:05:59--------
+- Name : missout
+- Tên Giao Dịch : Thắng Tài Xỉu : 
+- Xu Cũ : 1000000
+- Xu Mới : 10000000
+- Xu Thay Đổi :9000000Xu 
+----------Thời Gian : 2023-08-18 23:06:50--------
+- Name : ditvaolol
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 2686000
+- Xu Mới : 686000
+- Xu Thay Đổi :-2000000Xu 
+----------Thời Gian : 2023-08-18 23:06:59--------
+- Name : missout
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 10000000
+- Xu Mới : 1000000
+- Xu Thay Đổi :-9000000Xu 
+----------Thời Gian : 2023-08-18 23:07:48--------
+- Name : ditvaolol
+- Tên Giao Dịch : Thắng Tài Xỉu : 
+- Xu Cũ : 686000
+- Xu Mới : 4286000
+- Xu Thay Đổi :3600000Xu 
+----------Thời Gian : 2023-08-18 23:07:48--------
+- Name : missout
+- Tên Giao Dịch : Thắng Tài Xỉu : 
+- Xu Cũ : 1000000
+- Xu Mới : 17200000
+- Xu Thay Đổi :16200000Xu 
+----------Thời Gian : 2023-08-18 23:08:16--------
+- Name : missout
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 17200000
+- Xu Mới : 10200000
+- Xu Thay Đổi :-7000000Xu 
+----------Thời Gian : 2023-08-18 23:09:04--------
+- Name : ditvaolol
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 4286000
+- Xu Mới : 4252000
+- Xu Thay Đổi :-34000Xu 
+----------Thời Gian : 2023-08-18 23:09:15--------
+- Name : missout
+- Tên Giao Dịch : Thắng Tài Xỉu : 
+- Xu Cũ : 10200000
+- Xu Mới : 22800000
+- Xu Thay Đổi :12600000Xu 
+----------Thời Gian : 2023-08-18 23:09:33--------
+- Name : missout
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 22800000
+- Xu Mới : 15800000
+- Xu Thay Đổi :-7000000Xu 
+----------Thời Gian : 2023-08-18 23:10:10--------
+- Name : ditvaolol
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 4252000
+- Xu Mới : 1752000
+- Xu Thay Đổi :-2500000Xu 
+----------Thời Gian : 2023-08-18 23:10:18--------
+- Name : hahahihi
+- Tên Giao Dịch :  Đặt Vòng Xoay May Mắn
+- Xu Cũ : 640000000
+- Xu Mới : 590000000
+- Xu Thay Đổi :-50000000Xu 
+----------Thời Gian : 2023-08-18 23:10:31--------
+- Name : missout
+- Tên Giao Dịch : Thắng Tài Xỉu : 
+- Xu Cũ : 15800000
+- Xu Mới : 28400000
+- Xu Thay Đổi :12600000Xu 
+----------Thời Gian : 2023-08-18 23:10:31--------
+- Name : ditvaolol
+- Tên Giao Dịch : Thắng Tài Xỉu : 
+- Xu Cũ : 1752000
+- Xu Mới : 6252000
+- Xu Thay Đổi :4500000Xu 
+----------Thời Gian : 2023-08-18 23:10:48--------
+- Name : hahahihi
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 590000000
+- Xu Mới : 580000000
+- Xu Thay Đổi :-10000000Xu 
+----------Thời Gian : 2023-08-18 23:10:50--------
+- Name : missout
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 28400000
+- Xu Mới : 20400000
+- Xu Thay Đổi :-8000000Xu 
+----------Thời Gian : 2023-08-18 23:10:52--------
+- Name : gendz
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 23:11:01--------
+- Name : datne290001
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 23:11:24--------
+- Name : ditvaolol
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 6252000
+- Xu Mới : 1752000
+- Xu Thay Đổi :-4500000Xu 
+----------Thời Gian : 2023-08-18 23:11:28--------
+- Name : 1dapvebo
+- Tên Giao Dịch : Làm 1 Cỏ ba lá Bằng Xu
+- Xu Cũ : 1000000
+- Xu Mới : 900000
+- Xu Thay Đổi :-100000Xu 
+----------Thời Gian : 2023-08-18 23:12:06--------
+- Name : hahahihi
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 580000000
+- Xu Mới : 520000000
+- Xu Thay Đổi :-60000000Xu 
+----------Thời Gian : 2023-08-18 23:12:07--------
+- Name : missout
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 20400000
+- Xu Mới : 8400000
+- Xu Thay Đổi :-12000000Xu 
+----------Thời Gian : 2023-08-18 23:12:31--------
+- Name : ditvaolol
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 1752000
+- Xu Mới : 52000
+- Xu Thay Đổi :-1700000Xu 
+----------Thời Gian : 2023-08-18 23:13:05--------
+- Name : hahahihi
+- Tên Giao Dịch : Thắng Tài Xỉu : 
+- Xu Cũ : 520000000
+- Xu Mới : 628000000
+- Xu Thay Đổi :108000000Xu 
+----------Thời Gian : 2023-08-18 23:13:05--------
+- Name : missout
+- Tên Giao Dịch : Thắng Tài Xỉu : 
+- Xu Cũ : 8400000
+- Xu Mới : 30000000
+- Xu Thay Đổi :21600000Xu 
+----------Thời Gian : 2023-08-18 23:13:05--------
+- Name : ditvaolol
+- Tên Giao Dịch : Thắng Tài Xỉu : 
+- Xu Cũ : 52000
+- Xu Mới : 3112000
+- Xu Thay Đổi :3060000Xu 
+----------Thời Gian : 2023-08-18 23:13:41--------
+- Name : hahahihi
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 628000000
+- Xu Mới : 578000000
+- Xu Thay Đổi :-50000000Xu 
+----------Thời Gian : 2023-08-18 23:13:51--------
+- Name : ditvaolol
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 3112000
+- Xu Mới : 2312000
+- Xu Thay Đổi :-800000Xu 
+----------Thời Gian : 2023-08-18 23:13:57--------
+- Name : missout
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 30000000
+- Xu Mới : 10000000
+- Xu Thay Đổi :-20000000Xu 
+----------Thời Gian : 2023-08-18 23:14:40--------
+- Name : hahahihi
+- Tên Giao Dịch : Thắng Tài Xỉu : 
+- Xu Cũ : 578000000
+- Xu Mới : 668000000
+- Xu Thay Đổi :90000000Xu 
+----------Thời Gian : 2023-08-18 23:14:40--------
+- Name : ditvaolol
+- Tên Giao Dịch : Thắng Tài Xỉu : 
+- Xu Cũ : 2312000
+- Xu Mới : 3752000
+- Xu Thay Đổi :1440000Xu 
+----------Thời Gian : 2023-08-18 23:15:03--------
+- Name : missout
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 10000000
+- Xu Mới : 0
+- Xu Thay Đổi :-10000000Xu 
+----------Thời Gian : 2023-08-18 23:15:17--------
+- Name : ditvaolol
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 3752000
+- Xu Mới : 2052000
+- Xu Thay Đổi :-1700000Xu 
+----------Thời Gian : 2023-08-18 23:16:46--------
+- Name : ditvaolol
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 2052000
+- Xu Mới : 52000
+- Xu Thay Đổi :-2000000Xu 
+----------Thời Gian : 2023-08-18 23:17:06--------
+- Name : hahahihi
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 668000000
+- Xu Mới : 600000000
+- Xu Thay Đổi :-68000000Xu 
+----------Thời Gian : 2023-08-18 23:17:44--------
+- Name : ditvaolol
+- Tên Giao Dịch : Thắng Tài Xỉu : 
+- Xu Cũ : 52000
+- Xu Mới : 3652000
+- Xu Thay Đổi :3600000Xu 
+----------Thời Gian : 2023-08-18 23:17:44--------
+- Name : hahahihi
+- Tên Giao Dịch : Thắng Tài Xỉu : 
+- Xu Cũ : 600000000
+- Xu Mới : 722400000
+- Xu Thay Đổi :122400000Xu 
+----------Thời Gian : 2023-08-18 23:18:46--------
+- Name : ditvaolol
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 52000
+- Xu Mới : 2000
+- Xu Thay Đổi :-50000Xu 
+----------Thời Gian : 2023-08-18 23:19:26--------
+- Name : tunlord
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 952000
+- Xu Mới : 452000
+- Xu Thay Đổi :-500000Xu 
+----------Thời Gian : 2023-08-18 23:19:45--------
+- Name : tunlord
+- Tên Giao Dịch : Thắng Tài Xỉu : 
+- Xu Cũ : 452000
+- Xu Mới : 1352000
+- Xu Thay Đổi :900000Xu 
+----------Thời Gian : 2023-08-18 23:20:58--------
+- Name : tunlord
+- Tên Giao Dịch : Đặt Tài : 
+- Xu Cũ : 1352000
+- Xu Mới : 1302000
+- Xu Thay Đổi :-50000Xu 
+----------Thời Gian : 2023-08-18 23:22:42--------
+- Name : chistojis
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 23:25:42--------
+- Name : pudding111
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 23:31:01--------
+- Name : trumkiemmom
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 23:35:50--------
+- Name : juliet
+- Tên Giao Dịch : Luyện Bí Kíp
+- Xu Cũ : 300462700
+- Xu Mới : 299462700
+- Xu Thay Đổi :-1000000Xu 
+----------Thời Gian : 2023-08-18 23:36:08--------
+- Name : juliet
+- Tên Giao Dịch : Luyện Bí Kíp
+- Xu Cũ : 299462700
+- Xu Mới : 298462700
+- Xu Thay Đổi :-1000000Xu 
+----------Thời Gian : 2023-08-18 23:36:22--------
+- Name : juliet
+- Tên Giao Dịch : Luyện Bí Kíp
+- Xu Cũ : 298462700
+- Xu Mới : 297462700
+- Xu Thay Đổi :-1000000Xu 
+----------Thời Gian : 2023-08-18 23:36:25--------
+- Name : hanguvl
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 23:36:39--------
+- Name : juliet
+- Tên Giao Dịch : Luyện Bí Kíp
+- Xu Cũ : 297462700
+- Xu Mới : 296462700
+- Xu Thay Đổi :-1000000Xu 
+----------Thời Gian : 2023-08-18 23:36:53--------
+- Name : juliet
+- Tên Giao Dịch : Luyện Bí Kíp
+- Xu Cũ : 296462700
+- Xu Mới : 295462700
+- Xu Thay Đổi :-1000000Xu 
+----------Thời Gian : 2023-08-18 23:37:06--------
+- Name : juliet
+- Tên Giao Dịch : Luyện Bí Kíp
+- Xu Cũ : 295462700
+- Xu Mới : 294462700
+- Xu Thay Đổi :-1000000Xu 
+----------Thời Gian : 2023-08-18 23:37:18--------
+- Name : juliet
+- Tên Giao Dịch : Luyện Bí Kíp
+- Xu Cũ : 294462700
+- Xu Mới : 293462700
+- Xu Thay Đổi :-1000000Xu 
+----------Thời Gian : 2023-08-18 23:37:32--------
+- Name : juliet
+- Tên Giao Dịch : Luyện Bí Kíp
+- Xu Cũ : 293462700
+- Xu Mới : 292462700
+- Xu Thay Đổi :-1000000Xu 
+----------Thời Gian : 2023-08-18 23:37:47--------
+- Name : juliet
+- Tên Giao Dịch : Luyện Bí Kíp
+- Xu Cũ : 292462700
+- Xu Mới : 291462700
+- Xu Thay Đổi :-1000000Xu 
+----------Thời Gian : 2023-08-18 23:37:59--------
+- Name : juliet
+- Tên Giao Dịch : Luyện Bí Kíp
+- Xu Cũ : 291462700
+- Xu Mới : 290462700
+- Xu Thay Đổi :-1000000Xu 
+----------Thời Gian : 2023-08-18 23:38:10--------
+- Name : juliet
+- Tên Giao Dịch : Luyện Bí Kíp
+- Xu Cũ : 290462700
+- Xu Mới : 289462700
+- Xu Thay Đổi :-1000000Xu 
+----------Thời Gian : 2023-08-18 23:38:15--------
+- Name : siuuuuuu
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 23:38:21--------
+- Name : juliet
+- Tên Giao Dịch : Luyện Bí Kíp
+- Xu Cũ : 289462700
+- Xu Mới : 288462700
+- Xu Thay Đổi :-1000000Xu 
+----------Thời Gian : 2023-08-18 23:38:37--------
+- Name : juliet
+- Tên Giao Dịch : Luyện Bí Kíp
+- Xu Cũ : 288462700
+- Xu Mới : 287462700
+- Xu Thay Đổi :-1000000Xu 
+----------Thời Gian : 2023-08-18 23:38:51--------
+- Name : juliet
+- Tên Giao Dịch : Luyện Bí Kíp
+- Xu Cũ : 287462700
+- Xu Mới : 286462700
+- Xu Thay Đổi :-1000000Xu 
+----------Thời Gian : 2023-08-18 23:39:02--------
+- Name : juliet
+- Tên Giao Dịch : Luyện Bí Kíp
+- Xu Cũ : 286462700
+- Xu Mới : 285462700
+- Xu Thay Đổi :-1000000Xu 
+----------Thời Gian : 2023-08-18 23:39:14--------
+- Name : juliet
+- Tên Giao Dịch : Luyện Bí Kíp
+- Xu Cũ : 285462700
+- Xu Mới : 284462700
+- Xu Thay Đổi :-1000000Xu 
+----------Thời Gian : 2023-08-18 23:39:28--------
+- Name : juliet
+- Tên Giao Dịch : Luyện Bí Kíp
+- Xu Cũ : 284462700
+- Xu Mới : 283462700
+- Xu Thay Đổi :-1000000Xu 
+----------Thời Gian : 2023-08-18 23:39:52--------
+- Name : juliet
+- Tên Giao Dịch : Nâng Cấp Bí Kíp
+- Xu Cũ : 283462700
+- Xu Mới : 283362700
+- Xu Thay Đổi :-100000Xu 
+----------Thời Gian : 2023-08-18 23:40:27--------
+- Name : g0nekk
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 23:43:25--------
+- Name : juliet
+- Tên Giao Dịch :  Góp vào gia tộc 
+- Xu Cũ : 283362700
+- Xu Mới : 163362700
+- Xu Thay Đổi :-120000000Xu 
+----------Thời Gian : 2023-08-18 23:43:52--------
+- Name : innovar
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 23:44:15--------
+- Name : sjdkww
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 23:44:47--------
+- Name : cccccj
+- Tên Giao Dịch : Luyện Bí Kíp
+- Xu Cũ : 17918500
+- Xu Mới : 16918500
+- Xu Thay Đổi :-1000000Xu 
+----------Thời Gian : 2023-08-18 23:44:47--------
+- Name : juliet
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 163362700
+- Xu Mới : 162362700
+- Xu Thay Đổi :162362700Xu 
+----------Thời Gian : 2023-08-18 23:44:59--------
+- Name : cccccj
+- Tên Giao Dịch : Luyện Bí Kíp
+- Xu Cũ : 16918500
+- Xu Mới : 15918500
+- Xu Thay Đổi :-1000000Xu 
+----------Thời Gian : 2023-08-18 23:45:06--------
+- Name : juliet
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 162362700
+- Xu Mới : 161362700
+- Xu Thay Đổi :161362700Xu 
+----------Thời Gian : 2023-08-18 23:45:07--------
+- Name : cccccj
+- Tên Giao Dịch : Luyện Bí Kíp
+- Xu Cũ : 15918500
+- Xu Mới : 14918500
+- Xu Thay Đổi :-1000000Xu 
+----------Thời Gian : 2023-08-18 23:45:17--------
+- Name : cccccj
+- Tên Giao Dịch : Luyện Bí Kíp
+- Xu Cũ : 14918500
+- Xu Mới : 13918500
+- Xu Thay Đổi :-1000000Xu 
+----------Thời Gian : 2023-08-18 23:45:29--------
+- Name : cccccj
+- Tên Giao Dịch : Luyện Bí Kíp
+- Xu Cũ : 13918500
+- Xu Mới : 12918500
+- Xu Thay Đổi :-1000000Xu 
+----------Thời Gian : 2023-08-18 23:45:44--------
+- Name : cccccj
+- Tên Giao Dịch : Luyện Bí Kíp
+- Xu Cũ : 12918500
+- Xu Mới : 11918500
+- Xu Thay Đổi :-1000000Xu 
+----------Thời Gian : 2023-08-18 23:45:52--------
+- Name : cccccj
+- Tên Giao Dịch : Luyện Bí Kíp
+- Xu Cũ : 11918500
+- Xu Mới : 10918500
+- Xu Thay Đổi :-1000000Xu 
+----------Thời Gian : 2023-08-18 23:45:53--------
+- Name : juliet
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 161362700
+- Xu Mới : 160362700
+- Xu Thay Đổi :160362700Xu 
+----------Thời Gian : 2023-08-18 23:46:02--------
+- Name : cccccj
+- Tên Giao Dịch : Luyện Bí Kíp
+- Xu Cũ : 10918500
+- Xu Mới : 9918500
+- Xu Thay Đổi :-1000000Xu 
+----------Thời Gian : 2023-08-18 23:46:04--------
+- Name : juliet
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 160362700
+- Xu Mới : 159362700
+- Xu Thay Đổi :159362700Xu 
+----------Thời Gian : 2023-08-18 23:46:13--------
+- Name : cccccj
+- Tên Giao Dịch : Luyện Bí Kíp
+- Xu Cũ : 9918500
+- Xu Mới : 8918500
+- Xu Thay Đổi :-1000000Xu 
+----------Thời Gian : 2023-08-18 23:46:19--------
+- Name : juliet
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 159362700
+- Xu Mới : 158362700
+- Xu Thay Đổi :158362700Xu 
+----------Thời Gian : 2023-08-18 23:46:20--------
+- Name : cccccj
+- Tên Giao Dịch : Luyện Bí Kíp
+- Xu Cũ : 8918500
+- Xu Mới : 7918500
+- Xu Thay Đổi :-1000000Xu 
+----------Thời Gian : 2023-08-18 23:46:26--------
+- Name : cccccj
+- Tên Giao Dịch : Luyện Bí Kíp
+- Xu Cũ : 7918500
+- Xu Mới : 6918500
+- Xu Thay Đổi :-1000000Xu 
+----------Thời Gian : 2023-08-18 23:46:31--------
+- Name : juliet
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 158362700
+- Xu Mới : 157362700
+- Xu Thay Đổi :157362700Xu 
+----------Thời Gian : 2023-08-18 23:46:36--------
+- Name : cccccj
+- Tên Giao Dịch : Luyện Bí Kíp
+- Xu Cũ : 6918500
+- Xu Mới : 5918500
+- Xu Thay Đổi :-1000000Xu 
+----------Thời Gian : 2023-08-18 23:46:43--------
+- Name : juliet
+- Tên Giao Dịch : Luyện Ấn
+- Xu Cũ : 157362700
+- Xu Mới : 156362700
+- Xu Thay Đổi :156362700Xu 
+----------Thời Gian : 2023-08-18 23:46:44--------
+- Name : cccccj
+- Tên Giao Dịch : Luyện Bí Kíp
+- Xu Cũ : 5918500
+- Xu Mới : 4918500
+- Xu Thay Đổi :-1000000Xu 
+----------Thời Gian : 2023-08-18 23:46:57--------
+- Name : cccccj
+- Tên Giao Dịch : Luyện Bí Kíp
+- Xu Cũ : 4918500
+- Xu Mới : 3918500
+- Xu Thay Đổi :-1000000Xu 
+----------Thời Gian : 2023-08-18 23:47:06--------
+- Name : cccccj
+- Tên Giao Dịch : Luyện Bí Kíp
+- Xu Cũ : 3918500
+- Xu Mới : 2918500
+- Xu Thay Đổi :-1000000Xu 
+----------Thời Gian : 2023-08-18 23:47:06--------
+- Name : juliet
+- Tên Giao Dịch : Thăng Ấn
+- Xu Cũ : 156362700
+- Xu Mới : 156262700
+- Xu Thay Đổi :-100000Xu 
+----------Thời Gian : 2023-08-18 23:47:13--------
+- Name : cccccj
+- Tên Giao Dịch : Luyện Bí Kíp
+- Xu Cũ : 2918500
+- Xu Mới : 1918500
+- Xu Thay Đổi :-1000000Xu 
+----------Thời Gian : 2023-08-18 23:47:21--------
+- Name : cccccj
+- Tên Giao Dịch : Luyện Bí Kíp
+- Xu Cũ : 1918500
+- Xu Mới : 918500
+- Xu Thay Đổi :-1000000Xu 
+----------Thời Gian : 2023-08-18 23:48:52--------
+- Name : bapxaome
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 23:51:22--------
+- Name : cccccj
+- Tên Giao Dịch : Nâng Cấp Bí Kíp
+- Xu Cũ : 56918500
+- Xu Mới : 56818500
+- Xu Thay Đổi :-100000Xu 
+----------Thời Gian : 2023-08-18 23:51:44--------
+- Name : popopu
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 
+----------Thời Gian : 2023-08-18 23:52:11--------
+- Name : teemo
+- Tên Giao Dịch : Nâng Cấp Bí Kíp
+- Xu Cũ : 20010000
+- Xu Mới : 19910000
+- Xu Thay Đổi :-100000Xu 
+----------Thời Gian : 2023-08-18 23:53:54--------
+- Name : caveee
+- Tên Giao Dịch : Nhận quà tân thủ
+- Xu Cũ : 0
+- Xu Mới : 1000000
+- Xu Thay Đổi :1000000Xu 

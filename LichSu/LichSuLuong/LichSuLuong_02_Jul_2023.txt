@@ -1,0 +1,12 @@
+----------Thời Gian : 2023-07-02 22:46:46--------
+- Name : admin
+- Tên Giao Dịch : Nhận thưởng thăng cấp
+- Lượng Cũ : 0
+- Lượng Mới : 3000
+- Lượng Thay Đổi :3000 Lượng 
+----------Thời Gian : 2023-07-02 23:41:27--------
+- Name : admin
+- Tên Giao Dịch :  Đổi 1000 coin ra lượng 
+- Lượng Cũ : 1500
+- Lượng Mới : 2500
+- Lượng Thay Đổi :1000 Lượng 

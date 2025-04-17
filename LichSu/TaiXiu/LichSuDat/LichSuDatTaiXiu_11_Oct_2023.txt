@@ -1,0 +1,744 @@
+----------Thời Gian : 2023-10-11 04:47:24--------
+- Name : onehitcmnr
+- Nội Dung : Đặt Tài
+- Xu Cũ : 10000000
+- Xu Mới : 0
+- Xu Thay Đổi : -10000000
+----------Thời Gian : 2023-10-11 05:52:01--------
+- Name : anhdaybg99
+- Nội Dung : Đặt Tài
+- Xu Cũ : 400000836
+- Xu Mới : 300000836
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-11 05:52:29--------
+- Name : thientinhzz
+- Nội Dung : Đặt Tài
+- Xu Cũ : 200000001
+- Xu Mới : 100000001
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-11 05:53:31--------
+- Name : thientinhzz
+- Nội Dung : Đặt Tài
+- Xu Cũ : 280000001
+- Xu Mới : 200000001
+- Xu Thay Đổi : -80000000
+----------Thời Gian : 2023-10-11 05:53:40--------
+- Name : anhdaybg99
+- Nội Dung : Đặt Tài
+- Xu Cũ : 280000836
+- Xu Mới : 200000836
+- Xu Thay Đổi : -80000000
+----------Thời Gian : 2023-10-11 05:54:52--------
+- Name : thientinhzz
+- Nội Dung : Đặt Tài
+- Xu Cũ : 344000001
+- Xu Mới : 300000001
+- Xu Thay Đổi : -44000000
+----------Thời Gian : 2023-10-11 05:55:01--------
+- Name : anhdaybg99
+- Nội Dung : Đặt Tài
+- Xu Cũ : 344000836
+- Xu Mới : 300000836
+- Xu Thay Đổi : -44000000
+----------Thời Gian : 2023-10-11 05:56:06--------
+- Name : thientinhzz
+- Nội Dung : Đặt Tài
+- Xu Cũ : 379200001
+- Xu Mới : 350000001
+- Xu Thay Đổi : -29200000
+----------Thời Gian : 2023-10-11 05:56:17--------
+- Name : anhdaybg99
+- Nội Dung : Đặt Tài
+- Xu Cũ : 379200836
+- Xu Mới : 350000836
+- Xu Thay Đổi : -29200000
+----------Thời Gian : 2023-10-11 05:57:46--------
+- Name : vodanhkiem
+- Nội Dung : Đặt Tài
+- Xu Cũ : 380000000
+- Xu Mới : 280000000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-11 05:58:09--------
+- Name : thientinhzz
+- Nội Dung : Đặt Tài
+- Xu Cũ : 350000001
+- Xu Mới : 300000001
+- Xu Thay Đổi : -50000000
+----------Thời Gian : 2023-10-11 05:58:17--------
+- Name : anhdaybg99
+- Nội Dung : Đặt Tài
+- Xu Cũ : 350000836
+- Xu Mới : 300000836
+- Xu Thay Đổi : -50000000
+----------Thời Gian : 2023-10-11 05:59:14--------
+- Name : anhdaybg99
+- Nội Dung : Đặt Tài
+- Xu Cũ : 390000836
+- Xu Mới : 300000836
+- Xu Thay Đổi : -90000000
+----------Thời Gian : 2023-10-11 05:59:23--------
+- Name : thientinhzz
+- Nội Dung : Đặt Tài
+- Xu Cũ : 390000001
+- Xu Mới : 300000001
+- Xu Thay Đổi : -90000000
+----------Thời Gian : 2023-10-11 06:00:35--------
+- Name : thientinhzz
+- Nội Dung : Đặt Tài
+- Xu Cũ : 462000001
+- Xu Mới : 400000001
+- Xu Thay Đổi : -62000000
+----------Thời Gian : 2023-10-11 06:00:44--------
+- Name : anhdaybg99
+- Nội Dung : Đặt Tài
+- Xu Cũ : 462000836
+- Xu Mới : 400000836
+- Xu Thay Đổi : -62000000
+----------Thời Gian : 2023-10-11 06:02:09--------
+- Name : anhdaybg99
+- Nội Dung : Đặt Tài
+- Xu Cũ : 511600836
+- Xu Mới : 500000836
+- Xu Thay Đổi : -11600000
+----------Thời Gian : 2023-10-11 06:02:16--------
+- Name : thientinhzz
+- Nội Dung : Đặt Tài
+- Xu Cũ : 511600001
+- Xu Mới : 500000001
+- Xu Thay Đổi : -11600000
+----------Thời Gian : 2023-10-11 06:04:15--------
+- Name : thientinhzz
+- Nội Dung : Đặt Tài
+- Xu Cũ : 500000001
+- Xu Mới : 400000001
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-11 06:04:24--------
+- Name : anhdaybg99
+- Nội Dung : Đặt Tài
+- Xu Cũ : 500000836
+- Xu Mới : 400000836
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-11 06:05:33--------
+- Name : thientinhzz
+- Nội Dung : Đặt Tài
+- Xu Cũ : 400000001
+- Xu Mới : 300000001
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-11 06:05:42--------
+- Name : anhdaybg99
+- Nội Dung : Đặt Tài
+- Xu Cũ : 400000836
+- Xu Mới : 300000836
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-11 06:06:42--------
+- Name : thientinhzz
+- Nội Dung : Đặt Tài
+- Xu Cũ : 300000001
+- Xu Mới : 200000001
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-11 06:06:50--------
+- Name : anhdaybg99
+- Nội Dung : Đặt Tài
+- Xu Cũ : 300000836
+- Xu Mới : 200000836
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-11 06:08:01--------
+- Name : thientinhzz
+- Nội Dung : Đặt Tài
+- Xu Cũ : 200000001
+- Xu Mới : 100000001
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-11 06:08:08--------
+- Name : anhdaybg99
+- Nội Dung : Đặt Tài
+- Xu Cũ : 200000836
+- Xu Mới : 100000836
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-11 06:09:41--------
+- Name : thientinhzz
+- Nội Dung : Đặt Tài
+- Xu Cũ : 100000001
+- Xu Mới : 1
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-11 06:09:50--------
+- Name : anhdaybg99
+- Nội Dung : Đặt Tài
+- Xu Cũ : 100000836
+- Xu Mới : 836
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-11 06:10:47--------
+- Name : thientinhzz
+- Nội Dung : Đặt Tài
+- Xu Cũ : 180000001
+- Xu Mới : 80000001
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-11 06:10:55--------
+- Name : anhdaybg99
+- Nội Dung : Đặt Tài
+- Xu Cũ : 180000836
+- Xu Mới : 80000836
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-11 06:11:57--------
+- Name : thientinhzz
+- Nội Dung : Đặt Tài
+- Xu Cũ : 260000001
+- Xu Mới : 160000001
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-11 06:12:06--------
+- Name : anhdaybg99
+- Nội Dung : Đặt Tài
+- Xu Cũ : 260000836
+- Xu Mới : 160000836
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-11 06:13:57--------
+- Name : thientinhzz
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 160000001
+- Xu Mới : 60000001
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-11 06:14:06--------
+- Name : anhdaybg99
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 160000836
+- Xu Mới : 60000836
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-11 06:15:26--------
+- Name : anhdaybg99
+- Nội Dung : Đặt Tài
+- Xu Cũ : 240000836
+- Xu Mới : 140000836
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-11 06:15:37--------
+- Name : thientinhzz
+- Nội Dung : Đặt Tài
+- Xu Cũ : 240000001
+- Xu Mới : 140000001
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-11 06:17:04--------
+- Name : thientinhzz
+- Nội Dung : Đặt Tài
+- Xu Cũ : 140000001
+- Xu Mới : 40000001
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-11 06:17:14--------
+- Name : anhdaybg99
+- Nội Dung : Đặt Tài
+- Xu Cũ : 140000836
+- Xu Mới : 40000836
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-11 06:18:16--------
+- Name : anhdaybg99
+- Nội Dung : Đặt Tài
+- Xu Cũ : 40000836
+- Xu Mới : 836
+- Xu Thay Đổi : -40000000
+----------Thời Gian : 2023-10-11 06:18:29--------
+- Name : thientinhzz
+- Nội Dung : Đặt Tài
+- Xu Cũ : 40000001
+- Xu Mới : 1
+- Xu Thay Đổi : -40000000
+----------Thời Gian : 2023-10-11 06:23:12--------
+- Name : laohoanchay
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1352000
+- Xu Mới : 1252000
+- Xu Thay Đổi : -100000
+----------Thời Gian : 2023-10-11 07:46:37--------
+- Name : badaobg99x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 39949991
+- Xu Mới : 949991
+- Xu Thay Đổi : -39000000
+----------Thời Gian : 2023-10-11 11:02:27--------
+- Name : bae1209
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 103248999
+- Xu Mới : 103198999
+- Xu Thay Đổi : -50000
+----------Thời Gian : 2023-10-11 15:58:06--------
+- Name : quatcave
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 374817974
+- Xu Mới : 324817974
+- Xu Thay Đổi : -50000000
+----------Thời Gian : 2023-10-11 16:00:35--------
+- Name : quatcave
+- Nội Dung : Đặt Tài
+- Xu Cũ : 414817974
+- Xu Mới : 374817974
+- Xu Thay Đổi : -40000000
+----------Thời Gian : 2023-10-11 16:02:15--------
+- Name : quatcave
+- Nội Dung : Đặt Tài
+- Xu Cũ : 446817974
+- Xu Mới : 406817974
+- Xu Thay Đổi : -40000000
+----------Thời Gian : 2023-10-11 16:04:07--------
+- Name : quatcave
+- Nội Dung : Đặt Tài
+- Xu Cũ : 478817974
+- Xu Mới : 438817974
+- Xu Thay Đổi : -40000000
+----------Thời Gian : 2023-10-11 16:05:26--------
+- Name : quatcave
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 438817974
+- Xu Mới : 338817974
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-11 16:05:49--------
+- Name : kyninhso1
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 100390000
+- Xu Mới : 390000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-11 16:06:13--------
+- Name : hatinhso1
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 45000000
+- Xu Mới : 0
+- Xu Thay Đổi : -45000000
+----------Thời Gian : 2023-10-11 16:07:13--------
+- Name : quatcave
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 518817974
+- Xu Mới : 478817974
+- Xu Thay Đổi : -40000000
+----------Thời Gian : 2023-10-11 16:08:48--------
+- Name : quatcave
+- Nội Dung : Đặt Tài
+- Xu Cũ : 478817974
+- Xu Mới : 378817974
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-11 16:09:08--------
+- Name : hatinhso1
+- Nội Dung : Đặt Tài
+- Xu Cũ : 81000000
+- Xu Mới : 0
+- Xu Thay Đổi : -81000000
+----------Thời Gian : 2023-10-11 16:09:36--------
+- Name : kyninhso1
+- Nội Dung : Đặt Tài
+- Xu Cũ : 180390000
+- Xu Mới : 80390000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-11 16:10:34--------
+- Name : quatcave
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 558817974
+- Xu Mới : 518817974
+- Xu Thay Đổi : -40000000
+----------Thời Gian : 2023-10-11 16:12:48--------
+- Name : quatcave
+- Nội Dung : Đặt Tài
+- Xu Cũ : 518817974
+- Xu Mới : 452817974
+- Xu Thay Đổi : -66000000
+----------Thời Gian : 2023-10-11 16:14:03--------
+- Name : quatcave
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 452817974
+- Xu Mới : 352817974
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-11 16:14:16--------
+- Name : kyninhso1
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 260390000
+- Xu Mới : 160390000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-11 16:14:33--------
+- Name : hatinhso1
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 145800000
+- Xu Mới : 45800000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-11 16:16:05--------
+- Name : quatcave
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 202817974
+- Xu Mới : 102817974
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-11 16:16:20--------
+- Name : hatinhso1
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 195800000
+- Xu Mới : 95800000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-11 16:16:33--------
+- Name : kyninhso1
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 160390000
+- Xu Mới : 60390000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-11 16:17:59--------
+- Name : hatinhso1
+- Nội Dung : Đặt Tài
+- Xu Cũ : 275800000
+- Xu Mới : 175800000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-11 16:18:13--------
+- Name : quatcave
+- Nội Dung : Đặt Tài
+- Xu Cũ : 282817974
+- Xu Mới : 182817974
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-11 16:18:25--------
+- Name : kyninhso1
+- Nội Dung : Đặt Tài
+- Xu Cũ : 240390000
+- Xu Mới : 140390000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-11 16:19:32--------
+- Name : hatinhso1
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 175800000
+- Xu Mới : 75800000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-11 16:19:45--------
+- Name : quatcave
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 182817974
+- Xu Mới : 82817974
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-11 16:19:56--------
+- Name : kyninhso1
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 140390000
+- Xu Mới : 40390000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-11 16:22:47--------
+- Name : hatinhso1
+- Nội Dung : Đặt Tài
+- Xu Cũ : 116190000
+- Xu Mới : 16190000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-11 16:23:15--------
+- Name : quatcave
+- Nội Dung : Đặt Tài
+- Xu Cũ : 82817974
+- Xu Mới : 7817974
+- Xu Thay Đổi : -75000000
+----------Thời Gian : 2023-10-11 16:25:08--------
+- Name : hatinhso1
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 196190000
+- Xu Mới : 96190000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-11 16:25:22--------
+- Name : quatcave
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 142817974
+- Xu Mới : 42817974
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-11 16:26:31--------
+- Name : quatcave
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 42817974
+- Xu Mới : 817974
+- Xu Thay Đổi : -42000000
+----------Thời Gian : 2023-10-11 16:26:53--------
+- Name : hatinhso1
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 96190000
+- Xu Mới : 190000
+- Xu Thay Đổi : -96000000
+----------Thời Gian : 2023-10-11 16:28:01--------
+- Name : quatcave
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 76417974
+- Xu Mới : 417974
+- Xu Thay Đổi : -76000000
+----------Thời Gian : 2023-10-11 16:28:17--------
+- Name : hatinhso1
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 172990000
+- Xu Mới : 72990000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-11 18:01:09--------
+- Name : vodanhkiem
+- Nội Dung : Đặt Tài
+- Xu Cũ : 395000000
+- Xu Mới : 295000000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-11 18:03:14--------
+- Name : vodanhkiem
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 454750000
+- Xu Mới : 400000000
+- Xu Thay Đổi : -54750000
+----------Thời Gian : 2023-10-11 18:04:57--------
+- Name : hatinhso1
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 63990000
+- Xu Mới : 0
+- Xu Thay Đổi : -63990000
+----------Thời Gian : 2023-10-11 18:25:51--------
+- Name : vodanhkiem
+- Nội Dung : Đặt Tài
+- Xu Cũ : 400000000
+- Xu Mới : 300000000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-11 20:00:55--------
+- Name : hatinhso1
+- Nội Dung : Đặt Tài
+- Xu Cũ : 218873587
+- Xu Mới : 118873587
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-11 20:05:16--------
+- Name : hatinhso1
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 207973595
+- Xu Mới : 107973595
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-11 20:06:00--------
+- Name : quatcave
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 100417974
+- Xu Mới : 417974
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-11 20:07:55--------
+- Name : hatinhso1
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 187973595
+- Xu Mới : 87973595
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-11 20:08:10--------
+- Name : quatcave
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 130417974
+- Xu Mới : 30417974
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-11 20:13:24--------
+- Name : hatinhso1
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 393926885
+- Xu Mới : 350926885
+- Xu Thay Đổi : -43000000
+----------Thời Gian : 2023-10-11 20:16:08--------
+- Name : quatcave
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 216019657
+- Xu Mới : 166019657
+- Xu Thay Đổi : -50000000
+----------Thời Gian : 2023-10-11 20:17:35--------
+- Name : quatcave
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 256019657
+- Xu Mới : 206019657
+- Xu Thay Đổi : -50000000
+----------Thời Gian : 2023-10-11 20:19:16--------
+- Name : quatcave
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 296019657
+- Xu Mới : 230019657
+- Xu Thay Đổi : -66000000
+----------Thời Gian : 2023-10-11 20:20:38--------
+- Name : hatinhso1
+- Nội Dung : Đặt Tài
+- Xu Cũ : 417000324
+- Xu Mới : 317000324
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-11 20:20:52--------
+- Name : quatcave
+- Nội Dung : Đặt Tài
+- Xu Cũ : 230019657
+- Xu Mới : 130019657
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-11 20:21:40--------
+- Name : trumkunai4x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 100000099
+- Xu Mới : 99
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-11 20:21:58--------
+- Name : hatinhso1
+- Nội Dung : Đặt Tài
+- Xu Cũ : 217000324
+- Xu Mới : 117000324
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-11 20:22:04--------
+- Name : sincuto
+- Nội Dung : Đặt Tài
+- Xu Cũ : 683000
+- Xu Mới : 183000
+- Xu Thay Đổi : -500000
+----------Thời Gian : 2023-10-11 20:23:24--------
+- Name : sincuto
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1083000
+- Xu Mới : 583000
+- Xu Thay Đổi : -500000
+----------Thời Gian : 2023-10-11 20:23:49--------
+- Name : quatcave
+- Nội Dung : Đặt Tài
+- Xu Cũ : 130019657
+- Xu Mới : 100019657
+- Xu Thay Đổi : -30000000
+----------Thời Gian : 2023-10-11 20:24:09--------
+- Name : trumkunai4x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 180000099
+- Xu Mới : 80000099
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-11 20:24:39--------
+- Name : sincuto
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1483000
+- Xu Mới : 1000000
+- Xu Thay Đổi : -483000
+----------Thời Gian : 2023-10-11 20:25:06--------
+- Name : quatcave
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 100019657
+- Xu Mới : 19657
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-11 20:25:22--------
+- Name : hatinhso1
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 297000324
+- Xu Mới : 197000324
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-11 20:25:53--------
+- Name : trumkunai4x
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 80000099
+- Xu Mới : 99
+- Xu Thay Đổi : -80000000
+----------Thời Gian : 2023-10-11 20:26:05--------
+- Name : hatinhso1
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 197000324
+- Xu Mới : 97000324
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-11 20:26:08--------
+- Name : sincuto
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1869400
+- Xu Mới : 1000400
+- Xu Thay Đổi : -869000
+----------Thời Gian : 2023-10-11 20:27:10--------
+- Name : sincuto
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1000400
+- Xu Mới : 400
+- Xu Thay Đổi : -1000000
+----------Thời Gian : 2023-10-11 20:27:13--------
+- Name : hatinhso1
+- Nội Dung : Đặt Tài
+- Xu Cũ : 180000324
+- Xu Mới : 80000324
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-11 20:27:27--------
+- Name : trumkunai4x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 144000099
+- Xu Mới : 44000099
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-11 20:27:39--------
+- Name : quatcave
+- Nội Dung : Đặt Tài
+- Xu Cũ : 97019657
+- Xu Mới : 19657
+- Xu Thay Đổi : -97000000
+----------Thời Gian : 2023-10-11 20:28:39--------
+- Name : hatinhso1
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 80000324
+- Xu Mới : 324
+- Xu Thay Đổi : -80000000
+----------Thời Gian : 2023-10-11 20:28:52--------
+- Name : trumkunai4x
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 44000099
+- Xu Mới : 99
+- Xu Thay Đổi : -44000000
+----------Thời Gian : 2023-10-11 20:29:57--------
+- Name : hatinhso1
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 144000324
+- Xu Mới : 44000324
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-11 20:30:37--------
+- Name : trumkunai4x
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 79200099
+- Xu Mới : 200099
+- Xu Thay Đổi : -79000000
+----------Thời Gian : 2023-10-11 20:31:19--------
+- Name : hatinhso1
+- Nội Dung : Đặt Tài
+- Xu Cũ : 44000324
+- Xu Mới : 324
+- Xu Thay Đổi : -44000000
+----------Thời Gian : 2023-10-11 21:50:54--------
+- Name : vodanhkiem
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 430000000
+- Xu Mới : 330000000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-11 21:52:24--------
+- Name : vodanhkiem
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 510000000
+- Xu Mới : 500000000
+- Xu Thay Đổi : -10000000
+----------Thời Gian : 2023-10-11 21:54:49--------
+- Name : vodanhkiem
+- Nội Dung : Đặt Tài
+- Xu Cũ : 500000000
+- Xu Mới : 400000000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-11 21:56:43--------
+- Name : vodanhkiem
+- Nội Dung : Đặt Tài
+- Xu Cũ : 350000000
+- Xu Mới : 250000000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-11 21:59:09--------
+- Name : vodanhkiem
+- Nội Dung : Đặt Tài
+- Xu Cũ : 200000000
+- Xu Mới : 100000000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-11 22:04:36--------
+- Name : vodanhkiem
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 103500000
+- Xu Mới : 3500000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-11 22:06:08--------
+- Name : vodanhkiem
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 329944000
+- Xu Mới : 300000000
+- Xu Thay Đổi : -29944000
+----------Thời Gian : 2023-10-11 22:07:41--------
+- Name : vodanhkiem
+- Nội Dung : Đặt Tài
+- Xu Cũ : 53899200
+- Xu Mới : 0
+- Xu Thay Đổi : -53899200
+----------Thời Gian : 2023-10-11 22:12:26--------
+- Name : vodanhkiem
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 450000000
+- Xu Mới : 350000000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-11 22:14:34--------
+- Name : vodanhkiem
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 530000000
+- Xu Mới : 430000000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-11 22:17:32--------
+- Name : vodanhkiem
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 785910105
+- Xu Mới : 750000005
+- Xu Thay Đổi : -35910100
+----------Thời Gian : 2023-10-11 22:24:48--------
+- Name : vodanhkiem
+- Nội Dung : Đặt Tài
+- Xu Cũ : 150000005
+- Xu Mới : 50000005
+- Xu Thay Đổi : -100000000

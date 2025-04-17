@@ -1,0 +1,546 @@
+----------Thời Gian : 2023-07-12 07:26:31--------
+- Name : phich
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 0
+- Xu Mới : 1800000
+- Xu Thay Đổi : 1800000
+----------Thời Gian : 2023-07-12 07:29:42--------
+- Name : phich
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 1500000
+- Xu Mới : 2040000
+- Xu Thay Đổi : 540000
+----------Thời Gian : 2023-07-12 07:39:18--------
+- Name : phich
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 1000000
+- Xu Mới : 1900000
+- Xu Thay Đổi : 900000
+----------Thời Gian : 2023-07-12 08:03:48--------
+- Name : aaaa1
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 0
+- Xu Mới : 1800000
+- Xu Thay Đổi : 1800000
+----------Thời Gian : 2023-07-12 09:39:07--------
+- Name : vipp1
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 0
+- Xu Mới : 1800000
+- Xu Thay Đổi : 1800000
+----------Thời Gian : 2023-07-12 09:39:07--------
+- Name : vipab
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 0
+- Xu Mới : 1800000
+- Xu Thay Đổi : 1800000
+----------Thời Gian : 2023-07-12 09:40:23--------
+- Name : lllylll
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 830381716
+- Xu Mới : 1010381716
+- Xu Thay Đổi : 180000000
+----------Thời Gian : 2023-07-12 09:41:42--------
+- Name : vipnhaa1
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 0
+- Xu Mới : 1800000
+- Xu Thay Đổi : 1800000
+----------Thời Gian : 2023-07-12 09:41:42--------
+- Name : vipab
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 0
+- Xu Mới : 2916000
+- Xu Thay Đổi : 2916000
+----------Thời Gian : 2023-07-12 09:41:42--------
+- Name : vipp1
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 0
+- Xu Mới : 3240000
+- Xu Thay Đổi : 3240000
+----------Thời Gian : 2023-07-12 09:43:10--------
+- Name : lllylll
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 810381716
+- Xu Mới : 990381716
+- Xu Thay Đổi : 180000000
+----------Thời Gian : 2023-07-12 09:43:10--------
+- Name : vipnhaa1
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 0
+- Xu Mới : 3240000
+- Xu Thay Đổi : 3240000
+----------Thời Gian : 2023-07-12 09:45:06--------
+- Name : vipp2
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 0
+- Xu Mới : 1800000
+- Xu Thay Đổi : 1800000
+----------Thời Gian : 2023-07-12 09:45:06--------
+- Name : vipnhaa1
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 0
+- Xu Mới : 5832000
+- Xu Thay Đổi : 5832000
+----------Thời Gian : 2023-07-12 09:46:22--------
+- Name : lllylll
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 790381716
+- Xu Mới : 970381716
+- Xu Thay Đổi : 180000000
+----------Thời Gian : 2023-07-12 09:47:37--------
+- Name : lllylll
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 870381716
+- Xu Mới : 1050381716
+- Xu Thay Đổi : 180000000
+----------Thời Gian : 2023-07-12 09:49:01--------
+- Name : vipab2
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 0
+- Xu Mới : 1800000
+- Xu Thay Đổi : 1800000
+----------Thời Gian : 2023-07-12 09:50:30--------
+- Name : vipab2
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 0
+- Xu Mới : 3240000
+- Xu Thay Đổi : 3240000
+----------Thời Gian : 2023-07-12 09:50:30--------
+- Name : vippa0
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 0
+- Xu Mới : 1800000
+- Xu Thay Đổi : 1800000
+----------Thời Gian : 2023-07-12 09:51:55--------
+- Name : vippa0
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 0
+- Xu Mới : 3240000
+- Xu Thay Đổi : 3240000
+----------Thời Gian : 2023-07-12 09:51:55--------
+- Name : vipab2
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 0
+- Xu Mới : 5832000
+- Xu Thay Đổi : 5832000
+----------Thời Gian : 2023-07-12 09:53:00--------
+- Name : vipnhaa2
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 0
+- Xu Mới : 1800000
+- Xu Thay Đổi : 1800000
+----------Thời Gian : 2023-07-12 09:53:00--------
+- Name : vipab2
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 2000
+- Xu Mới : 10496000
+- Xu Thay Đổi : 10494000
+----------Thời Gian : 2023-07-12 09:54:39--------
+- Name : lllylll
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 450381716
+- Xu Mới : 630381716
+- Xu Thay Đổi : 180000000
+----------Thời Gian : 2023-07-12 09:56:01--------
+- Name : lllylll
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 530381716
+- Xu Mới : 710381716
+- Xu Thay Đổi : 180000000
+----------Thời Gian : 2023-07-12 09:57:27--------
+- Name : vippaa1
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 0
+- Xu Mới : 1800000
+- Xu Thay Đổi : 1800000
+----------Thời Gian : 2023-07-12 09:57:27--------
+- Name : vipoo
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 0
+- Xu Mới : 1800000
+- Xu Thay Đổi : 1800000
+----------Thời Gian : 2023-07-12 09:58:49--------
+- Name : lllylll
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 510281716
+- Xu Mới : 690281716
+- Xu Thay Đổi : 180000000
+----------Thời Gian : 2023-07-12 10:00:00--------
+- Name : lllylll
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 590281716
+- Xu Mới : 770281716
+- Xu Thay Đổi : 180000000
+----------Thời Gian : 2023-07-12 10:01:12--------
+- Name : lllylll
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 670181716
+- Xu Mới : 850181716
+- Xu Thay Đổi : 180000000
+----------Thời Gian : 2023-07-12 10:02:45--------
+- Name : lllylll
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 750539009
+- Xu Mới : 930539009
+- Xu Thay Đổi : 180000000
+----------Thời Gian : 2023-07-12 10:04:14--------
+- Name : lllylll
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 830539009
+- Xu Mới : 1010539009
+- Xu Thay Đổi : 180000000
+----------Thời Gian : 2023-07-12 10:20:30--------
+- Name : kkklkkk
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 4517900
+- Xu Mới : 148517900
+- Xu Thay Đổi : 144000000
+----------Thời Gian : 2023-07-12 12:22:04--------
+- Name : onhitbai
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 43845
+- Xu Mới : 79845
+- Xu Thay Đổi : 36000
+----------Thời Gian : 2023-07-12 12:24:57--------
+- Name : onhitbai
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 69845
+- Xu Mới : 87845
+- Xu Thay Đổi : 18000
+----------Thời Gian : 2023-07-12 12:28:07--------
+- Name : onhitbai
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 47845
+- Xu Mới : 101845
+- Xu Thay Đổi : 54000
+----------Thời Gian : 2023-07-12 12:33:21--------
+- Name : onhitbai
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 1845
+- Xu Mới : 127845
+- Xu Thay Đổi : 126000
+----------Thời Gian : 2023-07-12 12:35:06--------
+- Name : onhitbai
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 101845
+- Xu Mới : 148645
+- Xu Thay Đổi : 46800
+----------Thời Gian : 2023-07-12 15:59:12--------
+- Name : lllylll
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 904588809
+- Xu Mới : 1084588809
+- Xu Thay Đổi : 180000000
+----------Thời Gian : 2023-07-12 16:11:22--------
+- Name : lllylll
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 984588809
+- Xu Mới : 1164588809
+- Xu Thay Đổi : 180000000
+----------Thời Gian : 2023-07-12 16:14:25--------
+- Name : lllylll
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 964588809
+- Xu Mới : 1144588809
+- Xu Thay Đổi : 180000000
+----------Thời Gian : 2023-07-12 16:19:52--------
+- Name : lllylll
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 744388809
+- Xu Mới : 924388809
+- Xu Thay Đổi : 180000000
+----------Thời Gian : 2023-07-12 16:21:06--------
+- Name : lllylll
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 824288809
+- Xu Mới : 1004288809
+- Xu Thay Đổi : 180000000
+----------Thời Gian : 2023-07-12 16:22:41--------
+- Name : lllylll
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 904288809
+- Xu Mới : 1084288809
+- Xu Thay Đổi : 180000000
+----------Thời Gian : 2023-07-12 16:24:09--------
+- Name : sunwin
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 100000
+- Xu Mới : 208000
+- Xu Thay Đổi : 108000
+----------Thời Gian : 2023-07-12 16:26:52--------
+- Name : sunwin
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 8000
+- Xu Mới : 188000
+- Xu Thay Đổi : 180000
+----------Thời Gian : 2023-07-12 16:26:52--------
+- Name : lllylll
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 800994685
+- Xu Mới : 980994685
+- Xu Thay Đổi : 180000000
+----------Thời Gian : 2023-07-12 16:28:02--------
+- Name : sunwin
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 88000
+- Xu Mới : 268000
+- Xu Thay Đổi : 180000
+----------Thời Gian : 2023-07-12 16:28:02--------
+- Name : lllylll
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 880894685
+- Xu Mới : 1060894685
+- Xu Thay Đổi : 180000000
+----------Thời Gian : 2023-07-12 16:29:19--------
+- Name : sunwin
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 213000
+- Xu Mới : 303000
+- Xu Thay Đổi : 90000
+----------Thời Gian : 2023-07-12 16:30:35--------
+- Name : lllylll
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 861456541
+- Xu Mới : 1041456541
+- Xu Thay Đổi : 180000000
+----------Thời Gian : 2023-07-12 16:31:56--------
+- Name : lllylll
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 941456541
+- Xu Mới : 1121456541
+- Xu Thay Đổi : 180000000
+----------Thời Gian : 2023-07-12 16:31:56--------
+- Name : sunwin
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 103000
+- Xu Mới : 283000
+- Xu Thay Đổi : 180000
+----------Thời Gian : 2023-07-12 16:33:06--------
+- Name : tieupro
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 0
+- Xu Mới : 1800000
+- Xu Thay Đổi : 1800000
+----------Thời Gian : 2023-07-12 16:34:27--------
+- Name : lllylll
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 921456541
+- Xu Mới : 1101456541
+- Xu Thay Đổi : 180000000
+----------Thời Gian : 2023-07-12 16:34:27--------
+- Name : tieupro
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 1500000
+- Xu Mới : 2040000
+- Xu Thay Đổi : 540000
+----------Thời Gian : 2023-07-12 16:37:22--------
+- Name : tieupro
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 40000
+- Xu Mới : 2740000
+- Xu Thay Đổi : 2700000
+----------Thời Gian : 2023-07-12 16:37:22--------
+- Name : lllylll
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 901456541
+- Xu Mới : 1081456541
+- Xu Thay Đổi : 180000000
+----------Thời Gian : 2023-07-12 16:39:21--------
+- Name : tieupro
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 2240000
+- Xu Mới : 3140000
+- Xu Thay Đổi : 900000
+----------Thời Gian : 2023-07-12 16:40:33--------
+- Name : sunwin
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 1157516
+- Xu Mới : 2957516
+- Xu Thay Đổi : 1800000
+----------Thời Gian : 2023-07-12 16:40:33--------
+- Name : lllylll
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 979000025
+- Xu Mới : 1159000025
+- Xu Thay Đổi : 180000000
+----------Thời Gian : 2023-07-12 16:40:33--------
+- Name : tieupro
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 2640000
+- Xu Mới : 3540000
+- Xu Thay Đổi : 900000
+----------Thời Gian : 2023-07-12 16:43:29--------
+- Name : tieupro
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 2740000
+- Xu Mới : 3640000
+- Xu Thay Đổi : 900000
+----------Thời Gian : 2023-07-12 16:44:40--------
+- Name : lllylll
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 1049000025
+- Xu Mới : 1067000025
+- Xu Thay Đổi : 18000000
+----------Thời Gian : 2023-07-12 16:44:40--------
+- Name : tieupro
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 40000
+- Xu Mới : 6520000
+- Xu Thay Đổi : 6480000
+----------Thời Gian : 2023-07-12 16:45:55--------
+- Name : sunwin
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 7516
+- Xu Mới : 1807516
+- Xu Thay Đổi : 1800000
+----------Thời Gian : 2023-07-12 16:45:55--------
+- Name : lllylll
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 1057000025
+- Xu Mới : 1075000025
+- Xu Thay Đổi : 18000000
+----------Thời Gian : 2023-07-12 16:45:55--------
+- Name : tieupro
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 520000
+- Xu Mới : 11320000
+- Xu Thay Đổi : 10800000
+----------Thời Gian : 2023-07-12 16:47:42--------
+- Name : tieupro
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 9320000
+- Xu Mới : 12920000
+- Xu Thay Đổi : 3600000
+----------Thời Gian : 2023-07-12 16:49:01--------
+- Name : sunwin
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 7516
+- Xu Mới : 1447516
+- Xu Thay Đổi : 1440000
+----------Thời Gian : 2023-07-12 16:49:01--------
+- Name : tieupro
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 12420000
+- Xu Mới : 13320000
+- Xu Thay Đổi : 900000
+----------Thời Gian : 2023-07-12 16:52:28--------
+- Name : lllylll
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 840000025
+- Xu Mới : 858000025
+- Xu Thay Đổi : 18000000
+----------Thời Gian : 2023-07-12 16:52:28--------
+- Name : sunwin
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 3047516
+- Xu Mới : 8447516
+- Xu Thay Đổi : 5400000
+----------Thời Gian : 2023-07-12 16:52:28--------
+- Name : tieupro
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 120000
+- Xu Mới : 2280000
+- Xu Thay Đổi : 2160000
+----------Thời Gian : 2023-07-12 16:52:28--------
+- Name : yonken
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 1534000
+- Xu Mới : 1624000
+- Xu Thay Đổi : 90000
+----------Thời Gian : 2023-07-12 16:53:46--------
+- Name : tieupro
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 80000
+- Xu Mới : 4040000
+- Xu Thay Đổi : 3960000
+----------Thời Gian : 2023-07-12 16:55:05--------
+- Name : lllylll
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 748000025
+- Xu Mới : 766000025
+- Xu Thay Đổi : 18000000
+----------Thời Gian : 2023-07-12 16:55:05--------
+- Name : tieupro
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 40000
+- Xu Mới : 7240000
+- Xu Thay Đổi : 7200000
+----------Thời Gian : 2023-07-12 16:55:05--------
+- Name : sunwin
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 3447516
+- Xu Mới : 8847516
+- Xu Thay Đổi : 5400000
+----------Thời Gian : 2023-07-12 16:56:39--------
+- Name : lllylll
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 666000025
+- Xu Mới : 846000025
+- Xu Thay Đổi : 180000000
+----------Thời Gian : 2023-07-12 16:56:39--------
+- Name : sunwin
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 6047516
+- Xu Mới : 11087516
+- Xu Thay Đổi : 5040000
+----------Thời Gian : 2023-07-12 16:58:03--------
+- Name : lllylll
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 746000025
+- Xu Mới : 926000025
+- Xu Thay Đổi : 180000000
+----------Thời Gian : 2023-07-12 16:58:03--------
+- Name : sunwin
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 87516
+- Xu Mới : 19887516
+- Xu Thay Đổi : 19800000
+----------Thời Gian : 2023-07-12 16:59:29--------
+- Name : sunwin
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 10887516
+- Xu Mới : 27087516
+- Xu Thay Đổi : 16200000
+----------Thời Gian : 2023-07-12 17:02:42--------
+- Name : sunwin
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 20007516
+- Xu Mới : 20151516
+- Xu Thay Đổi : 144000
+----------Thời Gian : 2023-07-12 17:59:33--------
+- Name : koconemdau
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 1275000
+- Xu Mới : 1293000
+- Xu Thay Đổi : 18000
+----------Thời Gian : 2023-07-12 21:35:36--------
+- Name : onhitbai
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 124145
+- Xu Mới : 160145
+- Xu Thay Đổi : 36000
+----------Thời Gian : 2023-07-12 21:37:45--------
+- Name : onhitbai
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 135145
+- Xu Mới : 171145
+- Xu Thay Đổi : 36000
+----------Thời Gian : 2023-07-12 21:43:08--------
+- Name : onhitbai
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 20645
+- Xu Mới : 254645
+- Xu Thay Đổi : 234000
+----------Thời Gian : 2023-07-12 21:50:23--------
+- Name : evipro
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 965000
+- Xu Mới : 4565000
+- Xu Thay Đổi : 3600000
+----------Thời Gian : 2023-07-12 22:25:20--------
+- Name : zboyz2k1
+- Nội Dung : Thắng Tài Xỉu
+- Xu Cũ : 5865817
+- Xu Mới : 6225817
+- Xu Thay Đổi : 360000

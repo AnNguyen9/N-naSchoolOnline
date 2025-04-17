@@ -1,0 +1,44 @@
+----------Thời Gian : 2023-07-02 23:39:44--------
+- Name : admin
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Bí kíp Quạt
+- Số Lượng Mua : 1
+- Lượng Mua : -500
+- Xu Mua : 0
+- Lượng Cũ : 3000
+- Lượng Mới : 2500
+- Xu Cũ : 0
+- Xu Mới : 0
+----------Thời Gian : 2023-07-02 23:39:44--------
+- Name : admin
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Bí kíp Quạt
+- Số Lượng Mua : 1
+- Lượng Mua : -500
+- Xu Mua : 0
+- Lượng Cũ : 2500
+- Lượng Mới : 2000
+- Xu Cũ : 0
+- Xu Mới : 0
+----------Thời Gian : 2023-07-02 23:39:45--------
+- Name : admin
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Bí kíp Quạt
+- Số Lượng Mua : 1
+- Lượng Mua : -500
+- Xu Mua : 0
+- Lượng Cũ : 2000
+- Lượng Mới : 1500
+- Xu Cũ : 0
+- Xu Mới : 0
+----------Thời Gian : 2023-07-02 23:47:29--------
+- Name : admin
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Thần Vương Phiến
+- Số Lượng Mua : 1
+- Lượng Mua : -50
+- Xu Mua : 0
+- Lượng Cũ : 2500
+- Lượng Mới : 2450
+- Xu Cũ : 0
+- Xu Mới : 0

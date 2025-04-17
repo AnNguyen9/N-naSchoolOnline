@@ -1,0 +1,48 @@
+----------Thời Gian : 2023-07-03 00:49:32--------
+- Name : admin
+- Tên Giao Dịch : Nhận thưởng thăng cấp
+- Lượng Cũ : 2450
+- Lượng Mới : 3450
+- Lượng Thay Đổi :1000 Lượng 
+----------Thời Gian : 2023-07-03 00:49:40--------
+- Name : admin
+- Tên Giao Dịch : Nhận thưởng thăng cấp
+- Lượng Cũ : 3450
+- Lượng Mới : 5450
+- Lượng Thay Đổi :2000 Lượng 
+----------Thời Gian : 2023-07-03 14:27:48--------
+- Name : admin
+- Tên Giao Dịch : Luyện Bí Kíp
+- Lượng Cũ : 1005450
+- Lượng Mới : 1004450
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2023-07-03 14:28:04--------
+- Name : admin
+- Tên Giao Dịch : Nâng Cấp Bí Kíp
+- Lượng Cũ : 1004450
+- Lượng Mới : -100
+- Lượng Thay Đổi :-100 Lượng 
+----------Thời Gian : 2023-07-03 14:28:09--------
+- Name : admin
+- Tên Giao Dịch : Nâng Cấp Bí Kíp
+- Lượng Cũ : 1004350
+- Lượng Mới : -100
+- Lượng Thay Đổi :-100 Lượng 
+----------Thời Gian : 2023-07-03 15:13:52--------
+- Name : admin
+- Tên Giao Dịch : Điểm danh vip
+- Lượng Cũ : 1004150
+- Lượng Mới : 1014150
+- Lượng Thay Đổi :10000 Lượng 
+----------Thời Gian : 2023-07-03 17:09:17--------
+- Name : anh1a
+- Tên Giao Dịch : Nhận quà tân thủ
+- Lượng Cũ : 0
+- Lượng Mới : 50000
+- Lượng Thay Đổi :50000 Lượng 
+----------Thời Gian : 2023-07-03 18:34:46--------
+- Name : admin
+- Tên Giao Dịch : Điểm danh vip
+- Lượng Cũ : 1014150
+- Lượng Mới : 1024150
+- Lượng Thay Đổi :10000 Lượng 

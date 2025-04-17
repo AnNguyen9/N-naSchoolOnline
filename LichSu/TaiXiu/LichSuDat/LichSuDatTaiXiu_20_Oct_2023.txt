@@ -1,0 +1,930 @@
+----------Thời Gian : 2023-10-20 00:15:26--------
+- Name : imbossss
+- Nội Dung : Đặt Tài
+- Xu Cũ : 865000
+- Xu Mới : 845000
+- Xu Thay Đổi : -20000
+----------Thời Gian : 2023-10-20 00:16:52--------
+- Name : imbossss
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 881000
+- Xu Mới : 831000
+- Xu Thay Đổi : -50000
+----------Thời Gian : 2023-10-20 00:18:14--------
+- Name : imbossss
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 921000
+- Xu Mới : 821000
+- Xu Thay Đổi : -100000
+----------Thời Gian : 2023-10-20 00:19:38--------
+- Name : imbossss
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 821000
+- Xu Mới : 721000
+- Xu Thay Đổi : -100000
+----------Thời Gian : 2023-10-20 00:20:58--------
+- Name : imbossss
+- Nội Dung : Đặt Tài
+- Xu Cũ : 901000
+- Xu Mới : 801000
+- Xu Thay Đổi : -100000
+----------Thời Gian : 2023-10-20 00:22:35--------
+- Name : imbossss
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 981000
+- Xu Mới : 781000
+- Xu Thay Đổi : -200000
+----------Thời Gian : 2023-10-20 00:23:58--------
+- Name : imbossss
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 781000
+- Xu Mới : 581000
+- Xu Thay Đổi : -200000
+----------Thời Gian : 2023-10-20 00:25:26--------
+- Name : imbossss
+- Nội Dung : Đặt Tài
+- Xu Cũ : 941000
+- Xu Mới : 641000
+- Xu Thay Đổi : -300000
+----------Thời Gian : 2023-10-20 01:09:27--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1010635381
+- Xu Mới : 910635381
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-20 01:21:58--------
+- Name : anhdaybg
+- Nội Dung : Đặt Tài
+- Xu Cũ : 426000000
+- Xu Mới : 326000000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-20 01:22:15--------
+- Name : veovveo
+- Nội Dung : Đặt Tài
+- Xu Cũ : 110708385
+- Xu Mới : 80708385
+- Xu Thay Đổi : -30000000
+----------Thời Gian : 2023-10-20 01:22:24--------
+- Name : bladeveo
+- Nội Dung : Đặt Tài
+- Xu Cũ : 94330000
+- Xu Mới : 44330000
+- Xu Thay Đổi : -50000000
+----------Thời Gian : 2023-10-20 01:23:26--------
+- Name : bladeveo
+- Nội Dung : Đặt Tài
+- Xu Cũ : 44330000
+- Xu Mới : 4330000
+- Xu Thay Đổi : -40000000
+----------Thời Gian : 2023-10-20 01:23:33--------
+- Name : veovveo
+- Nội Dung : Đặt Tài
+- Xu Cũ : 80708385
+- Xu Mới : 40708385
+- Xu Thay Đổi : -40000000
+----------Thời Gian : 2023-10-20 01:24:37--------
+- Name : anhdaybg
+- Nội Dung : Đặt Tài
+- Xu Cũ : 248500000
+- Xu Mới : 148500000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-20 01:26:19--------
+- Name : anhdaybg
+- Nội Dung : Đặt Tài
+- Xu Cũ : 328500000
+- Xu Mới : 228500000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-20 01:28:18--------
+- Name : bladeveo
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 4330000
+- Xu Mới : 330000
+- Xu Thay Đổi : -4000000
+----------Thời Gian : 2023-10-20 01:28:23--------
+- Name : veovveo
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 40708385
+- Xu Mới : 708385
+- Xu Thay Đổi : -40000000
+----------Thời Gian : 2023-10-20 01:28:29--------
+- Name : anhdaybg
+- Nội Dung : Đặt Tài
+- Xu Cũ : 408500000
+- Xu Mới : 308500000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-20 01:29:40--------
+- Name : veovveo
+- Nội Dung : Đặt Tài
+- Xu Cũ : 72708385
+- Xu Mới : 32708385
+- Xu Thay Đổi : -40000000
+----------Thời Gian : 2023-10-20 01:29:47--------
+- Name : bladeveo
+- Nội Dung : Đặt Tài
+- Xu Cũ : 7530000
+- Xu Mới : 2530000
+- Xu Thay Đổi : -5000000
+----------Thời Gian : 2023-10-20 01:31:27--------
+- Name : veovveo
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 32708385
+- Xu Mới : 2708385
+- Xu Thay Đổi : -30000000
+----------Thời Gian : 2023-10-20 01:31:37--------
+- Name : bladeveo
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 2530000
+- Xu Mới : 530000
+- Xu Thay Đổi : -2000000
+----------Thời Gian : 2023-10-20 01:32:51--------
+- Name : veovveo
+- Nội Dung : Đặt Tài
+- Xu Cũ : 56708385
+- Xu Mới : 6708385
+- Xu Thay Đổi : -50000000
+----------Thời Gian : 2023-10-20 01:33:03--------
+- Name : bladeveo
+- Nội Dung : Đặt Tài
+- Xu Cũ : 4130000
+- Xu Mới : 130000
+- Xu Thay Đổi : -4000000
+----------Thời Gian : 2023-10-20 01:34:06--------
+- Name : veovveo
+- Nội Dung : Đặt Tài
+- Xu Cũ : 96708385
+- Xu Mới : 46708385
+- Xu Thay Đổi : -50000000
+----------Thời Gian : 2023-10-20 01:34:12--------
+- Name : bladeveo
+- Nội Dung : Đặt Tài
+- Xu Cũ : 7330000
+- Xu Mới : 2330000
+- Xu Thay Đổi : -5000000
+----------Thời Gian : 2023-10-20 01:35:23--------
+- Name : veovveo
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 136708385
+- Xu Mới : 36708385
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-20 01:35:30--------
+- Name : bladeveo
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 11330000
+- Xu Mới : 330000
+- Xu Thay Đổi : -11000000
+----------Thời Gian : 2023-10-20 01:36:45--------
+- Name : veovveo
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 36708385
+- Xu Mới : 6708385
+- Xu Thay Đổi : -30000000
+----------Thời Gian : 2023-10-20 01:36:54--------
+- Name : bladeveo
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 330000
+- Xu Mới : 0
+- Xu Thay Đổi : -330000
+----------Thời Gian : 2023-10-20 01:38:23--------
+- Name : veovveo
+- Nội Dung : Đặt Tài
+- Xu Cũ : 60708385
+- Xu Mới : 60708185
+- Xu Thay Đổi : -200
+----------Thời Gian : 2023-10-20 01:39:41--------
+- Name : veovveo
+- Nội Dung : Đặt Tài
+- Xu Cũ : 60708545
+- Xu Mới : 10708545
+- Xu Thay Đổi : -50000000
+----------Thời Gian : 2023-10-20 04:43:34--------
+- Name : giangho
+- Nội Dung : Đặt Tài
+- Xu Cũ : 100008000
+- Xu Mới : 8000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-20 04:43:43--------
+- Name : anhdaybg
+- Nội Dung : Đặt Tài
+- Xu Cũ : 208500000
+- Xu Mới : 108500000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-20 04:44:50--------
+- Name : anhdaybg
+- Nội Dung : Đặt Tài
+- Xu Cũ : 180000000
+- Xu Mới : 80000000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-20 04:45:00--------
+- Name : giangho
+- Nội Dung : Đặt Tài
+- Xu Cũ : 288508000
+- Xu Mới : 188508000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-20 04:46:10--------
+- Name : giangho
+- Nội Dung : Đặt Tài
+- Xu Cũ : 368508000
+- Xu Mới : 300508000
+- Xu Thay Đổi : -68000000
+----------Thời Gian : 2023-10-20 04:46:20--------
+- Name : anhdaybg
+- Nội Dung : Đặt Tài
+- Xu Cũ : 260000000
+- Xu Mới : 200000000
+- Xu Thay Đổi : -60000000
+----------Thời Gian : 2023-10-20 05:54:22--------
+- Name : giangho
+- Nội Dung : Đặt Tài
+- Xu Cũ : 500508000
+- Xu Mới : 400508000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-20 05:55:32--------
+- Name : giangho
+- Nội Dung : Đặt Tài
+- Xu Cũ : 400508000
+- Xu Mới : 300508000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-20 05:58:25--------
+- Name : giangho
+- Nội Dung : Đặt Tài
+- Xu Cũ : 300508000
+- Xu Mới : 200508000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-20 05:59:55--------
+- Name : giangho
+- Nội Dung : Đặt Tài
+- Xu Cũ : 380508000
+- Xu Mới : 280508000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-20 06:01:30--------
+- Name : giangho
+- Nội Dung : Đặt Tài
+- Xu Cũ : 280508000
+- Xu Mới : 180508000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-20 06:03:19--------
+- Name : giangho
+- Nội Dung : Đặt Tài
+- Xu Cũ : 360508000
+- Xu Mới : 260508000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-20 06:04:43--------
+- Name : giangho
+- Nội Dung : Đặt Tài
+- Xu Cũ : 440508000
+- Xu Mới : 340508000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-20 06:06:21--------
+- Name : giangho
+- Nội Dung : Đặt Tài
+- Xu Cũ : 340508000
+- Xu Mới : 240508000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-20 06:08:03--------
+- Name : giangho
+- Nội Dung : Đặt Tài
+- Xu Cũ : 240508000
+- Xu Mới : 140508000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-20 06:09:11--------
+- Name : giangho
+- Nội Dung : Đặt Tài
+- Xu Cũ : 140508000
+- Xu Mới : 40508000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-20 06:10:33--------
+- Name : giangho
+- Nội Dung : Đặt Tài
+- Xu Cũ : 220508000
+- Xu Mới : 120508000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-20 06:13:13--------
+- Name : giangho
+- Nội Dung : Đặt Tài
+- Xu Cũ : 120508000
+- Xu Mới : 20508000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-20 06:14:31--------
+- Name : giangho
+- Nội Dung : Đặt Tài
+- Xu Cũ : 20508000
+- Xu Mới : 508000
+- Xu Thay Đổi : -20000000
+----------Thời Gian : 2023-10-20 06:15:55--------
+- Name : giangho
+- Nội Dung : Đặt Tài
+- Xu Cũ : 36508000
+- Xu Mới : 508000
+- Xu Thay Đổi : -36000000
+----------Thời Gian : 2023-10-20 06:17:15--------
+- Name : giangho
+- Nội Dung : Đặt Tài
+- Xu Cũ : 65308000
+- Xu Mới : 8000
+- Xu Thay Đổi : -65300000
+----------Thời Gian : 2023-10-20 09:45:26--------
+- Name : zzkayw3
+- Nội Dung : Đặt Tài
+- Xu Cũ : 349805000
+- Xu Mới : 348805000
+- Xu Thay Đổi : -1000000
+----------Thời Gian : 2023-10-20 12:45:48--------
+- Name : tieuho
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 940000
+- Xu Mới : 840000
+- Xu Thay Đổi : -100000
+----------Thời Gian : 2023-10-20 12:47:06--------
+- Name : tieuho
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1020000
+- Xu Mới : 940000
+- Xu Thay Đổi : -80000
+----------Thời Gian : 2023-10-20 12:48:26--------
+- Name : tieuho
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1084000
+- Xu Mới : 934000
+- Xu Thay Đổi : -150000
+----------Thời Gian : 2023-10-20 12:50:03--------
+- Name : tieuho
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1204000
+- Xu Mới : 1004000
+- Xu Thay Đổi : -200000
+----------Thời Gian : 2023-10-20 12:51:28--------
+- Name : tieuho
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1364000
+- Xu Mới : 864000
+- Xu Thay Đổi : -500000
+----------Thời Gian : 2023-10-20 12:52:48--------
+- Name : tieuho
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1764000
+- Xu Mới : 1164000
+- Xu Thay Đổi : -600000
+----------Thời Gian : 2023-10-20 12:54:01--------
+- Name : tieuho
+- Nội Dung : Đặt Tài
+- Xu Cũ : 2244000
+- Xu Mới : 1244000
+- Xu Thay Đổi : -1000000
+----------Thời Gian : 2023-10-20 12:55:31--------
+- Name : tieuho
+- Nội Dung : Đặt Tài
+- Xu Cũ : 3044000
+- Xu Mới : 1244000
+- Xu Thay Đổi : -1800000
+----------Thời Gian : 2023-10-20 12:57:03--------
+- Name : tieuho
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1244000
+- Xu Mới : 1044000
+- Xu Thay Đổi : -200000
+----------Thời Gian : 2023-10-20 12:58:28--------
+- Name : tieuho
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1044000
+- Xu Mới : 744000
+- Xu Thay Đổi : -300000
+----------Thời Gian : 2023-10-20 13:00:07--------
+- Name : tieuho
+- Nội Dung : Đặt Tài
+- Xu Cũ : 744000
+- Xu Mới : 444000
+- Xu Thay Đổi : -300000
+----------Thời Gian : 2023-10-20 13:01:32--------
+- Name : tieuho
+- Nội Dung : Đặt Tài
+- Xu Cũ : 444000
+- Xu Mới : 144000
+- Xu Thay Đổi : -300000
+----------Thời Gian : 2023-10-20 13:02:47--------
+- Name : tieuho
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 684000
+- Xu Mới : 384000
+- Xu Thay Đổi : -300000
+----------Thời Gian : 2023-10-20 13:04:28--------
+- Name : tieuho
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 924000
+- Xu Mới : 424000
+- Xu Thay Đổi : -500000
+----------Thời Gian : 2023-10-20 13:06:09--------
+- Name : tieuho
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1324000
+- Xu Mới : 824000
+- Xu Thay Đổi : -500000
+----------Thời Gian : 2023-10-20 13:07:48--------
+- Name : tieuho
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1724000
+- Xu Mới : 1124000
+- Xu Thay Đổi : -600000
+----------Thời Gian : 2023-10-20 13:09:08--------
+- Name : tieuho
+- Nội Dung : Đặt Tài
+- Xu Cũ : 2204000
+- Xu Mới : 1204000
+- Xu Thay Đổi : -1000000
+----------Thời Gian : 2023-10-20 13:10:39--------
+- Name : tieuho
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1204000
+- Xu Mới : 604000
+- Xu Thay Đổi : -600000
+----------Thời Gian : 2023-10-20 13:12:04--------
+- Name : tieuho
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1684000
+- Xu Mới : 1084000
+- Xu Thay Đổi : -600000
+----------Thời Gian : 2023-10-20 13:13:31--------
+- Name : tieuho
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 2164000
+- Xu Mới : 1164000
+- Xu Thay Đổi : -1000000
+----------Thời Gian : 2023-10-20 13:15:32--------
+- Name : tieuho
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1164000
+- Xu Mới : 664000
+- Xu Thay Đổi : -500000
+----------Thời Gian : 2023-10-20 13:17:04--------
+- Name : tieuho
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1564000
+- Xu Mới : 964000
+- Xu Thay Đổi : -600000
+----------Thời Gian : 2023-10-20 13:18:47--------
+- Name : tieuho
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 964000
+- Xu Mới : 364000
+- Xu Thay Đổi : -600000
+----------Thời Gian : 2023-10-20 13:21:36--------
+- Name : tieuho
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 364000
+- Xu Mới : 164000
+- Xu Thay Đổi : -200000
+----------Thời Gian : 2023-10-20 13:23:38--------
+- Name : tieuho
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 524000
+- Xu Mới : 124000
+- Xu Thay Đổi : -400000
+----------Thời Gian : 2023-10-20 13:25:35--------
+- Name : tieuho
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 124000
+- Xu Mới : 74000
+- Xu Thay Đổi : -50000
+----------Thời Gian : 2023-10-20 13:27:07--------
+- Name : tieuho
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 74000
+- Xu Mới : 14000
+- Xu Thay Đổi : -60000
+----------Thời Gian : 2023-10-20 13:29:04--------
+- Name : imbossss
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1181000
+- Xu Mới : 581000
+- Xu Thay Đổi : -600000
+----------Thời Gian : 2023-10-20 13:30:19--------
+- Name : kurumi
+- Nội Dung : Đặt Tài
+- Xu Cũ : 505000
+- Xu Mới : 495000
+- Xu Thay Đổi : -10000
+----------Thời Gian : 2023-10-20 13:30:47--------
+- Name : imbossss
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1661000
+- Xu Mới : 1161000
+- Xu Thay Đổi : -500000
+----------Thời Gian : 2023-10-20 13:31:58--------
+- Name : imbossss
+- Nội Dung : Đặt Tài
+- Xu Cũ : 2061000
+- Xu Mới : 1461000
+- Xu Thay Đổi : -600000
+----------Thời Gian : 2023-10-20 13:33:14--------
+- Name : imbossss
+- Nội Dung : Đặt Tài
+- Xu Cũ : 2541000
+- Xu Mới : 1641000
+- Xu Thay Đổi : -900000
+----------Thời Gian : 2023-10-20 13:34:43--------
+- Name : imbossss
+- Nội Dung : Đặt Tài
+- Xu Cũ : 3261000
+- Xu Mới : 2361000
+- Xu Thay Đổi : -900000
+----------Thời Gian : 2023-10-20 13:36:39--------
+- Name : imbossss
+- Nội Dung : Đặt Tài
+- Xu Cũ : 2361000
+- Xu Mới : 1861000
+- Xu Thay Đổi : -500000
+----------Thời Gian : 2023-10-20 17:23:52--------
+- Name : giangho
+- Nội Dung : Đặt Tài
+- Xu Cũ : 117548000
+- Xu Mới : 17548000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-20 17:25:10--------
+- Name : giangho
+- Nội Dung : Đặt Tài
+- Xu Cũ : 17548000
+- Xu Mới : 48000
+- Xu Thay Đổi : -17500000
+----------Thời Gian : 2023-10-20 17:56:45--------
+- Name : giangho
+- Nội Dung : Đặt Tài
+- Xu Cũ : 660349000
+- Xu Mới : 560349000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-20 17:58:01--------
+- Name : giangho
+- Nội Dung : Đặt Tài
+- Xu Cũ : 560349000
+- Xu Mới : 460349000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-20 17:59:21--------
+- Name : giangho
+- Nội Dung : Đặt Tài
+- Xu Cũ : 460349000
+- Xu Mới : 360349000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-20 18:00:50--------
+- Name : giangho
+- Nội Dung : Đặt Tài
+- Xu Cũ : 230349000
+- Xu Mới : 130349000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-20 18:00:59--------
+- Name : giangho99
+- Nội Dung : Đặt Tài
+- Xu Cũ : 130020000
+- Xu Mới : 30020000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-20 18:01:57--------
+- Name : giangho
+- Nội Dung : Đặt Tài
+- Xu Cũ : 310349000
+- Xu Mới : 210349000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-20 18:02:08--------
+- Name : giangho99
+- Nội Dung : Đặt Tài
+- Xu Cũ : 210020000
+- Xu Mới : 110020000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-20 18:03:14--------
+- Name : giangho
+- Nội Dung : Đặt Tài
+- Xu Cũ : 390349000
+- Xu Mới : 290349000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-20 18:03:23--------
+- Name : giangho99
+- Nội Dung : Đặt Tài
+- Xu Cũ : 290020000
+- Xu Mới : 190020000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-20 18:04:27--------
+- Name : giangho
+- Nội Dung : Đặt Tài
+- Xu Cũ : 470349000
+- Xu Mới : 400349000
+- Xu Thay Đổi : -70000000
+----------Thời Gian : 2023-10-20 18:04:42--------
+- Name : giangho99
+- Nội Dung : Đặt Tài
+- Xu Cũ : 370020000
+- Xu Mới : 300020000
+- Xu Thay Đổi : -70000000
+----------Thời Gian : 2023-10-20 18:05:35--------
+- Name : giangho
+- Nội Dung : Đặt Tài
+- Xu Cũ : 400349000
+- Xu Mới : 300349000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-20 18:05:43--------
+- Name : giangho99
+- Nội Dung : Đặt Tài
+- Xu Cũ : 300020000
+- Xu Mới : 200020000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-20 18:06:46--------
+- Name : giangho99
+- Nội Dung : Đặt Tài
+- Xu Cũ : 380020000
+- Xu Mới : 280020000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-20 18:06:54--------
+- Name : giangho
+- Nội Dung : Đặt Tài
+- Xu Cũ : 480349000
+- Xu Mới : 380349000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-20 18:08:09--------
+- Name : giangho
+- Nội Dung : Đặt Tài
+- Xu Cũ : 560349000
+- Xu Mới : 460349000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-20 18:08:19--------
+- Name : giangho99
+- Nội Dung : Đặt Tài
+- Xu Cũ : 460020000
+- Xu Mới : 360020000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-20 18:10:14--------
+- Name : giangho99
+- Nội Dung : Đặt Tài
+- Xu Cũ : 540020000
+- Xu Mới : 500020000
+- Xu Thay Đổi : -40000000
+----------Thời Gian : 2023-10-20 18:10:25--------
+- Name : badaobg2k2
+- Nội Dung : Đặt Tài
+- Xu Cũ : 640000000
+- Xu Mới : 600000000
+- Xu Thay Đổi : -40000000
+----------Thời Gian : 2023-10-20 18:11:47--------
+- Name : giangho99
+- Nội Dung : Đặt Tài
+- Xu Cũ : 500020000
+- Xu Mới : 400020000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-20 18:12:00--------
+- Name : badaobg2k2
+- Nội Dung : Đặt Tài
+- Xu Cũ : 600000000
+- Xu Mới : 500000000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-20 18:12:59--------
+- Name : giangho99
+- Nội Dung : Đặt Tài
+- Xu Cũ : 400020000
+- Xu Mới : 300020000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-20 18:13:14--------
+- Name : badaobg2k2
+- Nội Dung : Đặt Tài
+- Xu Cũ : 500000000
+- Xu Mới : 400000000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-20 18:14:10--------
+- Name : badaobg2k2
+- Nội Dung : Đặt Tài
+- Xu Cũ : 400000000
+- Xu Mới : 300000000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-20 18:14:35--------
+- Name : giangho99
+- Nội Dung : Đặt Tài
+- Xu Cũ : 300020000
+- Xu Mới : 200020000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-20 18:15:19--------
+- Name : giangho99
+- Nội Dung : Đặt Tài
+- Xu Cũ : 200020000
+- Xu Mới : 100020000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-20 18:15:32--------
+- Name : badaobg2k2
+- Nội Dung : Đặt Tài
+- Xu Cũ : 300000000
+- Xu Mới : 200000000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-20 18:16:30--------
+- Name : badaobg2k2
+- Nội Dung : Đặt Tài
+- Xu Cũ : 380000000
+- Xu Mới : 280000000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-20 18:16:42--------
+- Name : giangho99
+- Nội Dung : Đặt Tài
+- Xu Cũ : 280020000
+- Xu Mới : 180020000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-20 18:17:40--------
+- Name : giangho99
+- Nội Dung : Đặt Tài
+- Xu Cũ : 360020000
+- Xu Mới : 260020000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-20 18:17:52--------
+- Name : badaobg2k2
+- Nội Dung : Đặt Tài
+- Xu Cũ : 460000000
+- Xu Mới : 360000000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-20 18:18:50--------
+- Name : badaobg2k2
+- Nội Dung : Đặt Tài
+- Xu Cũ : 360000000
+- Xu Mới : 260000000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-20 18:19:15--------
+- Name : giangho99
+- Nội Dung : Đặt Tài
+- Xu Cũ : 260020000
+- Xu Mới : 160020000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-20 18:19:59--------
+- Name : giangho99
+- Nội Dung : Đặt Tài
+- Xu Cũ : 340020000
+- Xu Mới : 240020000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-20 18:20:09--------
+- Name : badaobg2k2
+- Nội Dung : Đặt Tài
+- Xu Cũ : 440000000
+- Xu Mới : 340000000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-20 18:21:08--------
+- Name : badaobg2k2
+- Nội Dung : Đặt Tài
+- Xu Cũ : 340000000
+- Xu Mới : 240000000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-20 18:21:16--------
+- Name : giangho99
+- Nội Dung : Đặt Tài
+- Xu Cũ : 240020000
+- Xu Mới : 140020000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-20 18:22:19--------
+- Name : giangho99
+- Nội Dung : Đặt Tài
+- Xu Cũ : 140020000
+- Xu Mới : 40020000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-20 18:22:28--------
+- Name : badaobg2k2
+- Nội Dung : Đặt Tài
+- Xu Cũ : 240000000
+- Xu Mới : 140000000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-20 18:23:26--------
+- Name : giangho99
+- Nội Dung : Đặt Tài
+- Xu Cũ : 40020000
+- Xu Mới : 20000
+- Xu Thay Đổi : -40000000
+----------Thời Gian : 2023-10-20 18:23:36--------
+- Name : badaobg2k2
+- Nội Dung : Đặt Tài
+- Xu Cũ : 140000000
+- Xu Mới : 40000000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-20 18:24:35--------
+- Name : badaobg2k2
+- Nội Dung : Đặt Tài
+- Xu Cũ : 40000000
+- Xu Mới : 0
+- Xu Thay Đổi : -40000000
+----------Thời Gian : 2023-10-20 18:25:44--------
+- Name : badaobg2k2
+- Nội Dung : Đặt Tài
+- Xu Cũ : 72000000
+- Xu Mới : 0
+- Xu Thay Đổi : -72000000
+----------Thời Gian : 2023-10-20 20:25:07--------
+- Name : minmax
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 592738001
+- Xu Mới : 492738001
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-20 20:26:20--------
+- Name : minmax
+- Nội Dung : Đặt Tài
+- Xu Cũ : 492738001
+- Xu Mới : 392738001
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-20 20:27:45--------
+- Name : minmax
+- Nội Dung : Đặt Tài
+- Xu Cũ : 572738001
+- Xu Mới : 472738001
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-20 20:28:23--------
+- Name : kkktalaai
+- Nội Dung : Đặt Tài
+- Xu Cũ : 366111279
+- Xu Mới : 266111279
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-20 20:29:20--------
+- Name : kkktalaai
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 266111279
+- Xu Mới : 166111279
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-20 20:29:29--------
+- Name : minmax
+- Nội Dung : Đặt Tài
+- Xu Cũ : 472738001
+- Xu Mới : 372738001
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-20 20:30:26--------
+- Name : minmax
+- Nội Dung : Đặt Tài
+- Xu Cũ : 552738001
+- Xu Mới : 452738001
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-20 20:32:03--------
+- Name : kkktalaai
+- Nội Dung : Đặt Tài
+- Xu Cũ : 66111279
+- Xu Mới : 111279
+- Xu Thay Đổi : -66000000
+----------Thời Gian : 2023-10-20 20:32:04--------
+- Name : minmax
+- Nội Dung : Đặt Tài
+- Xu Cũ : 452738001
+- Xu Mới : 352738001
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-20 20:32:17--------
+- Name : so2koaiso1
+- Nội Dung : Đặt Tài
+- Xu Cũ : 101755161
+- Xu Mới : 1755161
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-20 20:34:33--------
+- Name : minmax
+- Nội Dung : Đặt Tài
+- Xu Cũ : 472738001
+- Xu Mới : 372738001
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-20 20:34:58--------
+- Name : kkktalaai
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 178911279
+- Xu Mới : 78911279
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-20 20:35:15--------
+- Name : so2koaiso1
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 181755161
+- Xu Mới : 81755161
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-20 20:35:59--------
+- Name : so2koaiso1
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 81755161
+- Xu Mới : 755161
+- Xu Thay Đổi : -81000000
+----------Thời Gian : 2023-10-20 20:36:07--------
+- Name : minmax
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 552738001
+- Xu Mới : 452738001
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-20 20:36:22--------
+- Name : kkktalaai
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 78911279
+- Xu Mới : 911279
+- Xu Thay Đổi : -78000000
+----------Thời Gian : 2023-10-20 20:37:31--------
+- Name : minmax
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 452738001
+- Xu Mới : 352738001
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-20 20:40:04--------
+- Name : minmax
+- Nội Dung : Đặt Tài
+- Xu Cũ : 352738001
+- Xu Mới : 252738001
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-20 20:42:14--------
+- Name : minmax
+- Nội Dung : Đặt Tài
+- Xu Cũ : 252738001
+- Xu Mới : 152738001
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-20 20:43:25--------
+- Name : minmax
+- Nội Dung : Đặt Tài
+- Xu Cũ : 377738001
+- Xu Mới : 277738001
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-20 23:35:39--------
+- Name : davidveo
+- Nội Dung : Đặt Tài
+- Xu Cũ : 14772282
+- Xu Mới : 772282
+- Xu Thay Đổi : -14000000

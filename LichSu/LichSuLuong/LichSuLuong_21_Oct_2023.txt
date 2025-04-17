@@ -1,0 +1,5862 @@
+----------Thời Gian : 2023-10-21 00:00:36--------
+- Name : pecasus
+- Tên Giao Dịch : Nhiệm vụ chính tuyến
+- Lượng Cũ : 150425
+- Lượng Mới : 150475
+- Lượng Thay Đổi :50 Lượng 
+----------Thời Gian : 2023-10-21 00:01:46--------
+- Name : boskenzin
+- Tên Giao Dịch : Điểm danh hằng ngày
+- Lượng Cũ : 115016
+- Lượng Mới : 115516
+- Lượng Thay Đổi :500 Lượng 
+----------Thời Gian : 2023-10-21 00:04:31--------
+- Name : dkakk
+- Tên Giao Dịch : Điểm danh hằng ngày
+- Lượng Cũ : 670955
+- Lượng Mới : 671455
+- Lượng Thay Đổi :500 Lượng 
+----------Thời Gian : 2023-10-21 00:04:38--------
+- Name : dkakk
+- Tên Giao Dịch : Điểm danh vip
+- Lượng Cũ : 671455
+- Lượng Mới : 701455
+- Lượng Thay Đổi :30000 Lượng 
+----------Thời Gian : 2023-10-21 00:09:31--------
+- Name : quaytaydangcap
+- Tên Giao Dịch : Điểm danh vip
+- Lượng Cũ : 3091930
+- Lượng Mới : 3121930
+- Lượng Thay Đổi :30000 Lượng 
+----------Thời Gian : 2023-10-21 00:10:39--------
+- Name : pecasus
+- Tên Giao Dịch : Nhiệm vụ chính tuyến
+- Lượng Cũ : 145315
+- Lượng Mới : 145365
+- Lượng Thay Đổi :50 Lượng 
+----------Thời Gian : 2023-10-21 00:13:13--------
+- Name : pecasus
+- Tên Giao Dịch : Nhiệm vụ chính tuyến
+- Lượng Cũ : 145415
+- Lượng Mới : 145465
+- Lượng Thay Đổi :50 Lượng 
+----------Thời Gian : 2023-10-21 00:14:20--------
+- Name : pecasus
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 145515
+- Lượng Mới : 144515
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2023-10-21 00:19:30--------
+- Name : choikonap
+- Tên Giao Dịch : Điểm danh vip
+- Lượng Cũ : 141559
+- Lượng Mới : 171559
+- Lượng Thay Đổi :30000 Lượng 
+----------Thời Gian : 2023-10-21 00:19:32--------
+- Name : kai0ken
+- Tên Giao Dịch : Điểm danh vip
+- Lượng Cũ : 138796
+- Lượng Mới : 148796
+- Lượng Thay Đổi :10000 Lượng 
+----------Thời Gian : 2023-10-21 00:19:37--------
+- Name : choikonap
+- Tên Giao Dịch : Điểm danh hằng ngày
+- Lượng Cũ : 171559
+- Lượng Mới : 172059
+- Lượng Thay Đổi :500 Lượng 
+----------Thời Gian : 2023-10-21 00:24:28--------
+- Name : shinero
+- Tên Giao Dịch : Điểm danh hằng ngày
+- Lượng Cũ : 9899
+- Lượng Mới : 10399
+- Lượng Thay Đổi :500 Lượng 
+----------Thời Gian : 2023-10-21 00:25:12--------
+- Name : ninjaschool
+- Tên Giao Dịch : Nhận quà tân thủ
+- Lượng Cũ : 0
+- Lượng Mới : 50000
+- Lượng Thay Đổi :50000 Lượng 
+----------Thời Gian : 2023-10-21 00:25:13--------
+- Name : ninjaschool
+- Tên Giao Dịch : Điểm danh hằng ngày
+- Lượng Cũ : 50000
+- Lượng Mới : 50500
+- Lượng Thay Đổi :500 Lượng 
+----------Thời Gian : 2023-10-21 00:25:20--------
+- Name : autocuusat
+- Tên Giao Dịch : Điểm danh hằng ngày
+- Lượng Cũ : 0
+- Lượng Mới : 500
+- Lượng Thay Đổi :500 Lượng 
+----------Thời Gian : 2023-10-21 00:25:22--------
+- Name : autocuusat
+- Tên Giao Dịch : Nhận quà tân thủ
+- Lượng Cũ : 500
+- Lượng Mới : 50500
+- Lượng Thay Đổi :50000 Lượng 
+----------Thời Gian : 2023-10-21 00:25:49--------
+- Name : zzprovip3
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 338664
+- Lượng Mới : 337664
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2023-10-21 00:25:52--------
+- Name : zzprovip3
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 337664
+- Lượng Mới : 336664
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2023-10-21 00:25:56--------
+- Name : zzprovip3
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 336664
+- Lượng Mới : 335664
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2023-10-21 00:25:58--------
+- Name : zzprovip3
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 335664
+- Lượng Mới : 334664
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2023-10-21 00:26:00--------
+- Name : zzprovip3
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 334664
+- Lượng Mới : 333664
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2023-10-21 00:26:02--------
+- Name : zzprovip3
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 333664
+- Lượng Mới : 332664
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2023-10-21 00:26:05--------
+- Name : zzprovip3
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 332664
+- Lượng Mới : 331664
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2023-10-21 00:26:07--------
+- Name : zzprovip3
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 331664
+- Lượng Mới : 330664
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2023-10-21 00:26:09--------
+- Name : zzprovip3
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 330664
+- Lượng Mới : 329664
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2023-10-21 00:26:11--------
+- Name : zzprovip3
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 329664
+- Lượng Mới : 328664
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2023-10-21 00:26:12--------
+- Name : autocuusat
+- Tên Giao Dịch : Nhập GIFTCODE tanthu
+- Lượng Cũ : 45450
+- Lượng Mới : 55450
+- Lượng Thay Đổi :10000 Lượng 
+----------Thời Gian : 2023-10-21 00:26:13--------
+- Name : zzprovip3
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 328664
+- Lượng Mới : 327664
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2023-10-21 00:26:15--------
+- Name : autocuusat
+- Tên Giao Dịch : Nhập GIFTCODE open
+- Lượng Cũ : 55450
+- Lượng Mới : 65450
+- Lượng Thay Đổi :10000 Lượng 
+----------Thời Gian : 2023-10-21 00:26:15--------
+- Name : zzprovip3
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 327664
+- Lượng Mới : 326664
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2023-10-21 00:26:32--------
+- Name : autocuusat
+- Tên Giao Dịch : Nhập GIFTCODE quatang
+- Lượng Cũ : 65450
+- Lượng Mới : 115450
+- Lượng Thay Đổi :50000 Lượng 
+----------Thời Gian : 2023-10-21 00:26:42--------
+- Name : provip2
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 362875
+- Lượng Mới : 361875
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2023-10-21 00:26:45--------
+- Name : provip2
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 361875
+- Lượng Mới : 360875
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2023-10-21 00:26:47--------
+- Name : provip2
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 360875
+- Lượng Mới : 359875
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2023-10-21 00:26:49--------
+- Name : provip2
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 359875
+- Lượng Mới : 358875
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2023-10-21 00:26:51--------
+- Name : provip2
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 358875
+- Lượng Mới : 357875
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2023-10-21 00:26:53--------
+- Name : provip2
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 357875
+- Lượng Mới : 356875
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2023-10-21 00:26:55--------
+- Name : provip2
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 356875
+- Lượng Mới : 355875
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2023-10-21 00:26:58--------
+- Name : provip2
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 355875
+- Lượng Mới : 354875
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2023-10-21 00:27:00--------
+- Name : provip2
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 354875
+- Lượng Mới : 353875
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2023-10-21 00:27:02--------
+- Name : provip2
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 353875
+- Lượng Mới : 352875
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2023-10-21 00:27:04--------
+- Name : provip2
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 352875
+- Lượng Mới : 351875
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2023-10-21 00:27:06--------
+- Name : provip2
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 351875
+- Lượng Mới : 350875
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2023-10-21 00:27:45--------
+- Name : provip1
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 361898
+- Lượng Mới : 360898
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2023-10-21 00:27:47--------
+- Name : provip1
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 360898
+- Lượng Mới : 359898
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2023-10-21 00:27:48--------
+- Name : provip1
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 359898
+- Lượng Mới : 358898
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2023-10-21 00:27:50--------
+- Name : provip1
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 358898
+- Lượng Mới : 357898
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2023-10-21 00:27:52--------
+- Name : provip1
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 357898
+- Lượng Mới : 356898
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2023-10-21 00:27:54--------
+- Name : provip1
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 356898
+- Lượng Mới : 355898
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2023-10-21 00:27:56--------
+- Name : provip1
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 355898
+- Lượng Mới : 354898
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2023-10-21 00:28:16--------
+- Name : provip1
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 354898
+- Lượng Mới : 353898
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2023-10-21 00:28:18--------
+- Name : provip1
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 353898
+- Lượng Mới : 352898
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2023-10-21 00:28:20--------
+- Name : provip1
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 352898
+- Lượng Mới : 351898
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2023-10-21 00:28:22--------
+- Name : provip1
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 351898
+- Lượng Mới : 350898
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2023-10-21 00:28:25--------
+- Name : provip1
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 350898
+- Lượng Mới : 349898
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2023-10-21 00:28:39--------
+- Name : s2ooo2s
+- Tên Giao Dịch : Nhận quà tân thủ
+- Lượng Cũ : 0
+- Lượng Mới : 50000
+- Lượng Thay Đổi :50000 Lượng 
+----------Thời Gian : 2023-10-21 00:28:41--------
+- Name : s2ooo2s
+- Tên Giao Dịch : Điểm danh hằng ngày
+- Lượng Cũ : 50000
+- Lượng Mới : 50500
+- Lượng Thay Đổi :500 Lượng 
+----------Thời Gian : 2023-10-21 00:28:42--------
+- Name : ditlonchaynuoc
+- Tên Giao Dịch : Nhận quà tân thủ
+- Lượng Cũ : 0
+- Lượng Mới : 50000
+- Lượng Thay Đổi :50000 Lượng 
+----------Thời Gian : 2023-10-21 00:28:44--------
+- Name : ditlonchaynuoc
+- Tên Giao Dịch : Điểm danh hằng ngày
+- Lượng Cũ : 50000
+- Lượng Mới : 50500
+- Lượng Thay Đổi :500 Lượng 
+----------Thời Gian : 2023-10-21 00:29:21--------
+- Name : kuna1
+- Tên Giao Dịch : Điểm danh hằng ngày
+- Lượng Cũ : 100030
+- Lượng Mới : 100530
+- Lượng Thay Đổi :500 Lượng 
+----------Thời Gian : 2023-10-21 00:29:25--------
+- Name : autocuusat
+- Tên Giao Dịch : Nhiệm vụ chính tuyến
+- Lượng Cũ : 115450
+- Lượng Mới : 115500
+- Lượng Thay Đổi :50 Lượng 
+----------Thời Gian : 2023-10-21 00:30:34--------
+- Name : zzkayw3
+- Tên Giao Dịch : Điểm danh hằng ngày
+- Lượng Cũ : 20614
+- Lượng Mới : 21114
+- Lượng Thay Đổi :500 Lượng 
+----------Thời Gian : 2023-10-21 00:30:55--------
+- Name : autocuusat
+- Tên Giao Dịch : Nhiệm vụ chính tuyến
+- Lượng Cũ : 115550
+- Lượng Mới : 115600
+- Lượng Thay Đổi :50 Lượng 
+----------Thời Gian : 2023-10-21 00:31:15--------
+- Name : autocuusat
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 115650
+- Lượng Mới : 114650
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2023-10-21 00:34:11--------
+- Name : pecasus
+- Tên Giao Dịch :  Đập Đồ 
+- Lượng Cũ : 140465
+- Lượng Mới : 140455
+- Lượng Thay Đổi :-10 Lượng 
+----------Thời Gian : 2023-10-21 00:34:17--------
+- Name : pecasus
+- Tên Giao Dịch :  Đập Đồ 
+- Lượng Cũ : 140450
+- Lượng Mới : 140435
+- Lượng Thay Đổi :-15 Lượng 
+----------Thời Gian : 2023-10-21 00:34:21--------
+- Name : pecasus
+- Tên Giao Dịch :  Đập Đồ 
+- Lượng Cũ : 140430
+- Lượng Mới : 140410
+- Lượng Thay Đổi :-20 Lượng 
+----------Thời Gian : 2023-10-21 00:34:25--------
+- Name : pecasus
+- Tên Giao Dịch :  Đập Đồ 
+- Lượng Cũ : 140410
+- Lượng Mới : 140390
+- Lượng Thay Đổi :-20 Lượng 
+----------Thời Gian : 2023-10-21 00:35:02--------
+- Name : s2ooo2s
+- Tên Giao Dịch : Nhiệm vụ chính tuyến
+- Lượng Cũ : 48400
+- Lượng Mới : 48450
+- Lượng Thay Đổi :50 Lượng 
+----------Thời Gian : 2023-10-21 00:35:59--------
+- Name : s2ooo2s
+- Tên Giao Dịch : Nhập GIFTCODE open
+- Lượng Cũ : 48500
+- Lượng Mới : 58500
+- Lượng Thay Đổi :10000 Lượng 
+----------Thời Gian : 2023-10-21 00:37:01--------
+- Name : pecasus
+- Tên Giao Dịch : Điểm danh hằng ngày
+- Lượng Cũ : 139910
+- Lượng Mới : 140410
+- Lượng Thay Đổi :500 Lượng 
+----------Thời Gian : 2023-10-21 00:37:20--------
+- Name : maiyeu
+- Tên Giao Dịch : Điểm danh hằng ngày
+- Lượng Cũ : 0
+- Lượng Mới : 500
+- Lượng Thay Đổi :500 Lượng 
+----------Thời Gian : 2023-10-21 00:37:21--------
+- Name : maiyeu
+- Tên Giao Dịch : Nhận quà tân thủ
+- Lượng Cũ : 500
+- Lượng Mới : 50500
+- Lượng Thay Đổi :50000 Lượng 
+----------Thời Gian : 2023-10-21 00:37:38--------
+- Name : s2ooo2s
+- Tên Giao Dịch : Nhập GIFTCODE tanthu
+- Lượng Cũ : 58500
+- Lượng Mới : 68500
+- Lượng Thay Đổi :10000 Lượng 
+----------Thời Gian : 2023-10-21 00:38:00--------
+- Name : s2ooo2s
+- Tên Giao Dịch : Nhập GIFTCODE quatang
+- Lượng Cũ : 68500
+- Lượng Mới : 118500
+- Lượng Thay Đổi :50000 Lượng 
+----------Thời Gian : 2023-10-21 00:38:14--------
+- Name : s2ooo2s
+- Tên Giao Dịch : Nhập GIFTCODE trungthu
+- Lượng Cũ : 118500
+- Lượng Mới : 148500
+- Lượng Thay Đổi :30000 Lượng 
+----------Thời Gian : 2023-10-21 00:38:33--------
+- Name : ditlonchaynuoc
+- Tên Giao Dịch : Nhiệm vụ chính tuyến
+- Lượng Cũ : 42450
+- Lượng Mới : 42500
+- Lượng Thay Đổi :50 Lượng 
+----------Thời Gian : 2023-10-21 00:39:10--------
+- Name : nsobipvcl
+- Tên Giao Dịch : Nhiệm vụ chính tuyến
+- Lượng Cũ : 42400
+- Lượng Mới : 42450
+- Lượng Thay Đổi :50 Lượng 
+----------Thời Gian : 2023-10-21 00:39:30--------
+- Name : ninjaschool
+- Tên Giao Dịch : Nhiệm vụ chính tuyến
+- Lượng Cũ : 42450
+- Lượng Mới : 42500
+- Lượng Thay Đổi :50 Lượng 
+----------Thời Gian : 2023-10-21 00:40:21--------
+- Name : s2ooo2s
+- Tên Giao Dịch : Nhiệm vụ chính tuyến
+- Lượng Cũ : 142400
+- Lượng Mới : 142450
+- Lượng Thay Đổi :50 Lượng 
+----------Thời Gian : 2023-10-21 00:42:10--------
+- Name : nsobipvcl
+- Tên Giao Dịch : Nhập GIFTCODE open
+- Lượng Cũ : 42500
+- Lượng Mới : 52500
+- Lượng Thay Đổi :10000 Lượng 
+----------Thời Gian : 2023-10-21 00:42:21--------
+- Name : nsobipvcl
+- Tên Giao Dịch : Nhập GIFTCODE tanthu
+- Lượng Cũ : 52500
+- Lượng Mới : 62500
+- Lượng Thay Đổi :10000 Lượng 
+----------Thời Gian : 2023-10-21 00:42:37--------
+- Name : s2ooo2s
+- Tên Giao Dịch : Nhiệm vụ chính tuyến
+- Lượng Cũ : 142500
+- Lượng Mới : 142550
+- Lượng Thay Đổi :50 Lượng 
+----------Thời Gian : 2023-10-21 00:42:49--------
+- Name : nsobipvcl
+- Tên Giao Dịch : Nhập GIFTCODE quatang
+- Lượng Cũ : 62500
+- Lượng Mới : 112500
+- Lượng Thay Đổi :50000 Lượng 
+----------Thời Gian : 2023-10-21 00:42:57--------
+- Name : nsobipvcl
+- Tên Giao Dịch : Nhập GIFTCODE trungthu
+- Lượng Cũ : 112500
+- Lượng Mới : 142500
+- Lượng Thay Đổi :30000 Lượng 
+----------Thời Gian : 2023-10-21 00:44:23--------
+- Name : nsobipvcl
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 142500
+- Lượng Mới : 141500
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2023-10-21 00:45:15--------
+- Name : ninjaschool
+- Tên Giao Dịch : Nhập GIFTCODE quatang
+- Lượng Cũ : 42550
+- Lượng Mới : 92550
+- Lượng Thay Đổi :50000 Lượng 
+----------Thời Gian : 2023-10-21 00:45:21--------
+- Name : ninjaschool
+- Tên Giao Dịch : Nhập GIFTCODE open
+- Lượng Cũ : 92550
+- Lượng Mới : 102550
+- Lượng Thay Đổi :10000 Lượng 
+----------Thời Gian : 2023-10-21 00:45:28--------
+- Name : ninjaschool
+- Tên Giao Dịch : Nhập GIFTCODE trungthu
+- Lượng Cũ : 102550
+- Lượng Mới : 132550
+- Lượng Thay Đổi :30000 Lượng 
+----------Thời Gian : 2023-10-21 00:46:57--------
+- Name : ninjaschool
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 132550
+- Lượng Mới : 131550
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2023-10-21 00:47:17--------
+- Name : ditlonchaynuoc
+- Tên Giao Dịch : Nhập GIFTCODE tanthu
+- Lượng Cũ : 42550
+- Lượng Mới : 52550
+- Lượng Thay Đổi :10000 Lượng 
+----------Thời Gian : 2023-10-21 00:47:36--------
+- Name : ditlonchaynuoc
+- Tên Giao Dịch : Nhập GIFTCODE open
+- Lượng Cũ : 52550
+- Lượng Mới : 62550
+- Lượng Thay Đổi :10000 Lượng 
+----------Thời Gian : 2023-10-21 00:48:18--------
+- Name : ditlonchaynuoc
+- Tên Giao Dịch : Nhập GIFTCODE quatang
+- Lượng Cũ : 62550
+- Lượng Mới : 112550
+- Lượng Thay Đổi :50000 Lượng 
+----------Thời Gian : 2023-10-21 00:48:29--------
+- Name : ditlonchaynuoc
+- Tên Giao Dịch : Nhập GIFTCODE trungthu
+- Lượng Cũ : 112550
+- Lượng Mới : 142550
+- Lượng Thay Đổi :30000 Lượng 
+----------Thời Gian : 2023-10-21 00:49:48--------
+- Name : ninjaschool
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 132500
+- Lượng Mới : 131500
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2023-10-21 00:49:51--------
+- Name : ninjaschool
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 131500
+- Lượng Mới : 130500
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2023-10-21 00:49:54--------
+- Name : ninjaschool
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 130500
+- Lượng Mới : 129500
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2023-10-21 00:49:57--------
+- Name : ninjaschool
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 129500
+- Lượng Mới : 128500
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2023-10-21 00:49:58--------
+- Name : s2ooo2s
+- Tên Giao Dịch : Nhận thưởng thăng cấp
+- Lượng Cũ : 142500
+- Lượng Mới : 143500
+- Lượng Thay Đổi :1000 Lượng 
+----------Thời Gian : 2023-10-21 00:49:59--------
+- Name : ninjaschool
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 128500
+- Lượng Mới : 127500
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2023-10-21 00:50:02--------
+- Name : ninjaschool
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 127500
+- Lượng Mới : 126500
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2023-10-21 00:50:05--------
+- Name : ninjaschool
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 126500
+- Lượng Mới : 125500
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2023-10-21 00:50:07--------
+- Name : ninjaschool
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 125500
+- Lượng Mới : 124500
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2023-10-21 00:50:10--------
+- Name : ninjaschool
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 124500
+- Lượng Mới : 123500
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2023-10-21 00:50:13--------
+- Name : ninjaschool
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 123500
+- Lượng Mới : 122500
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2023-10-21 00:50:15--------
+- Name : ninjaschool
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 122500
+- Lượng Mới : 121500
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2023-10-21 00:50:18--------
+- Name : ninjaschool
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 121500
+- Lượng Mới : 120500
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2023-10-21 00:50:25--------
+- Name : nsobipvcl
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 142500
+- Lượng Mới : 141500
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2023-10-21 00:50:27--------
+- Name : nsobipvcl
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 141500
+- Lượng Mới : 140500
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2023-10-21 00:50:40--------
+- Name : ditlonchaynuoc
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 142500
+- Lượng Mới : 141500
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2023-10-21 00:50:45--------
+- Name : nsobipvcl
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 140500
+- Lượng Mới : 139500
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2023-10-21 00:50:47--------
+- Name : nsobipvcl
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 139500
+- Lượng Mới : 138500
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2023-10-21 00:50:49--------
+- Name : nsobipvcl
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 138500
+- Lượng Mới : 137500
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2023-10-21 00:50:52--------
+- Name : nsobipvcl
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 137500
+- Lượng Mới : 136500
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2023-10-21 00:50:56--------
+- Name : nsobipvcl
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 136500
+- Lượng Mới : 135500
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2023-10-21 00:50:59--------
+- Name : nsobipvcl
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 135500
+- Lượng Mới : 134500
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2023-10-21 00:51:01--------
+- Name : nsobipvcl
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 134500
+- Lượng Mới : 133500
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2023-10-21 00:51:04--------
+- Name : nsobipvcl
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 133500
+- Lượng Mới : 132500
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2023-10-21 00:51:07--------
+- Name : nsobipvcl
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 132500
+- Lượng Mới : 131500
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2023-10-21 00:51:09--------
+- Name : nsobipvcl
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 131500
+- Lượng Mới : 130500
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2023-10-21 00:51:31--------
+- Name : ditlonchaynuoc
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 142500
+- Lượng Mới : 141500
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2023-10-21 00:51:34--------
+- Name : ditlonchaynuoc
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 141500
+- Lượng Mới : 140500
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2023-10-21 00:51:36--------
+- Name : ditlonchaynuoc
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 140500
+- Lượng Mới : 139500
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2023-10-21 00:51:39--------
+- Name : ditlonchaynuoc
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 139500
+- Lượng Mới : 138500
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2023-10-21 00:51:41--------
+- Name : ditlonchaynuoc
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 138500
+- Lượng Mới : 137500
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2023-10-21 00:51:43--------
+- Name : ditlonchaynuoc
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 137500
+- Lượng Mới : 136500
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2023-10-21 00:51:46--------
+- Name : ditlonchaynuoc
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 136500
+- Lượng Mới : 135500
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2023-10-21 00:51:48--------
+- Name : ditlonchaynuoc
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 135500
+- Lượng Mới : 134500
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2023-10-21 00:51:51--------
+- Name : ditlonchaynuoc
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 134500
+- Lượng Mới : 133500
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2023-10-21 00:51:54--------
+- Name : ditlonchaynuoc
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 133500
+- Lượng Mới : 132500
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2023-10-21 00:51:56--------
+- Name : ditlonchaynuoc
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 132500
+- Lượng Mới : 131500
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2023-10-21 00:51:58--------
+- Name : ditlonchaynuoc
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 131500
+- Lượng Mới : 130500
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2023-10-21 00:55:12--------
+- Name : nhanvat
+- Tên Giao Dịch : Điểm danh hằng ngày
+- Lượng Cũ : 0
+- Lượng Mới : 500
+- Lượng Thay Đổi :500 Lượng 
+----------Thời Gian : 2023-10-21 00:55:15--------
+- Name : nhanvat
+- Tên Giao Dịch : Nhận quà tân thủ
+- Lượng Cũ : 500
+- Lượng Mới : 50500
+- Lượng Thay Đổi :50000 Lượng 
+----------Thời Gian : 2023-10-21 01:01:58--------
+- Name : autocuusat
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 102375
+- Lượng Mới : 101375
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2023-10-21 01:02:00--------
+- Name : autocuusat
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 101375
+- Lượng Mới : 100375
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2023-10-21 01:02:03--------
+- Name : autocuusat
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 100375
+- Lượng Mới : 99375
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2023-10-21 01:02:06--------
+- Name : autocuusat
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 99375
+- Lượng Mới : 98375
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2023-10-21 01:02:08--------
+- Name : autocuusat
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 98375
+- Lượng Mới : 97375
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2023-10-21 01:02:13--------
+- Name : autocuusat
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 97375
+- Lượng Mới : 96375
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2023-10-21 01:02:15--------
+- Name : autocuusat
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 96375
+- Lượng Mới : 95375
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2023-10-21 01:02:17--------
+- Name : autocuusat
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 95375
+- Lượng Mới : 94375
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2023-10-21 01:02:19--------
+- Name : autocuusat
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 94375
+- Lượng Mới : 93375
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2023-10-21 01:04:08--------
+- Name : s2ooo2s
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 141500
+- Lượng Mới : 140500
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2023-10-21 01:10:21--------
+- Name : shinero
+- Tên Giao Dịch :  Đập Đồ 
+- Lượng Cũ : 5399
+- Lượng Mới : 5099
+- Lượng Thay Đổi :-300 Lượng 
+----------Thời Gian : 2023-10-21 01:10:33--------
+- Name : shinero
+- Tên Giao Dịch :  Đập Đồ 
+- Lượng Cũ : 4999
+- Lượng Mới : 4599
+- Lượng Thay Đổi :-400 Lượng 
+----------Thời Gian : 2023-10-21 01:10:40--------
+- Name : shinero
+- Tên Giao Dịch :  Đập Đồ 
+- Lượng Cũ : 4599
+- Lượng Mới : 4199
+- Lượng Thay Đổi :-400 Lượng 
+----------Thời Gian : 2023-10-21 01:10:47--------
+- Name : shinero
+- Tên Giao Dịch :  Đập Đồ 
+- Lượng Cũ : 4199
+- Lượng Mới : 3799
+- Lượng Thay Đổi :-400 Lượng 
+----------Thời Gian : 2023-10-21 01:10:53--------
+- Name : shinero
+- Tên Giao Dịch :  Đập Đồ 
+- Lượng Cũ : 3799
+- Lượng Mới : 3399
+- Lượng Thay Đổi :-400 Lượng 
+----------Thời Gian : 2023-10-21 01:11:00--------
+- Name : shinero
+- Tên Giao Dịch :  Đập Đồ 
+- Lượng Cũ : 3399
+- Lượng Mới : 2999
+- Lượng Thay Đổi :-400 Lượng 
+----------Thời Gian : 2023-10-21 01:11:28--------
+- Name : maiyeu
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 45075
+- Lượng Mới : 44075
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2023-10-21 01:11:29--------
+- Name : maiyeu
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 44075
+- Lượng Mới : 43075
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2023-10-21 01:11:31--------
+- Name : maiyeu
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 43075
+- Lượng Mới : 42075
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2023-10-21 01:11:34--------
+- Name : maiyeu
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 42075
+- Lượng Mới : 41075
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2023-10-21 01:11:36--------
+- Name : maiyeu
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 41075
+- Lượng Mới : 40075
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2023-10-21 01:11:37--------
+- Name : maiyeu
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 40075
+- Lượng Mới : 39075
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2023-10-21 01:11:38--------
+- Name : maiyeu
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 39075
+- Lượng Mới : 38075
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2023-10-21 01:11:40--------
+- Name : maiyeu
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 38075
+- Lượng Mới : 37075
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2023-10-21 01:11:41--------
+- Name : maiyeu
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 37075
+- Lượng Mới : 36075
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2023-10-21 01:11:43--------
+- Name : maiyeu
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 36075
+- Lượng Mới : 35075
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2023-10-21 01:11:44--------
+- Name : maiyeu
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 35075
+- Lượng Mới : 34075
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2023-10-21 01:11:49--------
+- Name : maiyeu
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 34075
+- Lượng Mới : 33075
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2023-10-21 01:15:46--------
+- Name : nvc001
+- Tên Giao Dịch : Điểm danh hằng ngày
+- Lượng Cũ : 86565
+- Lượng Mới : 87065
+- Lượng Thay Đổi :500 Lượng 
+----------Thời Gian : 2023-10-15 00:00:00--------
+- Name : maiyeu
+- Tên Giao Dịch : Làm 150 Bó Hộp bánh thượng hạng
+- Lượng Cũ : 33075
+- Lượng Mới : 25575
+- Lượng Thay Đổi :-7500 Lượng 
+----------Thời Gian : 2023-10-21 01:17:45--------
+- Name : nvc002
+- Tên Giao Dịch : Điểm danh hằng ngày
+- Lượng Cũ : 86601
+- Lượng Mới : 87101
+- Lượng Thay Đổi :500 Lượng 
+----------Thời Gian : 2023-10-21 01:18:04--------
+- Name : anhlavip
+- Tên Giao Dịch : Điểm danh vip
+- Lượng Cũ : 2808923
+- Lượng Mới : 2818923
+- Lượng Thay Đổi :10000 Lượng 
+----------Thời Gian : 2023-10-21 01:22:22--------
+- Name : pecasus
+- Tên Giao Dịch :  Đập Đồ 
+- Lượng Cũ : 141017
+- Lượng Mới : 141007
+- Lượng Thay Đổi :-10 Lượng 
+----------Thời Gian : 2023-10-21 01:22:26--------
+- Name : nvc003
+- Tên Giao Dịch : Điểm danh hằng ngày
+- Lượng Cũ : 92249
+- Lượng Mới : 92749
+- Lượng Thay Đổi :500 Lượng 
+----------Thời Gian : 2023-10-21 01:22:27--------
+- Name : pecasus
+- Tên Giao Dịch :  Đập Đồ 
+- Lượng Cũ : 141002
+- Lượng Mới : 140987
+- Lượng Thay Đổi :-15 Lượng 
+----------Thời Gian : 2023-10-21 01:22:30--------
+- Name : pecasus
+- Tên Giao Dịch :  Đập Đồ 
+- Lượng Cũ : 140982
+- Lượng Mới : 140962
+- Lượng Thay Đổi :-20 Lượng 
+----------Thời Gian : 2023-10-21 01:23:12--------
+- Name : maiyeu
+- Tên Giao Dịch : Nhận thưởng thăng cấp
+- Lượng Cũ : 25575
+- Lượng Mới : 28575
+- Lượng Thay Đổi :3000 Lượng 
+----------Thời Gian : 2023-10-21 01:25:54--------
+- Name : nvc004
+- Tên Giao Dịch : Điểm danh hằng ngày
+- Lượng Cũ : 92412
+- Lượng Mới : 92912
+- Lượng Thay Đổi :500 Lượng 
+----------Thời Gian : 2023-10-21 01:28:28--------
+- Name : pecasus
+- Tên Giao Dịch :  Đập Đồ 
+- Lượng Cũ : 140372
+- Lượng Mới : 140362
+- Lượng Thay Đổi :-10 Lượng 
+----------Thời Gian : 2023-10-21 01:28:29--------
+- Name : nvc005
+- Tên Giao Dịch : Điểm danh hằng ngày
+- Lượng Cũ : 85387
+- Lượng Mới : 85887
+- Lượng Thay Đổi :500 Lượng 
+----------Thời Gian : 2023-10-21 01:28:36--------
+- Name : pecasus
+- Tên Giao Dịch :  Đập Đồ 
+- Lượng Cũ : 140357
+- Lượng Mới : 140342
+- Lượng Thay Đổi :-15 Lượng 
+----------Thời Gian : 2023-10-21 01:28:40--------
+- Name : pecasus
+- Tên Giao Dịch :  Đập Đồ 
+- Lượng Cũ : 140337
+- Lượng Mới : 140317
+- Lượng Thay Đổi :-20 Lượng 
+----------Thời Gian : 2023-10-21 01:28:54--------
+- Name : pecasus
+- Tên Giao Dịch :  Đập Đồ 
+- Lượng Cũ : 140267
+- Lượng Mới : 140247
+- Lượng Thay Đổi :-20 Lượng 
+----------Thời Gian : 2023-10-21 01:29:20--------
+- Name : pecasus
+- Tên Giao Dịch :  Đập Đồ 
+- Lượng Cũ : 140097
+- Lượng Mới : 140077
+- Lượng Thay Đổi :-20 Lượng 
+----------Thời Gian : 2023-10-21 01:29:26--------
+- Name : pecasus
+- Tên Giao Dịch :  Đập Đồ 
+- Lượng Cũ : 140077
+- Lượng Mới : 140057
+- Lượng Thay Đổi :-20 Lượng 
+----------Thời Gian : 2023-10-21 01:31:43--------
+- Name : nvc006
+- Tên Giao Dịch : Điểm danh hằng ngày
+- Lượng Cũ : 92079
+- Lượng Mới : 92579
+- Lượng Thay Đổi :500 Lượng 
+----------Thời Gian : 2023-10-21 01:34:53--------
+- Name : davidveo
+- Tên Giao Dịch : Điểm danh hằng ngày
+- Lượng Cũ : 1738
+- Lượng Mới : 2238
+- Lượng Thay Đổi :500 Lượng 
+----------Thời Gian : 2023-10-21 01:34:53--------
+- Name : nvc101
+- Tên Giao Dịch : Điểm danh hằng ngày
+- Lượng Cũ : 105673
+- Lượng Mới : 106173
+- Lượng Thay Đổi :500 Lượng 
+----------Thời Gian : 2023-10-21 01:35:40--------
+- Name : ruongtts
+- Tên Giao Dịch : Điểm danh hằng ngày
+- Lượng Cũ : 12909
+- Lượng Mới : 13409
+- Lượng Thay Đổi :500 Lượng 
+----------Thời Gian : 2023-10-21 01:37:42--------
+- Name : ruognttt
+- Tên Giao Dịch : Điểm danh hằng ngày
+- Lượng Cũ : 24894
+- Lượng Mới : 25394
+- Lượng Thay Đổi :500 Lượng 
+----------Thời Gian : 2023-10-21 01:37:56--------
+- Name : nvc102
+- Tên Giao Dịch : Điểm danh hằng ngày
+- Lượng Cũ : 108450
+- Lượng Mới : 108950
+- Lượng Thay Đổi :500 Lượng 
+----------Thời Gian : 2023-10-21 01:38:27--------
+- Name : kiemlord
+- Tên Giao Dịch : Điểm danh hằng ngày
+- Lượng Cũ : 77375
+- Lượng Mới : 77875
+- Lượng Thay Đổi :500 Lượng 
+----------Thời Gian : 2023-10-21 01:38:37--------
+- Name : nvc103
+- Tên Giao Dịch : Điểm danh hằng ngày
+- Lượng Cũ : 98449
+- Lượng Mới : 98949
+- Lượng Thay Đổi :500 Lượng 
+----------Thời Gian : 2023-10-21 01:38:55--------
+- Name : nvc104
+- Tên Giao Dịch : Điểm danh hằng ngày
+- Lượng Cũ : 99050
+- Lượng Mới : 99550
+- Lượng Thay Đổi :500 Lượng 
+----------Thời Gian : 2023-10-21 01:39:13--------
+- Name : nvc105
+- Tên Giao Dịch : Điểm danh hằng ngày
+- Lượng Cũ : 101150
+- Lượng Mới : 101650
+- Lượng Thay Đổi :500 Lượng 
+----------Thời Gian : 2023-10-21 01:39:30--------
+- Name : nvc106
+- Tên Giao Dịch : Điểm danh hằng ngày
+- Lượng Cũ : 95073
+- Lượng Mới : 95573
+- Lượng Thay Đổi :500 Lượng 
+----------Thời Gian : 2023-10-21 01:45:08--------
+- Name : veovveo
+- Tên Giao Dịch : Điểm danh vip
+- Lượng Cũ : 76147
+- Lượng Mới : 96147
+- Lượng Thay Đổi :20000 Lượng 
+----------Thời Gian : 2023-10-21 01:45:13--------
+- Name : veovveo
+- Tên Giao Dịch : Điểm danh hằng ngày
+- Lượng Cũ : 96147
+- Lượng Mới : 96647
+- Lượng Thay Đổi :500 Lượng 
+----------Thời Gian : 2023-10-21 01:46:55--------
+- Name : maiyeu
+- Tên Giao Dịch : Luyện Bí Kíp
+- Lượng Cũ : 23325
+- Lượng Mới : 22325
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2023-10-21 01:47:02--------
+- Name : maiyeu
+- Tên Giao Dịch : Luyện Bí Kíp
+- Lượng Cũ : 22325
+- Lượng Mới : 21325
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2023-10-21 01:47:10--------
+- Name : maiyeu
+- Tên Giao Dịch : Luyện Bí Kíp
+- Lượng Cũ : 21325
+- Lượng Mới : 20325
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2023-10-21 01:47:17--------
+- Name : maiyeu
+- Tên Giao Dịch : Luyện Bí Kíp
+- Lượng Cũ : 20325
+- Lượng Mới : 19325
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2023-10-21 01:47:38--------
+- Name : markm553x9
+- Tên Giao Dịch : Điểm danh hằng ngày
+- Lượng Cũ : 2594
+- Lượng Mới : 3094
+- Lượng Thay Đổi :500 Lượng 
+----------Thời Gian : 2023-10-21 01:47:40--------
+- Name : maiyeu
+- Tên Giao Dịch : Nâng Cấp Bí Kíp
+- Lượng Cũ : 19325
+- Lượng Mới : -100
+- Lượng Thay Đổi :-100 Lượng 
+----------Thời Gian : 2023-10-21 01:47:48--------
+- Name : maiyeu
+- Tên Giao Dịch : Nâng Cấp Bí Kíp
+- Lượng Cũ : 19225
+- Lượng Mới : -500
+- Lượng Thay Đổi :-500 Lượng 
+----------Thời Gian : 2023-10-21 01:47:53--------
+- Name : maiyeu
+- Tên Giao Dịch : Nâng Cấp Bí Kíp
+- Lượng Cũ : 18725
+- Lượng Mới : -1000
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2023-10-21 01:48:01--------
+- Name : nvc201
+- Tên Giao Dịch : Điểm danh hằng ngày
+- Lượng Cũ : 102819
+- Lượng Mới : 103319
+- Lượng Thay Đổi :500 Lượng 
+----------Thời Gian : 2023-10-21 01:48:04--------
+- Name : maiyeu
+- Tên Giao Dịch : Nâng Cấp Bí Kíp
+- Lượng Cũ : 17725
+- Lượng Mới : -1500
+- Lượng Thay Đổi :-1500 Lượng 
+----------Thời Gian : 2023-10-21 01:48:09--------
+- Name : markm553x9
+- Tên Giao Dịch : Điểm Danh Gia Tộc
+- Lượng Cũ : 3094
+- Lượng Mới : 3404
+- Lượng Thay Đổi :310 Lượng 
+----------Thời Gian : 2023-10-21 01:48:13--------
+- Name : maiyeu
+- Tên Giao Dịch : Nâng Cấp Bí Kíp
+- Lượng Cũ : 16225
+- Lượng Mới : -2000
+- Lượng Thay Đổi :-2000 Lượng 
+----------Thời Gian : 2023-10-21 01:48:19--------
+- Name : maiyeu
+- Tên Giao Dịch : Nâng Cấp Bí Kíp
+- Lượng Cũ : 14225
+- Lượng Mới : -2500
+- Lượng Thay Đổi :-2500 Lượng 
+----------Thời Gian : 2023-10-21 01:48:21--------
+- Name : maiyeu
+- Tên Giao Dịch : Nâng Cấp Bí Kíp
+- Lượng Cũ : 11725
+- Lượng Mới : -2500
+- Lượng Thay Đổi :-2500 Lượng 
+----------Thời Gian : 2023-10-21 01:48:22--------
+- Name : nvc202
+- Tên Giao Dịch : Điểm danh hằng ngày
+- Lượng Cũ : 108844
+- Lượng Mới : 109344
+- Lượng Thay Đổi :500 Lượng 
+----------Thời Gian : 2023-10-21 01:48:37--------
+- Name : maiyeu
+- Tên Giao Dịch : Nhập GIFTCODE quatang
+- Lượng Cũ : 9225
+- Lượng Mới : 59225
+- Lượng Thay Đổi :50000 Lượng 
+----------Thời Gian : 2023-10-21 01:48:42--------
+- Name : maiyeu
+- Tên Giao Dịch : Nhập GIFTCODE trungthu
+- Lượng Cũ : 59225
+- Lượng Mới : 89225
+- Lượng Thay Đổi :30000 Lượng 
+----------Thời Gian : 2023-10-21 01:48:54--------
+- Name : maiyeu
+- Tên Giao Dịch : Nâng Cấp Bí Kíp
+- Lượng Cũ : 89225
+- Lượng Mới : -3000
+- Lượng Thay Đổi :-3000 Lượng 
+----------Thời Gian : 2023-10-21 01:48:57--------
+- Name : maiyeu
+- Tên Giao Dịch : Nâng Cấp Bí Kíp
+- Lượng Cũ : 86225
+- Lượng Mới : -3000
+- Lượng Thay Đổi :-3000 Lượng 
+----------Thời Gian : 2023-10-21 01:48:58--------
+- Name : maiyeu
+- Tên Giao Dịch : Nâng Cấp Bí Kíp
+- Lượng Cũ : 83225
+- Lượng Mới : -3000
+- Lượng Thay Đổi :-3000 Lượng 
+----------Thời Gian : 2023-10-21 01:49:00--------
+- Name : maiyeu
+- Tên Giao Dịch : Nâng Cấp Bí Kíp
+- Lượng Cũ : 80225
+- Lượng Mới : -3000
+- Lượng Thay Đổi :-3000 Lượng 
+----------Thời Gian : 2023-10-21 01:49:13--------
+- Name : nvc203
+- Tên Giao Dịch : Điểm danh hằng ngày
+- Lượng Cũ : 105796
+- Lượng Mới : 106296
+- Lượng Thay Đổi :500 Lượng 
+----------Thời Gian : 2023-10-21 01:50:03--------
+- Name : nvc204
+- Tên Giao Dịch : Điểm danh hằng ngày
+- Lượng Cũ : 104643
+- Lượng Mới : 105143
+- Lượng Thay Đổi :500 Lượng 
+----------Thời Gian : 2023-10-21 01:50:35--------
+- Name : nvc205
+- Tên Giao Dịch : Điểm danh hằng ngày
+- Lượng Cũ : 106146
+- Lượng Mới : 106646
+- Lượng Thay Đổi :500 Lượng 
+----------Thời Gian : 2023-10-21 01:51:23--------
+- Name : nvc206
+- Tên Giao Dịch : Điểm danh hằng ngày
+- Lượng Cũ : 101338
+- Lượng Mới : 101838
+- Lượng Thay Đổi :500 Lượng 
+----------Thời Gian : 2023-10-21 02:10:15--------
+- Name : nvc301
+- Tên Giao Dịch : Điểm danh hằng ngày
+- Lượng Cũ : 113075
+- Lượng Mới : 113575
+- Lượng Thay Đổi :500 Lượng 
+----------Thời Gian : 2023-10-21 02:10:49--------
+- Name : nvc302
+- Tên Giao Dịch : Điểm danh hằng ngày
+- Lượng Cũ : 112300
+- Lượng Mới : 112800
+- Lượng Thay Đổi :500 Lượng 
+----------Thời Gian : 2023-10-21 02:11:07--------
+- Name : nvc303
+- Tên Giao Dịch : Điểm danh hằng ngày
+- Lượng Cũ : 112049
+- Lượng Mới : 112549
+- Lượng Thay Đổi :500 Lượng 
+----------Thời Gian : 2023-10-21 02:11:41--------
+- Name : nvc304
+- Tên Giao Dịch : Điểm danh hằng ngày
+- Lượng Cũ : 112600
+- Lượng Mới : 113100
+- Lượng Thay Đổi :500 Lượng 
+----------Thời Gian : 2023-10-21 02:12:06--------
+- Name : nvc305
+- Tên Giao Dịch : Điểm danh hằng ngày
+- Lượng Cũ : 109925
+- Lượng Mới : 110425
+- Lượng Thay Đổi :500 Lượng 
+----------Thời Gian : 2023-10-21 02:12:29--------
+- Name : ncv306
+- Tên Giao Dịch : Điểm danh hằng ngày
+- Lượng Cũ : 110800
+- Lượng Mới : 111300
+- Lượng Thay Đổi :500 Lượng 
+----------Thời Gian : 2023-10-21 02:18:38--------
+- Name : pecasus
+- Tên Giao Dịch : Làm 1 Bó Hộp bánh thượng hạng
+- Lượng Cũ : 139318
+- Lượng Mới : 139268
+- Lượng Thay Đổi :-50 Lượng 
+----------Thời Gian : 2023-10-21 02:20:23--------
+- Name : pecasus
+- Tên Giao Dịch :  Đập Đồ 
+- Lượng Cũ : 139258
+- Lượng Mới : 139248
+- Lượng Thay Đổi :-10 Lượng 
+----------Thời Gian : 2023-10-21 02:20:39--------
+- Name : pecasus
+- Tên Giao Dịch :  Đập Đồ 
+- Lượng Cũ : 139143
+- Lượng Mới : 139128
+- Lượng Thay Đổi :-15 Lượng 
+----------Thời Gian : 2023-10-21 02:20:42--------
+- Name : pecasus
+- Tên Giao Dịch :  Đập Đồ 
+- Lượng Cũ : 139138
+- Lượng Mới : 139133
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 02:20:44--------
+- Name : pecasus
+- Tên Giao Dịch :  Đập Đồ 
+- Lượng Cũ : 139128
+- Lượng Mới : 139118
+- Lượng Thay Đổi :-10 Lượng 
+----------Thời Gian : 2023-10-21 02:20:47--------
+- Name : pecasus
+- Tên Giao Dịch :  Đập Đồ 
+- Lượng Cũ : 139123
+- Lượng Mới : 139118
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 02:20:50--------
+- Name : pecasus
+- Tên Giao Dịch :  Đập Đồ 
+- Lượng Cũ : 139113
+- Lượng Mới : 139103
+- Lượng Thay Đổi :-10 Lượng 
+----------Thời Gian : 2023-10-21 02:20:55--------
+- Name : pecasus
+- Tên Giao Dịch :  Đập Đồ 
+- Lượng Cũ : 139098
+- Lượng Mới : 139083
+- Lượng Thay Đổi :-15 Lượng 
+----------Thời Gian : 2023-10-21 02:21:30--------
+- Name : aduvip
+- Tên Giao Dịch : Điểm danh hằng ngày
+- Lượng Cũ : 0
+- Lượng Mới : 500
+- Lượng Thay Đổi :500 Lượng 
+----------Thời Gian : 2023-10-21 02:47:01--------
+- Name : tankho
+- Tên Giao Dịch : Điểm danh vip
+- Lượng Cũ : 1090925
+- Lượng Mới : 1120925
+- Lượng Thay Đổi :30000 Lượng 
+----------Thời Gian : 2023-10-21 03:44:16--------
+- Name : fakeking
+- Tên Giao Dịch : Điểm danh vip
+- Lượng Cũ : 1086906
+- Lượng Mới : 1106906
+- Lượng Thay Đổi :20000 Lượng 
+----------Thời Gian : 2023-10-21 04:01:19--------
+- Name : nubita
+- Tên Giao Dịch : Điểm danh vip
+- Lượng Cũ : 4048680
+- Lượng Mới : 4078680
+- Lượng Thay Đổi :30000 Lượng 
+----------Thời Gian : 2023-10-21 04:44:11--------
+- Name : nackthem
+- Tên Giao Dịch : Nhiệm vụ chính tuyến
+- Lượng Cũ : 45525
+- Lượng Mới : 45575
+- Lượng Thay Đổi :50 Lượng 
+----------Thời Gian : 2023-10-21 04:53:14--------
+- Name : nackthem
+- Tên Giao Dịch : Nhiệm vụ chính tuyến
+- Lượng Cũ : 45525
+- Lượng Mới : 45575
+- Lượng Thay Đổi :50 Lượng 
+----------Thời Gian : 2023-10-21 04:53:49--------
+- Name : nackthem
+- Tên Giao Dịch : Nhiệm vụ chính tuyến
+- Lượng Cũ : 45625
+- Lượng Mới : 45675
+- Lượng Thay Đổi :50 Lượng 
+----------Thời Gian : 2023-10-21 04:59:39--------
+- Name : nackthem
+- Tên Giao Dịch : Nhiệm vụ chính tuyến
+- Lượng Cũ : 45725
+- Lượng Mới : 45775
+- Lượng Thay Đổi :50 Lượng 
+----------Thời Gian : 2023-10-21 05:09:01--------
+- Name : huy69nso
+- Tên Giao Dịch : Điểm danh vip
+- Lượng Cũ : 624626
+- Lượng Mới : 634626
+- Lượng Thay Đổi :10000 Lượng 
+----------Thời Gian : 2023-10-21 05:16:14--------
+- Name : nackthem
+- Tên Giao Dịch : Nhiệm vụ chính tuyến
+- Lượng Cũ : 45825
+- Lượng Mới : 45875
+- Lượng Thay Đổi :50 Lượng 
+----------Thời Gian : 2023-10-21 05:17:42--------
+- Name : nackthem
+- Tên Giao Dịch : Nhiệm vụ chính tuyến
+- Lượng Cũ : 45925
+- Lượng Mới : 45975
+- Lượng Thay Đổi :50 Lượng 
+----------Thời Gian : 2023-10-21 05:25:07--------
+- Name : nackthem
+- Tên Giao Dịch : Nhiệm vụ chính tuyến
+- Lượng Cũ : 46025
+- Lượng Mới : 46075
+- Lượng Thay Đổi :50 Lượng 
+----------Thời Gian : 2023-10-21 05:38:11--------
+- Name : tknlsk2
+- Tên Giao Dịch : Nhận quà tân thủ
+- Lượng Cũ : 0
+- Lượng Mới : 50000
+- Lượng Thay Đổi :50000 Lượng 
+----------Thời Gian : 2023-10-21 05:38:12--------
+- Name : tknlsk2
+- Tên Giao Dịch : Điểm danh hằng ngày
+- Lượng Cũ : 50000
+- Lượng Mới : 50500
+- Lượng Thay Đổi :500 Lượng 
+----------Thời Gian : 2023-10-21 05:39:04--------
+- Name : tknlsk2
+- Tên Giao Dịch : Nhập GIFTCODE open
+- Lượng Cũ : 50425
+- Lượng Mới : 60425
+- Lượng Thay Đổi :10000 Lượng 
+----------Thời Gian : 2023-10-21 05:39:13--------
+- Name : tknlsk2
+- Tên Giao Dịch : Nhập GIFTCODE tanthu
+- Lượng Cũ : 60425
+- Lượng Mới : 70425
+- Lượng Thay Đổi :10000 Lượng 
+----------Thời Gian : 2023-10-21 05:39:44--------
+- Name : tknlsk2
+- Tên Giao Dịch : Nhập GIFTCODE trungthu
+- Lượng Cũ : 70425
+- Lượng Mới : 100425
+- Lượng Thay Đổi :30000 Lượng 
+----------Thời Gian : 2023-10-21 05:40:16--------
+- Name : tknlsk2
+- Tên Giao Dịch : Nhập GIFTCODE quatang
+- Lượng Cũ : 100425
+- Lượng Mới : 150425
+- Lượng Thay Đổi :50000 Lượng 
+----------Thời Gian : 2023-10-21 05:43:53--------
+- Name : tknlsk2
+- Tên Giao Dịch : Nhiệm vụ chính tuyến
+- Lượng Cũ : 150400
+- Lượng Mới : 150450
+- Lượng Thay Đổi :50 Lượng 
+----------Thời Gian : 2023-10-21 05:50:54--------
+- Name : tknlsk
+- Tên Giao Dịch : Nhận quà tân thủ
+- Lượng Cũ : 0
+- Lượng Mới : 50000
+- Lượng Thay Đổi :50000 Lượng 
+----------Thời Gian : 2023-10-21 05:50:58--------
+- Name : tknlsk
+- Tên Giao Dịch : Điểm danh hằng ngày
+- Lượng Cũ : 50000
+- Lượng Mới : 50500
+- Lượng Thay Đổi :500 Lượng 
+----------Thời Gian : 2023-10-21 05:51:50--------
+- Name : tknlsk
+- Tên Giao Dịch : Nhập GIFTCODE open
+- Lượng Cũ : 50475
+- Lượng Mới : 60475
+- Lượng Thay Đổi :10000 Lượng 
+----------Thời Gian : 2023-10-21 05:51:57--------
+- Name : tknlsk
+- Tên Giao Dịch : Nhập GIFTCODE tanthu
+- Lượng Cũ : 60475
+- Lượng Mới : 70475
+- Lượng Thay Đổi :10000 Lượng 
+----------Thời Gian : 2023-10-21 05:52:34--------
+- Name : tknlsk
+- Tên Giao Dịch : Nhập GIFTCODE quatang
+- Lượng Cũ : 70475
+- Lượng Mới : 120475
+- Lượng Thay Đổi :50000 Lượng 
+----------Thời Gian : 2023-10-21 05:52:41--------
+- Name : tknlsk
+- Tên Giao Dịch : Nhập GIFTCODE trungthu
+- Lượng Cũ : 120475
+- Lượng Mới : 150475
+- Lượng Thay Đổi :30000 Lượng 
+----------Thời Gian : 2023-10-21 05:54:41--------
+- Name : vodanhkiem
+- Tên Giao Dịch : Điểm danh vip
+- Lượng Cũ : 64649
+- Lượng Mới : 74649
+- Lượng Thay Đổi :10000 Lượng 
+----------Thời Gian : 2023-10-21 05:55:08--------
+- Name : tknlsk
+- Tên Giao Dịch : Nhiệm vụ chính tuyến
+- Lượng Cũ : 150475
+- Lượng Mới : 150525
+- Lượng Thay Đổi :50 Lượng 
+----------Thời Gian : 2023-10-21 05:55:59--------
+- Name : tknlsk2
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 150500
+- Lượng Mới : 149500
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2023-10-21 05:57:03--------
+- Name : tknlsk4
+- Tên Giao Dịch : Nhận quà tân thủ
+- Lượng Cũ : 0
+- Lượng Mới : 50000
+- Lượng Thay Đổi :50000 Lượng 
+----------Thời Gian : 2023-10-21 05:57:05--------
+- Name : tknlsk4
+- Tên Giao Dịch : Điểm danh hằng ngày
+- Lượng Cũ : 50000
+- Lượng Mới : 50500
+- Lượng Thay Đổi :500 Lượng 
+----------Thời Gian : 2023-10-21 05:57:58--------
+- Name : tknlsk4
+- Tên Giao Dịch : Nhập GIFTCODE tanthu
+- Lượng Cũ : 50450
+- Lượng Mới : 60450
+- Lượng Thay Đổi :10000 Lượng 
+----------Thời Gian : 2023-10-21 05:58:07--------
+- Name : tknlsk4
+- Tên Giao Dịch : Nhập GIFTCODE open
+- Lượng Cũ : 60450
+- Lượng Mới : 70450
+- Lượng Thay Đổi :10000 Lượng 
+----------Thời Gian : 2023-10-21 05:58:17--------
+- Name : tknlsk4
+- Tên Giao Dịch : Nhập GIFTCODE quatang
+- Lượng Cũ : 70450
+- Lượng Mới : 120450
+- Lượng Thay Đổi :50000 Lượng 
+----------Thời Gian : 2023-10-21 05:58:25--------
+- Name : tknlsk4
+- Tên Giao Dịch : Nhập GIFTCODE trungthu
+- Lượng Cũ : 120450
+- Lượng Mới : 150450
+- Lượng Thay Đổi :30000 Lượng 
+----------Thời Gian : 2023-10-21 06:00:57--------
+- Name : tknlsk
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 150575
+- Lượng Mới : 149575
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2023-10-21 06:01:44--------
+- Name : tknlsk4
+- Tên Giao Dịch : Nhiệm vụ chính tuyến
+- Lượng Cũ : 150450
+- Lượng Mới : 150500
+- Lượng Thay Đổi :50 Lượng 
+----------Thời Gian : 2023-10-21 06:07:14--------
+- Name : tknlsk4
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 150550
+- Lượng Mới : 149550
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2023-10-21 06:14:26--------
+- Name : thichchetak
+- Tên Giao Dịch : Điểm danh hằng ngày
+- Lượng Cũ : 26628
+- Lượng Mới : 27128
+- Lượng Thay Đổi :500 Lượng 
+----------Thời Gian : 2023-10-21 06:14:36--------
+- Name : thichchetak
+- Tên Giao Dịch : Điểm danh vip
+- Lượng Cũ : 27128
+- Lượng Mới : 57128
+- Lượng Thay Đổi :30000 Lượng 
+----------Thời Gian : 2023-10-21 06:15:06--------
+- Name : ssamuraiss
+- Tên Giao Dịch : Nhận quà tân thủ
+- Lượng Cũ : 0
+- Lượng Mới : 50000
+- Lượng Thay Đổi :50000 Lượng 
+----------Thời Gian : 2023-10-21 06:15:16--------
+- Name : ssamuraiss
+- Tên Giao Dịch : Điểm danh hằng ngày
+- Lượng Cũ : 50000
+- Lượng Mới : 50500
+- Lượng Thay Đổi :500 Lượng 
+----------Thời Gian : 2023-10-21 06:16:49--------
+- Name : tknlsk5
+- Tên Giao Dịch : Điểm danh hằng ngày
+- Lượng Cũ : 0
+- Lượng Mới : 500
+- Lượng Thay Đổi :500 Lượng 
+----------Thời Gian : 2023-10-21 06:16:50--------
+- Name : tknlsk5
+- Tên Giao Dịch : Nhận quà tân thủ
+- Lượng Cũ : 500
+- Lượng Mới : 50500
+- Lượng Thay Đổi :50000 Lượng 
+----------Thời Gian : 2023-10-21 06:17:13--------
+- Name : thangdz03
+- Tên Giao Dịch : Điểm danh vip
+- Lượng Cũ : 3254433
+- Lượng Mới : 3284433
+- Lượng Thay Đổi :30000 Lượng 
+----------Thời Gian : 2023-10-21 06:17:26--------
+- Name : tknlsk5
+- Tên Giao Dịch : Nhập GIFTCODE open
+- Lượng Cũ : 50475
+- Lượng Mới : 60475
+- Lượng Thay Đổi :10000 Lượng 
+----------Thời Gian : 2023-10-21 06:17:35--------
+- Name : tknlsk5
+- Tên Giao Dịch : Nhập GIFTCODE tanthu
+- Lượng Cũ : 60475
+- Lượng Mới : 70475
+- Lượng Thay Đổi :10000 Lượng 
+----------Thời Gian : 2023-10-21 06:17:52--------
+- Name : tknlsk5
+- Tên Giao Dịch : Nhập GIFTCODE quatang
+- Lượng Cũ : 70475
+- Lượng Mới : 120475
+- Lượng Thay Đổi :50000 Lượng 
+----------Thời Gian : 2023-10-21 06:17:59--------
+- Name : tknlsk5
+- Tên Giao Dịch : Nhập GIFTCODE trungthu
+- Lượng Cũ : 120475
+- Lượng Mới : 150475
+- Lượng Thay Đổi :30000 Lượng 
+----------Thời Gian : 2023-10-21 06:21:04--------
+- Name : tknlsk5
+- Tên Giao Dịch : Nhiệm vụ chính tuyến
+- Lượng Cũ : 150475
+- Lượng Mới : 150525
+- Lượng Thay Đổi :50 Lượng 
+----------Thời Gian : 2023-10-21 06:22:24--------
+- Name : tknlsk6
+- Tên Giao Dịch : Nhận quà tân thủ
+- Lượng Cũ : 0
+- Lượng Mới : 50000
+- Lượng Thay Đổi :50000 Lượng 
+----------Thời Gian : 2023-10-21 06:22:25--------
+- Name : tknlsk6
+- Tên Giao Dịch : Điểm danh hằng ngày
+- Lượng Cũ : 50000
+- Lượng Mới : 50500
+- Lượng Thay Đổi :500 Lượng 
+----------Thời Gian : 2023-10-21 06:23:08--------
+- Name : 0nline12h
+- Tên Giao Dịch : Điểm danh vip
+- Lượng Cũ : 379033
+- Lượng Mới : 409033
+- Lượng Thay Đổi :30000 Lượng 
+----------Thời Gian : 2023-10-21 06:27:04--------
+- Name : tknlsk6
+- Tên Giao Dịch : Nhập GIFTCODE open
+- Lượng Cũ : 50400
+- Lượng Mới : 60400
+- Lượng Thay Đổi :10000 Lượng 
+----------Thời Gian : 2023-10-21 06:27:10--------
+- Name : tknlsk6
+- Tên Giao Dịch : Nhập GIFTCODE tanthu
+- Lượng Cũ : 60400
+- Lượng Mới : 70400
+- Lượng Thay Đổi :10000 Lượng 
+----------Thời Gian : 2023-10-21 06:27:24--------
+- Name : tknlsk6
+- Tên Giao Dịch : Nhập GIFTCODE quatang
+- Lượng Cũ : 70400
+- Lượng Mới : 120400
+- Lượng Thay Đổi :50000 Lượng 
+----------Thời Gian : 2023-10-21 06:27:30--------
+- Name : tknlsk6
+- Tên Giao Dịch : Nhập GIFTCODE trungthu
+- Lượng Cũ : 120400
+- Lượng Mới : 150400
+- Lượng Thay Đổi :30000 Lượng 
+----------Thời Gian : 2023-10-21 06:30:16--------
+- Name : tknlsk5
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 150575
+- Lượng Mới : 149575
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2023-10-21 06:30:46--------
+- Name : vaical
+- Tên Giao Dịch : Điểm danh vip
+- Lượng Cũ : 74490
+- Lượng Mới : 84490
+- Lượng Thay Đổi :10000 Lượng 
+----------Thời Gian : 2023-10-21 06:30:52--------
+- Name : vaical
+- Tên Giao Dịch : Điểm danh hằng ngày
+- Lượng Cũ : 84490
+- Lượng Mới : 84990
+- Lượng Thay Đổi :500 Lượng 
+----------Thời Gian : 2023-10-21 06:31:28--------
+- Name : tknlsk6
+- Tên Giao Dịch : Nhiệm vụ chính tuyến
+- Lượng Cũ : 150300
+- Lượng Mới : 150350
+- Lượng Thay Đổi :50 Lượng 
+----------Thời Gian : 2023-10-21 06:35:25--------
+- Name : tknlsk6
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 150400
+- Lượng Mới : 149400
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2023-10-21 06:36:59--------
+- Name : tknlsk7
+- Tên Giao Dịch : Nhận quà tân thủ
+- Lượng Cũ : 0
+- Lượng Mới : 50000
+- Lượng Thay Đổi :50000 Lượng 
+----------Thời Gian : 2023-10-21 06:37:00--------
+- Name : tknlsk7
+- Tên Giao Dịch : Điểm danh hằng ngày
+- Lượng Cũ : 50000
+- Lượng Mới : 50500
+- Lượng Thay Đổi :500 Lượng 
+----------Thời Gian : 2023-10-21 06:37:52--------
+- Name : tknlsk7
+- Tên Giao Dịch : Nhập GIFTCODE open
+- Lượng Cũ : 50475
+- Lượng Mới : 60475
+- Lượng Thay Đổi :10000 Lượng 
+----------Thời Gian : 2023-10-21 06:37:57--------
+- Name : tknlsk7
+- Tên Giao Dịch : Nhập GIFTCODE tanthu
+- Lượng Cũ : 60475
+- Lượng Mới : 70475
+- Lượng Thay Đổi :10000 Lượng 
+----------Thời Gian : 2023-10-21 06:38:09--------
+- Name : tknlsk7
+- Tên Giao Dịch : Nhập GIFTCODE quatang
+- Lượng Cũ : 70475
+- Lượng Mới : 120475
+- Lượng Thay Đổi :50000 Lượng 
+----------Thời Gian : 2023-10-21 06:38:14--------
+- Name : tknlsk7
+- Tên Giao Dịch : Nhập GIFTCODE trungthu
+- Lượng Cũ : 120475
+- Lượng Mới : 150475
+- Lượng Thay Đổi :30000 Lượng 
+----------Thời Gian : 2023-10-21 06:41:43--------
+- Name : tknlsk2
+- Tên Giao Dịch : Nhận thưởng thăng cấp
+- Lượng Cũ : 150350
+- Lượng Mới : 151350
+- Lượng Thay Đổi :1000 Lượng 
+----------Thời Gian : 2023-10-21 06:41:47--------
+- Name : tknlsk2
+- Tên Giao Dịch : Nhận thưởng thăng cấp
+- Lượng Cũ : 151350
+- Lượng Mới : 153350
+- Lượng Thay Đổi :2000 Lượng 
+----------Thời Gian : 2023-10-21 06:41:54--------
+- Name : tknlsk7
+- Tên Giao Dịch : Nhiệm vụ chính tuyến
+- Lượng Cũ : 150475
+- Lượng Mới : 150525
+- Lượng Thay Đổi :50 Lượng 
+----------Thời Gian : 2023-10-21 06:45:35--------
+- Name : tknlsk7
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 150575
+- Lượng Mới : 149575
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2023-10-21 06:50:02--------
+- Name : maiyeuvo
+- Tên Giao Dịch : Nhiệm vụ chính tuyến
+- Lượng Cũ : 150575
+- Lượng Mới : 150625
+- Lượng Thay Đổi :50 Lượng 
+----------Thời Gian : 2023-10-21 06:52:32--------
+- Name : jsjjaajh
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 9160
+- Lượng Mới : 9155
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 06:52:34--------
+- Name : jsjjaajh
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 9155
+- Lượng Mới : 9150
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 06:52:36--------
+- Name : jsjjaajh
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 9150
+- Lượng Mới : 9145
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 06:52:38--------
+- Name : jsjjaajh
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 9145
+- Lượng Mới : 9140
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 06:52:40--------
+- Name : jsjjaajh
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 9140
+- Lượng Mới : 9135
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 06:52:42--------
+- Name : jsjjaajh
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 9135
+- Lượng Mới : 9130
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 06:52:44--------
+- Name : jsjjaajh
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 9130
+- Lượng Mới : 9125
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 06:52:46--------
+- Name : jsjjaajh
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 9125
+- Lượng Mới : 9120
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 06:52:48--------
+- Name : jsjjaajh
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 9120
+- Lượng Mới : 9115
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 06:52:50--------
+- Name : jsjjaajh
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 9115
+- Lượng Mới : 9110
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 06:52:52--------
+- Name : jsjjaajh
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 9110
+- Lượng Mới : 9105
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 06:52:54--------
+- Name : jsjjaajh
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 9105
+- Lượng Mới : 9100
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 06:52:56--------
+- Name : jsjjaajh
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 9100
+- Lượng Mới : 9095
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 06:52:58--------
+- Name : jsjjaajh
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 9095
+- Lượng Mới : 9090
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 06:53:00--------
+- Name : jsjjaajh
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 9090
+- Lượng Mới : 9085
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 06:53:02--------
+- Name : jsjjaajh
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 9085
+- Lượng Mới : 9080
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 06:53:04--------
+- Name : jsjjaajh
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 9080
+- Lượng Mới : 9075
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 06:53:06--------
+- Name : jsjjaajh
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 9075
+- Lượng Mới : 9070
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 06:53:08--------
+- Name : jsjjaajh
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 9070
+- Lượng Mới : 9065
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 06:53:10--------
+- Name : jsjjaajh
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 9065
+- Lượng Mới : 9060
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 06:53:12--------
+- Name : jsjjaajh
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 9060
+- Lượng Mới : 9055
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 06:53:14--------
+- Name : jsjjaajh
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 9055
+- Lượng Mới : 9050
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 06:53:16--------
+- Name : jsjjaajh
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 9050
+- Lượng Mới : 9045
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 06:53:18--------
+- Name : jsjjaajh
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 9045
+- Lượng Mới : 9040
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 06:53:20--------
+- Name : jsjjaajh
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 9040
+- Lượng Mới : 9035
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 06:53:22--------
+- Name : jsjjaajh
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 9035
+- Lượng Mới : 9030
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 06:53:24--------
+- Name : jsjjaajh
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 9030
+- Lượng Mới : 9025
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 06:53:26--------
+- Name : jsjjaajh
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 9025
+- Lượng Mới : 9020
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 06:53:28--------
+- Name : jsjjaajh
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 9020
+- Lượng Mới : 9015
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 06:53:30--------
+- Name : jsjjaajh
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 9015
+- Lượng Mới : 9010
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 06:53:32--------
+- Name : jsjjaajh
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 9010
+- Lượng Mới : 9005
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 06:53:34--------
+- Name : jsjjaajh
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 9005
+- Lượng Mới : 9000
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 06:53:36--------
+- Name : jsjjaajh
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 9000
+- Lượng Mới : 8995
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 06:53:38--------
+- Name : jsjjaajh
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 8995
+- Lượng Mới : 8990
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 06:53:40--------
+- Name : jsjjaajh
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 8990
+- Lượng Mới : 8985
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 06:53:42--------
+- Name : jsjjaajh
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 8985
+- Lượng Mới : 8980
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 06:53:44--------
+- Name : jsjjaajh
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 8980
+- Lượng Mới : 8975
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 06:53:46--------
+- Name : jsjjaajh
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 8975
+- Lượng Mới : 8970
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 06:53:48--------
+- Name : jsjjaajh
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 8970
+- Lượng Mới : 8965
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 06:53:50--------
+- Name : jsjjaajh
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 8965
+- Lượng Mới : 8960
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 06:53:52--------
+- Name : jsjjaajh
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 8960
+- Lượng Mới : 8955
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 06:53:54--------
+- Name : jsjjaajh
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 8955
+- Lượng Mới : 8950
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 06:53:56--------
+- Name : jsjjaajh
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 8950
+- Lượng Mới : 8945
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 06:53:58--------
+- Name : jsjjaajh
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 8945
+- Lượng Mới : 8940
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 06:54:00--------
+- Name : jsjjaajh
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 8940
+- Lượng Mới : 8935
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 06:54:02--------
+- Name : jsjjaajh
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 8935
+- Lượng Mới : 8930
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 06:54:04--------
+- Name : jsjjaajh
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 8930
+- Lượng Mới : 8925
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 06:54:20--------
+- Name : nackthem
+- Tên Giao Dịch : Nhiệm vụ chính tuyến
+- Lượng Cũ : 46125
+- Lượng Mới : 46175
+- Lượng Thay Đổi :50 Lượng 
+----------Thời Gian : 2023-10-21 06:55:45--------
+- Name : raxwws
+- Tên Giao Dịch : Điểm danh hằng ngày
+- Lượng Cũ : 138290
+- Lượng Mới : 138790
+- Lượng Thay Đổi :500 Lượng 
+----------Thời Gian : 2023-10-21 06:57:50--------
+- Name : ninja66
+- Tên Giao Dịch : Điểm danh hằng ngày
+- Lượng Cũ : 73055
+- Lượng Mới : 73555
+- Lượng Thay Đổi :500 Lượng 
+----------Thời Gian : 2023-10-21 07:01:23--------
+- Name : vovoyeu
+- Tên Giao Dịch : Điểm danh hằng ngày
+- Lượng Cũ : 84752
+- Lượng Mới : 85252
+- Lượng Thay Đổi :500 Lượng 
+----------Thời Gian : 2023-10-21 07:09:35--------
+- Name : nackthem
+- Tên Giao Dịch : Điểm danh hằng ngày
+- Lượng Cũ : 44175
+- Lượng Mới : 44675
+- Lượng Thay Đổi :500 Lượng 
+----------Thời Gian : 2023-10-21 07:10:06--------
+- Name : badaobg99x
+- Tên Giao Dịch : Điểm danh hằng ngày
+- Lượng Cũ : 588571
+- Lượng Mới : 589071
+- Lượng Thay Đổi :500 Lượng 
+----------Thời Gian : 2023-10-21 07:10:13--------
+- Name : badaobg99x
+- Tên Giao Dịch : Điểm danh vip
+- Lượng Cũ : 589071
+- Lượng Mới : 619071
+- Lượng Thay Đổi :30000 Lượng 
+----------Thời Gian : 2023-10-21 07:12:45--------
+- Name : pikaga
+- Tên Giao Dịch : Điểm danh hằng ngày
+- Lượng Cũ : 118699
+- Lượng Mới : 119199
+- Lượng Thay Đổi :500 Lượng 
+----------Thời Gian : 2023-10-21 07:12:53--------
+- Name : pikaga
+- Tên Giao Dịch : Điểm danh vip
+- Lượng Cũ : 119199
+- Lượng Mới : 139199
+- Lượng Thay Đổi :20000 Lượng 
+----------Thời Gian : 2023-10-21 07:14:55--------
+- Name : lanimel
+- Tên Giao Dịch : Nhận quà tân thủ
+- Lượng Cũ : 0
+- Lượng Mới : 50000
+- Lượng Thay Đổi :50000 Lượng 
+----------Thời Gian : 2023-10-21 07:14:57--------
+- Name : lanimel
+- Tên Giao Dịch : Điểm danh hằng ngày
+- Lượng Cũ : 50000
+- Lượng Mới : 50500
+- Lượng Thay Đổi :500 Lượng 
+----------Thời Gian : 2023-10-21 07:24:42--------
+- Name : zzkayw3
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 21102
+- Lượng Mới : 21097
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 07:25:14--------
+- Name : yalayling
+- Tên Giao Dịch : Điểm danh hằng ngày
+- Lượng Cũ : 146113
+- Lượng Mới : 146613
+- Lượng Thay Đổi :500 Lượng 
+----------Thời Gian : 2023-10-21 07:30:39--------
+- Name : phecan37
+- Tên Giao Dịch : Điểm danh hằng ngày
+- Lượng Cũ : 21062
+- Lượng Mới : 21562
+- Lượng Thay Đổi :500 Lượng 
+----------Thời Gian : 2023-10-21 07:30:56--------
+- Name : phecan37
+- Tên Giao Dịch : Điểm danh vip
+- Lượng Cũ : 21562
+- Lượng Mới : 31562
+- Lượng Thay Đổi :10000 Lượng 
+----------Thời Gian : 2023-10-21 07:31:01--------
+- Name : phecan37
+- Tên Giao Dịch : Nâng Cấp Bí Kíp
+- Lượng Cũ : 31562
+- Lượng Mới : -4500
+- Lượng Thay Đổi :-4500 Lượng 
+----------Thời Gian : 2023-10-21 07:31:35--------
+- Name : phecan37
+- Tên Giao Dịch : Thăng Ấn
+- Lượng Cũ : 27062
+- Lượng Mới : 21562
+- Lượng Thay Đổi :-5500 Lượng 
+----------Thời Gian : 2023-10-21 07:39:00--------
+- Name : yalayling
+- Tên Giao Dịch : Nhiệm vụ chính tuyến
+- Lượng Cũ : 146613
+- Lượng Mới : 146663
+- Lượng Thay Đổi :50 Lượng 
+----------Thời Gian : 2023-10-21 07:53:18--------
+- Name : kehuydiet
+- Tên Giao Dịch : Điểm danh vip
+- Lượng Cũ : 272902
+- Lượng Mới : 302902
+- Lượng Thay Đổi :30000 Lượng 
+----------Thời Gian : 2023-10-21 07:53:27--------
+- Name : kehuydiet
+- Tên Giao Dịch : Điểm danh hằng ngày
+- Lượng Cũ : 302902
+- Lượng Mới : 303402
+- Lượng Thay Đổi :500 Lượng 
+----------Thời Gian : 2023-10-21 07:55:40--------
+- Name : yb123456789
+- Tên Giao Dịch : Điểm danh hằng ngày
+- Lượng Cũ : 140265
+- Lượng Mới : 140765
+- Lượng Thay Đổi :500 Lượng 
+----------Thời Gian : 2023-10-21 08:00:41--------
+- Name : giangho
+- Tên Giao Dịch : Điểm danh hằng ngày
+- Lượng Cũ : 1535
+- Lượng Mới : 2035
+- Lượng Thay Đổi :500 Lượng 
+----------Thời Gian : 2023-10-21 08:04:28--------
+- Name : anhhh2
+- Tên Giao Dịch : Nâng Cấp Bí Kíp
+- Lượng Cũ : 45684
+- Lượng Mới : -2500
+- Lượng Thay Đổi :-2500 Lượng 
+----------Thời Gian : 2023-10-21 08:04:40--------
+- Name : anhhh2
+- Tên Giao Dịch : Nâng Cấp Bí Kíp
+- Lượng Cũ : 43184
+- Lượng Mới : -2500
+- Lượng Thay Đổi :-2500 Lượng 
+----------Thời Gian : 2023-10-21 08:04:51--------
+- Name : anhhh2
+- Tên Giao Dịch : Nâng Cấp Bí Kíp
+- Lượng Cũ : 40684
+- Lượng Mới : -3000
+- Lượng Thay Đổi :-3000 Lượng 
+----------Thời Gian : 2023-10-21 08:04:55--------
+- Name : anhhh2
+- Tên Giao Dịch : Nâng Cấp Bí Kíp
+- Lượng Cũ : 37684
+- Lượng Mới : -3000
+- Lượng Thay Đổi :-3000 Lượng 
+----------Thời Gian : 2023-10-21 08:04:58--------
+- Name : anhhh2
+- Tên Giao Dịch : Nâng Cấp Bí Kíp
+- Lượng Cũ : 34684
+- Lượng Mới : -3000
+- Lượng Thay Đổi :-3000 Lượng 
+----------Thời Gian : 2023-10-21 08:06:21--------
+- Name : anhhh2
+- Tên Giao Dịch : Nâng Cấp Bí Kíp
+- Lượng Cũ : 31684
+- Lượng Mới : -3000
+- Lượng Thay Đổi :-3000 Lượng 
+----------Thời Gian : 2023-10-21 08:06:31--------
+- Name : anhhh2
+- Tên Giao Dịch : Nâng Cấp Bí Kíp
+- Lượng Cũ : 28684
+- Lượng Mới : -3500
+- Lượng Thay Đổi :-3500 Lượng 
+----------Thời Gian : 2023-10-21 08:07:45--------
+- Name : ngheng
+- Tên Giao Dịch : Điểm danh hằng ngày
+- Lượng Cũ : 32786
+- Lượng Mới : 33286
+- Lượng Thay Đổi :500 Lượng 
+----------Thời Gian : 2023-10-21 08:07:54--------
+- Name : ngheng
+- Tên Giao Dịch : Điểm danh vip
+- Lượng Cũ : 33286
+- Lượng Mới : 43286
+- Lượng Thay Đổi :10000 Lượng 
+----------Thời Gian : 2023-10-21 08:10:24--------
+- Name : kekoks
+- Tên Giao Dịch : Điểm danh hằng ngày
+- Lượng Cũ : 49790
+- Lượng Mới : 50290
+- Lượng Thay Đổi :500 Lượng 
+----------Thời Gian : 2023-10-21 08:11:43--------
+- Name : tataros
+- Tên Giao Dịch : Làm 1 Bó Hộp bánh thượng hạng
+- Lượng Cũ : 137899
+- Lượng Mới : 137849
+- Lượng Thay Đổi :-50 Lượng 
+----------Thời Gian : 2023-10-21 08:15:08--------
+- Name : skekoks
+- Tên Giao Dịch : Điểm danh hằng ngày
+- Lượng Cũ : 113449
+- Lượng Mới : 113949
+- Lượng Thay Đổi :500 Lượng 
+----------Thời Gian : 2023-10-21 08:20:10--------
+- Name : minmax
+- Tên Giao Dịch : Điểm danh hằng ngày
+- Lượng Cũ : 6617
+- Lượng Mới : 7117
+- Lượng Thay Đổi :500 Lượng 
+----------Thời Gian : 2023-10-21 08:24:44--------
+- Name : badaobg99x
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 623660
+- Lượng Mới : 623655
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 08:24:58--------
+- Name : badaobg99x
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 623655
+- Lượng Mới : 623650
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 08:26:27--------
+- Name : badaobg99x
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 623650
+- Lượng Mới : 623645
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 08:26:40--------
+- Name : badaobg99x
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 623645
+- Lượng Mới : 623640
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 08:27:25--------
+- Name : badaobg99x
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 623640
+- Lượng Mới : 623635
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 08:34:13--------
+- Name : khoicuto
+- Tên Giao Dịch : Điểm danh hằng ngày
+- Lượng Cũ : 40704
+- Lượng Mới : 41204
+- Lượng Thay Đổi :500 Lượng 
+----------Thời Gian : 2023-10-21 08:34:47--------
+- Name : thuongyeu
+- Tên Giao Dịch : Điểm danh hằng ngày
+- Lượng Cũ : 6077
+- Lượng Mới : 6577
+- Lượng Thay Đổi :500 Lượng 
+----------Thời Gian : 2023-10-21 08:34:58--------
+- Name : thuongyeu
+- Tên Giao Dịch : Điểm Danh Gia Tộc
+- Lượng Cũ : 6577
+- Lượng Mới : 6947
+- Lượng Thay Đổi :370 Lượng 
+----------Thời Gian : 2023-10-21 08:43:17--------
+- Name : yeuthuong
+- Tên Giao Dịch : Điểm danh vip
+- Lượng Cũ : 22686
+- Lượng Mới : 27686
+- Lượng Thay Đổi :5000 Lượng 
+----------Thời Gian : 2023-10-21 08:43:22--------
+- Name : yeuthuong
+- Tên Giao Dịch : Điểm danh hằng ngày
+- Lượng Cũ : 27686
+- Lượng Mới : 28186
+- Lượng Thay Đổi :500 Lượng 
+----------Thời Gian : 2023-10-21 08:46:36--------
+- Name : viettelpay
+- Tên Giao Dịch : Điểm Danh Gia Tộc
+- Lượng Cũ : 41342
+- Lượng Mới : 41712
+- Lượng Thay Đổi :370 Lượng 
+----------Thời Gian : 2023-10-21 08:50:06--------
+- Name : trum130
+- Tên Giao Dịch : Điểm danh vip
+- Lượng Cũ : 3890574
+- Lượng Mới : 3920574
+- Lượng Thay Đổi :30000 Lượng 
+----------Thời Gian : 2023-10-21 08:50:12--------
+- Name : trum130
+- Tên Giao Dịch : Điểm danh hằng ngày
+- Lượng Cũ : 3920574
+- Lượng Mới : 3921074
+- Lượng Thay Đổi :500 Lượng 
+----------Thời Gian : 2023-10-21 08:50:59--------
+- Name : vinataba
+- Tên Giao Dịch : Điểm danh vip
+- Lượng Cũ : 724269
+- Lượng Mới : 734269
+- Lượng Thay Đổi :10000 Lượng 
+----------Thời Gian : 2023-10-21 08:51:05--------
+- Name : vinataba
+- Tên Giao Dịch : Điểm danh hằng ngày
+- Lượng Cũ : 734269
+- Lượng Mới : 734769
+- Lượng Thay Đổi :500 Lượng 
+----------Thời Gian : 2023-10-21 08:51:26--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Điểm danh vip
+- Lượng Cũ : 738357
+- Lượng Mới : 768357
+- Lượng Thay Đổi :30000 Lượng 
+----------Thời Gian : 2023-10-21 08:51:31--------
+- Name : trainghiemgame
+- Tên Giao Dịch : Điểm danh hằng ngày
+- Lượng Cũ : 768357
+- Lượng Mới : 768857
+- Lượng Thay Đổi :500 Lượng 
+----------Thời Gian : 2023-10-21 08:51:48--------
+- Name : yalayling
+- Tên Giao Dịch : Nhiệm vụ chính tuyến
+- Lượng Cũ : 146513
+- Lượng Mới : 146563
+- Lượng Thay Đổi :50 Lượng 
+----------Thời Gian : 2023-10-21 08:52:00--------
+- Name : kakakq
+- Tên Giao Dịch : Điểm danh hằng ngày
+- Lượng Cũ : 1776592
+- Lượng Mới : 1777092
+- Lượng Thay Đổi :500 Lượng 
+----------Thời Gian : 2023-10-21 08:52:06--------
+- Name : kakakq
+- Tên Giao Dịch : Điểm danh vip
+- Lượng Cũ : 1777092
+- Lượng Mới : 1807092
+- Lượng Thay Đổi :30000 Lượng 
+----------Thời Gian : 2023-10-21 08:52:38--------
+- Name : minmax
+- Tên Giao Dịch : Điểm danh vip
+- Lượng Cũ : 7117
+- Lượng Mới : 17117
+- Lượng Thay Đổi :10000 Lượng 
+----------Thời Gian : 2023-10-21 08:54:28--------
+- Name : yalayling
+- Tên Giao Dịch : Nhiệm vụ chính tuyến
+- Lượng Cũ : 146613
+- Lượng Mới : 146663
+- Lượng Thay Đổi :50 Lượng 
+----------Thời Gian : 2023-10-21 09:02:32--------
+- Name : bae1209
+- Tên Giao Dịch : Điểm danh vip
+- Lượng Cũ : 215866
+- Lượng Mới : 245866
+- Lượng Thay Đổi :30000 Lượng 
+----------Thời Gian : 2023-10-21 09:02:40--------
+- Name : bae1209
+- Tên Giao Dịch : Điểm danh hằng ngày
+- Lượng Cũ : 245866
+- Lượng Mới : 246366
+- Lượng Thay Đổi :500 Lượng 
+----------Thời Gian : 2023-10-21 09:02:47--------
+- Name : bae1209
+- Tên Giao Dịch : Điểm Danh Gia Tộc
+- Lượng Cũ : 246366
+- Lượng Mới : 246736
+- Lượng Thay Đổi :370 Lượng 
+----------Thời Gian : 2023-10-21 09:04:02--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246736
+- Lượng Mới : 246731
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:04:09--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246731
+- Lượng Mới : 246726
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:04:11--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246726
+- Lượng Mới : 246721
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:04:13--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246721
+- Lượng Mới : 246716
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:04:15--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246716
+- Lượng Mới : 246711
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:04:17--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246711
+- Lượng Mới : 246706
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:04:21--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246706
+- Lượng Mới : 246701
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:04:23--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246701
+- Lượng Mới : 246696
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:04:25--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246696
+- Lượng Mới : 246691
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:04:27--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246691
+- Lượng Mới : 246686
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:04:29--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246686
+- Lượng Mới : 246681
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:04:33--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246681
+- Lượng Mới : 246676
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:04:35--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246676
+- Lượng Mới : 246671
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:04:37--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246671
+- Lượng Mới : 246666
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:04:39--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246666
+- Lượng Mới : 246661
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:04:41--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246661
+- Lượng Mới : 246656
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:04:45--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246656
+- Lượng Mới : 246651
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:04:47--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246651
+- Lượng Mới : 246646
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:04:49--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246646
+- Lượng Mới : 246641
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:04:51--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246641
+- Lượng Mới : 246636
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:04:53--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246636
+- Lượng Mới : 246631
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:04:57--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246631
+- Lượng Mới : 246626
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:04:59--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246626
+- Lượng Mới : 246621
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:05:01--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246621
+- Lượng Mới : 246616
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:05:03--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246616
+- Lượng Mới : 246611
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:05:05--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246611
+- Lượng Mới : 246606
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:05:09--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246606
+- Lượng Mới : 246601
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:05:11--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246601
+- Lượng Mới : 246596
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:05:13--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246596
+- Lượng Mới : 246591
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:05:15--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246591
+- Lượng Mới : 246586
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:05:17--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246586
+- Lượng Mới : 246581
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:05:21--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246581
+- Lượng Mới : 246576
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:05:23--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246576
+- Lượng Mới : 246571
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:05:25--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246571
+- Lượng Mới : 246566
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:05:27--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246566
+- Lượng Mới : 246561
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:05:29--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246561
+- Lượng Mới : 246556
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:05:33--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246556
+- Lượng Mới : 246551
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:05:35--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246551
+- Lượng Mới : 246546
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:05:37--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246546
+- Lượng Mới : 246541
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:05:39--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246541
+- Lượng Mới : 246536
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:05:41--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246536
+- Lượng Mới : 246531
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:05:45--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246531
+- Lượng Mới : 246526
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:05:47--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246526
+- Lượng Mới : 246521
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:05:49--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246521
+- Lượng Mới : 246516
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:05:51--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246516
+- Lượng Mới : 246511
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:05:53--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246511
+- Lượng Mới : 246506
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:05:57--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246506
+- Lượng Mới : 246501
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:05:59--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246501
+- Lượng Mới : 246496
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:06:01--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246496
+- Lượng Mới : 246491
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:06:03--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246491
+- Lượng Mới : 246486
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:06:05--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246486
+- Lượng Mới : 246481
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:06:09--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246481
+- Lượng Mới : 246476
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:06:10--------
+- Name : nackthem
+- Tên Giao Dịch : Nhiệm vụ chính tuyến
+- Lượng Cũ : 44675
+- Lượng Mới : 44725
+- Lượng Thay Đổi :50 Lượng 
+----------Thời Gian : 2023-10-21 09:06:11--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246476
+- Lượng Mới : 246471
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:06:14--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246471
+- Lượng Mới : 246466
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:06:16--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246466
+- Lượng Mới : 246461
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:06:17--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246461
+- Lượng Mới : 246456
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:06:22--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246456
+- Lượng Mới : 246451
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:06:24--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246451
+- Lượng Mới : 246446
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:06:26--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246446
+- Lượng Mới : 246441
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:06:28--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246441
+- Lượng Mới : 246436
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:06:30--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246436
+- Lượng Mới : 246431
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:06:34--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246431
+- Lượng Mới : 246426
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:06:36--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246426
+- Lượng Mới : 246421
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:06:38--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246421
+- Lượng Mới : 246416
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:06:40--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246416
+- Lượng Mới : 246411
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:06:42--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246411
+- Lượng Mới : 246406
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:06:46--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246406
+- Lượng Mới : 246401
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:06:48--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246401
+- Lượng Mới : 246396
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:06:50--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246396
+- Lượng Mới : 246391
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:06:52--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246391
+- Lượng Mới : 246386
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:06:54--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246386
+- Lượng Mới : 246381
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:07:23--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246381
+- Lượng Mới : 246376
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:07:23--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246376
+- Lượng Mới : 246371
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:07:30--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246371
+- Lượng Mới : 246366
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:07:30--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246366
+- Lượng Mới : 246361
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:07:39--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246361
+- Lượng Mới : 246356
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:07:39--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246356
+- Lượng Mới : 246351
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:07:46--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246351
+- Lượng Mới : 246346
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:07:46--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246346
+- Lượng Mới : 246341
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:07:55--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246341
+- Lượng Mới : 246336
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:07:55--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246336
+- Lượng Mới : 246331
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:08:02--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246331
+- Lượng Mới : 246326
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:08:02--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246326
+- Lượng Mới : 246321
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:08:04--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246321
+- Lượng Mới : 246316
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:08:04--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246316
+- Lượng Mới : 246311
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:08:07--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246311
+- Lượng Mới : 246306
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:08:07--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246306
+- Lượng Mới : 246301
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:08:09--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246301
+- Lượng Mới : 246296
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:08:09--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246296
+- Lượng Mới : 246291
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:08:11--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246291
+- Lượng Mới : 246286
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:08:11--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246286
+- Lượng Mới : 246281
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:08:13--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246281
+- Lượng Mới : 246276
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:08:13--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246276
+- Lượng Mới : 246271
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:08:15--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246271
+- Lượng Mới : 246266
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:08:15--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246266
+- Lượng Mới : 246261
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:08:19--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246261
+- Lượng Mới : 246256
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:08:19--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246256
+- Lượng Mới : 246251
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:08:21--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246251
+- Lượng Mới : 246246
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:08:21--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246246
+- Lượng Mới : 246241
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:08:23--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246241
+- Lượng Mới : 246236
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:08:23--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246236
+- Lượng Mới : 246231
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:08:25--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246231
+- Lượng Mới : 246226
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:08:25--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246226
+- Lượng Mới : 246221
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:08:27--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246221
+- Lượng Mới : 246216
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:08:27--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246216
+- Lượng Mới : 246211
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:08:31--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246211
+- Lượng Mới : 246206
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:08:31--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246206
+- Lượng Mới : 246201
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:08:33--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246201
+- Lượng Mới : 246196
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:08:33--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246196
+- Lượng Mới : 246191
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:08:35--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246191
+- Lượng Mới : 246186
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:08:35--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246186
+- Lượng Mới : 246181
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:08:37--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246181
+- Lượng Mới : 246176
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:08:37--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246176
+- Lượng Mới : 246171
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:08:39--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246171
+- Lượng Mới : 246166
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:08:39--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246166
+- Lượng Mới : 246161
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:08:43--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246161
+- Lượng Mới : 246156
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:08:43--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246156
+- Lượng Mới : 246151
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:08:45--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246151
+- Lượng Mới : 246146
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:08:45--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246146
+- Lượng Mới : 246141
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:08:47--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246141
+- Lượng Mới : 246136
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:08:47--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246136
+- Lượng Mới : 246131
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:08:49--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246131
+- Lượng Mới : 246126
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:08:49--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246126
+- Lượng Mới : 246121
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:08:51--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246121
+- Lượng Mới : 246116
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:08:51--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246116
+- Lượng Mới : 246111
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:08:55--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246111
+- Lượng Mới : 246106
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:08:55--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246106
+- Lượng Mới : 246101
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:08:57--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246101
+- Lượng Mới : 246096
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:08:57--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246096
+- Lượng Mới : 246091
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:08:59--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246091
+- Lượng Mới : 246086
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:08:59--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246086
+- Lượng Mới : 246081
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:09:01--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246081
+- Lượng Mới : 246076
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:09:01--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246076
+- Lượng Mới : 246071
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:09:03--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246071
+- Lượng Mới : 246066
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:09:03--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246066
+- Lượng Mới : 246061
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:09:07--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246061
+- Lượng Mới : 246056
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:09:07--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246056
+- Lượng Mới : 246051
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:09:09--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246051
+- Lượng Mới : 246046
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:09:11--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246046
+- Lượng Mới : 246041
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:09:14--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246041
+- Lượng Mới : 246036
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:09:15--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246036
+- Lượng Mới : 246031
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:09:20--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246031
+- Lượng Mới : 246026
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:09:22--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246026
+- Lượng Mới : 246021
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:09:24--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246021
+- Lượng Mới : 246016
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:09:26--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246016
+- Lượng Mới : 246011
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:09:28--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246011
+- Lượng Mới : 246006
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:09:32--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246006
+- Lượng Mới : 246001
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:09:34--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 246001
+- Lượng Mới : 245996
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:09:36--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 245996
+- Lượng Mới : 245991
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:09:38--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 245991
+- Lượng Mới : 245986
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:09:40--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 245986
+- Lượng Mới : 245981
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:09:44--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 245981
+- Lượng Mới : 245976
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:09:46--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 245976
+- Lượng Mới : 245971
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:09:48--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 245971
+- Lượng Mới : 245966
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:09:50--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 245966
+- Lượng Mới : 245961
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:09:52--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 245961
+- Lượng Mới : 245956
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:09:56--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 245956
+- Lượng Mới : 245951
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:09:58--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 245951
+- Lượng Mới : 245946
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:10:00--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 245946
+- Lượng Mới : 245941
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:10:02--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 245941
+- Lượng Mới : 245936
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:10:04--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 245936
+- Lượng Mới : 245931
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:10:08--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 245931
+- Lượng Mới : 245926
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:10:10--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 245926
+- Lượng Mới : 245921
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:10:12--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 245921
+- Lượng Mới : 245916
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:11:06--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 245916
+- Lượng Mới : 245911
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:11:06--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 245911
+- Lượng Mới : 245906
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:11:15--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 245906
+- Lượng Mới : 245901
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:11:15--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 245901
+- Lượng Mới : 245896
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:11:22--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 245896
+- Lượng Mới : 245891
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:11:22--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 245891
+- Lượng Mới : 245886
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:11:31--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 245886
+- Lượng Mới : 245881
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:11:31--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 245881
+- Lượng Mới : 245876
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:11:38--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 245876
+- Lượng Mới : 245871
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:11:38--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 245871
+- Lượng Mới : 245866
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:11:41--------
+- Name : dungkiem
+- Tên Giao Dịch : Điểm danh hằng ngày
+- Lượng Cũ : 114465
+- Lượng Mới : 114965
+- Lượng Thay Đổi :500 Lượng 
+----------Thời Gian : 2023-10-21 09:11:47--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 245866
+- Lượng Mới : 245861
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:11:47--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 245861
+- Lượng Mới : 245856
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:11:49--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 245856
+- Lượng Mới : 245851
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:11:49--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 245851
+- Lượng Mới : 245846
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:11:51--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 245846
+- Lượng Mới : 245841
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:11:51--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 245841
+- Lượng Mới : 245836
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:11:53--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 245836
+- Lượng Mới : 245831
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:11:53--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 245831
+- Lượng Mới : 245826
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:11:55--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 245826
+- Lượng Mới : 245821
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:11:55--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 245821
+- Lượng Mới : 245816
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:11:59--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 245816
+- Lượng Mới : 245811
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:11:59--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 245811
+- Lượng Mới : 245806
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:12:01--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 245806
+- Lượng Mới : 245801
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:12:01--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 245801
+- Lượng Mới : 245796
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:12:03--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 245796
+- Lượng Mới : 245791
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:12:03--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 245791
+- Lượng Mới : 245786
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:12:05--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 245786
+- Lượng Mới : 245781
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:12:05--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 245781
+- Lượng Mới : 245776
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:12:07--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 245776
+- Lượng Mới : 245771
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:12:07--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 245771
+- Lượng Mới : 245766
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:12:11--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 245766
+- Lượng Mới : 245761
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:12:11--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 245761
+- Lượng Mới : 245756
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:12:13--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 245756
+- Lượng Mới : 245751
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:12:13--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 245751
+- Lượng Mới : 245746
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:12:15--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 245746
+- Lượng Mới : 245741
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:12:15--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 245741
+- Lượng Mới : 245736
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:12:17--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 245736
+- Lượng Mới : 245731
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:12:17--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 245731
+- Lượng Mới : 245726
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:12:19--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 245726
+- Lượng Mới : 245721
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:12:19--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 245721
+- Lượng Mới : 245716
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:12:23--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 245716
+- Lượng Mới : 245711
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:12:23--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 245711
+- Lượng Mới : 245706
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:12:25--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 245706
+- Lượng Mới : 245701
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:12:25--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 245701
+- Lượng Mới : 245696
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:12:27--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 245696
+- Lượng Mới : 245691
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:12:27--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 245691
+- Lượng Mới : 245686
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:12:29--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 245686
+- Lượng Mới : 245681
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:12:29--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 245681
+- Lượng Mới : 245676
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:12:31--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 245676
+- Lượng Mới : 245671
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:12:31--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 245671
+- Lượng Mới : 245666
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:12:35--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 245666
+- Lượng Mới : 245661
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:12:35--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 245661
+- Lượng Mới : 245656
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:12:37--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 245656
+- Lượng Mới : 245651
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:12:37--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 245651
+- Lượng Mới : 245646
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:12:39--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 245646
+- Lượng Mới : 245641
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:12:39--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 245641
+- Lượng Mới : 245636
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:12:41--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 245636
+- Lượng Mới : 245631
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:12:41--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 245631
+- Lượng Mới : 245626
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:12:43--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 245626
+- Lượng Mới : 245621
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:12:47--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 245621
+- Lượng Mới : 245616
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:12:49--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 245616
+- Lượng Mới : 245611
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:12:51--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 245611
+- Lượng Mới : 245606
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:12:53--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 245606
+- Lượng Mới : 245601
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:12:55--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 245601
+- Lượng Mới : 245596
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:12:59--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 245596
+- Lượng Mới : 245591
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:13:01--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 245591
+- Lượng Mới : 245586
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:13:03--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 245586
+- Lượng Mới : 245581
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:13:05--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 245581
+- Lượng Mới : 245576
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:13:07--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 245576
+- Lượng Mới : 245571
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:13:11--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 245571
+- Lượng Mới : 245566
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:13:13--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 245566
+- Lượng Mới : 245561
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:13:15--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 245561
+- Lượng Mới : 245556
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:13:17--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 245556
+- Lượng Mới : 245551
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:13:19--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 245551
+- Lượng Mới : 245546
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:13:23--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 245546
+- Lượng Mới : 245541
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:13:25--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 245541
+- Lượng Mới : 245536
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:13:27--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 245536
+- Lượng Mới : 245531
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:13:29--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 245531
+- Lượng Mới : 245526
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:13:31--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 245526
+- Lượng Mới : 245521
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:13:35--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 245521
+- Lượng Mới : 245516
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:13:37--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 245516
+- Lượng Mới : 245511
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:13:39--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 245511
+- Lượng Mới : 245506
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:13:41--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 245506
+- Lượng Mới : 245501
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:13:43--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 245501
+- Lượng Mới : 245496
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:13:47--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 245496
+- Lượng Mới : 245491
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:13:49--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 245491
+- Lượng Mới : 245486
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:13:51--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 245486
+- Lượng Mới : 245481
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:13:53--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 245481
+- Lượng Mới : 245476
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:13:55--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 245476
+- Lượng Mới : 245471
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:13:59--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 245471
+- Lượng Mới : 245466
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:14:01--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 245466
+- Lượng Mới : 245461
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:14:03--------
+- Name : bae1209
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 245461
+- Lượng Mới : 245456
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:14:42--------
+- Name : thuychi
+- Tên Giao Dịch : Điểm danh hằng ngày
+- Lượng Cũ : 0
+- Lượng Mới : 500
+- Lượng Thay Đổi :500 Lượng 
+----------Thời Gian : 2023-10-21 09:14:44--------
+- Name : thuychi
+- Tên Giao Dịch : Nhận quà tân thủ
+- Lượng Cũ : 500
+- Lượng Mới : 50500
+- Lượng Thay Đổi :50000 Lượng 
+----------Thời Gian : 2023-10-21 09:16:46--------
+- Name : thuychi
+- Tên Giao Dịch : Nhập GIFTCODE open
+- Lượng Cũ : 32450
+- Lượng Mới : 42450
+- Lượng Thay Đổi :10000 Lượng 
+----------Thời Gian : 2023-10-21 09:16:53--------
+- Name : thuychi
+- Tên Giao Dịch : Nhập GIFTCODE tanthu
+- Lượng Cũ : 42450
+- Lượng Mới : 52450
+- Lượng Thay Đổi :10000 Lượng 
+----------Thời Gian : 2023-10-21 09:17:03--------
+- Name : thuychi
+- Tên Giao Dịch : Nhập GIFTCODE quatang
+- Lượng Cũ : 52450
+- Lượng Mới : 102450
+- Lượng Thay Đổi :50000 Lượng 
+----------Thời Gian : 2023-10-21 09:17:11--------
+- Name : thuychi
+- Tên Giao Dịch : Nhập GIFTCODE trungthu
+- Lượng Cũ : 102450
+- Lượng Mới : 132450
+- Lượng Thay Đổi :30000 Lượng 
+----------Thời Gian : 2023-10-21 09:17:26--------
+- Name : boon1
+- Tên Giao Dịch : Điểm danh vip
+- Lượng Cũ : 7062
+- Lượng Mới : 17062
+- Lượng Thay Đổi :10000 Lượng 
+----------Thời Gian : 2023-10-21 09:17:32--------
+- Name : boon1
+- Tên Giao Dịch : Điểm danh hằng ngày
+- Lượng Cũ : 17062
+- Lượng Mới : 17562
+- Lượng Thay Đổi :500 Lượng 
+----------Thời Gian : 2023-10-21 09:17:56--------
+- Name : boon1
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 17562
+- Lượng Mới : 17557
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:18:22--------
+- Name : boon1
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 17557
+- Lượng Mới : 17552
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:18:26--------
+- Name : boon1
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 17552
+- Lượng Mới : 17547
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:18:28--------
+- Name : boon1
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 17547
+- Lượng Mới : 17542
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:18:30--------
+- Name : boon1
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 17542
+- Lượng Mới : 17537
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:18:32--------
+- Name : boon1
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 17537
+- Lượng Mới : 17532
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:18:34--------
+- Name : boon1
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 17532
+- Lượng Mới : 17527
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:18:36--------
+- Name : boon1
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 17527
+- Lượng Mới : 17522
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:18:38--------
+- Name : boon1
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 17522
+- Lượng Mới : 17517
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:18:40--------
+- Name : boon1
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 17517
+- Lượng Mới : 17512
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:18:42--------
+- Name : boon1
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 17512
+- Lượng Mới : 17507
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:18:44--------
+- Name : boon1
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 17507
+- Lượng Mới : 17502
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:18:46--------
+- Name : boon1
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 17502
+- Lượng Mới : 17497
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:18:48--------
+- Name : boon1
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 17497
+- Lượng Mới : 17492
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:18:50--------
+- Name : boon1
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 17492
+- Lượng Mới : 17487
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:18:52--------
+- Name : boon1
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 17487
+- Lượng Mới : 17482
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:18:54--------
+- Name : boon1
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 17482
+- Lượng Mới : 17477
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:18:56--------
+- Name : boon1
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 17477
+- Lượng Mới : 17472
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:18:58--------
+- Name : boon1
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 17472
+- Lượng Mới : 17467
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:19:00--------
+- Name : boon1
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 17467
+- Lượng Mới : 17462
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:19:03--------
+- Name : boon1
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 17462
+- Lượng Mới : 17457
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:19:05--------
+- Name : boon1
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 17457
+- Lượng Mới : 17452
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:19:07--------
+- Name : boon1
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 17452
+- Lượng Mới : 17447
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:19:09--------
+- Name : boon1
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 17447
+- Lượng Mới : 17442
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:19:11--------
+- Name : boon1
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 17442
+- Lượng Mới : 17437
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:19:13--------
+- Name : boon1
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 17437
+- Lượng Mới : 17432
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:19:16--------
+- Name : boon1
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 17432
+- Lượng Mới : 17427
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:19:18--------
+- Name : boon1
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 17427
+- Lượng Mới : 17422
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:19:20--------
+- Name : boon1
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 17422
+- Lượng Mới : 17417
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:19:22--------
+- Name : boon1
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 17417
+- Lượng Mới : 17412
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:19:24--------
+- Name : boon1
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 17412
+- Lượng Mới : 17407
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:19:26--------
+- Name : boon1
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 17407
+- Lượng Mới : 17402
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:19:28--------
+- Name : boon1
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 17402
+- Lượng Mới : 17397
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:19:30--------
+- Name : boon1
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 17397
+- Lượng Mới : 17392
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:19:32--------
+- Name : boon1
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 17392
+- Lượng Mới : 17387
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:19:34--------
+- Name : boon1
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 17387
+- Lượng Mới : 17382
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:19:36--------
+- Name : boon1
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 17382
+- Lượng Mới : 17377
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:19:38--------
+- Name : boon1
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 17377
+- Lượng Mới : 17372
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:19:40--------
+- Name : boon1
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 17372
+- Lượng Mới : 17367
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:19:42--------
+- Name : boon1
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 17367
+- Lượng Mới : 17362
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:19:44--------
+- Name : boon1
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 17362
+- Lượng Mới : 17357
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:19:46--------
+- Name : boon1
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 17357
+- Lượng Mới : 17352
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:19:48--------
+- Name : boon1
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 17352
+- Lượng Mới : 17347
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:19:50--------
+- Name : boon1
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 17347
+- Lượng Mới : 17342
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:19:52--------
+- Name : boon1
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 17342
+- Lượng Mới : 17337
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:19:54--------
+- Name : boon1
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 17337
+- Lượng Mới : 17332
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:19:56--------
+- Name : boon1
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 17332
+- Lượng Mới : 17327
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:19:59--------
+- Name : boon1
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 17327
+- Lượng Mới : 17322
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:20:01--------
+- Name : boon1
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 17322
+- Lượng Mới : 17317
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:20:03--------
+- Name : boon1
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 17317
+- Lượng Mới : 17312
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:20:05--------
+- Name : boon1
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 17312
+- Lượng Mới : 17307
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:20:07--------
+- Name : boon1
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 17307
+- Lượng Mới : 17302
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:20:09--------
+- Name : boon1
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 17302
+- Lượng Mới : 17297
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:20:11--------
+- Name : boon1
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 17297
+- Lượng Mới : 17292
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:20:13--------
+- Name : boon1
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 17292
+- Lượng Mới : 17287
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:20:15--------
+- Name : boon1
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 17287
+- Lượng Mới : 17282
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:20:17--------
+- Name : boon1
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 17282
+- Lượng Mới : 17277
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:20:19--------
+- Name : boon1
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 17277
+- Lượng Mới : 17272
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:20:21--------
+- Name : boon1
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 17272
+- Lượng Mới : 17267
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:20:23--------
+- Name : boon1
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 17267
+- Lượng Mới : 17262
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:20:25--------
+- Name : boon1
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 17262
+- Lượng Mới : 17257
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:20:27--------
+- Name : boon1
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 17257
+- Lượng Mới : 17252
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:20:29--------
+- Name : boon1
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 17252
+- Lượng Mới : 17247
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:20:31--------
+- Name : boon1
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 17247
+- Lượng Mới : 17242
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:20:33--------
+- Name : boon1
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 17242
+- Lượng Mới : 17237
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:20:35--------
+- Name : boon1
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 17237
+- Lượng Mới : 17232
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:20:37--------
+- Name : boon1
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 17232
+- Lượng Mới : 17227
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:20:39--------
+- Name : boon1
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 17227
+- Lượng Mới : 17222
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:20:42--------
+- Name : boon1
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 17222
+- Lượng Mới : 17217
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:20:44--------
+- Name : boon1
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 17217
+- Lượng Mới : 17212
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:20:46--------
+- Name : boon1
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 17212
+- Lượng Mới : 17207
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:20:48--------
+- Name : boon1
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 17207
+- Lượng Mới : 17202
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:20:50--------
+- Name : boon1
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 17202
+- Lượng Mới : 17197
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:20:52--------
+- Name : boon1
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 17197
+- Lượng Mới : 17192
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:21:05--------
+- Name : zzkayw3
+- Tên Giao Dịch : Nhận thưởng thăng cấp
+- Lượng Cũ : 13547
+- Lượng Mới : 16547
+- Lượng Thay Đổi :3000 Lượng 
+----------Thời Gian : 2023-10-21 09:21:26--------
+- Name : zzkayw3
+- Tên Giao Dịch : Nâng Cấp Bí Kíp
+- Lượng Cũ : 16547
+- Lượng Mới : -100
+- Lượng Thay Đổi :-100 Lượng 
+----------Thời Gian : 2023-10-21 09:24:04--------
+- Name : dat0135
+- Tên Giao Dịch : Nhiệm vụ chính tuyến
+- Lượng Cũ : 144694
+- Lượng Mới : 144744
+- Lượng Thay Đổi :50 Lượng 
+----------Thời Gian : 2023-10-21 09:30:06--------
+- Name : dat0135
+- Tên Giao Dịch : Nhiệm vụ chính tuyến
+- Lượng Cũ : 144794
+- Lượng Mới : 144844
+- Lượng Thay Đổi :50 Lượng 
+----------Thời Gian : 2023-10-21 09:30:40--------
+- Name : dat0135
+- Tên Giao Dịch : Nhiệm vụ chính tuyến
+- Lượng Cũ : 144894
+- Lượng Mới : 144944
+- Lượng Thay Đổi :50 Lượng 
+----------Thời Gian : 2023-10-21 09:32:08--------
+- Name : thichchetak
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 66816
+- Lượng Mới : 66811
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:32:26--------
+- Name : thichchetak
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 66811
+- Lượng Mới : 66806
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:32:44--------
+- Name : thichchetak
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 66806
+- Lượng Mới : 66801
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:33:00--------
+- Name : thichchetak
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 66801
+- Lượng Mới : 66796
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:33:09--------
+- Name : manhnhan
+- Tên Giao Dịch : Điểm danh hằng ngày
+- Lượng Cũ : 1263991
+- Lượng Mới : 1264491
+- Lượng Thay Đổi :500 Lượng 
+----------Thời Gian : 2023-10-21 09:33:14--------
+- Name : thichchetak
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 66796
+- Lượng Mới : 66791
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:33:21--------
+- Name : manhnhan
+- Tên Giao Dịch : Điểm danh vip
+- Lượng Cũ : 1264491
+- Lượng Mới : 1294491
+- Lượng Thay Đổi :30000 Lượng 
+----------Thời Gian : 2023-10-21 09:33:31--------
+- Name : thichchetak
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 66791
+- Lượng Mới : 66786
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:39:14--------
+- Name : dungkiem
+- Tên Giao Dịch :  Đập Đồ 
+- Lượng Cũ : 113565
+- Lượng Mới : 113165
+- Lượng Thay Đổi :-400 Lượng 
+----------Thời Gian : 2023-10-21 09:39:23--------
+- Name : dungkiem
+- Tên Giao Dịch :  Đập Đồ 
+- Lượng Cũ : 113165
+- Lượng Mới : 112765
+- Lượng Thay Đổi :-400 Lượng 
+----------Thời Gian : 2023-10-21 09:41:01--------
+- Name : giovetroi
+- Tên Giao Dịch : Nhận quà tân thủ
+- Lượng Cũ : 0
+- Lượng Mới : 50000
+- Lượng Thay Đổi :50000 Lượng 
+----------Thời Gian : 2023-10-21 09:44:14--------
+- Name : nnd2k
+- Tên Giao Dịch : Điểm danh vip
+- Lượng Cũ : 6240
+- Lượng Mới : 16240
+- Lượng Thay Đổi :10000 Lượng 
+----------Thời Gian : 2023-10-21 09:44:22--------
+- Name : nnd2k
+- Tên Giao Dịch : Điểm danh hằng ngày
+- Lượng Cũ : 16240
+- Lượng Mới : 16740
+- Lượng Thay Đổi :500 Lượng 
+----------Thời Gian : 2023-10-21 09:47:49--------
+- Name : giovetroi
+- Tên Giao Dịch : Nhập GIFTCODE open
+- Lượng Cũ : 45000
+- Lượng Mới : 55000
+- Lượng Thay Đổi :10000 Lượng 
+----------Thời Gian : 2023-10-21 09:48:01--------
+- Name : giovetroi
+- Tên Giao Dịch : Nhập GIFTCODE tanthu
+- Lượng Cũ : 55000
+- Lượng Mới : 65000
+- Lượng Thay Đổi :10000 Lượng 
+----------Thời Gian : 2023-10-21 09:48:21--------
+- Name : vipquat
+- Tên Giao Dịch : Điểm danh hằng ngày
+- Lượng Cũ : 139820
+- Lượng Mới : 140320
+- Lượng Thay Đổi :500 Lượng 
+----------Thời Gian : 2023-10-21 09:48:42--------
+- Name : giovetroi
+- Tên Giao Dịch : Nhập GIFTCODE quatang
+- Lượng Cũ : 65000
+- Lượng Mới : 115000
+- Lượng Thay Đổi :50000 Lượng 
+----------Thời Gian : 2023-10-21 09:48:52--------
+- Name : giovetroi
+- Tên Giao Dịch : Nhập GIFTCODE trungthu
+- Lượng Cũ : 115000
+- Lượng Mới : 145000
+- Lượng Thay Đổi :30000 Lượng 
+----------Thời Gian : 2023-10-21 09:51:11--------
+- Name : khoimc
+- Tên Giao Dịch :  Đập Đồ 
+- Lượng Cũ : 143216
+- Lượng Mới : 143211
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 09:51:15--------
+- Name : khoimc
+- Tên Giao Dịch :  Đập Đồ 
+- Lượng Cũ : 143206
+- Lượng Mới : 143196
+- Lượng Thay Đổi :-10 Lượng 
+----------Thời Gian : 2023-10-21 09:51:30--------
+- Name : khoimc
+- Tên Giao Dịch :  Đập Đồ 
+- Lượng Cũ : 142891
+- Lượng Mới : 142876
+- Lượng Thay Đổi :-15 Lượng 
+----------Thời Gian : 2023-10-21 09:51:33--------
+- Name : khoimc
+- Tên Giao Dịch :  Đập Đồ 
+- Lượng Cũ : 142871
+- Lượng Mới : 142851
+- Lượng Thay Đổi :-20 Lượng 
+----------Thời Gian : 2023-10-21 09:51:43--------
+- Name : khoimc
+- Tên Giao Dịch :  Đập Đồ 
+- Lượng Cũ : 142821
+- Lượng Mới : 142771
+- Lượng Thay Đổi :-50 Lượng 
+----------Thời Gian : 2023-10-21 09:52:20--------
+- Name : dat0135
+- Tên Giao Dịch : Nhiệm vụ chính tuyến
+- Lượng Cũ : 144994
+- Lượng Mới : 145044
+- Lượng Thay Đổi :50 Lượng 
+----------Thời Gian : 2023-10-21 09:53:32--------
+- Name : khoimc
+- Tên Giao Dịch :  Đập Đồ 
+- Lượng Cũ : 142795
+- Lượng Mới : 142794
+- Lượng Thay Đổi :-1 Lượng 
+----------Thời Gian : 2023-10-21 09:53:35--------
+- Name : khoimc
+- Tên Giao Dịch :  Đập Đồ 
+- Lượng Cũ : 142793
+- Lượng Mới : 142791
+- Lượng Thay Đổi :-2 Lượng 
+----------Thời Gian : 2023-10-21 09:53:39--------
+- Name : khoimc
+- Tên Giao Dịch :  Đập Đồ 
+- Lượng Cũ : 142790
+- Lượng Mới : 142787
+- Lượng Thay Đổi :-3 Lượng 
+----------Thời Gian : 2023-10-21 09:53:47--------
+- Name : khoimc
+- Tên Giao Dịch :  Đập Đồ 
+- Lượng Cũ : 142786
+- Lượng Mới : 142782
+- Lượng Thay Đổi :-4 Lượng 
+----------Thời Gian : 2023-10-21 10:03:22--------
+- Name : duyengiac
+- Tên Giao Dịch : Điểm danh hằng ngày
+- Lượng Cũ : 33420
+- Lượng Mới : 33920
+- Lượng Thay Đổi :500 Lượng 
+----------Thời Gian : 2023-10-21 10:05:08--------
+- Name : cungsunu
+- Tên Giao Dịch : Điểm danh hằng ngày
+- Lượng Cũ : 122845
+- Lượng Mới : 123345
+- Lượng Thay Đổi :500 Lượng 
+----------Thời Gian : 2023-10-21 10:06:27--------
+- Name : connitnha
+- Tên Giao Dịch : Điểm danh hằng ngày
+- Lượng Cũ : 147763
+- Lượng Mới : 148263
+- Lượng Thay Đổi :500 Lượng 
+----------Thời Gian : 2023-10-21 10:08:41--------
+- Name : tuvitinh
+- Tên Giao Dịch : Điểm danh hằng ngày
+- Lượng Cũ : 995
+- Lượng Mới : 1495
+- Lượng Thay Đổi :500 Lượng 
+----------Thời Gian : 2023-10-21 10:09:19--------
+- Name : s2trumdao9x
+- Tên Giao Dịch : Điểm danh vip
+- Lượng Cũ : 322866
+- Lượng Mới : 352866
+- Lượng Thay Đổi :30000 Lượng 
+----------Thời Gian : 2023-10-21 10:09:24--------
+- Name : s2trumdao9x
+- Tên Giao Dịch : Điểm danh hằng ngày
+- Lượng Cũ : 352866
+- Lượng Mới : 353366
+- Lượng Thay Đổi :500 Lượng 
+----------Thời Gian : 2023-10-21 10:22:56--------
+- Name : nackthem
+- Tên Giao Dịch : Nhiệm vụ chính tuyến
+- Lượng Cũ : 44775
+- Lượng Mới : 44825
+- Lượng Thay Đổi :50 Lượng 
+----------Thời Gian : 2023-10-21 10:24:06--------
+- Name : samurai1xx
+- Tên Giao Dịch : Điểm danh hằng ngày
+- Lượng Cũ : 0
+- Lượng Mới : 500
+- Lượng Thay Đổi :500 Lượng 
+----------Thời Gian : 2023-10-21 10:24:08--------
+- Name : samurai1xx
+- Tên Giao Dịch : Nhận quà tân thủ
+- Lượng Cũ : 500
+- Lượng Mới : 50500
+- Lượng Thay Đổi :50000 Lượng 
+----------Thời Gian : 2023-10-21 10:27:51--------
+- Name : khoimc
+- Tên Giao Dịch :  Đập Đồ 
+- Lượng Cũ : 142781
+- Lượng Mới : 142776
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 10:27:55--------
+- Name : khoimc
+- Tên Giao Dịch :  Đập Đồ 
+- Lượng Cũ : 142771
+- Lượng Mới : 142761
+- Lượng Thay Đổi :-10 Lượng 
+----------Thời Gian : 2023-10-21 10:27:59--------
+- Name : khoimc
+- Tên Giao Dịch :  Đập Đồ 
+- Lượng Cũ : 142756
+- Lượng Mới : 142741
+- Lượng Thay Đổi :-15 Lượng 
+----------Thời Gian : 2023-10-21 10:28:02--------
+- Name : khoimc
+- Tên Giao Dịch :  Đập Đồ 
+- Lượng Cũ : 142736
+- Lượng Mới : 142716
+- Lượng Thay Đổi :-20 Lượng 
+----------Thời Gian : 2023-10-21 10:28:06--------
+- Name : khoimc
+- Tên Giao Dịch :  Đập Đồ 
+- Lượng Cũ : 142686
+- Lượng Mới : 142636
+- Lượng Thay Đổi :-50 Lượng 
+----------Thời Gian : 2023-10-21 10:28:09--------
+- Name : khoimc
+- Tên Giao Dịch :  Đập Đồ 
+- Lượng Cũ : 142636
+- Lượng Mới : 142586
+- Lượng Thay Đổi :-50 Lượng 
+----------Thời Gian : 2023-10-21 10:28:11--------
+- Name : khoimc
+- Tên Giao Dịch :  Đập Đồ 
+- Lượng Cũ : 142536
+- Lượng Mới : 142436
+- Lượng Thay Đổi :-100 Lượng 
+----------Thời Gian : 2023-10-21 10:29:10--------
+- Name : khoimc
+- Tên Giao Dịch :  Đập Đồ 
+- Lượng Cũ : 142535
+- Lượng Mới : 142534
+- Lượng Thay Đổi :-1 Lượng 
+----------Thời Gian : 2023-10-21 10:29:12--------
+- Name : khoimc
+- Tên Giao Dịch :  Đập Đồ 
+- Lượng Cũ : 142533
+- Lượng Mới : 142531
+- Lượng Thay Đổi :-2 Lượng 
+----------Thời Gian : 2023-10-21 10:29:14--------
+- Name : khoimc
+- Tên Giao Dịch :  Đập Đồ 
+- Lượng Cũ : 142530
+- Lượng Mới : 142527
+- Lượng Thay Đổi :-3 Lượng 
+----------Thời Gian : 2023-10-21 10:29:16--------
+- Name : khoimc
+- Tên Giao Dịch :  Đập Đồ 
+- Lượng Cũ : 142526
+- Lượng Mới : 142522
+- Lượng Thay Đổi :-4 Lượng 
+----------Thời Gian : 2023-10-21 10:29:18--------
+- Name : khoimc
+- Tên Giao Dịch :  Đập Đồ 
+- Lượng Cũ : 142521
+- Lượng Mới : 142516
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 10:29:21--------
+- Name : khoimc
+- Tên Giao Dịch :  Đập Đồ 
+- Lượng Cũ : 142511
+- Lượng Mới : 142501
+- Lượng Thay Đổi :-10 Lượng 
+----------Thời Gian : 2023-10-21 10:29:25--------
+- Name : khoimc
+- Tên Giao Dịch :  Đập Đồ 
+- Lượng Cũ : 142496
+- Lượng Mới : 142481
+- Lượng Thay Đổi :-15 Lượng 
+----------Thời Gian : 2023-10-21 10:29:34--------
+- Name : khoimc
+- Tên Giao Dịch :  Đập Đồ 
+- Lượng Cũ : 142476
+- Lượng Mới : 142456
+- Lượng Thay Đổi :-20 Lượng 
+----------Thời Gian : 2023-10-21 10:29:36--------
+- Name : khoimc
+- Tên Giao Dịch :  Đập Đồ 
+- Lượng Cũ : 142426
+- Lượng Mới : 142376
+- Lượng Thay Đổi :-50 Lượng 
+----------Thời Gian : 2023-10-21 10:29:41--------
+- Name : khoimc
+- Tên Giao Dịch :  Đập Đồ 
+- Lượng Cũ : 142326
+- Lượng Mới : 142226
+- Lượng Thay Đổi :-100 Lượng 
+----------Thời Gian : 2023-10-21 10:37:57--------
+- Name : yuta135
+- Tên Giao Dịch : Nhận quà tân thủ
+- Lượng Cũ : 0
+- Lượng Mới : 50000
+- Lượng Thay Đổi :50000 Lượng 
+----------Thời Gian : 2023-10-21 10:38:00--------
+- Name : yuta135
+- Tên Giao Dịch : Điểm danh hằng ngày
+- Lượng Cũ : 50000
+- Lượng Mới : 50500
+- Lượng Thay Đổi :500 Lượng 
+----------Thời Gian : 2023-10-21 10:53:50--------
+- Name : giovetroi
+- Tên Giao Dịch : Nhận thưởng thăng cấp
+- Lượng Cũ : 144722
+- Lượng Mới : 145722
+- Lượng Thay Đổi :1000 Lượng 
+----------Thời Gian : 2023-10-21 10:55:41--------
+- Name : viettelpay
+- Tên Giao Dịch : Điểm danh hằng ngày
+- Lượng Cũ : 42331
+- Lượng Mới : 42831
+- Lượng Thay Đổi :500 Lượng 
+----------Thời Gian : 2023-10-21 10:59:35--------
+- Name : longks
+- Tên Giao Dịch : Điểm danh hằng ngày
+- Lượng Cũ : 45424
+- Lượng Mới : 45924
+- Lượng Thay Đổi :500 Lượng 
+----------Thời Gian : 2023-10-21 11:00:05--------
+- Name : longks
+- Tên Giao Dịch : Điểm danh vip
+- Lượng Cũ : 43924
+- Lượng Mới : 53924
+- Lượng Thay Đổi :10000 Lượng 
+----------Thời Gian : 2023-10-21 11:03:00--------
+- Name : yuta135
+- Tên Giao Dịch : Nhiệm vụ chính tuyến
+- Lượng Cũ : 50175
+- Lượng Mới : 50225
+- Lượng Thay Đổi :50 Lượng 
+----------Thời Gian : 2023-10-21 11:03:10--------
+- Name : piupew
+- Tên Giao Dịch : Nhận quà tân thủ
+- Lượng Cũ : 0
+- Lượng Mới : 50000
+- Lượng Thay Đổi :50000 Lượng 
+----------Thời Gian : 2023-10-21 11:03:12--------
+- Name : piupew
+- Tên Giao Dịch : Điểm danh hằng ngày
+- Lượng Cũ : 50000
+- Lượng Mới : 50500
+- Lượng Thay Đổi :500 Lượng 
+----------Thời Gian : 2023-10-21 11:04:43--------
+- Name : ohrijin
+- Tên Giao Dịch : Điểm danh hằng ngày
+- Lượng Cũ : 124294
+- Lượng Mới : 124794
+- Lượng Thay Đổi :500 Lượng 
+----------Thời Gian : 2023-10-21 11:06:52--------
+- Name : yuta135
+- Tên Giao Dịch : Nhiệm vụ chính tuyến
+- Lượng Cũ : 50275
+- Lượng Mới : 50325
+- Lượng Thay Đổi :50 Lượng 
+----------Thời Gian : 2023-10-21 11:07:07--------
+- Name : longks
+- Tên Giao Dịch : Làm 150 Bó Hộp bánh thượng hạng
+- Lượng Cũ : 53824
+- Lượng Mới : 46324
+- Lượng Thay Đổi :-7500 Lượng 
+----------Thời Gian : 2023-10-21 11:09:44--------
+- Name : yuta135
+- Tên Giao Dịch : Nhập GIFTCODE open
+- Lượng Cũ : 50375
+- Lượng Mới : 60375
+- Lượng Thay Đổi :10000 Lượng 
+----------Thời Gian : 2023-10-21 11:10:21--------
+- Name : yuta135
+- Tên Giao Dịch : Nhập GIFTCODE tanthu
+- Lượng Cũ : 60375
+- Lượng Mới : 70375
+- Lượng Thay Đổi :10000 Lượng 
+----------Thời Gian : 2023-10-21 11:11:15--------
+- Name : tenhay
+- Tên Giao Dịch : Điểm danh hằng ngày
+- Lượng Cũ : 150197
+- Lượng Mới : 150697
+- Lượng Thay Đổi :500 Lượng 
+----------Thời Gian : 2023-10-21 11:11:26--------
+- Name : yuta135
+- Tên Giao Dịch : Nhập GIFTCODE trungthu
+- Lượng Cũ : 70375
+- Lượng Mới : 100375
+- Lượng Thay Đổi :30000 Lượng 
+----------Thời Gian : 2023-10-21 11:11:47--------
+- Name : yuta135
+- Tên Giao Dịch : Nhập GIFTCODE quatang
+- Lượng Cũ : 100375
+- Lượng Mới : 150375
+- Lượng Thay Đổi :50000 Lượng 
+----------Thời Gian : 2023-10-21 11:12:52--------
+- Name : catcoon
+- Tên Giao Dịch : Nhận thưởng thăng cấp
+- Lượng Cũ : 137848
+- Lượng Mới : 138848
+- Lượng Thay Đổi :1000 Lượng 
+----------Thời Gian : 2023-10-21 11:12:54--------
+- Name : catcoon
+- Tên Giao Dịch : Nhận thưởng thăng cấp
+- Lượng Cũ : 138848
+- Lượng Mới : 140848
+- Lượng Thay Đổi :2000 Lượng 
+----------Thời Gian : 2023-10-21 11:12:57--------
+- Name : catcoon
+- Tên Giao Dịch : Nhận thưởng thăng cấp
+- Lượng Cũ : 140848
+- Lượng Mới : 143848
+- Lượng Thay Đổi :3000 Lượng 
+----------Thời Gian : 2023-10-21 11:16:20--------
+- Name : yuta135
+- Tên Giao Dịch : Nhiệm vụ chính tuyến
+- Lượng Cũ : 150375
+- Lượng Mới : 150425
+- Lượng Thay Đổi :50 Lượng 
+----------Thời Gian : 2023-10-21 11:19:56--------
+- Name : catcoon
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 143098
+- Lượng Mới : 142098
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2023-10-21 11:20:01--------
+- Name : catcoon
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 142098
+- Lượng Mới : 141098
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2023-10-21 11:20:05--------
+- Name : catcoon
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 141098
+- Lượng Mới : 140098
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2023-10-21 11:20:07--------
+- Name : catcoon
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 140098
+- Lượng Mới : 139098
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2023-10-21 11:20:09--------
+- Name : catcoon
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 139098
+- Lượng Mới : 138098
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2023-10-21 11:20:12--------
+- Name : catcoon
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 138098
+- Lượng Mới : 137098
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2023-10-21 11:20:14--------
+- Name : catcoon
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 137098
+- Lượng Mới : 136098
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2023-10-21 11:20:15--------
+- Name : onekills
+- Tên Giao Dịch : Điểm danh hằng ngày
+- Lượng Cũ : 136172
+- Lượng Mới : 136672
+- Lượng Thay Đổi :500 Lượng 
+----------Thời Gian : 2023-10-21 11:20:16--------
+- Name : catcoon
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 136098
+- Lượng Mới : 135098
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2023-10-21 11:20:21--------
+- Name : catcoon
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 135098
+- Lượng Mới : 134098
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2023-10-21 11:20:23--------
+- Name : catcoon
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 134098
+- Lượng Mới : 133098
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2023-10-21 11:20:26--------
+- Name : catcoon
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 133098
+- Lượng Mới : 132098
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2023-10-21 11:29:39--------
+- Name : dondoc123
+- Tên Giao Dịch : Nhận quà tân thủ
+- Lượng Cũ : 0
+- Lượng Mới : 50000
+- Lượng Thay Đổi :50000 Lượng 
+----------Thời Gian : 2023-10-21 11:29:45--------
+- Name : dondoc123
+- Tên Giao Dịch : Điểm danh hằng ngày
+- Lượng Cũ : 50000
+- Lượng Mới : 50500
+- Lượng Thay Đổi :500 Lượng 
+----------Thời Gian : 2023-10-21 11:34:15--------
+- Name : bladeveo
+- Tên Giao Dịch : Nhận thưởng thăng cấp
+- Lượng Cũ : 76879
+- Lượng Mới : 81879
+- Lượng Thay Đổi :5000 Lượng 
+----------Thời Gian : 2023-10-21 11:34:54--------
+- Name : giovetroi
+- Tên Giao Dịch :  Đổi 10000 lượng ra yên 
+- Lượng Cũ : 145522
+- Lượng Mới : 135522
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2023-10-21 11:36:40--------
+- Name : dammau
+- Tên Giao Dịch : Điểm danh hằng ngày
+- Lượng Cũ : 284
+- Lượng Mới : 784
+- Lượng Thay Đổi :500 Lượng 
+----------Thời Gian : 2023-10-21 11:38:27--------
+- Name : dondoc123
+- Tên Giao Dịch : Nhập GIFTCODE open
+- Lượng Cũ : 50500
+- Lượng Mới : 60500
+- Lượng Thay Đổi :10000 Lượng 
+----------Thời Gian : 2023-10-21 11:38:42--------
+- Name : dondoc123
+- Tên Giao Dịch : Nhập GIFTCODE tanthu
+- Lượng Cũ : 60500
+- Lượng Mới : 70500
+- Lượng Thay Đổi :10000 Lượng 
+----------Thời Gian : 2023-10-21 11:39:24--------
+- Name : yuta135
+- Tên Giao Dịch : Nhận thưởng thăng cấp
+- Lượng Cũ : 150475
+- Lượng Mới : 151475
+- Lượng Thay Đổi :1000 Lượng 
+----------Thời Gian : 2023-10-21 11:39:57--------
+- Name : dammau
+- Tên Giao Dịch : Nhiệm vụ chính tuyến
+- Lượng Cũ : 779
+- Lượng Mới : 829
+- Lượng Thay Đổi :50 Lượng 
+----------Thời Gian : 2023-10-21 11:39:57--------
+- Name : yuta135
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 151475
+- Lượng Mới : 150475
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2023-10-21 11:40:53--------
+- Name : dammau
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 879
+- Lượng Mới : -121
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2023-10-21 11:41:04--------
+- Name : dondoc123
+- Tên Giao Dịch : Nhập GIFTCODE quatang
+- Lượng Cũ : 70500
+- Lượng Mới : 120500
+- Lượng Thay Đổi :50000 Lượng 
+----------Thời Gian : 2023-10-21 11:41:23--------
+- Name : dondoc123
+- Tên Giao Dịch : Nhập GIFTCODE trungthu
+- Lượng Cũ : 120500
+- Lượng Mới : 150500
+- Lượng Thay Đổi :30000 Lượng 
+----------Thời Gian : 2023-10-21 11:42:31--------
+- Name : giovetroi
+- Tên Giao Dịch : Nhận thưởng thăng cấp
+- Lượng Cũ : 135522
+- Lượng Mới : 137522
+- Lượng Thay Đổi :2000 Lượng 
+----------Thời Gian : 2023-10-21 11:44:35--------
+- Name : sieubuliem
+- Tên Giao Dịch : Nhận thưởng thăng cấp
+- Lượng Cũ : 97520
+- Lượng Mới : 101520
+- Lượng Thay Đổi :4000 Lượng 
+----------Thời Gian : 2023-10-21 11:46:21--------
+- Name : phongbeautiful
+- Tên Giao Dịch : Điểm danh hằng ngày
+- Lượng Cũ : 11158
+- Lượng Mới : 11658
+- Lượng Thay Đổi :500 Lượng 
+----------Thời Gian : 2023-10-21 11:46:51--------
+- Name : dec24
+- Tên Giao Dịch : Làm 4 Bó Hộp bánh thượng hạng
+- Lượng Cũ : 135414
+- Lượng Mới : 135214
+- Lượng Thay Đổi :-200 Lượng 
+----------Thời Gian : 2023-10-21 11:57:15--------
+- Name : cung1tydame
+- Tên Giao Dịch : Làm 25 Bó Hộp bánh thượng hạng
+- Lượng Cũ : 127225
+- Lượng Mới : 125975
+- Lượng Thay Đổi :-1250 Lượng 
+----------Thời Gian : 2023-10-21 11:58:48--------
+- Name : vodanhkiem
+- Tên Giao Dịch : Điểm Danh Gia Tộc
+- Lượng Cũ : 86408
+- Lượng Mới : 86778
+- Lượng Thay Đổi :370 Lượng 
+----------Thời Gian : 2023-10-21 11:59:02--------
+- Name : vodanhkiem
+- Tên Giao Dịch : Điểm danh hằng ngày
+- Lượng Cũ : 86778
+- Lượng Mới : 87278
+- Lượng Thay Đổi :500 Lượng 
+----------Thời Gian : 2023-10-21 12:08:50--------
+- Name : shark
+- Tên Giao Dịch : Nhận quà tân thủ
+- Lượng Cũ : 0
+- Lượng Mới : 50000
+- Lượng Thay Đổi :50000 Lượng 
+----------Thời Gian : 2023-10-21 12:08:52--------
+- Name : shark
+- Tên Giao Dịch : Điểm danh hằng ngày
+- Lượng Cũ : 50000
+- Lượng Mới : 50500
+- Lượng Thay Đổi :500 Lượng 
+----------Thời Gian : 2023-10-21 12:10:27--------
+- Name : shark
+- Tên Giao Dịch : Nhập GIFTCODE open
+- Lượng Cũ : 44425
+- Lượng Mới : 54425
+- Lượng Thay Đổi :10000 Lượng 
+----------Thời Gian : 2023-10-21 12:10:44--------
+- Name : shark
+- Tên Giao Dịch : Nhập GIFTCODE trungthu
+- Lượng Cũ : 54425
+- Lượng Mới : 84425
+- Lượng Thay Đổi :30000 Lượng 
+----------Thời Gian : 2023-10-21 12:12:00--------
+- Name : badaobg99x
+- Tên Giao Dịch : Làm 1025 Bó Hộp bánh thượng hạng
+- Lượng Cũ : 632204
+- Lượng Mới : 580954
+- Lượng Thay Đổi :-51250 Lượng 
+----------Thời Gian : 2023-10-21 12:13:40--------
+- Name : shark
+- Tên Giao Dịch : Nhiệm vụ chính tuyến
+- Lượng Cũ : 84425
+- Lượng Mới : 84475
+- Lượng Thay Đổi :50 Lượng 
+----------Thời Gian : 2023-10-21 12:14:54--------
+- Name : so2koaiso1
+- Tên Giao Dịch : Điểm danh hằng ngày
+- Lượng Cũ : 5577
+- Lượng Mới : 6077
+- Lượng Thay Đổi :500 Lượng 
+----------Thời Gian : 2023-10-21 12:15:15--------
+- Name : shark
+- Tên Giao Dịch : Nhiệm vụ chính tuyến
+- Lượng Cũ : 84525
+- Lượng Mới : 84575
+- Lượng Thay Đổi :50 Lượng 
+----------Thời Gian : 2023-10-21 12:17:27--------
+- Name : szbadboy
+- Tên Giao Dịch : Điểm danh hằng ngày
+- Lượng Cũ : 158392
+- Lượng Mới : 158892
+- Lượng Thay Đổi :500 Lượng 
+----------Thời Gian : 2023-10-21 12:22:30--------
+- Name : shark
+- Tên Giao Dịch : Nhiệm vụ chính tuyến
+- Lượng Cũ : 84565
+- Lượng Mới : 84615
+- Lượng Thay Đổi :50 Lượng 
+----------Thời Gian : 2023-10-21 12:23:00--------
+- Name : shark
+- Tên Giao Dịch : Nhiệm vụ chính tuyến
+- Lượng Cũ : 84665
+- Lượng Mới : 84715
+- Lượng Thay Đổi :50 Lượng 
+----------Thời Gian : 2023-10-21 12:24:11--------
+- Name : ditlonchaynuoc
+- Tên Giao Dịch : Nhận thưởng thăng cấp
+- Lượng Cũ : 126398
+- Lượng Mới : 127398
+- Lượng Thay Đổi :1000 Lượng 
+----------Thời Gian : 2023-10-21 12:24:14--------
+- Name : ditlonchaynuoc
+- Tên Giao Dịch : Nhận thưởng thăng cấp
+- Lượng Cũ : 127398
+- Lượng Mới : 129398
+- Lượng Thay Đổi :2000 Lượng 
+----------Thời Gian : 2023-10-21 12:25:23--------
+- Name : khoi20959
+- Tên Giao Dịch : Nhận quà tân thủ
+- Lượng Cũ : 0
+- Lượng Mới : 50000
+- Lượng Thay Đổi :50000 Lượng 
+----------Thời Gian : 2023-10-21 12:25:26--------
+- Name : khoi20959
+- Tên Giao Dịch : Điểm danh hằng ngày
+- Lượng Cũ : 50000
+- Lượng Mới : 50500
+- Lượng Thay Đổi :500 Lượng 
+----------Thời Gian : 2023-10-21 12:26:47--------
+- Name : nsolol
+- Tên Giao Dịch : Nhận quà tân thủ
+- Lượng Cũ : 0
+- Lượng Mới : 50000
+- Lượng Thay Đổi :50000 Lượng 
+----------Thời Gian : 2023-10-21 12:26:49--------
+- Name : nsolol
+- Tên Giao Dịch : Điểm danh hằng ngày
+- Lượng Cũ : 50000
+- Lượng Mới : 50500
+- Lượng Thay Đổi :500 Lượng 
+----------Thời Gian : 2023-10-21 12:28:31--------
+- Name : bach230999
+- Tên Giao Dịch : Điểm danh hằng ngày
+- Lượng Cũ : 866880
+- Lượng Mới : 867380
+- Lượng Thay Đổi :500 Lượng 
+----------Thời Gian : 2023-10-21 12:28:39--------
+- Name : bach230999
+- Tên Giao Dịch : Điểm danh vip
+- Lượng Cũ : 867380
+- Lượng Mới : 897380
+- Lượng Thay Đổi :30000 Lượng 
+----------Thời Gian : 2023-10-21 12:28:54--------
+- Name : lollollol
+- Tên Giao Dịch : Điểm danh hằng ngày
+- Lượng Cũ : 300421
+- Lượng Mới : 300921
+- Lượng Thay Đổi :500 Lượng 
+----------Thời Gian : 2023-10-21 12:29:02--------
+- Name : lollollol
+- Tên Giao Dịch : Điểm danh vip
+- Lượng Cũ : 300921
+- Lượng Mới : 310921
+- Lượng Thay Đổi :10000 Lượng 
+----------Thời Gian : 2023-10-21 12:29:10--------
+- Name : kunaivip99
+- Tên Giao Dịch : Điểm danh hằng ngày
+- Lượng Cũ : 573342
+- Lượng Mới : 573842
+- Lượng Thay Đổi :500 Lượng 
+----------Thời Gian : 2023-10-21 12:29:14--------
+- Name : nsolol
+- Tên Giao Dịch : Nhập GIFTCODE open
+- Lượng Cũ : 50499
+- Lượng Mới : 60499
+- Lượng Thay Đổi :10000 Lượng 
+----------Thời Gian : 2023-10-21 12:29:20--------
+- Name : kunaivip99
+- Tên Giao Dịch : Điểm danh vip
+- Lượng Cũ : 573842
+- Lượng Mới : 593842
+- Lượng Thay Đổi :20000 Lượng 
+----------Thời Gian : 2023-10-21 12:29:23--------
+- Name : nsolol
+- Tên Giao Dịch : Nhập GIFTCODE tanthu
+- Lượng Cũ : 60499
+- Lượng Mới : 70499
+- Lượng Thay Đổi :10000 Lượng 
+----------Thời Gian : 2023-10-21 12:31:07--------
+- Name : nsolol
+- Tên Giao Dịch : Nhập GIFTCODE quatang
+- Lượng Cũ : 70499
+- Lượng Mới : 120499
+- Lượng Thay Đổi :50000 Lượng 
+----------Thời Gian : 2023-10-21 12:31:16--------
+- Name : nsolol
+- Tên Giao Dịch : Nhập GIFTCODE trungthu
+- Lượng Cũ : 120499
+- Lượng Mới : 150499
+- Lượng Thay Đổi :30000 Lượng 
+----------Thời Gian : 2023-10-21 12:43:00--------
+- Name : khoi20959
+- Tên Giao Dịch : Nhiệm vụ chính tuyến
+- Lượng Cũ : 48450
+- Lượng Mới : 48500
+- Lượng Thay Đổi :50 Lượng 
+----------Thời Gian : 2023-10-21 12:49:47--------
+- Name : khoi20959
+- Tên Giao Dịch : Nhiệm vụ chính tuyến
+- Lượng Cũ : 48550
+- Lượng Mới : 48600
+- Lượng Thay Đổi :50 Lượng 
+----------Thời Gian : 2023-10-21 12:52:04--------
+- Name : nsolol
+- Tên Giao Dịch : Nhận thưởng thăng cấp
+- Lượng Cũ : 142374
+- Lượng Mới : 143374
+- Lượng Thay Đổi :1000 Lượng 
+----------Thời Gian : 2023-10-21 12:53:07--------
+- Name : shark
+- Tên Giao Dịch : Nhiệm vụ chính tuyến
+- Lượng Cũ : 84765
+- Lượng Mới : 84815
+- Lượng Thay Đổi :50 Lượng 
+----------Thời Gian : 2023-10-21 12:54:50--------
+- Name : shark
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 84865
+- Lượng Mới : 83865
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2023-10-21 12:55:54--------
+- Name : shark
+- Tên Giao Dịch : Nhập GIFTCODE tanthu
+- Lượng Cũ : 84865
+- Lượng Mới : 94865
+- Lượng Thay Đổi :10000 Lượng 
+----------Thời Gian : 2023-10-21 12:56:01--------
+- Name : shark
+- Tên Giao Dịch : Nhập GIFTCODE quatang
+- Lượng Cũ : 94865
+- Lượng Mới : 144865
+- Lượng Thay Đổi :50000 Lượng 
+----------Thời Gian : 2023-10-21 12:57:32--------
+- Name : kurumi
+- Tên Giao Dịch : Điểm danh hằng ngày
+- Lượng Cũ : 131125
+- Lượng Mới : 131625
+- Lượng Thay Đổi :500 Lượng 
+----------Thời Gian : 2023-10-21 13:00:38--------
+- Name : nsolol
+- Tên Giao Dịch : Nhiệm vụ chính tuyến
+- Lượng Cũ : 143374
+- Lượng Mới : 143424
+- Lượng Thay Đổi :50 Lượng 
+----------Thời Gian : 2023-10-21 13:02:17--------
+- Name : nsolol
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 143474
+- Lượng Mới : 142474
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2023-10-21 13:07:18--------
+- Name : 1xien500
+- Tên Giao Dịch : Nhận quà tân thủ
+- Lượng Cũ : 0
+- Lượng Mới : 50000
+- Lượng Thay Đổi :50000 Lượng 
+----------Thời Gian : 2023-10-21 13:07:44--------
+- Name : 1xien500
+- Tên Giao Dịch : Điểm danh hằng ngày
+- Lượng Cũ : 50000
+- Lượng Mới : 50500
+- Lượng Thay Đổi :500 Lượng 
+----------Thời Gian : 2023-10-21 13:08:29--------
+- Name : thangdz03
+- Tên Giao Dịch : Điểm Danh Gia Tộc
+- Lượng Cũ : 3290501
+- Lượng Mới : 3290821
+- Lượng Thay Đổi :320 Lượng 
+----------Thời Gian : 2023-10-21 13:09:22--------
+- Name : 1xien500
+- Tên Giao Dịch : Nhập GIFTCODE open
+- Lượng Cũ : 45375
+- Lượng Mới : 55375
+- Lượng Thay Đổi :10000 Lượng 
+----------Thời Gian : 2023-10-21 13:09:30--------
+- Name : 1xien500
+- Tên Giao Dịch : Nhập GIFTCODE tanthu
+- Lượng Cũ : 55375
+- Lượng Mới : 65375
+- Lượng Thay Đổi :10000 Lượng 
+----------Thời Gian : 2023-10-21 13:09:58--------
+- Name : 1xien500
+- Tên Giao Dịch : Nhập GIFTCODE quatang
+- Lượng Cũ : 65375
+- Lượng Mới : 115375
+- Lượng Thay Đổi :50000 Lượng 
+----------Thời Gian : 2023-10-21 13:11:19--------
+- Name : 1xien500
+- Tên Giao Dịch : Nhập GIFTCODE trungthu
+- Lượng Cũ : 115375
+- Lượng Mới : 145375
+- Lượng Thay Đổi :30000 Lượng 
+----------Thời Gian : 2023-10-21 13:13:39--------
+- Name : thichchetak
+- Tên Giao Dịch : Làm 1000 Bó Hộp bánh thượng hạng
+- Lượng Cũ : 73516
+- Lượng Mới : 23516
+- Lượng Thay Đổi :-50000 Lượng 
+----------Thời Gian : 2023-10-21 13:17:19--------
+- Name : 1xien500
+- Tên Giao Dịch : Nhiệm vụ chính tuyến
+- Lượng Cũ : 145375
+- Lượng Mới : 145425
+- Lượng Thay Đổi :50 Lượng 
+----------Thời Gian : 2023-10-21 13:22:04--------
+- Name : bocuabann
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 109807
+- Lượng Mới : 108807
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2023-10-21 13:22:41--------
+- Name : thangdz03
+- Tên Giao Dịch : Điểm danh hằng ngày
+- Lượng Cũ : 3290821
+- Lượng Mới : 3291321
+- Lượng Thay Đổi :500 Lượng 
+----------Thời Gian : 2023-10-21 13:25:39--------
+- Name : 1xien500
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 145475
+- Lượng Mới : 144475
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2023-10-21 13:27:29--------
+- Name : thichchetak
+- Tên Giao Dịch : Làm 140 Bó Hộp bánh thượng hạng
+- Lượng Cũ : 23516
+- Lượng Mới : 16516
+- Lượng Thay Đổi :-7000 Lượng 
+----------Thời Gian : 2023-10-21 13:31:31--------
+- Name : tknlsk
+- Tên Giao Dịch : Nhận thưởng thăng cấp
+- Lượng Cũ : 150399
+- Lượng Mới : 152399
+- Lượng Thay Đổi :2000 Lượng 
+----------Thời Gian : 2023-10-21 13:31:34--------
+- Name : tknlsk
+- Tên Giao Dịch : Nhận thưởng thăng cấp
+- Lượng Cũ : 152399
+- Lượng Mới : 153399
+- Lượng Thay Đổi :1000 Lượng 
+----------Thời Gian : 2023-10-21 13:31:40--------
+- Name : thichchetak
+- Tên Giao Dịch : Làm 100 Bó Hộp bánh thượng hạng
+- Lượng Cũ : 16516
+- Lượng Mới : 11516
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2023-10-21 13:32:46--------
+- Name : trumkiempk
+- Tên Giao Dịch : Điểm danh vip
+- Lượng Cũ : 1231438
+- Lượng Mới : 1261438
+- Lượng Thay Đổi :30000 Lượng 
+----------Thời Gian : 2023-10-21 13:33:21--------
+- Name : trumkiempk
+- Tên Giao Dịch : Điểm danh hằng ngày
+- Lượng Cũ : 1261438
+- Lượng Mới : 1261938
+- Lượng Thay Đổi :500 Lượng 
+----------Thời Gian : 2023-10-21 13:42:18--------
+- Name : darkmoon
+- Tên Giao Dịch : Nhận quà tân thủ
+- Lượng Cũ : 0
+- Lượng Mới : 50000
+- Lượng Thay Đổi :50000 Lượng 
+----------Thời Gian : 2023-10-21 13:42:20--------
+- Name : darkmoon
+- Tên Giao Dịch : Điểm danh hằng ngày
+- Lượng Cũ : 50000
+- Lượng Mới : 50500
+- Lượng Thay Đổi :500 Lượng 
+----------Thời Gian : 2023-10-21 13:42:36--------
+- Name : xsatthanx
+- Tên Giao Dịch : Nhập GIFTCODE trungthu
+- Lượng Cũ : 86939
+- Lượng Mới : 116939
+- Lượng Thay Đổi :30000 Lượng 
+----------Thời Gian : 2023-10-21 13:47:33--------
+- Name : methienha
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 137100
+- Lượng Mới : 137095
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 13:48:28--------
+- Name : methienha
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 137095
+- Lượng Mới : 137090
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 13:48:40--------
+- Name : methienha
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 137090
+- Lượng Mới : 137085
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 13:48:53--------
+- Name : methienha
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 137085
+- Lượng Mới : 137080
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 13:49:06--------
+- Name : yalayling
+- Tên Giao Dịch : Làm 8 Bó Hộp bánh thượng hạng
+- Lượng Cũ : 146588
+- Lượng Mới : 146188
+- Lượng Thay Đổi :-400 Lượng 
+----------Thời Gian : 2023-10-21 13:49:10--------
+- Name : methienha
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 137080
+- Lượng Mới : 137075
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 13:49:37--------
+- Name : methienha
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 137075
+- Lượng Mới : 137070
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 13:49:56--------
+- Name : methienha
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 137070
+- Lượng Mới : 137065
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 13:50:12--------
+- Name : methienha
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 137065
+- Lượng Mới : 137060
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 13:50:22--------
+- Name : yalayling
+- Tên Giao Dịch : Làm 2 Bó Hộp bánh thượng hạng
+- Lượng Cũ : 146188
+- Lượng Mới : 146088
+- Lượng Thay Đổi :-100 Lượng 
+----------Thời Gian : 2023-10-21 13:51:24--------
+- Name : yalayling
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 146088
+- Lượng Mới : 146083
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 13:52:51--------
+- Name : darkmoon
+- Tên Giao Dịch : Nhiệm vụ chính tuyến
+- Lượng Cũ : 50375
+- Lượng Mới : 50425
+- Lượng Thay Đổi :50 Lượng 
+----------Thời Gian : 2023-10-21 13:57:27--------
+- Name : darkmoon
+- Tên Giao Dịch : Nhiệm vụ chính tuyến
+- Lượng Cũ : 50475
+- Lượng Mới : 50525
+- Lượng Thay Đổi :50 Lượng 
+----------Thời Gian : 2023-10-21 13:58:10--------
+- Name : darkmoon
+- Tên Giao Dịch : Nhập GIFTCODE tanthu
+- Lượng Cũ : 50575
+- Lượng Mới : 60575
+- Lượng Thay Đổi :10000 Lượng 
+----------Thời Gian : 2023-10-21 13:58:32--------
+- Name : kkktalaai
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 2125
+- Lượng Mới : 2120
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 13:58:45--------
+- Name : darkmoon
+- Tên Giao Dịch : Nhập GIFTCODE open
+- Lượng Cũ : 60575
+- Lượng Mới : 70575
+- Lượng Thay Đổi :10000 Lượng 
+----------Thời Gian : 2023-10-21 13:58:48--------
+- Name : kkktalaai
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 2120
+- Lượng Mới : 2115
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 13:59:12--------
+- Name : darkmoon
+- Tên Giao Dịch : Nhập GIFTCODE quatang
+- Lượng Cũ : 70575
+- Lượng Mới : 120575
+- Lượng Thay Đổi :50000 Lượng 
+----------Thời Gian : 2023-10-21 13:59:18--------
+- Name : darkmoon
+- Tên Giao Dịch : Nhập GIFTCODE trungthu
+- Lượng Cũ : 120575
+- Lượng Mới : 150575
+- Lượng Thay Đổi :30000 Lượng 
+----------Thời Gian : 2023-10-21 14:00:49--------
+- Name : kkktalaai
+- Tên Giao Dịch : Điểm danh hằng ngày
+- Lượng Cũ : 2115
+- Lượng Mới : 2615
+- Lượng Thay Đổi :500 Lượng 
+----------Thời Gian : 2023-10-21 14:04:14--------
+- Name : yalayling
+- Tên Giao Dịch : Nhiệm vụ chính tuyến
+- Lượng Cũ : 146083
+- Lượng Mới : 146133
+- Lượng Thay Đổi :50 Lượng 
+----------Thời Gian : 2023-10-21 14:04:15--------
+- Name : teddy
+- Tên Giao Dịch : Điểm danh vip
+- Lượng Cũ : 1659085
+- Lượng Mới : 1689085
+- Lượng Thay Đổi :30000 Lượng 
+----------Thời Gian : 2023-10-21 14:04:45--------
+- Name : darkmoon
+- Tên Giao Dịch : Nhiệm vụ chính tuyến
+- Lượng Cũ : 150575
+- Lượng Mới : 150625
+- Lượng Thay Đổi :50 Lượng 
+----------Thời Gian : 2023-10-21 14:05:02--------
+- Name : yalayling
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 146183
+- Lượng Mới : 145183
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2023-10-21 14:05:30--------
+- Name : kurumi
+- Tên Giao Dịch : Làm 1 Bó Hộp bánh thượng hạng
+- Lượng Cũ : 117475
+- Lượng Mới : 117425
+- Lượng Thay Đổi :-50 Lượng 
+----------Thời Gian : 2023-10-21 14:06:01--------
+- Name : kurumi
+- Tên Giao Dịch : Làm 2 Bó Hộp bánh thượng hạng
+- Lượng Cũ : 117425
+- Lượng Mới : 117325
+- Lượng Thay Đổi :-100 Lượng 
+----------Thời Gian : 2023-10-21 14:11:36--------
+- Name : kocotenn
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 44043
+- Lượng Mới : 44038
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 14:14:56--------
+- Name : xsatthanx
+- Tên Giao Dịch : Điểm danh hằng ngày
+- Lượng Cũ : 111361
+- Lượng Mới : 111861
+- Lượng Thay Đổi :500 Lượng 
+----------Thời Gian : 2023-10-21 14:15:06--------
+- Name : dgdgdgd
+- Tên Giao Dịch : Nhận quà tân thủ
+- Lượng Cũ : 0
+- Lượng Mới : 50000
+- Lượng Thay Đổi :50000 Lượng 
+----------Thời Gian : 2023-10-21 14:15:07--------
+- Name : dgdgdgd
+- Tên Giao Dịch : Điểm danh hằng ngày
+- Lượng Cũ : 50000
+- Lượng Mới : 50500
+- Lượng Thay Đổi :500 Lượng 
+----------Thời Gian : 2023-10-21 14:15:34--------
+- Name : xnxxx
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 47333
+- Lượng Mới : 47328
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 14:15:54--------
+- Name : xnxxx
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 47328
+- Lượng Mới : 47323
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 14:16:06--------
+- Name : xnxxx
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 47323
+- Lượng Mới : 47318
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 14:16:17--------
+- Name : xnxxx
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 47318
+- Lượng Mới : 47313
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 14:16:28--------
+- Name : xnxxx
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 47313
+- Lượng Mới : 47308
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 14:16:39--------
+- Name : xnxxx
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 47308
+- Lượng Mới : 47303
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 14:16:50--------
+- Name : xnxxx
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 47303
+- Lượng Mới : 47298
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 14:17:04--------
+- Name : xnxxx
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 47298
+- Lượng Mới : 47293
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 14:17:15--------
+- Name : xnxxx
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 47293
+- Lượng Mới : 47288
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 14:17:28--------
+- Name : xnxxx
+- Tên Giao Dịch : bán đồ lên shinwa
+- Lượng Cũ : 47288
+- Lượng Mới : 47283
+- Lượng Thay Đổi :-5 Lượng 
+----------Thời Gian : 2023-10-21 14:21:07--------
+- Name : huynhdz123
+- Tên Giao Dịch : Điểm danh vip
+- Lượng Cũ : 388667
+- Lượng Mới : 408667
+- Lượng Thay Đổi :20000 Lượng 
+----------Thời Gian : 2023-10-21 14:23:08--------
+- Name : yalayling
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 145183
+- Lượng Mới : 144183
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2023-10-21 14:23:57--------
+- Name : yalayling
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 144183
+- Lượng Mới : 143183
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2023-10-21 14:24:01--------
+- Name : yalayling
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 143183
+- Lượng Mới : 142183
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2023-10-21 14:24:05--------
+- Name : yalayling
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 142183
+- Lượng Mới : 141183
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2023-10-21 14:24:09--------
+- Name : yalayling
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 141183
+- Lượng Mới : 140183
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2023-10-21 14:24:12--------
+- Name : yalayling
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 140183
+- Lượng Mới : 139183
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2023-10-21 14:34:37--------
+- Name : dgdgdgd
+- Tên Giao Dịch : Nhiệm vụ chính tuyến
+- Lượng Cũ : 42375
+- Lượng Mới : 42425
+- Lượng Thay Đổi :50 Lượng 
+----------Thời Gian : 2023-10-21 14:36:07--------
+- Name : dgdgdgd
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 42475
+- Lượng Mới : 41475
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2023-10-21 14:37:50--------
+- Name : dgdgdgd
+- Tên Giao Dịch : Nhập GIFTCODE open
+- Lượng Cũ : 42475
+- Lượng Mới : 52475
+- Lượng Thay Đổi :10000 Lượng 
+----------Thời Gian : 2023-10-21 14:39:35--------
+- Name : thanmen
+- Tên Giao Dịch : Nhận quà tân thủ
+- Lượng Cũ : 0
+- Lượng Mới : 50000
+- Lượng Thay Đổi :50000 Lượng 
+----------Thời Gian : 2023-10-21 14:39:39--------
+- Name : thanmen
+- Tên Giao Dịch : Điểm danh hằng ngày
+- Lượng Cũ : 50000
+- Lượng Mới : 50500
+- Lượng Thay Đổi :500 Lượng 
+----------Thời Gian : 2023-10-21 14:42:32--------
+- Name : ongtrumks
+- Tên Giao Dịch : Nhận quà tân thủ
+- Lượng Cũ : 0
+- Lượng Mới : 50000
+- Lượng Thay Đổi :50000 Lượng 
+----------Thời Gian : 2023-10-21 14:42:34--------
+- Name : ongtrumks
+- Tên Giao Dịch : Điểm danh hằng ngày
+- Lượng Cũ : 50000
+- Lượng Mới : 50500
+- Lượng Thay Đổi :500 Lượng 
+----------Thời Gian : 2023-10-21 14:43:06--------
+- Name : dgdgdgd
+- Tên Giao Dịch : Nhập GIFTCODE tanthu
+- Lượng Cũ : 52375
+- Lượng Mới : 62375
+- Lượng Thay Đổi :10000 Lượng 
+----------Thời Gian : 2023-10-21 14:43:26--------
+- Name : dgdgdgd
+- Tên Giao Dịch : Nhập GIFTCODE quatang
+- Lượng Cũ : 62375
+- Lượng Mới : 112375
+- Lượng Thay Đổi :50000 Lượng 
+----------Thời Gian : 2023-10-21 14:43:29--------
+- Name : dgdgdgd
+- Tên Giao Dịch : Nhập GIFTCODE trungthu
+- Lượng Cũ : 112375
+- Lượng Mới : 142375
+- Lượng Thay Đổi :30000 Lượng 

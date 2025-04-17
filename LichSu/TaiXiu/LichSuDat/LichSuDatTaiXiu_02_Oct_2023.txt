@@ -1,0 +1,3036 @@
+----------Thời Gian : 2023-10-02 00:00:36--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 430402301
+- Xu Mới : 430402291
+- Xu Thay Đổi : -10
+----------Thời Gian : 2023-10-02 00:01:49--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 430402309
+- Xu Mới : 330402309
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 00:03:03--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 510402309
+- Xu Mới : 410402309
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 00:04:18--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 382902309
+- Xu Mới : 322902309
+- Xu Thay Đổi : -60000000
+----------Thời Gian : 2023-10-02 01:12:11--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 322902309
+- Xu Mới : 222902309
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 01:13:28--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 222902309
+- Xu Mới : 122902309
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 01:14:40--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 302902309
+- Xu Mới : 302902299
+- Xu Thay Đổi : -10
+----------Thời Gian : 2023-10-02 01:15:50--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 302902317
+- Xu Mới : 302852317
+- Xu Thay Đổi : -50000
+----------Thời Gian : 2023-10-02 01:17:57--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 302852317
+- Xu Mới : 202852317
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 01:19:19--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 202852317
+- Xu Mới : 102852317
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 01:22:45--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 282852317
+- Xu Mới : 282852307
+- Xu Thay Đổi : -10
+----------Thời Gian : 2023-10-02 01:25:27--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 282852307
+- Xu Mới : 282852287
+- Xu Thay Đổi : -20
+----------Thời Gian : 2023-10-02 01:26:34--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 282852287
+- Xu Mới : 182852287
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 01:27:49--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 362852287
+- Xu Mới : 300852287
+- Xu Thay Đổi : -62000000
+----------Thời Gian : 2023-10-02 01:29:25--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 300852287
+- Xu Mới : 200852287
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 01:30:58--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 380852287
+- Xu Mới : 380852277
+- Xu Thay Đổi : -10
+----------Thời Gian : 2023-10-02 01:32:11--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 380852295
+- Xu Mới : 280852295
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 01:33:19--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 460852295
+- Xu Mới : 460842295
+- Xu Thay Đổi : -10000
+----------Thời Gian : 2023-10-02 01:35:43--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 460842295
+- Xu Mới : 460841295
+- Xu Thay Đổi : -1000
+----------Thời Gian : 2023-10-02 01:36:51--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 460841295
+- Xu Mới : 360841295
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 01:38:02--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 360841295
+- Xu Mới : 300841295
+- Xu Thay Đổi : -60000000
+----------Thời Gian : 2023-10-02 01:39:14--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 408841295
+- Xu Mới : 408841285
+- Xu Thay Đổi : -10
+----------Thời Gian : 2023-10-02 01:43:05--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 408841303
+- Xu Mới : 408841293
+- Xu Thay Đổi : -10
+----------Thời Gian : 2023-10-02 01:44:32--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 408841311
+- Xu Mới : 308841311
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 01:45:50--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 488841311
+- Xu Mới : 478841311
+- Xu Thay Đổi : -10000000
+----------Thời Gian : 2023-10-02 01:47:22--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 496841311
+- Xu Mới : 486841311
+- Xu Thay Đổi : -10000000
+----------Thời Gian : 2023-10-02 01:48:49--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 486841311
+- Xu Mới : 486741311
+- Xu Thay Đổi : -100000
+----------Thời Gian : 2023-10-02 01:49:57--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 486921311
+- Xu Mới : 386921311
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 01:51:10--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 566921311
+- Xu Mới : 566921261
+- Xu Thay Đổi : -50
+----------Thời Gian : 2023-10-02 01:53:16--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 566921351
+- Xu Mới : 466921351
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 01:54:30--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 466921351
+- Xu Mới : 366921351
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 01:55:40--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 366921351
+- Xu Mới : 266921351
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 02:16:13--------
+- Name : anhtunxz
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 544252885
+- Xu Mới : 444252885
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 02:17:41--------
+- Name : anhtunxz
+- Nội Dung : Đặt Tài
+- Xu Cũ : 624252885
+- Xu Mới : 524252885
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 02:19:22--------
+- Name : anhtunxz
+- Nội Dung : Đặt Tài
+- Xu Cũ : 224252885
+- Xu Mới : 124252885
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 02:19:47--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 300615191
+- Xu Mới : 200615191
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 02:20:49--------
+- Name : anhtunxz
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 304252885
+- Xu Mới : 204252885
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 02:21:04--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 380615191
+- Xu Mới : 280615191
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 02:22:09--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 460615191
+- Xu Mới : 450615191
+- Xu Thay Đổi : -10000000
+----------Thời Gian : 2023-10-02 02:22:24--------
+- Name : anhtunxz
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 384252885
+- Xu Mới : 374252885
+- Xu Thay Đổi : -10000000
+----------Thời Gian : 2023-10-02 02:23:18--------
+- Name : anhtunxz
+- Nội Dung : Đặt Tài
+- Xu Cũ : 392252885
+- Xu Mới : 292252885
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 02:23:32--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 450615191
+- Xu Mới : 350615191
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 02:24:31--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 266921351
+- Xu Mới : 166921351
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 02:24:34--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 350615191
+- Xu Mới : 250615191
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 02:24:46--------
+- Name : anhtunxz
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 292252885
+- Xu Mới : 192252885
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 02:25:41--------
+- Name : anhtunxz
+- Nội Dung : Đặt Tài
+- Xu Cũ : 372252885
+- Xu Mới : 272252885
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 02:25:53--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 430615191
+- Xu Mới : 330615191
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 02:26:09--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 346921351
+- Xu Mới : 246921351
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 02:26:53--------
+- Name : anhtunxz
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 452252885
+- Xu Mới : 352252885
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 02:27:05--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 510615191
+- Xu Mới : 410615191
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 02:27:20--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 426921351
+- Xu Mới : 326921351
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 02:28:43--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 590615191
+- Xu Mới : 540615191
+- Xu Thay Đổi : -50000000
+----------Thời Gian : 2023-10-02 02:29:01--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 326921351
+- Xu Mới : 326920351
+- Xu Thay Đổi : -1000
+----------Thời Gian : 2023-10-02 02:29:55--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 540615191
+- Xu Mới : 440615191
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 02:30:08--------
+- Name : anhtunxz
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 532252885
+- Xu Mới : 432252885
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 02:31:07--------
+- Name : anhtunxz
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 612252885
+- Xu Mới : 512252885
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 02:31:18--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 620615191
+- Xu Mới : 520615191
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 02:32:38--------
+- Name : anhtunxz
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 692252885
+- Xu Mới : 592252885
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 02:32:50--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 700615191
+- Xu Mới : 600615191
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 02:34:30--------
+- Name : anhtunxz
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 772252885
+- Xu Mới : 692252885
+- Xu Thay Đổi : -80000000
+----------Thời Gian : 2023-10-02 02:34:44--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 780615191
+- Xu Mới : 700615191
+- Xu Thay Đổi : -80000000
+----------Thời Gian : 2023-10-02 02:35:52--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 700615191
+- Xu Mới : 600615191
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 02:36:03--------
+- Name : anhtunxz
+- Nội Dung : Đặt Tài
+- Xu Cũ : 692252885
+- Xu Mới : 592252885
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 02:37:25--------
+- Name : anhtunxz
+- Nội Dung : Đặt Tài
+- Xu Cũ : 592252885
+- Xu Mới : 492252885
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 02:37:37--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 600615191
+- Xu Mới : 500615191
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 02:38:37--------
+- Name : anhtunxz
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 672252885
+- Xu Mới : 572252885
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 02:38:59--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 680615191
+- Xu Mới : 580615191
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 02:39:45--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 760615191
+- Xu Mới : 660615191
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 02:39:57--------
+- Name : anhtunxz
+- Nội Dung : Đặt Tài
+- Xu Cũ : 752252885
+- Xu Mới : 652252885
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 02:39:58--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 326922151
+- Xu Mới : 226922151
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 02:41:08--------
+- Name : anhtunxz
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 832252885
+- Xu Mới : 732252885
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 02:41:21--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 840615191
+- Xu Mới : 740615191
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 02:42:17--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 740615191
+- Xu Mới : 640615191
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 02:42:37--------
+- Name : anhtunxz
+- Nội Dung : Đặt Tài
+- Xu Cũ : 732252885
+- Xu Mới : 642252885
+- Xu Thay Đổi : -90000000
+----------Thời Gian : 2023-10-02 02:43:29--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 640615191
+- Xu Mới : 540615191
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 02:43:32--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 406922151
+- Xu Mới : 306922151
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 02:43:41--------
+- Name : anhtunxz
+- Nội Dung : Đặt Tài
+- Xu Cũ : 642252885
+- Xu Mới : 542252885
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 02:44:51--------
+- Name : anhtunxz
+- Nội Dung : Đặt Tài
+- Xu Cũ : 722252885
+- Xu Mới : 622252885
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 02:45:18--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 540615191
+- Xu Mới : 440615191
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 02:46:01--------
+- Name : anhtunxz
+- Nội Dung : Đặt Tài
+- Xu Cũ : 802252885
+- Xu Mới : 702252885
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 02:46:12--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 620615191
+- Xu Mới : 520615191
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 02:47:17--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 306922151
+- Xu Mới : 206922151
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 02:47:19--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 520615191
+- Xu Mới : 420615191
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 02:47:31--------
+- Name : anhtunxz
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 702252885
+- Xu Mới : 602252885
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 02:49:04--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 386922151
+- Xu Mới : 296922151
+- Xu Thay Đổi : -90000000
+----------Thời Gian : 2023-10-02 02:49:09--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 600615191
+- Xu Mới : 580615191
+- Xu Thay Đổi : -20000000
+----------Thời Gian : 2023-10-02 02:50:17--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 616615191
+- Xu Mới : 516615191
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 02:50:31--------
+- Name : anhtunxz
+- Nội Dung : Đặt Tài
+- Xu Cũ : 782252885
+- Xu Mới : 682252885
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 02:51:28--------
+- Name : anhtunxz
+- Nội Dung : Đặt Tài
+- Xu Cũ : 682252885
+- Xu Mới : 582252885
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 02:51:39--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 516615191
+- Xu Mới : 416615191
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 02:51:50--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 296922151
+- Xu Mới : 200922151
+- Xu Thay Đổi : -96000000
+----------Thời Gian : 2023-10-02 02:52:42--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 596615191
+- Xu Mới : 496615191
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 02:52:58--------
+- Name : anhtunxz
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 762252885
+- Xu Mới : 662252885
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 02:53:18--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 373722151
+- Xu Mới : 300722151
+- Xu Thay Đổi : -73000000
+----------Thời Gian : 2023-10-02 02:54:03--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 300722151
+- Xu Mới : 200722151
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 02:54:24--------
+- Name : anhtunxz
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 842252885
+- Xu Mới : 742252885
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 02:54:36--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 676615191
+- Xu Mới : 576615191
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 02:55:17--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 380722151
+- Xu Mới : 280722151
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 02:55:17--------
+- Name : anhtunxz
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 742252885
+- Xu Mới : 642252885
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 02:55:28--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 576615191
+- Xu Mới : 476615191
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 02:56:41--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 476615191
+- Xu Mới : 376615191
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 02:56:52--------
+- Name : anhtunxz
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 642252885
+- Xu Mới : 542252885
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 02:57:00--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 280722151
+- Xu Mới : 180722151
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 02:57:59--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 360722151
+- Xu Mới : 260722151
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 02:58:04--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 556615191
+- Xu Mới : 526615191
+- Xu Thay Đổi : -30000000
+----------Thời Gian : 2023-10-02 02:58:35--------
+- Name : anhtunxz
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 722252885
+- Xu Mới : 652252885
+- Xu Thay Đổi : -70000000
+----------Thời Gian : 2023-10-02 02:59:12--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 440722151
+- Xu Mới : 340722151
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 02:59:39--------
+- Name : anhtunxz
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 778252885
+- Xu Mới : 678252885
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 02:59:52--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 580615191
+- Xu Mới : 480615191
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 03:01:04--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 480615191
+- Xu Mới : 380615191
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 03:01:17--------
+- Name : anhtunxz
+- Nội Dung : Đặt Tài
+- Xu Cũ : 678252885
+- Xu Mới : 578252885
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 03:02:17--------
+- Name : anhtunxz
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 758252885
+- Xu Mới : 658252885
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 03:02:31--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 560615191
+- Xu Mới : 460615191
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 03:03:27--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 640615191
+- Xu Mới : 540615191
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 03:03:40--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 340722151
+- Xu Mới : 240722151
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 03:03:42--------
+- Name : anhtunxz
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 838252885
+- Xu Mới : 738252885
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 03:04:45--------
+- Name : anhtunxz
+- Nội Dung : Đặt Tài
+- Xu Cũ : 918252885
+- Xu Mới : 818252885
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 03:04:57--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 720615191
+- Xu Mới : 620615191
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 03:06:00--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 800615191
+- Xu Mới : 700615191
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 03:06:16--------
+- Name : anhtunxz
+- Nội Dung : Đặt Tài
+- Xu Cũ : 998252885
+- Xu Mới : 898252885
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 03:07:12--------
+- Name : anhtunxz
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1078252885
+- Xu Mới : 978252885
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 03:07:26--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 880615191
+- Xu Mới : 780615191
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 03:08:40--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 960615191
+- Xu Mới : 860615191
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 03:08:53--------
+- Name : anhtunxz
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1158252885
+- Xu Mới : 1058252885
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 03:09:49--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1040615191
+- Xu Mới : 940615191
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 03:09:49--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 420722151
+- Xu Mới : 320722151
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 03:10:01--------
+- Name : anhtunxz
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1238252885
+- Xu Mới : 1138252885
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 03:11:10--------
+- Name : anhtunxz
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1318252885
+- Xu Mới : 1218252885
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 03:11:23--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1120615191
+- Xu Mới : 1020615191
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 03:12:35--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 500722151
+- Xu Mới : 400722151
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 03:12:39--------
+- Name : anhtunxz
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 218252885
+- Xu Mới : 118252885
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 03:12:52--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 220615191
+- Xu Mới : 120615191
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 03:14:08--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 120615191
+- Xu Mới : 120615181
+- Xu Thay Đổi : -10
+----------Thời Gian : 2023-10-02 03:15:16--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 400722151
+- Xu Mới : 300722151
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 03:15:19--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 120615181
+- Xu Mới : 20615181
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 03:15:34--------
+- Name : anhtunxz
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 118252885
+- Xu Mới : 18252885
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 03:17:29--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 120615181
+- Xu Mới : 20615181
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 03:17:59--------
+- Name : anhtunxz
+- Nội Dung : Đặt Tài
+- Xu Cũ : 118252885
+- Xu Mới : 18252885
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 03:18:38--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 300722151
+- Xu Mới : 200722151
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 03:19:23--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 120615181
+- Xu Mới : 20615181
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 03:19:53--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 200615181
+- Xu Mới : 100615181
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 03:19:54--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 380722151
+- Xu Mới : 280722151
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 03:20:08--------
+- Name : anhtunxz
+- Nội Dung : Đặt Tài
+- Xu Cũ : 118252885
+- Xu Mới : 18252885
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 03:21:15--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 280722151
+- Xu Mới : 200722151
+- Xu Thay Đổi : -80000000
+----------Thời Gian : 2023-10-02 03:22:38--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 344722151
+- Xu Mới : 244722151
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 03:22:45--------
+- Name : anhtunxz
+- Nội Dung : Đặt Tài
+- Xu Cũ : 198252885
+- Xu Mới : 98252885
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 03:23:20--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 280615181
+- Xu Mới : 180615181
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 03:23:50--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 424722151
+- Xu Mới : 324722151
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 03:24:12--------
+- Name : anhtunxz
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 98252885
+- Xu Mới : 252885
+- Xu Thay Đổi : -98000000
+----------Thời Gian : 2023-10-02 03:24:25--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 180615181
+- Xu Mới : 80615181
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 03:25:02--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 260615181
+- Xu Mới : 160615181
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 03:25:07--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 504722151
+- Xu Mới : 404722151
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 03:25:15--------
+- Name : anhtunxz
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 176652885
+- Xu Mới : 76652885
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 03:26:36--------
+- Name : anhtunxz
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 76652885
+- Xu Mới : 652885
+- Xu Thay Đổi : -76000000
+----------Thời Gian : 2023-10-02 03:27:00--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 160615181
+- Xu Mới : 60615181
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 03:27:53--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 240615181
+- Xu Mới : 140615181
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 03:28:05--------
+- Name : anhtunxz
+- Nội Dung : Đặt Tài
+- Xu Cũ : 137452885
+- Xu Mới : 37452885
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 03:29:05--------
+- Name : anhtunxz
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 217452885
+- Xu Mới : 117452885
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 03:29:26--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 320615181
+- Xu Mới : 220615181
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 03:30:25--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 220615181
+- Xu Mới : 120615181
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 03:30:45--------
+- Name : anhtunxz
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 117452885
+- Xu Mới : 17452885
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 03:31:34--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 300615181
+- Xu Mới : 200615181
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 03:31:54--------
+- Name : anhtunxz
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 197452885
+- Xu Mới : 97452885
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 03:32:37--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 404722151
+- Xu Mới : 304722151
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 03:32:51--------
+- Name : anhtunxz
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 277452885
+- Xu Mới : 177452885
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 03:33:03--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 380615181
+- Xu Mới : 280615181
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 03:34:13--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 484722151
+- Xu Mới : 384722151
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 03:34:23--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 460615181
+- Xu Mới : 360615181
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 03:34:34--------
+- Name : anhtunxz
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 177452885
+- Xu Mới : 77452885
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 03:35:28--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 540615181
+- Xu Mới : 440615181
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 03:35:40--------
+- Name : anhtunxz
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 257452885
+- Xu Mới : 157452885
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 03:35:56--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 564722151
+- Xu Mới : 464722151
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 03:36:38--------
+- Name : anhtunxz
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 157452885
+- Xu Mới : 57452885
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 03:36:50--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 644722151
+- Xu Mới : 544722151
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 03:36:53--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 440615181
+- Xu Mới : 340615181
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 03:37:46--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 724722151
+- Xu Mới : 624722151
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 03:38:02--------
+- Name : anhtunxz
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 237452885
+- Xu Mới : 140452885
+- Xu Thay Đổi : -97000000
+----------Thời Gian : 2023-10-02 03:38:17--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 520615181
+- Xu Mới : 427615181
+- Xu Thay Đổi : -93000000
+----------Thời Gian : 2023-10-02 03:39:04--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 804722151
+- Xu Mới : 704722151
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 03:39:08--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 595015181
+- Xu Mới : 495015181
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 03:39:19--------
+- Name : anhtunxz
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 315052885
+- Xu Mới : 215052885
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 03:40:29--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 884722151
+- Xu Mới : 784722151
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 03:40:38--------
+- Name : anhtunxz
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 395052885
+- Xu Mới : 295052885
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 03:40:50--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 675015181
+- Xu Mới : 575015181
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 03:41:53--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 375015181
+- Xu Mới : 275015181
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 03:42:05--------
+- Name : anhtunxz
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 295052885
+- Xu Mới : 195052885
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 03:42:09--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 784722151
+- Xu Mới : 684722151
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 03:43:03--------
+- Name : anhtunxz
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 375052885
+- Xu Mới : 275052885
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 03:43:07--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 864722151
+- Xu Mới : 764722151
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 03:43:13--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 455015181
+- Xu Mới : 355015181
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 03:44:22--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 764722151
+- Xu Mới : 664722151
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 03:44:32--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 355015181
+- Xu Mới : 354015181
+- Xu Thay Đổi : -1000000
+----------Thời Gian : 2023-10-02 03:44:51--------
+- Name : anhtunxz
+- Nội Dung : Đặt Tài
+- Xu Cũ : 275052885
+- Xu Mới : 175052885
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 03:45:33--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 844722151
+- Xu Mới : 744722151
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 03:45:47--------
+- Name : anhtunxz
+- Nội Dung : Đặt Tài
+- Xu Cũ : 355052885
+- Xu Mới : 255052885
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 03:45:58--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 355815181
+- Xu Mới : 255815181
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 03:46:56--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 924722151
+- Xu Mới : 824722151
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 03:46:59--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 435815181
+- Xu Mới : 335815181
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 03:47:11--------
+- Name : anhtunxz
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 435052885
+- Xu Mới : 335052885
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 03:48:08--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 824722151
+- Xu Mới : 724722151
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 03:48:21--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 335815181
+- Xu Mới : 235815181
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 03:48:34--------
+- Name : anhtunxz
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 335052885
+- Xu Mới : 235052885
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 03:50:11--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 235815181
+- Xu Mới : 135815181
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 03:50:23--------
+- Name : anhtunxz
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 235052885
+- Xu Mới : 135052885
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 03:52:00--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 724722151
+- Xu Mới : 624722151
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 03:52:03--------
+- Name : anhtunxz
+- Nội Dung : Đặt Tài
+- Xu Cũ : 435052885
+- Xu Mới : 434952885
+- Xu Thay Đổi : -100000
+----------Thời Gian : 2023-10-02 03:52:16--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 135815181
+- Xu Mới : 35815181
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 03:53:32--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 804722151
+- Xu Mới : 704722151
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 03:53:55--------
+- Name : antungxz
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 400603251
+- Xu Mới : 300603251
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 03:54:07--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 215815181
+- Xu Mới : 115815181
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 03:54:51--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 704722151
+- Xu Mới : 604722151
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 03:55:37--------
+- Name : antungxz
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 300603251
+- Xu Mới : 200603251
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 03:56:48--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 115815181
+- Xu Mới : 15815181
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 03:57:10--------
+- Name : antungxz
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 200603251
+- Xu Mới : 100603251
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 03:58:46--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 115815181
+- Xu Mới : 15815181
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 03:58:59--------
+- Name : antungxz
+- Nội Dung : Đặt Tài
+- Xu Cũ : 100603251
+- Xu Mới : 603251
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 04:00:11--------
+- Name : antungxz
+- Nội Dung : Đặt Tài
+- Xu Cũ : 180603251
+- Xu Mới : 80603251
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 04:00:23--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 195815181
+- Xu Mới : 95815181
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 04:02:25--------
+- Name : antungxz
+- Nội Dung : Đặt Tài
+- Xu Cũ : 80603251
+- Xu Mới : 603251
+- Xu Thay Đổi : -80000000
+----------Thời Gian : 2023-10-02 04:02:38--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 95815181
+- Xu Mới : 815181
+- Xu Thay Đổi : -95000000
+----------Thời Gian : 2023-10-02 04:03:35--------
+- Name : antungxz
+- Nội Dung : Đặt Tài
+- Xu Cũ : 144603251
+- Xu Mới : 44603251
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 04:03:47--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 171815181
+- Xu Mới : 71815181
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 04:04:54--------
+- Name : antungxz
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 224603251
+- Xu Mới : 124603251
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 04:05:05--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 251815181
+- Xu Mới : 151815181
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 04:06:20--------
+- Name : antungxz
+- Nội Dung : Đặt Tài
+- Xu Cũ : 124603251
+- Xu Mới : 24603251
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 04:06:30--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 151815181
+- Xu Mới : 51815181
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 04:07:39--------
+- Name : antungxz
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 24603251
+- Xu Mới : 603251
+- Xu Thay Đổi : -24000000
+----------Thời Gian : 2023-10-02 04:07:52--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 51815181
+- Xu Mới : 1815181
+- Xu Thay Đổi : -50000000
+----------Thời Gian : 2023-10-02 04:09:08--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 201815181
+- Xu Mới : 101815181
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 04:10:32--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 281815181
+- Xu Mới : 181815181
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 04:11:51--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 361815181
+- Xu Mới : 261815181
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 04:13:14--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 261815181
+- Xu Mới : 161815181
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 04:14:37--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 161815181
+- Xu Mới : 61815181
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 04:15:52--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 241815181
+- Xu Mới : 141815181
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 04:17:07--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 141815181
+- Xu Mới : 41815181
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 04:18:30--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 221815181
+- Xu Mới : 121815181
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 04:19:44--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 301815181
+- Xu Mới : 201815181
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 04:21:13--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 381815181
+- Xu Mới : 281815181
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 04:22:33--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 281815181
+- Xu Mới : 281815081
+- Xu Thay Đổi : -100
+----------Thời Gian : 2023-10-02 04:23:51--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 281815261
+- Xu Mới : 181815261
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 04:25:26--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 361815261
+- Xu Mới : 261815261
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 04:26:38--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 441815261
+- Xu Mới : 341815261
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 04:27:50--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 521815261
+- Xu Mới : 421815261
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 04:29:17--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 421815261
+- Xu Mới : 321815261
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 04:30:49--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 501815261
+- Xu Mới : 401815261
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 04:32:00--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 401815261
+- Xu Mới : 301815261
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 04:33:12--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 301815261
+- Xu Mới : 201815261
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 04:34:24--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 381815261
+- Xu Mới : 281815261
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 04:35:36--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 461815261
+- Xu Mới : 361815261
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 04:36:50--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 361815261
+- Xu Mới : 261815261
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 04:38:03--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 261815261
+- Xu Mới : 161815261
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 04:39:16--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 341815261
+- Xu Mới : 241815261
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 04:40:29--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 421815261
+- Xu Mới : 321815261
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 04:41:40--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 501815261
+- Xu Mới : 401815261
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 04:42:51--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 401815261
+- Xu Mới : 301815261
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 04:44:17--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 301815261
+- Xu Mới : 201815261
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 04:45:32--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 381815261
+- Xu Mới : 281815261
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 04:46:43--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 281815261
+- Xu Mới : 181815261
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 04:48:44--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 181815261
+- Xu Mới : 81815261
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 04:50:06--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 261815261
+- Xu Mới : 161815261
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 04:51:25--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 341815261
+- Xu Mới : 241815261
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 04:52:34--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 241815261
+- Xu Mới : 141815261
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 04:54:17--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 321815261
+- Xu Mới : 221815261
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 04:55:32--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 401815261
+- Xu Mới : 301815261
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 04:56:46--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 481815261
+- Xu Mới : 381815261
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 04:57:55--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 561815261
+- Xu Mới : 461815261
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 04:59:08--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 461815261
+- Xu Mới : 361815261
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 05:00:18--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 361815261
+- Xu Mới : 261815261
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 05:01:28--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 261815261
+- Xu Mới : 161815261
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 05:02:43--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 341815261
+- Xu Mới : 241815261
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 05:03:58--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 241815261
+- Xu Mới : 141815261
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 05:05:09--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 321815261
+- Xu Mới : 221815261
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 05:06:22--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 401815261
+- Xu Mới : 301815261
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 05:07:30--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 481815261
+- Xu Mới : 381815261
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 05:08:40--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 561815261
+- Xu Mới : 461815261
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 05:09:50--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 641815261
+- Xu Mới : 541815261
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 05:11:03--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 541815261
+- Xu Mới : 441815261
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 05:12:23--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 621815261
+- Xu Mới : 521815261
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 05:13:33--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 701815261
+- Xu Mới : 601815261
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 05:14:44--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 781815261
+- Xu Mới : 681815261
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 05:15:57--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 861815261
+- Xu Mới : 761815261
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 05:17:06--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 761815261
+- Xu Mới : 661815261
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 05:18:28--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 661815261
+- Xu Mới : 611815261
+- Xu Thay Đổi : -50000000
+----------Thời Gian : 2023-10-02 08:41:53--------
+- Name : veovveo
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 78312497
+- Xu Mới : 58312497
+- Xu Thay Đổi : -20000000
+----------Thời Gian : 2023-10-02 08:43:35--------
+- Name : veovveo
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 58312497
+- Xu Mới : 8312497
+- Xu Thay Đổi : -50000000
+----------Thời Gian : 2023-10-02 08:44:48--------
+- Name : xuanbang
+- Nội Dung : Đặt Tài
+- Xu Cũ : 508000
+- Xu Mới : 408000
+- Xu Thay Đổi : -100000
+----------Thời Gian : 2023-10-02 08:46:25--------
+- Name : xuanbang
+- Nội Dung : Đặt Tài
+- Xu Cũ : 588000
+- Xu Mới : 308000
+- Xu Thay Đổi : -280000
+----------Thời Gian : 2023-10-02 08:47:35--------
+- Name : veovveo
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 98312497
+- Xu Mới : 48312497
+- Xu Thay Đổi : -50000000
+----------Thời Gian : 2023-10-02 08:47:48--------
+- Name : xuanbang
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 812000
+- Xu Mới : 612000
+- Xu Thay Đổi : -200000
+----------Thời Gian : 2023-10-02 08:49:09--------
+- Name : xuanbang
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 612000
+- Xu Mới : 300000
+- Xu Thay Đổi : -312000
+----------Thời Gian : 2023-10-02 08:51:02--------
+- Name : xuanbang
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 300000
+- Xu Mới : 0
+- Xu Thay Đổi : -300000
+----------Thời Gian : 2023-10-02 08:53:54--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 101815261
+- Xu Mới : 1815261
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 08:55:52--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 301815261
+- Xu Mới : 201815261
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 08:57:16--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 381815261
+- Xu Mới : 281815261
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 08:58:47--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 461815261
+- Xu Mới : 361815261
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 09:00:27--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 541815261
+- Xu Mới : 441815261
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 09:01:44--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 621815261
+- Xu Mới : 521815261
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 09:03:03--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 201815261
+- Xu Mới : 101815261
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 09:04:23--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 101815261
+- Xu Mới : 1815261
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 09:05:35--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 181815261
+- Xu Mới : 81815261
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 09:06:48--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 261815261
+- Xu Mới : 161815261
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 09:08:09--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 161815261
+- Xu Mới : 61815261
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 11:15:42--------
+- Name : badaobg99x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 9000000
+- Xu Mới : 0
+- Xu Thay Đổi : -9000000
+----------Thời Gian : 2023-10-02 11:17:26--------
+- Name : badaobg99x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 16200000
+- Xu Mới : 0
+- Xu Thay Đổi : -16200000
+----------Thời Gian : 2023-10-02 11:18:52--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 554722151
+- Xu Mới : 454722151
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 11:19:33--------
+- Name : badaobg99x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 29160000
+- Xu Mới : 0
+- Xu Thay Đổi : -29160000
+----------Thời Gian : 2023-10-02 12:10:06--------
+- Name : trongbuda
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 14949343
+- Xu Mới : 4949343
+- Xu Thay Đổi : -10000000
+----------Thời Gian : 2023-10-02 12:11:38--------
+- Name : trongbuda
+- Nội Dung : Đặt Tài
+- Xu Cũ : 22949343
+- Xu Mới : 7949343
+- Xu Thay Đổi : -15000000
+----------Thời Gian : 2023-10-02 12:12:49--------
+- Name : trongbuda
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 7949343
+- Xu Mới : 49343
+- Xu Thay Đổi : -7900000
+----------Thời Gian : 2023-10-02 12:59:08--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 454722151
+- Xu Mới : 354722151
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 13:00:29--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 354722151
+- Xu Mới : 254722151
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 13:01:41--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 254722151
+- Xu Mới : 154722151
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 13:02:46--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 284722151
+- Xu Mới : 184722151
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 13:04:13--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 184722151
+- Xu Mới : 84722151
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 16:56:36--------
+- Name : kkllaa
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1000000
+- Xu Mới : 0
+- Xu Thay Đổi : -1000000
+----------Thời Gian : 2023-10-02 17:07:57--------
+- Name : badaobg99x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 14988000
+- Xu Mới : 88000
+- Xu Thay Đổi : -14900000
+----------Thời Gian : 2023-10-02 17:33:45--------
+- Name : wmwmwmwmwmwmwmw
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 517474324
+- Xu Mới : 417474324
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 17:35:40--------
+- Name : dieuulinh
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1000000
+- Xu Mới : 0
+- Xu Thay Đổi : -1000000
+----------Thời Gian : 2023-10-02 17:36:44--------
+- Name : xemphim
+- Nội Dung : Đặt Tài
+- Xu Cũ : 200000000
+- Xu Mới : 100000000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 17:36:50--------
+- Name : bocing
+- Nội Dung : Đặt Tài
+- Xu Cũ : 201000000
+- Xu Mới : 101000000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 17:36:55--------
+- Name : xintien
+- Nội Dung : Đặt Tài
+- Xu Cũ : 200000000
+- Xu Mới : 100000000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 17:37:04--------
+- Name : bocing2024
+- Nội Dung : Đặt Tài
+- Xu Cũ : 200000000
+- Xu Mới : 100000000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 17:37:09--------
+- Name : wmwmwmwmwmwmwmw
+- Nội Dung : Đặt Tài
+- Xu Cũ : 117474324
+- Xu Mới : 17474324
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 17:37:31--------
+- Name : dieuulinh
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1800000
+- Xu Mới : 0
+- Xu Thay Đổi : -1800000
+----------Thời Gian : 2023-10-02 17:43:52--------
+- Name : sskak
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1000000
+- Xu Mới : 0
+- Xu Thay Đổi : -1000000
+----------Thời Gian : 2023-10-02 17:45:28--------
+- Name : wynzlinh
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1000000
+- Xu Mới : 0
+- Xu Thay Đổi : -1000000
+----------Thời Gian : 2023-10-02 17:47:07--------
+- Name : sskako
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1000000
+- Xu Mới : 0
+- Xu Thay Đổi : -1000000
+----------Thời Gian : 2023-10-02 17:47:12--------
+- Name : dsafsd
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1000000
+- Xu Mới : 0
+- Xu Thay Đổi : -1000000
+----------Thời Gian : 2023-10-02 17:49:39--------
+- Name : dsafsd
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1800000
+- Xu Mới : 0
+- Xu Thay Đổi : -1800000
+----------Thời Gian : 2023-10-02 17:51:51--------
+- Name : thuthao
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1000000
+- Xu Mới : 900000
+- Xu Thay Đổi : -100000
+----------Thời Gian : 2023-10-02 17:52:07--------
+- Name : dsafsd
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 3240000
+- Xu Mới : 2000000
+- Xu Thay Đổi : -1240000
+----------Thời Gian : 2023-10-02 17:53:05--------
+- Name : dsafsd
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 2000000
+- Xu Mới : 0
+- Xu Thay Đổi : -2000000
+----------Thời Gian : 2023-10-02 17:53:16--------
+- Name : thuthao
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 900000
+- Xu Mới : 0
+- Xu Thay Đổi : -900000
+----------Thời Gian : 2023-10-02 17:55:11--------
+- Name : thuthao
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1620000
+- Xu Mới : 0
+- Xu Thay Đổi : -1620000
+----------Thời Gian : 2023-10-02 17:55:42--------
+- Name : dsafsd
+- Nội Dung : Đặt Tài
+- Xu Cũ : 3600000
+- Xu Mới : 3000000
+- Xu Thay Đổi : -600000
+----------Thời Gian : 2023-10-02 17:58:03--------
+- Name : thuthao
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 2916000
+- Xu Mới : 2000000
+- Xu Thay Đổi : -916000
+----------Thời Gian : 2023-10-02 18:00:10--------
+- Name : dsafsd
+- Nội Dung : Đặt Tài
+- Xu Cũ : 4080000
+- Xu Mới : 3000000
+- Xu Thay Đổi : -1080000
+----------Thời Gian : 2023-10-02 18:02:42--------
+- Name : anhtunxz
+- Nội Dung : Đặt Tài
+- Xu Cũ : 123730552
+- Xu Mới : 23730552
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 18:02:53--------
+- Name : thuthao
+- Nội Dung : Đặt Tài
+- Xu Cũ : 2000000
+- Xu Mới : 1000000
+- Xu Thay Đổi : -1000000
+----------Thời Gian : 2023-10-02 18:03:14--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 61815261
+- Xu Mới : 815261
+- Xu Thay Đổi : -61000000
+----------Thời Gian : 2023-10-02 18:03:52--------
+- Name : thuthao
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1000000
+- Xu Mới : 0
+- Xu Thay Đổi : -1000000
+----------Thời Gian : 2023-10-02 18:04:17--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 300815261
+- Xu Mới : 200815261
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 18:05:04--------
+- Name : anhtunxz
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 223730552
+- Xu Mới : 123730552
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 18:05:13--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 380815261
+- Xu Mới : 280815261
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 18:05:35--------
+- Name : thuthao
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1800000
+- Xu Mới : 0
+- Xu Thay Đổi : -1800000
+----------Thời Gian : 2023-10-02 18:06:19--------
+- Name : anhtunxz
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 123730552
+- Xu Mới : 23730552
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 18:06:34--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 280815261
+- Xu Mới : 180815261
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 18:07:26--------
+- Name : anhtunxz
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 203730552
+- Xu Mới : 103730552
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 18:07:38--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 360815261
+- Xu Mới : 260815261
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 18:08:03--------
+- Name : thuthao
+- Nội Dung : Đặt Tài
+- Xu Cũ : 3240000
+- Xu Mới : 1916000
+- Xu Thay Đổi : -1324000
+----------Thời Gian : 2023-10-02 18:08:34--------
+- Name : anhtunxz
+- Nội Dung : Đặt Tài
+- Xu Cũ : 283730552
+- Xu Mới : 183730552
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 18:08:42--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 440815261
+- Xu Mới : 340815261
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 18:08:49--------
+- Name : thuthao
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1916000
+- Xu Mới : 0
+- Xu Thay Đổi : -1916000
+----------Thời Gian : 2023-10-02 18:09:52--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 340815261
+- Xu Mới : 340815161
+- Xu Thay Đổi : -100
+----------Thời Gian : 2023-10-02 18:10:34--------
+- Name : anhtunxz
+- Nội Dung : Đặt Tài
+- Xu Cũ : 183730552
+- Xu Mới : 83730552
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 18:11:13--------
+- Name : anhtunxz
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 83730552
+- Xu Mới : 730442
+- Xu Thay Đổi : -83000110
+----------Thời Gian : 2023-10-02 18:11:22--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 340815161
+- Xu Mới : 240815161
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 18:11:52--------
+- Name : thuthao
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 3448800
+- Xu Mới : 3000000
+- Xu Thay Đổi : -448800
+----------Thời Gian : 2023-10-02 18:13:26--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 240815161
+- Xu Mới : 140815161
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 18:14:32--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 140815161
+- Xu Mới : 40815161
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 18:16:08--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 100815161
+- Xu Mới : 815161
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 18:39:26--------
+- Name : thuthao
+- Nội Dung : Đặt Tài
+- Xu Cũ : 5785000
+- Xu Mới : 3785000
+- Xu Thay Đổi : -2000000
+----------Thời Gian : 2023-10-02 18:40:53--------
+- Name : tkhai
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1299000
+- Xu Mới : 1199000
+- Xu Thay Đổi : -100000
+----------Thời Gian : 2023-10-02 18:40:56--------
+- Name : thuthao
+- Nội Dung : Đặt Tài
+- Xu Cũ : 3785000
+- Xu Mới : 1000000
+- Xu Thay Đổi : -2785000
+----------Thời Gian : 2023-10-02 18:42:07--------
+- Name : thuthao
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1000000
+- Xu Mới : 0
+- Xu Thay Đổi : -1000000
+----------Thời Gian : 2023-10-02 18:42:44--------
+- Name : tkhai
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1379000
+- Xu Mới : 1079000
+- Xu Thay Đổi : -300000
+----------Thời Gian : 2023-10-02 18:43:42--------
+- Name : tkhai
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1619000
+- Xu Mới : 1419000
+- Xu Thay Đổi : -200000
+----------Thời Gian : 2023-10-02 18:48:16--------
+- Name : quynhlinh
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1000000
+- Xu Mới : 0
+- Xu Thay Đổi : -1000000
+----------Thời Gian : 2023-10-02 18:49:47--------
+- Name : quynhlinh
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1800000
+- Xu Mới : 0
+- Xu Thay Đổi : -1800000
+----------Thời Gian : 2023-10-02 18:53:17--------
+- Name : quynhlinh
+- Nội Dung : Đặt Tài
+- Xu Cũ : 3240000
+- Xu Mới : 1025800
+- Xu Thay Đổi : -2214200
+----------Thời Gian : 2023-10-02 18:54:27--------
+- Name : quynhlinh
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1025800
+- Xu Mới : 25550
+- Xu Thay Đổi : -1000250
+----------Thời Gian : 2023-10-02 18:57:10--------
+- Name : minhhuong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1000000
+- Xu Mới : 0
+- Xu Thay Đổi : -1000000
+----------Thời Gian : 2023-10-02 21:01:39--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 340815161
+- Xu Mới : 240815161
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 21:03:09--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 240815161
+- Xu Mới : 140815161
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 21:04:25--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 140815161
+- Xu Mới : 100815161
+- Xu Thay Đổi : -40000000
+----------Thời Gian : 2023-10-02 21:06:17--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 172815161
+- Xu Mới : 72815161
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 21:08:02--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 72815161
+- Xu Mới : 815161
+- Xu Thay Đổi : -72000000
+----------Thời Gian : 2023-10-02 21:10:35--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 130415161
+- Xu Mới : 30415161
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 21:13:24--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 210415161
+- Xu Mới : 110415161
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 21:15:22--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 110415161
+- Xu Mới : 10415161
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 21:19:19--------
+- Name : bocing2024
+- Nội Dung : Đặt Tài
+- Xu Cũ : 100000000
+- Xu Mới : 0
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 21:19:20--------
+- Name : canlozj
+- Nội Dung : Đặt Tài
+- Xu Cũ : 100000000
+- Xu Mới : 0
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 21:19:20--------
+- Name : boshop2024
+- Nội Dung : Đặt Tài
+- Xu Cũ : 100000000
+- Xu Mới : 0
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 21:19:21--------
+- Name : f4shop
+- Nội Dung : Đặt Tài
+- Xu Cũ : 100000000
+- Xu Mới : 0
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 21:19:21--------
+- Name : xintien
+- Nội Dung : Đặt Tài
+- Xu Cũ : 100000000
+- Xu Mới : 0
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 21:19:22--------
+- Name : wmwmwmwmwmwmwmw
+- Nội Dung : Đặt Tài
+- Xu Cũ : 217474324
+- Xu Mới : 117474324
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 21:19:22--------
+- Name : xemphim
+- Nội Dung : Đặt Tài
+- Xu Cũ : 100000000
+- Xu Mới : 0
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 21:19:23--------
+- Name : bocing
+- Nội Dung : Đặt Tài
+- Xu Cũ : 101000000
+- Xu Mới : 1000000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 21:23:27--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 190415161
+- Xu Mới : 160415161
+- Xu Thay Đổi : -30000000
+----------Thời Gian : 2023-10-02 21:26:03--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 160415161
+- Xu Mới : 60415161
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 21:27:23--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 60415161
+- Xu Mới : 415161
+- Xu Thay Đổi : -60000000
+----------Thời Gian : 2023-10-02 21:28:48--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 300415161
+- Xu Mới : 200415161
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 21:30:42--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 380415161
+- Xu Mới : 280415161
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 21:32:15--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 280415161
+- Xu Mới : 180415161
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 21:33:24--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 180415161
+- Xu Mới : 80415161
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 21:35:57--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 260415161
+- Xu Mới : 160415161
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 21:40:14--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 340415161
+- Xu Mới : 240415161
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 21:42:24--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 420415161
+- Xu Mới : 320415161
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 21:45:30--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 500415161
+- Xu Mới : 400415161
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 21:47:55--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 580415161
+- Xu Mới : 480415161
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 21:49:54--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 480415161
+- Xu Mới : 380415161
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 21:52:02--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 560415161
+- Xu Mới : 460415161
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 21:55:09--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 460415161
+- Xu Mới : 360415161
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 21:58:49--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 360415161
+- Xu Mới : 260415161
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 22:14:26--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 260415161
+- Xu Mới : 160415161
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 22:15:44--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 160415161
+- Xu Mới : 60415161
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 22:16:55--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 240415161
+- Xu Mới : 140415161
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 22:18:42--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 140415161
+- Xu Mới : 40415161
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 22:22:27--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 220415161
+- Xu Mới : 120415161
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 22:24:38--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 300415161
+- Xu Mới : 200415161
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 22:26:44--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 380415161
+- Xu Mới : 280415161
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 22:31:02--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 280415161
+- Xu Mới : 180415161
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 22:32:15--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 360415161
+- Xu Mới : 260415161
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 22:33:44--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 440415161
+- Xu Mới : 340415161
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 22:38:15--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 340415161
+- Xu Mới : 240415161
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 22:43:46--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 240415161
+- Xu Mới : 140415161
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 22:46:25--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 320415161
+- Xu Mới : 220415161
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 22:50:28--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 400415161
+- Xu Mới : 300415161
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 22:53:30--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 300415161
+- Xu Mới : 200415161
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 22:54:56--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 380415161
+- Xu Mới : 280415161
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 22:56:12--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 280415161
+- Xu Mới : 180415161
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 22:57:57--------
+- Name : s2kaoken9x
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 500141555
+- Xu Mới : 500141545
+- Xu Thay Đổi : -10
+----------Thời Gian : 2023-10-02 22:57:58--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 180415161
+- Xu Mới : 80415161
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 22:59:07--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 477172151
+- Xu Mới : 477172141
+- Xu Thay Đổi : -10
+----------Thời Gian : 2023-10-02 22:59:09--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 80415161
+- Xu Mới : 415161
+- Xu Thay Đổi : -80000000
+----------Thời Gian : 2023-10-02 23:00:22--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 477172159
+- Xu Mới : 377172159
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 23:00:32--------
+- Name : s2kaoken9x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 500141563
+- Xu Mới : 400141563
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 23:00:56--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 300415161
+- Xu Mới : 200415161
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 23:01:36--------
+- Name : s2kaoken9x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 580141563
+- Xu Mới : 480141563
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 23:01:45--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 557172159
+- Xu Mới : 457172159
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 23:01:59--------
+- Name : cutoqua
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 415871000
+- Xu Mới : 415771000
+- Xu Thay Đổi : -100000
+----------Thời Gian : 2023-10-02 23:02:20--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 380415161
+- Xu Mới : 280415161
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 23:03:08--------
+- Name : cutoqua
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 415771000
+- Xu Mới : 415671000
+- Xu Thay Đổi : -100000
+----------Thời Gian : 2023-10-02 23:03:12--------
+- Name : s2kaoken9x
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 660141563
+- Xu Mới : 560141563
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 23:03:23--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 637172159
+- Xu Mới : 537172159
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 23:03:27--------
+- Name : adminwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 460415161
+- Xu Mới : 360415161
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 23:04:20--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 360415161
+- Xu Mới : 260415161
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 23:04:26--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 537172159
+- Xu Mới : 437172159
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 23:04:29--------
+- Name : cutoqua
+- Nội Dung : Đặt Tài
+- Xu Cũ : 415671000
+- Xu Mới : 415471000
+- Xu Thay Đổi : -200000
+----------Thời Gian : 2023-10-02 23:04:35--------
+- Name : s2kaoken9x
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 560141563
+- Xu Mới : 460141563
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 23:05:38--------
+- Name : cutoqua
+- Nội Dung : Đặt Tài
+- Xu Cũ : 415831000
+- Xu Mới : 415631000
+- Xu Thay Đổi : -200000
+----------Thời Gian : 2023-10-02 23:06:12--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 440415161
+- Xu Mới : 430415161
+- Xu Thay Đổi : -10000000
+----------Thời Gian : 2023-10-02 23:07:05--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 437172159
+- Xu Mới : 437172149
+- Xu Thay Đổi : -10
+----------Thời Gian : 2023-10-02 23:07:19--------
+- Name : cutoqua
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 415631000
+- Xu Mới : 415431000
+- Xu Thay Đổi : -200000
+----------Thời Gian : 2023-10-02 23:07:29--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 430415161
+- Xu Mới : 430415151
+- Xu Thay Đổi : -10
+----------Thời Gian : 2023-10-02 23:08:30--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 437172149
+- Xu Mới : 337172149
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 23:08:45--------
+- Name : s2kaoken9x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 460141563
+- Xu Mới : 360141563
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 23:08:45--------
+- Name : cutoqua
+- Nội Dung : Đặt Tài
+- Xu Cũ : 415431000
+- Xu Mới : 414431000
+- Xu Thay Đổi : -1000000
+----------Thời Gian : 2023-10-02 23:09:13--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 230415169
+- Xu Mới : 130415169
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 23:09:39--------
+- Name : antungxz
+- Nội Dung : Đặt Tài
+- Xu Cũ : 200603251
+- Xu Mới : 100603251
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 23:09:54--------
+- Name : adminwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 130415169
+- Xu Mới : 30415169
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 23:11:56--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 337172149
+- Xu Mới : 237172149
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 23:12:29--------
+- Name : antungxz
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 100603251
+- Xu Mới : 603251
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 23:13:30--------
+- Name : s2kaoken9x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 360141563
+- Xu Mới : 260141563
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 23:13:39--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 237172149
+- Xu Mới : 137172149
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 23:13:58--------
+- Name : anhtunxz
+- Nội Dung : Đặt Tài
+- Xu Cũ : 302230442
+- Xu Mới : 202230442
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 23:14:43--------
+- Name : anhtunxz
+- Nội Dung : Đặt Tài
+- Xu Cũ : 202230442
+- Xu Mới : 102230442
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 23:15:24--------
+- Name : antungxz
+- Nội Dung : Đặt Tài
+- Xu Cũ : 100603251
+- Xu Mới : 603251
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 23:16:04--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 397172149
+- Xu Mới : 297172149
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 23:16:31--------
+- Name : anhtunxz
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 182230442
+- Xu Mới : 82230442
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 23:16:46--------
+- Name : antungxz
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 180603251
+- Xu Mới : 80603251
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 23:17:18--------
+- Name : antungxz
+- Nội Dung : Đặt Tài
+- Xu Cũ : 260603251
+- Xu Mới : 160603251
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 23:17:24--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 477172149
+- Xu Mới : 377172149
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 23:17:30--------
+- Name : anhtunxz
+- Nội Dung : Đặt Tài
+- Xu Cũ : 262230442
+- Xu Mới : 162230442
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 23:18:27--------
+- Name : anhtunxz
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 342230442
+- Xu Mới : 242230442
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 23:18:45--------
+- Name : antungxz
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 340603251
+- Xu Mới : 240603251
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 23:18:56--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 377172149
+- Xu Mới : 300172149
+- Xu Thay Đổi : -77000000
+----------Thời Gian : 2023-10-02 23:19:42--------
+- Name : anhtunxz
+- Nội Dung : Đặt Tài
+- Xu Cũ : 422230442
+- Xu Mới : 322230442
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 23:19:43--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 438772149
+- Xu Mới : 338772149
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 23:19:51--------
+- Name : antungxz
+- Nội Dung : Đặt Tài
+- Xu Cũ : 420603251
+- Xu Mới : 320603251
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 23:21:31--------
+- Name : antungxz
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 320603251
+- Xu Mới : 220603251
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 23:21:38--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 338772149
+- Xu Mới : 238772149
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 23:21:52--------
+- Name : anhtunxz
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 322230442
+- Xu Mới : 222230442
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 23:22:59--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 238772149
+- Xu Mới : 138772149
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 23:23:10--------
+- Name : antungxz
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 220603251
+- Xu Mới : 120603251
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 23:23:18--------
+- Name : anhtunxz
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 222230442
+- Xu Mới : 122230442
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 23:24:05--------
+- Name : anhtunxz
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 122230442
+- Xu Mới : 22230442
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 23:24:14--------
+- Name : antungxz
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 120603251
+- Xu Mới : 20603251
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 23:24:18--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 318772149
+- Xu Mới : 218772149
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 23:25:13--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 398772149
+- Xu Mới : 298772149
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 23:25:54--------
+- Name : anhtunxz
+- Nội Dung : Đặt Tài
+- Xu Cũ : 522230442
+- Xu Mới : 422230442
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 23:26:26--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 298772149
+- Xu Mới : 198772149
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 23:26:33--------
+- Name : anhtunxz
+- Nội Dung : Đặt Tài
+- Xu Cũ : 222230442
+- Xu Mới : 122230442
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 23:26:44--------
+- Name : antungxz
+- Nội Dung : Đặt Tài
+- Xu Cũ : 220603251
+- Xu Mới : 120603251
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 23:27:36--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 198772149
+- Xu Mới : 100772149
+- Xu Thay Đổi : -98000000
+----------Thời Gian : 2023-10-02 23:27:37--------
+- Name : antungxz
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 300603251
+- Xu Mới : 200603251
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 23:27:47--------
+- Name : anhtunxz
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 302230442
+- Xu Mới : 202230442
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 23:29:29--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 100772149
+- Xu Mới : 100772139
+- Xu Thay Đổi : -10
+----------Thời Gian : 2023-10-02 23:29:33--------
+- Name : anhtunxz
+- Nội Dung : Đặt Tài
+- Xu Cũ : 202230442
+- Xu Mới : 102230442
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 23:29:46--------
+- Name : antungxz
+- Nội Dung : Đặt Tài
+- Xu Cũ : 200603251
+- Xu Mới : 100603251
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 23:30:49--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 100772139
+- Xu Mới : 90772139
+- Xu Thay Đổi : -10000000
+----------Thời Gian : 2023-10-02 23:30:51--------
+- Name : antungxz
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 100603251
+- Xu Mới : 100603241
+- Xu Thay Đổi : -10
+----------Thời Gian : 2023-10-02 23:32:17--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 108772139
+- Xu Mới : 108772129
+- Xu Thay Đổi : -10
+----------Thời Gian : 2023-10-02 23:32:21--------
+- Name : antungxz
+- Nội Dung : Đặt Tài
+- Xu Cũ : 100603259
+- Xu Mới : 603259
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 23:32:29--------
+- Name : anhtunxz
+- Nội Dung : Đặt Tài
+- Xu Cũ : 102230442
+- Xu Mới : 2230442
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 23:33:40--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 108772147
+- Xu Mới : 8772147
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 23:34:50--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 188772147
+- Xu Mới : 188772137
+- Xu Thay Đổi : -10
+----------Thời Gian : 2023-10-02 23:36:33--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 188772155
+- Xu Mới : 187772155
+- Xu Thay Đổi : -1000000
+----------Thời Gian : 2023-10-02 23:37:43--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 187772155
+- Xu Mới : 98772155
+- Xu Thay Đổi : -89000000
+----------Thời Gian : 2023-10-02 23:38:54--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 98772155
+- Xu Mới : 772155
+- Xu Thay Đổi : -98000000
+----------Thời Gian : 2023-10-02 23:40:02--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 177172155
+- Xu Mới : 77172155
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-10-02 23:41:14--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 257172155
+- Xu Mới : 257172145
+- Xu Thay Đổi : -10
+----------Thời Gian : 2023-10-02 23:42:25--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Tài
+- Xu Cũ : 257172145
+- Xu Mới : 257172135
+- Xu Thay Đổi : -10
+----------Thời Gian : 2023-10-02 23:44:15--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 257172153
+- Xu Mới : 257172143
+- Xu Thay Đổi : -10
+----------Thời Gian : 2023-10-02 23:46:26--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 257172161
+- Xu Mới : 257172151
+- Xu Thay Đổi : -10
+----------Thời Gian : 2023-10-02 23:51:25--------
+- Name : s2trumdao9x
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 257172169
+- Xu Mới : 257072169
+- Xu Thay Đổi : -100000

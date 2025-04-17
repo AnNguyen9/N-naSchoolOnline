@@ -1,0 +1,1248 @@
+----------Thời Gian : 2023-09-19 03:13:47--------
+- Name : davidveo
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 16449939
+- Xu Mới : 3949939
+- Xu Thay Đổi : -12500000
+----------Thời Gian : 2023-09-19 03:15:20--------
+- Name : davidveo
+- Nội Dung : Đặt Tài
+- Xu Cũ : 26449939
+- Xu Mới : 13949939
+- Xu Thay Đổi : -12500000
+----------Thời Gian : 2023-09-19 06:29:39--------
+- Name : sharkloli
+- Nội Dung : Đặt Tài
+- Xu Cũ : 6000000
+- Xu Mới : 5000000
+- Xu Thay Đổi : -1000000
+----------Thời Gian : 2023-09-19 06:47:35--------
+- Name : sharkloli
+- Nội Dung : Đặt Tài
+- Xu Cũ : 6800000
+- Xu Mới : 5000000
+- Xu Thay Đổi : -1800000
+----------Thời Gian : 2023-09-19 06:48:59--------
+- Name : sharkloli
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 5000000
+- Xu Mới : 3000000
+- Xu Thay Đổi : -2000000
+----------Thời Gian : 2023-09-19 07:08:21--------
+- Name : 1dap2em
+- Nội Dung : Đặt Tài
+- Xu Cũ : 543892567
+- Xu Mới : 443892567
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-19 07:25:00--------
+- Name : nonstop
+- Nội Dung : Đặt Tài
+- Xu Cũ : 219751
+- Xu Mới : 119751
+- Xu Thay Đổi : -100000
+----------Thời Gian : 2023-09-19 07:26:20--------
+- Name : sharkloli
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 5619337
+- Xu Mới : 619337
+- Xu Thay Đổi : -5000000
+----------Thời Gian : 2023-09-19 07:28:34--------
+- Name : sharkloli
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 10619337
+- Xu Mới : 5619337
+- Xu Thay Đổi : -5000000
+----------Thời Gian : 2023-09-19 07:29:52--------
+- Name : sharkloli
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 14619337
+- Xu Mới : 5619337
+- Xu Thay Đổi : -9000000
+----------Thời Gian : 2023-09-19 07:31:17--------
+- Name : sharkloli
+- Nội Dung : Đặt Tài
+- Xu Cũ : 21819337
+- Xu Mới : 11819337
+- Xu Thay Đổi : -10000000
+----------Thời Gian : 2023-09-19 09:31:09--------
+- Name : vuadit3
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1000000
+- Xu Mới : 0
+- Xu Thay Đổi : -1000000
+----------Thời Gian : 2023-09-19 10:39:10--------
+- Name : aadg1
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 29321045
+- Xu Mới : 24321045
+- Xu Thay Đổi : -5000000
+----------Thời Gian : 2023-09-19 10:40:50--------
+- Name : aadg1
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 33321045
+- Xu Mới : 24321045
+- Xu Thay Đổi : -9000000
+----------Thời Gian : 2023-09-19 11:15:18--------
+- Name : sharkloli
+- Nội Dung : Đặt Tài
+- Xu Cũ : 11819337
+- Xu Mới : 11000007
+- Xu Thay Đổi : -819330
+----------Thời Gian : 2023-09-19 11:17:32--------
+- Name : sharkloli
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 12474801
+- Xu Mới : 12000001
+- Xu Thay Đổi : -474800
+----------Thời Gian : 2023-09-19 11:19:05--------
+- Name : sharkloli
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 12854641
+- Xu Mới : 12000001
+- Xu Thay Đổi : -854640
+----------Thời Gian : 2023-09-19 11:21:04--------
+- Name : sharkloli
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 12000001
+- Xu Mới : 11500001
+- Xu Thay Đổi : -500000
+----------Thời Gian : 2023-09-19 14:41:28--------
+- Name : athoxay
+- Nội Dung : Đặt Tài
+- Xu Cũ : 159700000
+- Xu Mới : 59700000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-19 14:42:46--------
+- Name : athoxay
+- Nội Dung : Đặt Tài
+- Xu Cũ : 59700000
+- Xu Mới : 700000
+- Xu Thay Đổi : -59000000
+----------Thời Gian : 2023-09-19 14:43:55--------
+- Name : athoxay
+- Nội Dung : Đặt Tài
+- Xu Cũ : 106900000
+- Xu Mới : 6900000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-19 14:45:00--------
+- Name : athoxay
+- Nội Dung : Đặt Tài
+- Xu Cũ : 186900000
+- Xu Mới : 86900000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-19 14:46:14--------
+- Name : athoxay
+- Nội Dung : Đặt Tài
+- Xu Cũ : 86900000
+- Xu Mới : 900000
+- Xu Thay Đổi : -86000000
+----------Thời Gian : 2023-09-19 14:46:38--------
+- Name : bossbando
+- Nội Dung : Đặt Tài
+- Xu Cũ : 18000000
+- Xu Mới : 0
+- Xu Thay Đổi : -18000000
+----------Thời Gian : 2023-09-19 14:47:54--------
+- Name : athoxay
+- Nội Dung : Đặt Tài
+- Xu Cũ : 100000000
+- Xu Mới : 0
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-09-19 14:48:05--------
+- Name : bossbando
+- Nội Dung : Đặt Tài
+- Xu Cũ : 88100000
+- Xu Mới : 0
+- Xu Thay Đổi : -88100000
+----------Thời Gian : 2023-09-19 16:57:44--------
+- Name : kakaro
+- Nội Dung : Đặt Tài
+- Xu Cũ : 960000
+- Xu Mới : 910000
+- Xu Thay Đổi : -50000
+----------Thời Gian : 2023-09-19 17:15:35--------
+- Name : sharkloli
+- Nội Dung : Đặt Tài
+- Xu Cũ : 12400001
+- Xu Mới : 12200001
+- Xu Thay Đổi : -200000
+----------Thời Gian : 2023-09-19 17:16:58--------
+- Name : sharkloli
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 12160001
+- Xu Mới : 11000001
+- Xu Thay Đổi : -1160000
+----------Thời Gian : 2023-09-19 17:18:11--------
+- Name : sharkloli
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 11000001
+- Xu Mới : 10500001
+- Xu Thay Đổi : -500000
+----------Thời Gian : 2023-09-19 17:20:02--------
+- Name : sharkloli
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 11400001
+- Xu Mới : 10000001
+- Xu Thay Đổi : -1400000
+----------Thời Gian : 2023-09-19 17:38:19--------
+- Name : nonstop
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 742751
+- Xu Mới : 42751
+- Xu Thay Đổi : -700000
+----------Thời Gian : 2023-09-19 17:39:58--------
+- Name : nonstop
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1302751
+- Xu Mới : 2751
+- Xu Thay Đổi : -1300000
+----------Thời Gian : 2023-09-19 17:42:01--------
+- Name : nonstop
+- Nội Dung : Đặt Tài
+- Xu Cũ : 2342751
+- Xu Mới : 2242751
+- Xu Thay Đổi : -100000
+----------Thời Gian : 2023-09-19 17:44:05--------
+- Name : nonstop
+- Nội Dung : Đặt Tài
+- Xu Cũ : 242751
+- Xu Mới : 42751
+- Xu Thay Đổi : -200000
+----------Thời Gian : 2023-09-19 17:45:37--------
+- Name : nonstop
+- Nội Dung : Đặt Tài
+- Xu Cũ : 402751
+- Xu Mới : 2751
+- Xu Thay Đổi : -400000
+----------Thời Gian : 2023-09-19 17:48:07--------
+- Name : sharkloli
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 13520001
+- Xu Mới : 13000001
+- Xu Thay Đổi : -520000
+----------Thời Gian : 2023-09-19 17:49:29--------
+- Name : sharkloli
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 13000001
+- Xu Mới : 10000001
+- Xu Thay Đổi : -3000000
+----------Thời Gian : 2023-09-19 17:53:58--------
+- Name : sharkloli
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 9400001
+- Xu Mới : 8000001
+- Xu Thay Đổi : -1400000
+----------Thời Gian : 2023-09-19 17:55:11--------
+- Name : takashi
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 34519000
+- Xu Mới : 34509000
+- Xu Thay Đổi : -10000
+----------Thời Gian : 2023-09-19 17:55:20--------
+- Name : sharkloli
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 10520001
+- Xu Mới : 10000001
+- Xu Thay Đổi : -520000
+----------Thời Gian : 2023-09-19 17:56:33--------
+- Name : sharkloli
+- Nội Dung : Đặt Tài
+- Xu Cũ : 10936001
+- Xu Mới : 7936001
+- Xu Thay Đổi : -3000000
+----------Thời Gian : 2023-09-19 17:58:01--------
+- Name : sharkloli
+- Nội Dung : Đặt Tài
+- Xu Cũ : 7936001
+- Xu Mới : 1
+- Xu Thay Đổi : -7936000
+----------Thời Gian : 2023-09-19 18:01:33--------
+- Name : sharkloli
+- Nội Dung : Đặt Tài
+- Xu Cũ : 4284801
+- Xu Mới : 4000001
+- Xu Thay Đổi : -284800
+----------Thời Gian : 2023-09-19 18:03:36--------
+- Name : sharkloli
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 4000001
+- Xu Mới : 3500001
+- Xu Thay Đổi : -500000
+----------Thời Gian : 2023-09-19 18:35:59--------
+- Name : ghjkgj
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1000000
+- Xu Mới : 0
+- Xu Thay Đổi : -1000000
+----------Thời Gian : 2023-09-19 18:36:13--------
+- Name : sieunhan12
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1557720
+- Xu Mới : 857720
+- Xu Thay Đổi : -700000
+----------Thời Gian : 2023-09-19 18:37:36--------
+- Name : gfngg
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1000000
+- Xu Mới : 500000
+- Xu Thay Đổi : -500000
+----------Thời Gian : 2023-09-19 18:37:52--------
+- Name : ghjkgj
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1800000
+- Xu Mới : 1000000
+- Xu Thay Đổi : -800000
+----------Thời Gian : 2023-09-19 18:38:04--------
+- Name : sieunhan12
+- Nội Dung : Đặt Tài
+- Xu Cũ : 857720
+- Xu Mới : 657720
+- Xu Thay Đổi : -200000
+----------Thời Gian : 2023-09-19 18:38:58--------
+- Name : gfngg
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1400000
+- Xu Mới : 900000
+- Xu Thay Đổi : -500000
+----------Thời Gian : 2023-09-19 18:39:14--------
+- Name : ghjkgj
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1000000
+- Xu Mới : 300000
+- Xu Thay Đổi : -700000
+----------Thời Gian : 2023-09-19 18:40:17--------
+- Name : ghjkgj
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1560000
+- Xu Mới : 960000
+- Xu Thay Đổi : -600000
+----------Thời Gian : 2023-09-19 18:40:34--------
+- Name : gfngg
+- Nội Dung : Đặt Tài
+- Xu Cũ : 900000
+- Xu Mới : 400000
+- Xu Thay Đổi : -500000
+----------Thời Gian : 2023-09-19 18:41:56--------
+- Name : gfngg
+- Nội Dung : Đặt Tài
+- Xu Cũ : 400000
+- Xu Mới : 100000
+- Xu Thay Đổi : -300000
+----------Thời Gian : 2023-09-19 18:42:09--------
+- Name : ghjkgj
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 2040000
+- Xu Mới : 1540000
+- Xu Thay Đổi : -500000
+----------Thời Gian : 2023-09-19 18:43:18--------
+- Name : gfngg
+- Nội Dung : Đặt Tài
+- Xu Cũ : 640000
+- Xu Mới : 140000
+- Xu Thay Đổi : -500000
+----------Thời Gian : 2023-09-19 18:43:28--------
+- Name : ghjkgj
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1540000
+- Xu Mới : 1140000
+- Xu Thay Đổi : -400000
+----------Thời Gian : 2023-09-19 18:44:41--------
+- Name : gfngg
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1040000
+- Xu Mới : 540000
+- Xu Thay Đổi : -500000
+----------Thời Gian : 2023-09-19 18:45:02--------
+- Name : ghjkgj
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1140000
+- Xu Mới : 640000
+- Xu Thay Đổi : -500000
+----------Thời Gian : 2023-09-19 18:51:00--------
+- Name : ghjkgj
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1540000
+- Xu Mới : 1040000
+- Xu Thay Đổi : -500000
+----------Thời Gian : 2023-09-19 18:51:11--------
+- Name : gfngg
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 540000
+- Xu Mới : 140000
+- Xu Thay Đổi : -400000
+----------Thời Gian : 2023-09-19 18:52:26--------
+- Name : fjhtghd
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1000000
+- Xu Mới : 500000
+- Xu Thay Đổi : -500000
+----------Thời Gian : 2023-09-19 18:52:35--------
+- Name : vbdffb
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1000000
+- Xu Mới : 500000
+- Xu Thay Đổi : -500000
+----------Thời Gian : 2023-09-19 18:52:43--------
+- Name : ghjkgj
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1940000
+- Xu Mới : 1440000
+- Xu Thay Đổi : -500000
+----------Thời Gian : 2023-09-19 18:53:02--------
+- Name : gfngg
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 140000
+- Xu Mới : 40000
+- Xu Thay Đổi : -100000
+----------Thời Gian : 2023-09-19 18:53:43--------
+- Name : vbdffb
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1400000
+- Xu Mới : 1000000
+- Xu Thay Đổi : -400000
+----------Thời Gian : 2023-09-19 18:53:56--------
+- Name : fjhtghd
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 500000
+- Xu Mới : 100000
+- Xu Thay Đổi : -400000
+----------Thời Gian : 2023-09-19 18:54:05--------
+- Name : ghjkgj
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1440000
+- Xu Mới : 1240000
+- Xu Thay Đổi : -200000
+----------Thời Gian : 2023-09-19 18:54:17--------
+- Name : gfngg
+- Nội Dung : Đặt Tài
+- Xu Cũ : 220000
+- Xu Mới : 20000
+- Xu Thay Đổi : -200000
+----------Thời Gian : 2023-09-19 18:55:05--------
+- Name : gfngg
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 380000
+- Xu Mới : 80000
+- Xu Thay Đổi : -300000
+----------Thời Gian : 2023-09-19 18:55:13--------
+- Name : ghjkgj
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1240000
+- Xu Mới : 740000
+- Xu Thay Đổi : -500000
+----------Thời Gian : 2023-09-19 18:55:19--------
+- Name : vbdffb
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1720000
+- Xu Mới : 1220000
+- Xu Thay Đổi : -500000
+----------Thời Gian : 2023-09-19 18:55:48--------
+- Name : fjhtghd
+- Nội Dung : Đặt Tài
+- Xu Cũ : 100000
+- Xu Mới : 0
+- Xu Thay Đổi : -100000
+----------Thời Gian : 2023-09-19 18:56:47--------
+- Name : ghjkgj
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1640000
+- Xu Mới : 40000
+- Xu Thay Đổi : -1600000
+----------Thời Gian : 2023-09-19 18:56:55--------
+- Name : vbdffb
+- Nội Dung : Đặt Tài
+- Xu Cũ : 2120000
+- Xu Mới : 1420000
+- Xu Thay Đổi : -700000
+----------Thời Gian : 2023-09-19 18:57:05--------
+- Name : hgdgdfb
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1000000
+- Xu Mới : 0
+- Xu Thay Đổi : -1000000
+----------Thời Gian : 2023-09-19 18:57:28--------
+- Name : fjhtghd
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 180000
+- Xu Mới : 0
+- Xu Thay Đổi : -180000
+----------Thời Gian : 2023-09-19 18:58:13--------
+- Name : vbdffb
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1420000
+- Xu Mới : 720000
+- Xu Thay Đổi : -700000
+----------Thời Gian : 2023-09-19 18:58:32--------
+- Name : hgdgdfb
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1800000
+- Xu Mới : 1200000
+- Xu Thay Đổi : -600000
+----------Thời Gian : 2023-09-19 18:58:53--------
+- Name : ghjkgj
+- Nội Dung : Đặt Tài
+- Xu Cũ : 2920000
+- Xu Mới : 1920000
+- Xu Thay Đổi : -1000000
+----------Thời Gian : 2023-09-19 18:59:40--------
+- Name : ghjkgj
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1920000
+- Xu Mới : 420000
+- Xu Thay Đổi : -1500000
+----------Thời Gian : 2023-09-19 18:59:50--------
+- Name : hgdgdfb
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1200000
+- Xu Mới : 200000
+- Xu Thay Đổi : -1000000
+----------Thời Gian : 2023-09-19 19:00:01--------
+- Name : vbdffb
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1980000
+- Xu Mới : 980000
+- Xu Thay Đổi : -1000000
+----------Thời Gian : 2023-09-19 19:01:27--------
+- Name : hgdgdfb
+- Nội Dung : Đặt Tài
+- Xu Cũ : 2000000
+- Xu Mới : 1000000
+- Xu Thay Đổi : -1000000
+----------Thời Gian : 2023-09-19 19:01:34--------
+- Name : ghjkgj
+- Nội Dung : Đặt Tài
+- Xu Cũ : 3120000
+- Xu Mới : 2120000
+- Xu Thay Đổi : -1000000
+----------Thời Gian : 2023-09-19 19:01:43--------
+- Name : vbdffb
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 980000
+- Xu Mới : 280000
+- Xu Thay Đổi : -700000
+----------Thời Gian : 2023-09-19 19:01:52--------
+- Name : fjhtghd
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 324000
+- Xu Mới : 24000
+- Xu Thay Đổi : -300000
+----------Thời Gian : 2023-09-19 19:02:42--------
+- Name : fjhtghd
+- Nội Dung : Đặt Tài
+- Xu Cũ : 564000
+- Xu Mới : 24000
+- Xu Thay Đổi : -540000
+----------Thời Gian : 2023-09-19 19:02:50--------
+- Name : vbdffb
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1540000
+- Xu Mới : 540000
+- Xu Thay Đổi : -1000000
+----------Thời Gian : 2023-09-19 19:03:00--------
+- Name : hgdgdfb
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1000000
+- Xu Mới : 0
+- Xu Thay Đổi : -1000000
+----------Thời Gian : 2023-09-19 19:03:08--------
+- Name : ghjkgj
+- Nội Dung : Đặt Tài
+- Xu Cũ : 2120000
+- Xu Mới : 1120000
+- Xu Thay Đổi : -1000000
+----------Thời Gian : 2023-09-19 19:04:04--------
+- Name : fjhtghd
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 996000
+- Xu Mới : 96000
+- Xu Thay Đổi : -900000
+----------Thời Gian : 2023-09-19 19:04:12--------
+- Name : vbdffb
+- Nội Dung : Đặt Tài
+- Xu Cũ : 2340000
+- Xu Mới : 1340000
+- Xu Thay Đổi : -1000000
+----------Thời Gian : 2023-09-19 19:04:38--------
+- Name : hgdgdfb
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1800000
+- Xu Mới : 1100000
+- Xu Thay Đổi : -700000
+----------Thời Gian : 2023-09-19 19:05:39--------
+- Name : hgdgdfb
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1100000
+- Xu Mới : 100000
+- Xu Thay Đổi : -1000000
+----------Thời Gian : 2023-09-19 19:05:51--------
+- Name : vbdffb
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 3140000
+- Xu Mới : 2140000
+- Xu Thay Đổi : -1000000
+----------Thời Gian : 2023-09-19 19:06:02--------
+- Name : fjhtghd
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 96000
+- Xu Mới : 0
+- Xu Thay Đổi : -96000
+----------Thời Gian : 2023-09-19 19:06:10--------
+- Name : ghjkgj
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 2920000
+- Xu Mới : 1711000
+- Xu Thay Đổi : -1209000
+----------Thời Gian : 2023-09-19 19:07:02--------
+- Name : fjhtghd
+- Nội Dung : Đặt Tài
+- Xu Cũ : 172800
+- Xu Mới : 2800
+- Xu Thay Đổi : -170000
+----------Thời Gian : 2023-09-19 19:07:13--------
+- Name : vbdffb
+- Nội Dung : Đặt Tài
+- Xu Cũ : 3940000
+- Xu Mới : 2440000
+- Xu Thay Đổi : -1500000
+----------Thời Gian : 2023-09-19 19:07:21--------
+- Name : hgdgdfb
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1900000
+- Xu Mới : 900000
+- Xu Thay Đổi : -1000000
+----------Thời Gian : 2023-09-17 00:00:00--------
+- Name : ghjkgj
+- Nội Dung : Đặt Tài
+- Xu Cũ : 3887200
+- Xu Mới : 3387200
+- Xu Thay Đổi : -500000
+----------Thời Gian : 2023-09-19 19:08:24--------
+- Name : vbdffb
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 2440000
+- Xu Mới : 1740000
+- Xu Thay Đổi : -700000
+----------Thời Gian : 2023-09-19 19:08:33--------
+- Name : hgdgdfb
+- Nội Dung : Đặt Tài
+- Xu Cũ : 2700000
+- Xu Mới : 1700000
+- Xu Thay Đổi : -1000000
+----------Thời Gian : 2023-09-19 19:09:01--------
+- Name : ghjkgj
+- Nội Dung : Đặt Tài
+- Xu Cũ : 3387200
+- Xu Mới : 387200
+- Xu Thay Đổi : -3000000
+----------Thời Gian : 2023-09-19 19:09:41--------
+- Name : ghjkgj
+- Nội Dung : Đặt Tài
+- Xu Cũ : 387200
+- Xu Mới : 87200
+- Xu Thay Đổi : -300000
+----------Thời Gian : 2023-09-19 19:09:55--------
+- Name : hgdgdfb
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1700000
+- Xu Mới : 0
+- Xu Thay Đổi : -1700000
+----------Thời Gian : 2023-09-19 19:10:06--------
+- Name : vbdffb
+- Nội Dung : Đặt Tài
+- Xu Cũ : 3000000
+- Xu Mới : 0
+- Xu Thay Đổi : -3000000
+----------Thời Gian : 2023-09-19 19:11:24--------
+- Name : ghjkgj
+- Nội Dung : Đặt Tài
+- Xu Cũ : 627200
+- Xu Mới : 27200
+- Xu Thay Đổi : -600000
+----------Thời Gian : 2023-09-19 19:11:31--------
+- Name : vbdffb
+- Nội Dung : Đặt Tài
+- Xu Cũ : 5400000
+- Xu Mới : 4700000
+- Xu Thay Đổi : -700000
+----------Thời Gian : 2023-09-19 19:11:44--------
+- Name : hgdgdfb
+- Nội Dung : Đặt Tài
+- Xu Cũ : 3060000
+- Xu Mới : 2560000
+- Xu Thay Đổi : -500000
+----------Thời Gian : 2023-09-19 19:17:02--------
+- Name : vbdffb
+- Nội Dung : Đặt Tài
+- Xu Cũ : 4700000
+- Xu Mới : 1700000
+- Xu Thay Đổi : -3000000
+----------Thời Gian : 2023-09-19 19:17:11--------
+- Name : hgdgdfb
+- Nội Dung : Đặt Tài
+- Xu Cũ : 2560000
+- Xu Mới : 560000
+- Xu Thay Đổi : -2000000
+----------Thời Gian : 2023-09-19 19:19:01--------
+- Name : ghjkgjc
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1000000
+- Xu Mới : 0
+- Xu Thay Đổi : -1000000
+----------Thời Gian : 2023-09-19 19:19:11--------
+- Name : gfngn
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1000000
+- Xu Mới : 0
+- Xu Thay Đổi : -1000000
+----------Thời Gian : 2023-09-19 19:19:20--------
+- Name : vbdffb
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1700000
+- Xu Mới : 0
+- Xu Thay Đổi : -1700000
+----------Thời Gian : 2023-09-19 19:19:33--------
+- Name : hgdgdfb
+- Nội Dung : Đặt Tài
+- Xu Cũ : 560000
+- Xu Mới : 0
+- Xu Thay Đổi : -560000
+----------Thời Gian : 2023-09-19 19:19:47--------
+- Name : fjhtghf
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1000000
+- Xu Mới : 0
+- Xu Thay Đổi : -1000000
+----------Thời Gian : 2023-09-19 19:28:58--------
+- Name : vbdin
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1000000
+- Xu Mới : 0
+- Xu Thay Đổi : -1000000
+----------Thời Gian : 2023-09-19 19:29:10--------
+- Name : ghjkgl
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1000000
+- Xu Mới : 0
+- Xu Thay Đổi : -1000000
+----------Thời Gian : 2023-09-19 19:30:33--------
+- Name : ghjkgl
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1800000
+- Xu Mới : 800000
+- Xu Thay Đổi : -1000000
+----------Thời Gian : 2023-09-19 19:30:42--------
+- Name : fjjfb
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1000000
+- Xu Mới : 0
+- Xu Thay Đổi : -1000000
+----------Thời Gian : 2023-09-19 19:32:04--------
+- Name : ghjkgl
+- Nội Dung : Đặt Tài
+- Xu Cũ : 800000
+- Xu Mới : 0
+- Xu Thay Đổi : -800000
+----------Thời Gian : 2023-09-19 19:33:52--------
+- Name : gfngnm
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1000000
+- Xu Mới : 0
+- Xu Thay Đổi : -1000000
+----------Thời Gian : 2023-09-19 19:34:06--------
+- Name : phachinhem
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 5000401
+- Xu Mới : 401
+- Xu Thay Đổi : -5000000
+----------Thời Gian : 2023-09-19 19:35:12--------
+- Name : phachinhem
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 9000401
+- Xu Mới : 8000401
+- Xu Thay Đổi : -1000000
+----------Thời Gian : 2023-09-19 19:35:54--------
+- Name : sieunhan12
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1017720
+- Xu Mới : 17720
+- Xu Thay Đổi : -1000000
+----------Thời Gian : 2023-09-19 19:36:56--------
+- Name : sieunhan12
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1817720
+- Xu Mới : 1017720
+- Xu Thay Đổi : -800000
+----------Thời Gian : 2023-09-19 19:38:16--------
+- Name : sieunhan12
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 2457720
+- Xu Mới : 1657720
+- Xu Thay Đổi : -800000
+----------Thời Gian : 2023-09-19 19:39:33--------
+- Name : sieunhan12
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1657720
+- Xu Mới : 57720
+- Xu Thay Đổi : -1600000
+----------Thời Gian : 2023-09-19 19:39:48--------
+- Name : phachinhem
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 8000401
+- Xu Mới : 3000401
+- Xu Thay Đổi : -5000000
+----------Thời Gian : 2023-09-19 19:40:58--------
+- Name : sieunhan12
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 2937720
+- Xu Mới : 2337720
+- Xu Thay Đổi : -600000
+----------Thời Gian : 2023-09-19 19:42:13--------
+- Name : sieunhan12
+- Nội Dung : Đặt Tài
+- Xu Cũ : 2337720
+- Xu Mới : 2037720
+- Xu Thay Đổi : -300000
+----------Thời Gian : 2023-09-19 19:42:28--------
+- Name : phachinhem
+- Nội Dung : Đặt Tài
+- Xu Cũ : 12000401
+- Xu Mới : 10000401
+- Xu Thay Đổi : -2000000
+----------Thời Gian : 2023-09-19 19:43:25--------
+- Name : sieunhan12
+- Nội Dung : Đặt Tài
+- Xu Cũ : 2037720
+- Xu Mới : 1537720
+- Xu Thay Đổi : -500000
+----------Thời Gian : 2023-09-19 19:43:51--------
+- Name : phachinhem
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 10000401
+- Xu Mới : 401
+- Xu Thay Đổi : -10000000
+----------Thời Gian : 2023-09-19 19:44:41--------
+- Name : sieunhan12
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1537720
+- Xu Mới : 1037720
+- Xu Thay Đổi : -500000
+----------Thời Gian : 2023-09-19 19:45:11--------
+- Name : phachinhem
+- Nội Dung : Đặt Tài
+- Xu Cũ : 18000401
+- Xu Mới : 15500401
+- Xu Thay Đổi : -2500000
+----------Thời Gian : 2023-09-19 19:45:57--------
+- Name : sieunhan12
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1037720
+- Xu Mới : 37720
+- Xu Thay Đổi : -1000000
+----------Thời Gian : 2023-09-19 19:46:00--------
+- Name : phachinhem
+- Nội Dung : Đặt Tài
+- Xu Cũ : 15500401
+- Xu Mới : 10000401
+- Xu Thay Đổi : -5500000
+----------Thời Gian : 2023-09-19 19:47:17--------
+- Name : sieunhan12
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1837720
+- Xu Mới : 1827720
+- Xu Thay Đổi : -10000
+----------Thời Gian : 2023-09-19 19:47:31--------
+- Name : phachinhem
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 19900401
+- Xu Mới : 18910401
+- Xu Thay Đổi : -990000
+----------Thời Gian : 2023-09-19 19:49:11--------
+- Name : phachinhem
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 18910401
+- Xu Mới : 10010401
+- Xu Thay Đổi : -8900000
+----------Thời Gian : 2023-09-19 19:50:59--------
+- Name : phachinhem
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 10010401
+- Xu Mới : 10401
+- Xu Thay Đổi : -10000000
+----------Thời Gian : 2023-09-19 19:52:47--------
+- Name : phachinhem
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 18010401
+- Xu Mới : 10010401
+- Xu Thay Đổi : -8000000
+----------Thời Gian : 2023-09-19 20:10:13--------
+- Name : sharkloli
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 4000001
+- Xu Mới : 3400001
+- Xu Thay Đổi : -600000
+----------Thời Gian : 2023-09-19 20:11:50--------
+- Name : sharkloli
+- Nội Dung : Đặt Tài
+- Xu Cũ : 4480001
+- Xu Mới : 480001
+- Xu Thay Đổi : -4000000
+----------Thời Gian : 2023-09-19 20:13:26--------
+- Name : sharkloli
+- Nội Dung : Đặt Tài
+- Xu Cũ : 10480001
+- Xu Mới : 480001
+- Xu Thay Đổi : -10000000
+----------Thời Gian : 2023-09-19 20:15:38--------
+- Name : sharkloli
+- Nội Dung : Đặt Tài
+- Xu Cũ : 480001
+- Xu Mới : 1
+- Xu Thay Đổi : -480000
+----------Thời Gian : 2023-09-19 20:16:10--------
+- Name : henzo
+- Nội Dung : Đặt Tài
+- Xu Cũ : 10600000
+- Xu Mới : 600000
+- Xu Thay Đổi : -10000000
+----------Thời Gian : 2023-09-19 20:17:28--------
+- Name : phachinhem
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 24410401
+- Xu Mới : 20410401
+- Xu Thay Đổi : -4000000
+----------Thời Gian : 2023-09-19 20:27:57--------
+- Name : phachinhem
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 20410401
+- Xu Mới : 15410401
+- Xu Thay Đổi : -5000000
+----------Thời Gian : 2023-09-19 20:29:44--------
+- Name : phachinhem
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 24410401
+- Xu Mới : 20410401
+- Xu Thay Đổi : -4000000
+----------Thời Gian : 2023-09-19 20:43:45--------
+- Name : sieunhan12
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1827720
+- Xu Mới : 1817720
+- Xu Thay Đổi : -10000
+----------Thời Gian : 2023-09-19 20:48:32--------
+- Name : zashizaki
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1054500
+- Xu Mới : 1053500
+- Xu Thay Đổi : -1000
+----------Thời Gian : 2023-09-19 20:51:06--------
+- Name : sieunhan12
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1817720
+- Xu Mới : 1017720
+- Xu Thay Đổi : -800000
+----------Thời Gian : 2023-09-19 20:52:17--------
+- Name : sieunhan12
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1017720
+- Xu Mới : 17720
+- Xu Thay Đổi : -1000000
+----------Thời Gian : 2023-09-19 20:53:31--------
+- Name : sieunhan12
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1817720
+- Xu Mới : 1017720
+- Xu Thay Đổi : -800000
+----------Thời Gian : 2023-09-19 20:55:03--------
+- Name : yeuquaiwtf
+- Nội Dung : Đặt Tài
+- Xu Cũ : 605000
+- Xu Mới : 105000
+- Xu Thay Đổi : -500000
+----------Thời Gian : 2023-09-19 20:55:21--------
+- Name : sieunhan12
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1017720
+- Xu Mới : 217720
+- Xu Thay Đổi : -800000
+----------Thời Gian : 2023-09-19 20:56:31--------
+- Name : sieunhan12
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1657720
+- Xu Mới : 1057720
+- Xu Thay Đổi : -600000
+----------Thời Gian : 2023-09-19 20:57:44--------
+- Name : sieunhan12
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1057720
+- Xu Mới : 57720
+- Xu Thay Đổi : -1000000
+----------Thời Gian : 2023-09-19 20:58:51--------
+- Name : sieunhan12
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1857720
+- Xu Mới : 1057720
+- Xu Thay Đổi : -800000
+----------Thời Gian : 2023-09-19 21:00:09--------
+- Name : sieunhan12
+- Nội Dung : Đặt Tài
+- Xu Cũ : 2497720
+- Xu Mới : 1797720
+- Xu Thay Đổi : -700000
+----------Thời Gian : 2023-09-19 21:02:23--------
+- Name : yeuquaiwtf
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 105000
+- Xu Mới : 5000
+- Xu Thay Đổi : -100000
+----------Thời Gian : 2023-09-19 21:02:40--------
+- Name : sieunhan12
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1797720
+- Xu Mới : 997720
+- Xu Thay Đổi : -800000
+----------Thời Gian : 2023-09-19 21:04:06--------
+- Name : sieunhan12
+- Nội Dung : Đặt Tài
+- Xu Cũ : 997720
+- Xu Mới : 197720
+- Xu Thay Đổi : -800000
+----------Thời Gian : 2023-09-19 21:05:16--------
+- Name : sieunhan12
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1637720
+- Xu Mới : 837720
+- Xu Thay Đổi : -800000
+----------Thời Gian : 2023-09-19 21:06:42--------
+- Name : sieunhan12
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 837720
+- Xu Mới : 37720
+- Xu Thay Đổi : -800000
+----------Thời Gian : 2023-09-19 21:09:45--------
+- Name : bladeveo
+- Nội Dung : Đặt Tài
+- Xu Cũ : 340000
+- Xu Mới : 0
+- Xu Thay Đổi : -340000
+----------Thời Gian : 2023-09-19 21:11:46--------
+- Name : bladeveo
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 897000
+- Xu Mới : 347000
+- Xu Thay Đổi : -550000
+----------Thời Gian : 2023-09-19 21:12:01--------
+- Name : phachinhem
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 20410401
+- Xu Mới : 18410401
+- Xu Thay Đổi : -2000000
+----------Thời Gian : 2023-09-19 21:13:15--------
+- Name : sieunhan12
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1477720
+- Xu Mới : 1467720
+- Xu Thay Đổi : -10000
+----------Thời Gian : 2023-09-19 21:13:15--------
+- Name : xufreee
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1000000
+- Xu Mới : 0
+- Xu Thay Đổi : -1000000
+----------Thời Gian : 2023-09-19 21:15:18--------
+- Name : xufreee
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1800000
+- Xu Mới : 0
+- Xu Thay Đổi : -1800000
+----------Thời Gian : 2023-09-19 21:17:02--------
+- Name : xufreee
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 3240000
+- Xu Mới : 40000
+- Xu Thay Đổi : -3200000
+----------Thời Gian : 2023-09-19 21:19:28--------
+- Name : sieunhan12
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1485720
+- Xu Mới : 1475720
+- Xu Thay Đổi : -10000
+----------Thời Gian : 2023-09-19 21:21:19--------
+- Name : sieunhan12
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1475720
+- Xu Mới : 1465720
+- Xu Thay Đổi : -10000
+----------Thời Gian : 2023-09-19 21:22:31--------
+- Name : sieunhan12
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1465720
+- Xu Mới : 1455720
+- Xu Thay Đổi : -10000
+----------Thời Gian : 2023-09-19 21:24:22--------
+- Name : sieunhan12
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1473720
+- Xu Mới : 1463720
+- Xu Thay Đổi : -10000
+----------Thời Gian : 2023-09-19 21:24:46--------
+- Name : xufree2
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1000000
+- Xu Mới : 0
+- Xu Thay Đổi : -1000000
+----------Thời Gian : 2023-09-19 21:28:12--------
+- Name : sieunhan12
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1463720
+- Xu Mới : 1453720
+- Xu Thay Đổi : -10000
+----------Thời Gian : 2023-09-19 21:29:42--------
+- Name : xufree3
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1000000
+- Xu Mới : 0
+- Xu Thay Đổi : -1000000
+----------Thời Gian : 2023-09-19 21:30:57--------
+- Name : sieunhan12
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1453720
+- Xu Mới : 1443720
+- Xu Thay Đổi : -10000
+----------Thời Gian : 2023-09-19 21:34:25--------
+- Name : sieunhan12
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1461720
+- Xu Mới : 661720
+- Xu Thay Đổi : -800000
+----------Thời Gian : 2023-09-19 21:36:22--------
+- Name : sieunhan12
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 661720
+- Xu Mới : 61720
+- Xu Thay Đổi : -600000
+----------Thời Gian : 2023-09-19 21:36:36--------
+- Name : huongngu
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1040000
+- Xu Mới : 540000
+- Xu Thay Đổi : -500000
+----------Thời Gian : 2023-09-19 21:38:00--------
+- Name : huongngu
+- Nội Dung : Đặt Tài
+- Xu Cũ : 540000
+- Xu Mới : 40000
+- Xu Thay Đổi : -500000
+----------Thời Gian : 2023-09-19 21:39:16--------
+- Name : huongngu
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 940000
+- Xu Mới : 40000
+- Xu Thay Đổi : -900000
+----------Thời Gian : 2023-09-19 21:41:17--------
+- Name : huongngu
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1650000
+- Xu Mới : 1150000
+- Xu Thay Đổi : -500000
+----------Thời Gian : 2023-09-19 21:43:56--------
+- Name : huongngu
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1150000
+- Xu Mới : 150000
+- Xu Thay Đổi : -1000000
+----------Thời Gian : 2023-09-19 22:00:08--------
+- Name : yamamoto
+- Nội Dung : Đặt Tài
+- Xu Cũ : 268999
+- Xu Mới : 68999
+- Xu Thay Đổi : -200000
+----------Thời Gian : 2023-09-19 22:02:20--------
+- Name : yamamoto
+- Nội Dung : Đặt Tài
+- Xu Cũ : 428999
+- Xu Mới : 228999
+- Xu Thay Đổi : -200000
+----------Thời Gian : 2023-09-19 22:03:43--------
+- Name : yamamoto
+- Nội Dung : Đặt Tài
+- Xu Cũ : 228999
+- Xu Mới : 28999
+- Xu Thay Đổi : -200000
+----------Thời Gian : 2023-09-19 22:11:49--------
+- Name : yamamoto
+- Nội Dung : Đặt Tài
+- Xu Cũ : 388999
+- Xu Mới : 188999
+- Xu Thay Đổi : -200000
+----------Thời Gian : 2023-09-19 22:13:57--------
+- Name : yamamoto
+- Nội Dung : Đặt Tài
+- Xu Cũ : 548999
+- Xu Mới : 348999
+- Xu Thay Đổi : -200000
+----------Thời Gian : 2023-09-19 22:18:56--------
+- Name : sukienz
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 20000000
+- Xu Mới : 10000000
+- Xu Thay Đổi : -10000000
+----------Thời Gian : 2023-09-19 22:31:24--------
+- Name : xufree5
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 900000
+- Xu Mới : 0
+- Xu Thay Đổi : -900000
+----------Thời Gian : 2023-09-19 22:31:39--------
+- Name : xufree
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1090000
+- Xu Mới : 90000
+- Xu Thay Đổi : -1000000
+----------Thời Gian : 2023-09-19 22:32:28--------
+- Name : yamamoto
+- Nội Dung : Đặt Tài
+- Xu Cũ : 533499
+- Xu Mới : 333499
+- Xu Thay Đổi : -200000
+----------Thời Gian : 2023-09-19 22:33:44--------
+- Name : yamamoto
+- Nội Dung : Đặt Tài
+- Xu Cũ : 333499
+- Xu Mới : 133499
+- Xu Thay Đổi : -200000
+----------Thời Gian : 2023-09-19 22:35:46--------
+- Name : yeuquaiwtf
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 3495000
+- Xu Mới : 1995000
+- Xu Thay Đổi : -1500000
+----------Thời Gian : 2023-09-19 22:37:23--------
+- Name : yeuquaiwtf
+- Nội Dung : Đặt Tài
+- Xu Cũ : 4695000
+- Xu Mới : 95000
+- Xu Thay Đổi : -4600000
+----------Thời Gian : 2023-09-19 22:43:26--------
+- Name : sukienz
+- Nội Dung : Đặt Tài
+- Xu Cũ : 28000000
+- Xu Mới : 23000000
+- Xu Thay Đổi : -5000000
+----------Thời Gian : 2023-09-19 22:48:10--------
+- Name : sukienz
+- Nội Dung : Đặt Tài
+- Xu Cũ : 23000000
+- Xu Mới : 11000000
+- Xu Thay Đổi : -12000000
+----------Thời Gian : 2023-09-19 22:49:36--------
+- Name : sukienz
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 32600000
+- Xu Mới : 24600000
+- Xu Thay Đổi : -8000000
+----------Thời Gian : 2023-09-19 22:56:30--------
+- Name : sukienz
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 24600000
+- Xu Mới : 9100000
+- Xu Thay Đổi : -15500000

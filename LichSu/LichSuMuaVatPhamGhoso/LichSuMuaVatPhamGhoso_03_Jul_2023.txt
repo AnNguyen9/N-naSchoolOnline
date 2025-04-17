@@ -1,0 +1,44 @@
+----------Thời Gian : 2023-07-03 14:42:12--------
+- Name : admin
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Thú Hồn
+- Số Lượng Mua : 1
+- Lượng Mua : -50
+- Xu Mua : 0
+- Lượng Cũ : 1004250
+- Lượng Mới : 1004200
+- Xu Cũ : 998800000
+- Xu Mới : 998800000
+----------Thời Gian : 2023-07-03 14:51:30--------
+- Name : admin
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Lục Vĩ Bạch Sên Bảo Bảo Siêu Cấp
+- Số Lượng Mua : 1
+- Lượng Mua : -50
+- Xu Mua : 0
+- Lượng Cũ : 1004200
+- Lượng Mới : 1004150
+- Xu Cũ : 998800000
+- Xu Mới : 998800000
+----------Thời Gian : 2023-07-03 18:39:10--------
+- Name : admin
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Hoán chuyển cao cấp
+- Số Lượng Mua : 1
+- Lượng Mua : -500
+- Xu Mua : 0
+- Lượng Cũ : 1024150
+- Lượng Mới : 1023650
+- Xu Cũ : 798800000
+- Xu Mới : 798800000
+----------Thời Gian : 2023-07-03 22:30:53--------
+- Name : admin
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Thí Luyện Thiếp
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : -5000000
+- Lượng Cũ : 1023650
+- Lượng Mới : 1023650
+- Xu Cũ : 1028800000
+- Xu Mới : 1023800000

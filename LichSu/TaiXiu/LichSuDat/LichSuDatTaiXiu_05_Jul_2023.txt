@@ -1,0 +1,426 @@
+----------Thời Gian : 2023-07-05 00:32:36--------
+- Name : hoangkyo
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1000920000
+- Xu Mới : 900920000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-07-05 05:40:31--------
+- Name : fallen
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1138500000
+- Xu Mới : 1128500000
+- Xu Thay Đổi : -10000000
+----------Thời Gian : 2023-07-05 06:21:39--------
+- Name : loladm
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 2000000000
+- Xu Mới : 1900000000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-07-05 06:46:01--------
+- Name : test01
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1640000000
+- Xu Mới : 1630000000
+- Xu Thay Đổi : -10000000
+----------Thời Gian : 2023-07-05 07:16:49--------
+- Name : vip1st
+- Nội Dung : Đặt Tài
+- Xu Cũ : 935550000
+- Xu Mới : 935350000
+- Xu Thay Đổi : -200000
+----------Thời Gian : 2023-07-05 07:18:44--------
+- Name : vip1st
+- Nội Dung : Đặt Tài
+- Xu Cũ : 935400000
+- Xu Mới : 915400000
+- Xu Thay Đổi : -20000000
+----------Thời Gian : 2023-07-05 07:20:24--------
+- Name : vip1st
+- Nội Dung : Đặt Tài
+- Xu Cũ : 951400000
+- Xu Mới : 851400000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-07-05 07:21:43--------
+- Name : vip1st
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1031400000
+- Xu Mới : 931400000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-07-05 07:23:43--------
+- Name : vip1st
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 931400000
+- Xu Mới : 921400000
+- Xu Thay Đổi : -10000000
+----------Thời Gian : 2023-07-05 08:36:00--------
+- Name : huyentran
+- Nội Dung : Đặt Tài
+- Xu Cũ : 945968826
+- Xu Mới : 940968826
+- Xu Thay Đổi : -5000000
+----------Thời Gian : 2023-07-05 09:54:56--------
+- Name : xataradi
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1504640000
+- Xu Mới : 1454640000
+- Xu Thay Đổi : -50000000
+----------Thời Gian : 2023-07-05 12:19:37--------
+- Name : trumwukong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 690817000
+- Xu Mới : 640817000
+- Xu Thay Đổi : -50000000
+----------Thời Gian : 2023-07-05 12:21:09--------
+- Name : trumwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 640817000
+- Xu Mới : 590817000
+- Xu Thay Đổi : -50000000
+----------Thời Gian : 2023-07-05 12:22:51--------
+- Name : trumwukong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 590817000
+- Xu Mới : 540817000
+- Xu Thay Đổi : -50000000
+----------Thời Gian : 2023-07-05 12:24:46--------
+- Name : longcandy
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1400050000
+- Xu Mới : 1390050000
+- Xu Thay Đổi : -10000000
+----------Thời Gian : 2023-07-05 12:26:41--------
+- Name : daigia01
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1994900000
+- Xu Mới : 1894900000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-07-05 12:28:31--------
+- Name : daigia01
+- Nội Dung : Đặt Tài
+- Xu Cũ : 2000000000
+- Xu Mới : 1900000000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-07-05 12:30:14--------
+- Name : daigia01
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1900000000
+- Xu Mới : 1800000000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-07-05 12:31:53--------
+- Name : daigia01
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1980000000
+- Xu Mới : 1930000000
+- Xu Thay Đổi : -50000000
+----------Thời Gian : 2023-07-05 12:39:03--------
+- Name : vipboyno1
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1850000000
+- Xu Mới : 1750000000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-07-05 12:48:52--------
+- Name : vipboyno1
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1700000000
+- Xu Mới : 1600000000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-07-05 12:50:18--------
+- Name : vipboyno1
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1900000000
+- Xu Mới : 1800000000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-07-05 12:54:07--------
+- Name : vipboyno1
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1979888590
+- Xu Mới : 1900000000
+- Xu Thay Đổi : -79888590
+----------Thời Gian : 2023-07-05 12:55:56--------
+- Name : vipboyno1
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1850000000
+- Xu Mới : 1750000000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-07-05 12:57:41--------
+- Name : vipboyno1
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1930000000
+- Xu Mới : 1830000000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-07-05 12:59:15--------
+- Name : vipboyno1
+- Nội Dung : Đặt Tài
+- Xu Cũ : 2000000000
+- Xu Mới : 1900000000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-07-05 13:03:24--------
+- Name : vipboyno1
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1950000000
+- Xu Mới : 1850000000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-07-05 13:08:11--------
+- Name : vipboyno1
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1800000000
+- Xu Mới : 1700000000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-07-05 13:17:23--------
+- Name : excalibur
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1001000000
+- Xu Mới : 991000000
+- Xu Thay Đổi : -10000000
+----------Thời Gian : 2023-07-05 13:18:02--------
+- Name : vipone1
+- Nội Dung : Đặt Tài
+- Xu Cũ : 2000000000
+- Xu Mới : 1990000000
+- Xu Thay Đổi : -10000000
+----------Thời Gian : 2023-07-05 14:05:38--------
+- Name : quanghuc
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1001000000
+- Xu Mới : 901000000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-07-05 14:10:27--------
+- Name : adminngu
+- Nội Dung : Đặt Tài
+- Xu Cũ : 724080000
+- Xu Mới : 624080000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-07-05 18:41:19--------
+- Name : ririnanatsumori
+- Nội Dung : Đặt Tài
+- Xu Cũ : 728695076
+- Xu Mới : 727695076
+- Xu Thay Đổi : -1000000
+----------Thời Gian : 2023-07-05 18:43:17--------
+- Name : sohagun
+- Nội Dung : Đặt Tài
+- Xu Cũ : 831640000
+- Xu Mới : 781640000
+- Xu Thay Đổi : -50000000
+----------Thời Gian : 2023-07-05 18:43:39--------
+- Name : ririnanatsumori
+- Nội Dung : Đặt Tài
+- Xu Cũ : 679495076
+- Xu Mới : 579495076
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-07-05 18:45:09--------
+- Name : ririnanatsumori
+- Nội Dung : Đặt Tài
+- Xu Cũ : 710697077
+- Xu Mới : 610697077
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-07-05 18:46:53--------
+- Name : ririnanatsumori
+- Nội Dung : Đặt Tài
+- Xu Cũ : 560697078
+- Xu Mới : 460697078
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-07-05 18:48:26--------
+- Name : yuamikami
+- Nội Dung : Đặt Tài
+- Xu Cũ : 951000001
+- Xu Mới : 851000001
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-07-05 18:49:06--------
+- Name : yuihatano
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1000000000
+- Xu Mới : 900000000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-07-05 18:49:39--------
+- Name : yuihatano
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1030000000
+- Xu Mới : 930000000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-07-05 18:50:16--------
+- Name : yuamikami
+- Nội Dung : Đặt Tài
+- Xu Cũ : 801000001
+- Xu Mới : 701000001
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-07-05 18:50:55--------
+- Name : ririnanatsumori
+- Nội Dung : Đặt Tài
+- Xu Cũ : 410697079
+- Xu Mới : 310697079
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-07-05 18:51:10--------
+- Name : yuamikami
+- Nội Dung : Đặt Tài
+- Xu Cũ : 701000001
+- Xu Mới : 601000001
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-07-05 18:51:28--------
+- Name : yuihatano
+- Nội Dung : Đặt Tài
+- Xu Cũ : 930000000
+- Xu Mới : 830000000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-07-05 18:52:30--------
+- Name : eimifukada
+- Nội Dung : Đặt Tài
+- Xu Cũ : 950000001
+- Xu Mới : 850000001
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-07-05 18:52:41--------
+- Name : yuihatano
+- Nội Dung : Đặt Tài
+- Xu Cũ : 830000000
+- Xu Mới : 730000000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-07-05 18:53:14--------
+- Name : yuamikami
+- Nội Dung : Đặt Tài
+- Xu Cũ : 788500000
+- Xu Mới : 688500000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-07-05 18:53:37--------
+- Name : yuamikami
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 688500000
+- Xu Mới : 588500000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-07-05 18:54:06--------
+- Name : ririnanatsumori
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 260697080
+- Xu Mới : 250697080
+- Xu Thay Đổi : -10000000
+----------Thời Gian : 2023-07-05 18:54:48--------
+- Name : ririnanatsumori
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 218697081
+- Xu Mới : 118697081
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-07-05 18:56:02--------
+- Name : ririnanatsumori
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 118697081
+- Xu Mới : 18697081
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-07-05 18:57:25--------
+- Name : ririnanatsumori
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 150697082
+- Xu Mới : 50697082
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-07-05 19:09:44--------
+- Name : ririnanatsumori
+- Nội Dung : Đặt Tài
+- Xu Cũ : 142828682
+- Xu Mới : 42828682
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-07-05 19:19:33--------
+- Name : yuamikami
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1659012304
+- Xu Mới : 1559012304
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-07-05 19:22:13--------
+- Name : 00000000000
+- Nội Dung : Đặt Tài
+- Xu Cũ : 935344312
+- Xu Mới : 835344312
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-07-05 19:24:45--------
+- Name : yuamikami
+- Nội Dung : Đặt Tài
+- Xu Cũ : 918882666
+- Xu Mới : 818882666
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-07-05 19:25:51--------
+- Name : yuamikami
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 818870321
+- Xu Mới : 718870321
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-07-05 19:27:02--------
+- Name : yuamikami
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 898870321
+- Xu Mới : 798870321
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-07-05 19:28:12--------
+- Name : yuamikami
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 968870321
+- Xu Mới : 868870321
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-07-05 19:29:29--------
+- Name : yuamikami
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1048870321
+- Xu Mới : 948870321
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-07-05 19:30:41--------
+- Name : yuamikami
+- Nội Dung : Đặt Tài
+- Xu Cũ : 936524643
+- Xu Mới : 836524643
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-07-05 19:31:48--------
+- Name : yuamikami
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 811813288
+- Xu Mới : 711813288
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-07-05 19:33:08--------
+- Name : yuamikami
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 91813289
+- Xu Mới : 1813289
+- Xu Thay Đổi : -90000000
+----------Thời Gian : 2023-07-05 19:39:41--------
+- Name : bao2006
+- Nội Dung : Đặt Tài
+- Xu Cũ : 927880
+- Xu Mới : 827880
+- Xu Thay Đổi : -100000
+----------Thời Gian : 2023-07-05 19:41:53--------
+- Name : bao2006
+- Nội Dung : Đặt Tài
+- Xu Cũ : 827880
+- Xu Mới : 327880
+- Xu Thay Đổi : -500000
+----------Thời Gian : 2023-07-05 19:43:35--------
+- Name : bao2006
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1202317
+- Xu Mới : 1000147
+- Xu Thay Đổi : -202170
+----------Thời Gian : 2023-07-05 19:45:05--------
+- Name : bao2006
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1364053
+- Xu Mới : 1264053
+- Xu Thay Đổi : -100000
+----------Thời Gian : 2023-07-05 19:46:26--------
+- Name : bao2006
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1444053
+- Xu Mới : 1344053
+- Xu Thay Đổi : -100000
+----------Thời Gian : 2023-07-05 19:47:55--------
+- Name : bao2006
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1344053
+- Xu Mới : 344053
+- Xu Thay Đổi : -1000000
+----------Thời Gian : 2023-07-05 19:49:14--------
+- Name : bao2006
+- Nội Dung : Đặt Tài
+- Xu Cũ : 344053
+- Xu Mới : 44053
+- Xu Thay Đổi : -300000
+----------Thời Gian : 2023-07-05 19:50:37--------
+- Name : bao2006
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 44053
+- Xu Mới : 4053
+- Xu Thay Đổi : -40000

@@ -1,0 +1,2472 @@
+----------Thời Gian : 2023-08-19 00:01:54--------
+- Name : tuanvu
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1100000
+- Xu Mới : 600000
+- Xu Thay Đổi : -500000
+----------Thời Gian : 2023-08-19 00:03:51--------
+- Name : tuanvu
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 600000
+- Xu Mới : 100000
+- Xu Thay Đổi : -500000
+----------Thời Gian : 2023-08-19 00:05:59--------
+- Name : tuanvu
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1000000
+- Xu Mới : 600000
+- Xu Thay Đổi : -400000
+----------Thời Gian : 2023-08-19 00:07:41--------
+- Name : tuanvu
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 650000
+- Xu Mới : 0
+- Xu Thay Đổi : -650000
+----------Thời Gian : 2023-08-19 00:08:27--------
+- Name : cccccj
+- Nội Dung : Đặt Tài
+- Xu Cũ : 56778500
+- Xu Mới : 36778500
+- Xu Thay Đổi : -20000000
+----------Thời Gian : 2023-08-19 00:09:05--------
+- Name : cccccj
+- Nội Dung : Đặt Tài
+- Xu Cũ : 36778500
+- Xu Mới : 21778500
+- Xu Thay Đổi : -15000000
+----------Thời Gian : 2023-08-19 00:10:48--------
+- Name : tuanvu
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1170000
+- Xu Mới : 650000
+- Xu Thay Đổi : -520000
+----------Thời Gian : 2023-08-19 00:11:36--------
+- Name : cccccj
+- Nội Dung : Đặt Tài
+- Xu Cũ : 48778500
+- Xu Mới : 38778500
+- Xu Thay Đổi : -10000000
+----------Thời Gian : 2023-08-19 00:12:05--------
+- Name : cccccj
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 56778500
+- Xu Mới : 36778500
+- Xu Thay Đổi : -20000000
+----------Thời Gian : 2023-08-19 00:12:48--------
+- Name : tuanvu
+- Nội Dung : Đặt Tài
+- Xu Cũ : 644500
+- Xu Mới : 0
+- Xu Thay Đổi : -644500
+----------Thời Gian : 2023-08-19 00:13:33--------
+- Name : cccccj
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 36778500
+- Xu Mới : 1778500
+- Xu Thay Đổi : -35000000
+----------Thời Gian : 2023-08-19 00:13:53--------
+- Name : tuanvu
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1160100
+- Xu Mới : 500100
+- Xu Thay Đổi : -660000
+----------Thời Gian : 2023-08-19 00:15:24--------
+- Name : tuanvu
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1738100
+- Xu Mới : 1500100
+- Xu Thay Đổi : -238000
+----------Thời Gian : 2023-08-19 00:17:06--------
+- Name : caveee
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1000000
+- Xu Mới : 0
+- Xu Thay Đổi : -1000000
+----------Thời Gian : 2023-08-19 00:17:29--------
+- Name : tuanvu
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1928500
+- Xu Mới : 1700000
+- Xu Thay Đổi : -228500
+----------Thời Gian : 2023-08-19 00:19:03--------
+- Name : tuanvu
+- Nội Dung : Đặt Tài
+- Xu Cũ : 2111300
+- Xu Mới : 2000000
+- Xu Thay Đổi : -111300
+----------Thời Gian : 2023-08-19 00:20:59--------
+- Name : tuanvu
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 2250340
+- Xu Mới : 2000000
+- Xu Thay Đổi : -250340
+----------Thời Gian : 2023-08-19 00:21:19--------
+- Name : hahahihi
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 672300000
+- Xu Mới : 600000000
+- Xu Thay Đổi : -72300000
+----------Thời Gian : 2023-08-19 00:22:14--------
+- Name : hahahihi
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 600000000
+- Xu Mới : 590000000
+- Xu Thay Đổi : -10000000
+----------Thời Gian : 2023-08-19 00:22:32--------
+- Name : tuanvu
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 2000000
+- Xu Mới : 1500000
+- Xu Thay Đổi : -500000
+----------Thời Gian : 2023-08-19 00:23:22--------
+- Name : tobaco
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 144605146
+- Xu Mới : 134605146
+- Xu Thay Đổi : -10000000
+----------Thời Gian : 2023-08-19 00:23:43--------
+- Name : tuanvu
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1500000
+- Xu Mới : 900000
+- Xu Thay Đổi : -600000
+----------Thời Gian : 2023-08-19 00:23:48--------
+- Name : hahahihi
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 500000000
+- Xu Mới : 490000000
+- Xu Thay Đổi : -10000000
+----------Thời Gian : 2023-08-19 00:24:31--------
+- Name : tobaco
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 152605146
+- Xu Mới : 142605146
+- Xu Thay Đổi : -10000000
+----------Thời Gian : 2023-08-19 00:24:50--------
+- Name : hahahihi
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 508000000
+- Xu Mới : 498000000
+- Xu Thay Đổi : -10000000
+----------Thời Gian : 2023-08-19 00:25:32--------
+- Name : truongacc1
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 21100000
+- Xu Mới : 1100000
+- Xu Thay Đổi : -20000000
+----------Thời Gian : 2023-08-19 00:25:52--------
+- Name : tuanvu
+- Nội Dung : Đặt Tài
+- Xu Cũ : 900000
+- Xu Mới : 500000
+- Xu Thay Đổi : -400000
+----------Thời Gian : 2023-08-19 00:26:01--------
+- Name : tobaco
+- Nội Dung : Đặt Tài
+- Xu Cũ : 160605146
+- Xu Mới : 150605146
+- Xu Thay Đổi : -10000000
+----------Thời Gian : 2023-08-19 00:26:13--------
+- Name : hahahihi
+- Nội Dung : Đặt Tài
+- Xu Cũ : 496000000
+- Xu Mới : 486000000
+- Xu Thay Đổi : -10000000
+----------Thời Gian : 2023-08-19 00:26:45--------
+- Name : tobaco
+- Nội Dung : Đặt Tài
+- Xu Cũ : 150605146
+- Xu Mới : 50605146
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-08-19 00:27:09--------
+- Name : hahahihi
+- Nội Dung : Đặt Tài
+- Xu Cũ : 486000000
+- Xu Mới : 386000000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-08-19 00:27:17--------
+- Name : tuanvu
+- Nội Dung : Đặt Tài
+- Xu Cũ : 500000
+- Xu Mới : 0
+- Xu Thay Đổi : -500000
+----------Thời Gian : 2023-08-19 00:27:28--------
+- Name : truongacc1
+- Nội Dung : Đặt Tài
+- Xu Cũ : 37100000
+- Xu Mới : 1100000
+- Xu Thay Đổi : -36000000
+----------Thời Gian : 2023-08-19 00:28:45--------
+- Name : tuanvu
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 900000
+- Xu Mới : 800000
+- Xu Thay Đổi : -100000
+----------Thời Gian : 2023-08-19 00:29:11--------
+- Name : truongacc1
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 65900000
+- Xu Mới : 0
+- Xu Thay Đổi : -65900000
+----------Thời Gian : 2023-08-19 00:30:22--------
+- Name : tuanvu
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 720000
+- Xu Mới : 0
+- Xu Thay Đổi : -720000
+----------Thời Gian : 2023-08-19 00:30:25--------
+- Name : hahahihi
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 766000000
+- Xu Mới : 722000000
+- Xu Thay Đổi : -44000000
+----------Thời Gian : 2023-08-19 00:31:50--------
+- Name : hahahihi
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 801200000
+- Xu Mới : 701200000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-08-19 00:37:17--------
+- Name : iavaodau
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 31756333
+- Xu Mới : 30756333
+- Xu Thay Đổi : -1000000
+----------Thời Gian : 2023-08-19 00:46:22--------
+- Name : tuanvu
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1196000
+- Xu Mới : 1076000
+- Xu Thay Đổi : -120000
+----------Thời Gian : 2023-08-19 00:50:14--------
+- Name : tuanvu
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1126000
+- Xu Mới : 921000
+- Xu Thay Đổi : -205000
+----------Thời Gian : 2023-08-19 00:51:56--------
+- Name : maytuoilol
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 910000
+- Xu Mới : 10000
+- Xu Thay Đổi : -900000
+----------Thời Gian : 2023-08-19 00:52:39--------
+- Name : tuanvu
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 921000
+- Xu Mới : 500000
+- Xu Thay Đổi : -421000
+----------Thời Gian : 2023-08-19 00:54:06--------
+- Name : tuanvu
+- Nội Dung : Đặt Tài
+- Xu Cũ : 550000
+- Xu Mới : 300000
+- Xu Thay Đổi : -250000
+----------Thời Gian : 2023-08-19 00:55:32--------
+- Name : 1ngaybuonn
+- Nội Dung : Đặt Tài
+- Xu Cũ : 78813111
+- Xu Mới : 28813111
+- Xu Thay Đổi : -50000000
+----------Thời Gian : 2023-08-19 00:55:48--------
+- Name : tuanvu
+- Nội Dung : Đặt Tài
+- Xu Cũ : 300000
+- Xu Mới : 0
+- Xu Thay Đổi : -300000
+----------Thời Gian : 2023-08-19 00:59:55--------
+- Name : 1ngaybuonn
+- Nội Dung : Đặt Tài
+- Xu Cũ : 10813111
+- Xu Mới : 813111
+- Xu Thay Đổi : -10000000
+----------Thời Gian : 2023-08-19 01:01:17--------
+- Name : 1ngaybuonn
+- Nội Dung : Đặt Tài
+- Xu Cũ : 18813111
+- Xu Mới : 813111
+- Xu Thay Đổi : -18000000
+----------Thời Gian : 2023-08-19 01:06:20--------
+- Name : tuanvu
+- Nội Dung : Đặt Tài
+- Xu Cũ : 189999
+- Xu Mới : 999
+- Xu Thay Đổi : -189000
+----------Thời Gian : 2023-08-19 01:08:46--------
+- Name : tuanvu
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 341199
+- Xu Mới : 199
+- Xu Thay Đổi : -341000
+----------Thời Gian : 2023-08-19 01:10:49--------
+- Name : tuanvu
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 613999
+- Xu Mới : 999
+- Xu Thay Đổi : -613000
+----------Thời Gian : 2023-08-19 01:55:53--------
+- Name : ngocdz
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 606328661
+- Xu Mới : 605328661
+- Xu Thay Đổi : -1000000
+----------Thời Gian : 2023-08-19 01:59:45--------
+- Name : ngocdz
+- Nội Dung : Đặt Tài
+- Xu Cũ : 605328661
+- Xu Mới : 604328661
+- Xu Thay Đổi : -1000000
+----------Thời Gian : 2023-08-19 02:01:09--------
+- Name : ngocdz
+- Nội Dung : Đặt Tài
+- Xu Cũ : 604328661
+- Xu Mới : 599328661
+- Xu Thay Đổi : -5000000
+----------Thời Gian : 2023-08-19 02:03:18--------
+- Name : topseve098
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1000000
+- Xu Mới : 950000
+- Xu Thay Đổi : -50000
+----------Thời Gian : 2023-08-19 02:05:01--------
+- Name : topseve098
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 950000
+- Xu Mới : 900000
+- Xu Thay Đổi : -50000
+----------Thời Gian : 2023-08-19 02:06:39--------
+- Name : topseve098
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 990000
+- Xu Mới : 900000
+- Xu Thay Đổi : -90000
+----------Thời Gian : 2023-08-19 02:11:35--------
+- Name : ngocdz
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 108328661
+- Xu Mới : 107328661
+- Xu Thay Đổi : -1000000
+----------Thời Gian : 2023-08-19 02:12:53--------
+- Name : ngocdz
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 109128661
+- Xu Mới : 99128661
+- Xu Thay Đổi : -10000000
+----------Thời Gian : 2023-08-19 02:18:19--------
+- Name : akainu
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1050000
+- Xu Mới : 50000
+- Xu Thay Đổi : -1000000
+----------Thời Gian : 2023-08-19 02:58:59--------
+- Name : topseve098
+- Nội Dung : Đặt Tài
+- Xu Cũ : 970000
+- Xu Mới : 270000
+- Xu Thay Đổi : -700000
+----------Thời Gian : 2023-08-19 08:33:42--------
+- Name : adminfake
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 870000
+- Xu Mới : 860000
+- Xu Thay Đổi : -10000
+----------Thời Gian : 2023-08-19 09:10:02--------
+- Name : maytuoilol
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1060000
+- Xu Mới : 60000
+- Xu Thay Đổi : -1000000
+----------Thời Gian : 2023-08-19 09:12:08--------
+- Name : bulozkoem
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1000000
+- Xu Mới : 500000
+- Xu Thay Đổi : -500000
+----------Thời Gian : 2023-08-19 09:12:43--------
+- Name : maytuoilol
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1860000
+- Xu Mới : 60000
+- Xu Thay Đổi : -1800000
+----------Thời Gian : 2023-08-19 09:13:50--------
+- Name : bulozkoem
+- Nội Dung : Đặt Tài
+- Xu Cũ : 500000
+- Xu Mới : 0
+- Xu Thay Đổi : -500000
+----------Thời Gian : 2023-08-19 10:10:49--------
+- Name : buloznhanvien
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1000000
+- Xu Mới : 0
+- Xu Thay Đổi : -1000000
+----------Thời Gian : 2023-08-19 11:00:44--------
+- Name : stark
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1050000
+- Xu Mới : 50000
+- Xu Thay Đổi : -1000000
+----------Thời Gian : 2023-08-19 11:35:46--------
+- Name : tieucongtu
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1000000
+- Xu Mới : 500000
+- Xu Thay Đổi : -500000
+----------Thời Gian : 2023-08-19 11:50:43--------
+- Name : motminhtao
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 340224990
+- Xu Mới : 240224990
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-08-19 11:50:45--------
+- Name : chaptatca
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 100251599
+- Xu Mới : 50251599
+- Xu Thay Đổi : -50000000
+----------Thời Gian : 2023-08-19 11:51:57--------
+- Name : chaptatca
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 50251599
+- Xu Mới : 251599
+- Xu Thay Đổi : -50000000
+----------Thời Gian : 2023-08-19 11:52:07--------
+- Name : motminhtao
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 240224990
+- Xu Mới : 140224990
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-08-19 11:53:51--------
+- Name : chaptatca
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 90251599
+- Xu Mới : 80251599
+- Xu Thay Đổi : -10000000
+----------Thời Gian : 2023-08-19 11:53:56--------
+- Name : motminhtao
+- Nội Dung : Đặt Tài
+- Xu Cũ : 320224990
+- Xu Mới : 270224990
+- Xu Thay Đổi : -50000000
+----------Thời Gian : 2023-08-19 11:55:09--------
+- Name : motminhtao
+- Nội Dung : Đặt Tài
+- Xu Cũ : 270224990
+- Xu Mới : 170224990
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-08-19 11:55:25--------
+- Name : chaptatca
+- Nội Dung : Đặt Tài
+- Xu Cũ : 98251599
+- Xu Mới : 88251599
+- Xu Thay Đổi : -10000000
+----------Thời Gian : 2023-08-19 11:56:50--------
+- Name : motminhtao
+- Nội Dung : Đặt Tài
+- Xu Cũ : 350224990
+- Xu Mới : 350223990
+- Xu Thay Đổi : -1000
+----------Thời Gian : 2023-08-19 11:56:51--------
+- Name : chaptatca
+- Nội Dung : Đặt Tài
+- Xu Cũ : 106251599
+- Xu Mới : 105251599
+- Xu Thay Đổi : -1000000
+----------Thời Gian : 2023-08-19 11:58:28--------
+- Name : chaptatca
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 105251599
+- Xu Mới : 95251599
+- Xu Thay Đổi : -10000000
+----------Thời Gian : 2023-08-19 11:58:33--------
+- Name : motminhtao
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 350223990
+- Xu Mới : 350023990
+- Xu Thay Đổi : -200000
+----------Thời Gian : 2023-08-19 12:00:11--------
+- Name : chaptatca
+- Nội Dung : Đặt Tài
+- Xu Cũ : 95251599
+- Xu Mới : 85251599
+- Xu Thay Đổi : -10000000
+----------Thời Gian : 2023-08-19 12:00:16--------
+- Name : motminhtao
+- Nội Dung : Đặt Tài
+- Xu Cũ : 350023990
+- Xu Mới : 350022990
+- Xu Thay Đổi : -1000
+----------Thời Gian : 2023-08-19 12:01:34--------
+- Name : chaptatca
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 85251599
+- Xu Mới : 35251599
+- Xu Thay Đổi : -50000000
+----------Thời Gian : 2023-08-19 12:01:44--------
+- Name : motminhtao
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 350022990
+- Xu Mới : 349922990
+- Xu Thay Đổi : -100000
+----------Thời Gian : 2023-08-19 12:03:19--------
+- Name : chaptatca
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 35251599
+- Xu Mới : 15251599
+- Xu Thay Đổi : -20000000
+----------Thời Gian : 2023-08-19 12:03:26--------
+- Name : motminhtao
+- Nội Dung : Đặt Tài
+- Xu Cũ : 349922990
+- Xu Mới : 249922990
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-08-19 12:16:26--------
+- Name : trumsv
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1000000
+- Xu Mới : 500000
+- Xu Thay Đổi : -500000
+----------Thời Gian : 2023-08-19 12:18:20--------
+- Name : trumsv
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1400000
+- Xu Mới : 400000
+- Xu Thay Đổi : -1000000
+----------Thời Gian : 2023-08-19 12:20:07--------
+- Name : trumsv
+- Nội Dung : Đặt Tài
+- Xu Cũ : 2200000
+- Xu Mới : 2100000
+- Xu Thay Đổi : -100000
+----------Thời Gian : 2023-08-19 13:18:40--------
+- Name : phoneix
+- Nội Dung : Đặt Tài
+- Xu Cũ : 19847787
+- Xu Mới : 4847787
+- Xu Thay Đổi : -15000000
+----------Thời Gian : 2023-08-19 13:59:09--------
+- Name : sjdkww
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1584000
+- Xu Mới : 1583900
+- Xu Thay Đổi : -100
+----------Thời Gian : 2023-08-19 14:01:14--------
+- Name : sjdkww
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1584080
+- Xu Mới : 1583080
+- Xu Thay Đổi : -1000
+----------Thời Gian : 2023-08-19 14:11:37--------
+- Name : quandzpro9
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 910000
+- Xu Mới : 900000
+- Xu Thay Đổi : -10000
+----------Thời Gian : 2023-08-19 14:12:00--------
+- Name : tieucongtu
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1400000
+- Xu Mới : 900000
+- Xu Thay Đổi : -500000
+----------Thời Gian : 2023-08-19 14:12:54--------
+- Name : quandzpro9
+- Nội Dung : Đặt Tài
+- Xu Cũ : 918000
+- Xu Mới : 418000
+- Xu Thay Đổi : -500000
+----------Thời Gian : 2023-08-19 14:13:02--------
+- Name : tieucongtu
+- Nội Dung : Đặt Tài
+- Xu Cũ : 900000
+- Xu Mới : 400000
+- Xu Thay Đổi : -500000
+----------Thời Gian : 2023-08-19 14:14:40--------
+- Name : quandzpro9
+- Nội Dung : Đặt Tài
+- Xu Cũ : 418000
+- Xu Mới : 0
+- Xu Thay Đổi : -418000
+----------Thời Gian : 2023-08-19 14:18:43--------
+- Name : tieucongtu
+- Nội Dung : Đặt Tài
+- Xu Cũ : 400000
+- Xu Mới : 0
+- Xu Thay Đổi : -400000
+----------Thời Gian : 2023-08-19 14:20:05--------
+- Name : tieucongtu
+- Nội Dung : Đặt Tài
+- Xu Cũ : 720000
+- Xu Mới : 220000
+- Xu Thay Đổi : -500000
+----------Thời Gian : 2023-08-19 14:21:30--------
+- Name : tieucongtu
+- Nội Dung : Đặt Tài
+- Xu Cũ : 220000
+- Xu Mới : 20000
+- Xu Thay Đổi : -200000
+----------Thời Gian : 2023-08-19 14:22:59--------
+- Name : vngamer1
+- Nội Dung : Đặt Tài
+- Xu Cũ : 149709374
+- Xu Mới : 149657374
+- Xu Thay Đổi : -52000
+----------Thời Gian : 2023-08-19 14:23:28--------
+- Name : tieucongtu
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 20000
+- Xu Mới : 0
+- Xu Thay Đổi : -20000
+----------Thời Gian : 2023-08-19 14:24:17--------
+- Name : tieucongtu
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 36000
+- Xu Mới : 6000
+- Xu Thay Đổi : -30000
+----------Thời Gian : 2023-08-19 14:27:35--------
+- Name : tieucongtu
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 60000
+- Xu Mới : 0
+- Xu Thay Đổi : -60000
+----------Thời Gian : 2023-08-19 14:29:02--------
+- Name : vngamer1
+- Nội Dung : Đặt Tài
+- Xu Cũ : 149657374
+- Xu Mới : 149537374
+- Xu Thay Đổi : -120000
+----------Thời Gian : 2023-08-19 14:29:07--------
+- Name : bichngoc
+- Nội Dung : Đặt Tài
+- Xu Cũ : 910656
+- Xu Mới : 10656
+- Xu Thay Đổi : -900000
+----------Thời Gian : 2023-08-19 14:30:31--------
+- Name : bichngoc
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1630656
+- Xu Mới : 30656
+- Xu Thay Đổi : -1600000
+----------Thời Gian : 2023-08-19 14:30:53--------
+- Name : sjdkww
+- Nội Dung : Đặt Tài
+- Xu Cũ : 949880
+- Xu Mới : 919880
+- Xu Thay Đổi : -30000
+----------Thời Gian : 2023-08-19 14:31:44--------
+- Name : bichngoc
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 2910656
+- Xu Mới : 2030656
+- Xu Thay Đổi : -880000
+----------Thời Gian : 2023-08-19 14:32:13--------
+- Name : sjdkww
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 973880
+- Xu Mới : 923880
+- Xu Thay Đổi : -50000
+----------Thời Gian : 2023-08-19 14:32:58--------
+- Name : bichngoc
+- Nội Dung : Đặt Tài
+- Xu Cũ : 2030656
+- Xu Mới : 30656
+- Xu Thay Đổi : -2000000
+----------Thời Gian : 2023-08-19 14:33:23--------
+- Name : sjdkww
+- Nội Dung : Đặt Tài
+- Xu Cũ : 923880
+- Xu Mới : 873880
+- Xu Thay Đổi : -50000
+----------Thời Gian : 2023-08-19 14:34:45--------
+- Name : sjdkww
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 873880
+- Xu Mới : 773880
+- Xu Thay Đổi : -100000
+----------Thời Gian : 2023-08-19 14:35:56--------
+- Name : chistojis
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 622500
+- Xu Mới : 522500
+- Xu Thay Đổi : -100000
+----------Thời Gian : 2023-08-19 14:36:08--------
+- Name : sjdkww
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 773880
+- Xu Mới : 673880
+- Xu Thay Đổi : -100000
+----------Thời Gian : 2023-08-19 14:37:25--------
+- Name : sjdkww
+- Nội Dung : Đặt Tài
+- Xu Cũ : 673880
+- Xu Mới : 473880
+- Xu Thay Đổi : -200000
+----------Thời Gian : 2023-08-19 14:37:30--------
+- Name : chistojis
+- Nội Dung : Đặt Tài
+- Xu Cũ : 522500
+- Xu Mới : 272500
+- Xu Thay Đổi : -250000
+----------Thời Gian : 2023-08-19 14:38:50--------
+- Name : chistojis
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 272500
+- Xu Mới : 72500
+- Xu Thay Đổi : -200000
+----------Thời Gian : 2023-08-19 14:40:27--------
+- Name : chistojis
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 432500
+- Xu Mới : 282500
+- Xu Thay Đổi : -150000
+----------Thời Gian : 2023-08-19 14:41:38--------
+- Name : chistojis
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 282500
+- Xu Mới : 62500
+- Xu Thay Đổi : -220000
+----------Thời Gian : 2023-08-19 14:43:17--------
+- Name : chistojis
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 32500
+- Xu Mới : 0
+- Xu Thay Đổi : -32500
+----------Thời Gian : 2023-08-19 14:46:41--------
+- Name : sjdkww
+- Nội Dung : Đặt Tài
+- Xu Cũ : 463880
+- Xu Mới : 443880
+- Xu Thay Đổi : -20000
+----------Thời Gian : 2023-08-19 14:48:14--------
+- Name : sjdkww
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 443880
+- Xu Mới : 393880
+- Xu Thay Đổi : -50000
+----------Thời Gian : 2023-08-19 14:49:54--------
+- Name : sjdkww
+- Nội Dung : Đặt Tài
+- Xu Cũ : 393880
+- Xu Mới : 373880
+- Xu Thay Đổi : -20000
+----------Thời Gian : 2023-08-19 14:51:33--------
+- Name : xinloc
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1000000
+- Xu Mới : 948000
+- Xu Thay Đổi : -52000
+----------Thời Gian : 2023-08-19 14:51:49--------
+- Name : sjdkww
+- Nội Dung : Đặt Tài
+- Xu Cũ : 373880
+- Xu Mới : 323880
+- Xu Thay Đổi : -50000
+----------Thời Gian : 2023-08-19 14:54:34--------
+- Name : xinloc
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1030600
+- Xu Mới : 910600
+- Xu Thay Đổi : -120000
+----------Thời Gian : 2023-08-19 14:55:20--------
+- Name : sjgjvk
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1000000
+- Xu Mới : 0
+- Xu Thay Đổi : -1000000
+----------Thời Gian : 2023-08-19 14:56:29--------
+- Name : chistojiz
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1000000
+- Xu Mới : 0
+- Xu Thay Đổi : -1000000
+----------Thời Gian : 2023-08-19 14:56:30--------
+- Name : xinloc
+- Nội Dung : Đặt Tài
+- Xu Cũ : 910600
+- Xu Mới : 490600
+- Xu Thay Đổi : -420000
+----------Thời Gian : 2023-08-19 14:57:41--------
+- Name : xinloc
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1246600
+- Xu Mới : 826600
+- Xu Thay Đổi : -420000
+----------Thời Gian : 2023-08-19 15:00:29--------
+- Name : xinloc
+- Nội Dung : Đặt Tài
+- Xu Cũ : 726600
+- Xu Mới : 714600
+- Xu Thay Đổi : -12000
+----------Thời Gian : 2023-08-19 15:02:04--------
+- Name : xinloc
+- Nội Dung : Đặt Tài
+- Xu Cũ : 636200
+- Xu Mới : 516200
+- Xu Thay Đổi : -120000
+----------Thời Gian : 2023-08-19 15:03:35--------
+- Name : xinloc
+- Nội Dung : Đặt Tài
+- Xu Cũ : 516200
+- Xu Mới : 276200
+- Xu Thay Đổi : -240000
+----------Thời Gian : 2023-08-19 15:04:49--------
+- Name : xinloc
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 276200
+- Xu Mới : 56200
+- Xu Thay Đổi : -220000
+----------Thời Gian : 2023-08-19 15:06:39--------
+- Name : xinloc
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 457650
+- Xu Mới : 337650
+- Xu Thay Đổi : -120000
+----------Thời Gian : 2023-08-19 15:09:00--------
+- Name : xinloc
+- Nội Dung : Đặt Tài
+- Xu Cũ : 337650
+- Xu Mới : 327650
+- Xu Thay Đổi : -10000
+----------Thời Gian : 2023-08-19 15:10:32--------
+- Name : xinloc
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 432150
+- Xu Mới : 12150
+- Xu Thay Đổi : -420000
+----------Thời Gian : 2023-08-19 15:26:56--------
+- Name : adminfake
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 673000
+- Xu Mới : 623000
+- Xu Thay Đổi : -50000
+----------Thời Gian : 2023-08-19 15:29:02--------
+- Name : phong281
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 203400
+- Xu Mới : 203000
+- Xu Thay Đổi : -400
+----------Thời Gian : 2023-08-19 15:29:28--------
+- Name : adminfake
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 713000
+- Xu Mới : 703000
+- Xu Thay Đổi : -10000
+----------Thời Gian : 2023-08-19 15:31:09--------
+- Name : adminfake
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 721000
+- Xu Mới : 671000
+- Xu Thay Đổi : -50000
+----------Thời Gian : 2023-08-19 15:33:38--------
+- Name : adminfake
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 671000
+- Xu Mới : 621000
+- Xu Thay Đổi : -50000
+----------Thời Gian : 2023-08-19 15:36:50--------
+- Name : adminfake
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 711000
+- Xu Mới : 701000
+- Xu Thay Đổi : -10000
+----------Thời Gian : 2023-08-19 15:38:37--------
+- Name : adminfake
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 701000
+- Xu Mới : 601000
+- Xu Thay Đổi : -100000
+----------Thời Gian : 2023-08-19 15:40:35--------
+- Name : luckymax
+- Nội Dung : Đặt Tài
+- Xu Cũ : 950000
+- Xu Mới : 450000
+- Xu Thay Đổi : -500000
+----------Thời Gian : 2023-08-19 15:41:57--------
+- Name : luckymax
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 450000
+- Xu Mới : 350000
+- Xu Thay Đổi : -100000
+----------Thời Gian : 2023-08-19 15:42:24--------
+- Name : adminfake
+- Nội Dung : Đặt Tài
+- Xu Cũ : 781000
+- Xu Mới : 771000
+- Xu Thay Đổi : -10000
+----------Thời Gian : 2023-08-19 15:43:37--------
+- Name : luckymax
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 350000
+- Xu Mới : 250000
+- Xu Thay Đổi : -100000
+----------Thời Gian : 2023-08-19 15:43:56--------
+- Name : adminfake
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 789000
+- Xu Mới : 779000
+- Xu Thay Đổi : -10000
+----------Thời Gian : 2023-08-19 15:45:41--------
+- Name : adminfake
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 797000
+- Xu Mới : 787000
+- Xu Thay Đổi : -10000
+----------Thời Gian : 2023-08-19 15:45:45--------
+- Name : luckymax
+- Nội Dung : Đặt Tài
+- Xu Cũ : 430000
+- Xu Mới : 429600
+- Xu Thay Đổi : -400
+----------Thời Gian : 2023-08-19 15:47:22--------
+- Name : adminfake
+- Nội Dung : Đặt Tài
+- Xu Cũ : 805000
+- Xu Mới : 795000
+- Xu Thay Đổi : -10000
+----------Thời Gian : 2023-08-19 15:48:37--------
+- Name : luckymax
+- Nội Dung : Đặt Tài
+- Xu Cũ : 409600
+- Xu Mới : 309600
+- Xu Thay Đổi : -100000
+----------Thời Gian : 2023-08-19 15:49:16--------
+- Name : adminfake
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 795000
+- Xu Mới : 775000
+- Xu Thay Đổi : -20000
+----------Thời Gian : 2023-08-19 15:50:22--------
+- Name : luckymax
+- Nội Dung : Đặt Tài
+- Xu Cũ : 403100
+- Xu Mới : 393100
+- Xu Thay Đổi : -10000
+----------Thời Gian : 2023-08-19 15:51:52--------
+- Name : adminfake
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 811000
+- Xu Mới : 711000
+- Xu Thay Đổi : -100000
+----------Thời Gian : 2023-08-19 15:52:02--------
+- Name : luckymax
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 391100
+- Xu Mới : 381100
+- Xu Thay Đổi : -10000
+----------Thời Gian : 2023-08-19 15:53:21--------
+- Name : luckymax
+- Nội Dung : Đặt Tài
+- Xu Cũ : 371100
+- Xu Mới : 361100
+- Xu Thay Đổi : -10000
+----------Thời Gian : 2023-08-19 15:53:46--------
+- Name : adminfake
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 661000
+- Xu Mới : 651000
+- Xu Thay Đổi : -10000
+----------Thời Gian : 2023-08-19 15:54:30--------
+- Name : mgkgg
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1000000
+- Xu Mới : 0
+- Xu Thay Đổi : -1000000
+----------Thời Gian : 2023-08-19 15:54:38--------
+- Name : gnpwgd
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1000000
+- Xu Mới : 0
+- Xu Thay Đổi : -1000000
+----------Thời Gian : 2023-08-19 15:55:08--------
+- Name : luckymax
+- Nội Dung : Đặt Tài
+- Xu Cũ : 261100
+- Xu Mới : 251100
+- Xu Thay Đổi : -10000
+----------Thời Gian : 2023-08-19 15:55:11--------
+- Name : adminfake
+- Nội Dung : Đặt Tài
+- Xu Cũ : 669000
+- Xu Mới : 659000
+- Xu Thay Đổi : -10000
+----------Thời Gian : 2023-08-19 15:55:45--------
+- Name : luckymax
+- Nội Dung : Đặt Tài
+- Xu Cũ : 251100
+- Xu Mới : 151100
+- Xu Thay Đổi : -100000
+----------Thời Gian : 2023-08-19 15:56:02--------
+- Name : adminfake
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 659000
+- Xu Mới : 649000
+- Xu Thay Đổi : -10000
+----------Thời Gian : 2023-08-19 15:56:14--------
+- Name : mgkgg
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1800000
+- Xu Mới : 0
+- Xu Thay Đổi : -1800000
+----------Thời Gian : 2023-08-19 15:56:22--------
+- Name : gnpwgd
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1800000
+- Xu Mới : 0
+- Xu Thay Đổi : -1800000
+----------Thời Gian : 2023-08-19 15:57:03--------
+- Name : luckymax
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 331100
+- Xu Mới : 311100
+- Xu Thay Đổi : -20000
+----------Thời Gian : 2023-08-19 15:58:28--------
+- Name : luckymax
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 311100
+- Xu Mới : 211100
+- Xu Thay Đổi : -100000
+----------Thời Gian : 2023-08-19 16:10:57--------
+- Name : luckymax
+- Nội Dung : Đặt Tài
+- Xu Cũ : 481100
+- Xu Mới : 471100
+- Xu Thay Đổi : -10000
+----------Thời Gian : 2023-08-19 16:25:45--------
+- Name : luckymax
+- Nội Dung : Đặt Tài
+- Xu Cũ : 454100
+- Xu Mới : 444100
+- Xu Thay Đổi : -10000
+----------Thời Gian : 2023-08-19 16:28:18--------
+- Name : chaptatca
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 4251599
+- Xu Mới : 2251599
+- Xu Thay Đổi : -2000000
+----------Thời Gian : 2023-08-19 16:59:18--------
+- Name : hihizzz
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 3205400
+- Xu Mới : 3000000
+- Xu Thay Đổi : -205400
+----------Thời Gian : 2023-08-19 17:02:40--------
+- Name : hihizzz
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 3000000
+- Xu Mới : 2500000
+- Xu Thay Đổi : -500000
+----------Thời Gian : 2023-08-19 17:04:12--------
+- Name : hihizzz
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 2500000
+- Xu Mới : 1500000
+- Xu Thay Đổi : -1000000
+----------Thời Gian : 2023-08-19 17:32:24--------
+- Name : phongdz11
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 8075000
+- Xu Mới : 8070000
+- Xu Thay Đổi : -5000
+----------Thời Gian : 2023-08-19 17:34:31--------
+- Name : phongdz11
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 8079000
+- Xu Mới : 8070000
+- Xu Thay Đổi : -9000
+----------Thời Gian : 2023-08-19 17:36:04--------
+- Name : phongdz11
+- Nội Dung : Đặt Tài
+- Xu Cũ : 8086200
+- Xu Mới : 5000000
+- Xu Thay Đổi : -3086200
+----------Thời Gian : 2023-08-19 17:37:44--------
+- Name : phongdz11
+- Nội Dung : Đặt Tài
+- Xu Cũ : 55000000
+- Xu Mới : 45000000
+- Xu Thay Đổi : -10000000
+----------Thời Gian : 2023-08-19 17:39:32--------
+- Name : phongdz11
+- Nội Dung : Đặt Tài
+- Xu Cũ : 45000000
+- Xu Mới : 30000000
+- Xu Thay Đổi : -15000000
+----------Thời Gian : 2023-08-19 17:40:57--------
+- Name : phongdz11
+- Nội Dung : Đặt Tài
+- Xu Cũ : 30000000
+- Xu Mới : 0
+- Xu Thay Đổi : -30000000
+----------Thời Gian : 2023-08-19 17:43:06--------
+- Name : phongdz11
+- Nội Dung : Đặt Tài
+- Xu Cũ : 100000000
+- Xu Mới : 40000000
+- Xu Thay Đổi : -60000000
+----------Thời Gian : 2023-08-19 17:43:36--------
+- Name : nolike
+- Nội Dung : Đặt Tài
+- Xu Cũ : 59277900
+- Xu Mới : 50000000
+- Xu Thay Đổi : -9277900
+----------Thời Gian : 2023-08-19 17:44:41--------
+- Name : nolike
+- Nội Dung : Đặt Tài
+- Xu Cũ : 50000000
+- Xu Mới : 35000000
+- Xu Thay Đổi : -15000000
+----------Thời Gian : 2023-08-19 17:45:13--------
+- Name : phongdz11
+- Nội Dung : Đặt Tài
+- Xu Cũ : 390000000
+- Xu Mới : 290000000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-08-19 17:48:08--------
+- Name : quandzpro9
+- Nội Dung : Đặt Tài
+- Xu Cũ : 11000
+- Xu Mới : 0
+- Xu Thay Đổi : -11000
+----------Thời Gian : 2023-08-19 17:58:21--------
+- Name : quandzpro9
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 19800
+- Xu Mới : 4800
+- Xu Thay Đổi : -15000
+----------Thời Gian : 2023-08-19 17:59:51--------
+- Name : quandzpro9
+- Nội Dung : Đặt Tài
+- Xu Cũ : 81800
+- Xu Mới : 51800
+- Xu Thay Đổi : -30000
+----------Thời Gian : 2023-08-19 18:01:36--------
+- Name : anhlavip
+- Nội Dung : Đặt Tài
+- Xu Cũ : 338348499
+- Xu Mới : 238348499
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-08-19 18:06:23--------
+- Name : anhlavip
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 318348499
+- Xu Mới : 218348499
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-08-19 18:08:34--------
+- Name : anhlavip
+- Nội Dung : Đặt Tài
+- Xu Cũ : 398348499
+- Xu Mới : 298348499
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-08-19 18:10:06--------
+- Name : anhlavip
+- Nội Dung : Đặt Tài
+- Xu Cũ : 478348499
+- Xu Mới : 378348499
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-08-19 18:11:57--------
+- Name : anhlavip
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 558348499
+- Xu Mới : 458348499
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-08-19 18:12:32--------
+- Name : hahahihi
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 800000000
+- Xu Mới : 700000000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-08-19 18:13:28--------
+- Name : hahahihi
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 700000000
+- Xu Mới : 600000000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-08-19 18:14:55--------
+- Name : hahahihi
+- Nội Dung : Đặt Tài
+- Xu Cũ : 780000000
+- Xu Mới : 680000000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-08-19 18:15:03--------
+- Name : anhlavip
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 458348499
+- Xu Mới : 358348499
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-08-19 18:16:42--------
+- Name : anhlavip
+- Nội Dung : Đặt Tài
+- Xu Cũ : 358348499
+- Xu Mới : 258348499
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-08-19 18:19:53--------
+- Name : anhlavip
+- Nội Dung : Đặt Tài
+- Xu Cũ : 108348499
+- Xu Mới : 8348499
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-08-19 18:21:47--------
+- Name : hahahihi
+- Nội Dung : Đặt Tài
+- Xu Cũ : 860000000
+- Xu Mới : 800000000
+- Xu Thay Đổi : -60000000
+----------Thời Gian : 2023-08-19 18:22:08--------
+- Name : linhn0xjnh
+- Nội Dung : Đặt Tài
+- Xu Cũ : 4611074
+- Xu Mới : 111074
+- Xu Thay Đổi : -4500000
+----------Thời Gian : 2023-08-19 18:23:44--------
+- Name : hahahihi
+- Nội Dung : Đặt Tài
+- Xu Cũ : 800000000
+- Xu Mới : 700000000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-08-19 18:25:05--------
+- Name : hahahihi
+- Nội Dung : Đặt Tài
+- Xu Cũ : 700000000
+- Xu Mới : 600000000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-08-19 18:26:58--------
+- Name : hahahihi
+- Nội Dung : Đặt Tài
+- Xu Cũ : 600000000
+- Xu Mới : 500000000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-08-19 18:28:44--------
+- Name : hahahihi
+- Nội Dung : Đặt Tài
+- Xu Cũ : 630000000
+- Xu Mới : 530000000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-08-19 18:28:47--------
+- Name : topseve098
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 716319000
+- Xu Mới : 716269000
+- Xu Thay Đổi : -50000
+----------Thời Gian : 2023-08-19 18:30:53--------
+- Name : topseve098
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 716269000
+- Xu Mới : 616269000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-08-19 18:32:20--------
+- Name : topseve098
+- Nội Dung : Đặt Tài
+- Xu Cũ : 796269000
+- Xu Mới : 696269000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-08-19 18:36:55--------
+- Name : anhlavip
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 392348499
+- Xu Mới : 342348499
+- Xu Thay Đổi : -50000000
+----------Thời Gian : 2023-08-19 18:37:31--------
+- Name : topseve098
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 876269000
+- Xu Mới : 776269000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-08-19 18:38:13--------
+- Name : topseve098
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 776269000
+- Xu Mới : 676269000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-08-19 18:39:31--------
+- Name : topseve098
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 856269000
+- Xu Mới : 756269000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-08-19 18:39:42--------
+- Name : anhlavip
+- Nội Dung : Đặt Tài
+- Xu Cũ : 342348499
+- Xu Mới : 242348499
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-08-19 18:41:14--------
+- Name : anhlavip
+- Nội Dung : Đặt Tài
+- Xu Cũ : 422348499
+- Xu Mới : 322348499
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-08-19 18:41:15--------
+- Name : huong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 191449000
+- Xu Mới : 91449000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-08-19 18:42:26--------
+- Name : huong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 91449000
+- Xu Mới : 1449000
+- Xu Thay Đổi : -90000000
+----------Thời Gian : 2023-08-19 18:43:53--------
+- Name : huong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 163449000
+- Xu Mới : 73449000
+- Xu Thay Đổi : -90000000
+----------Thời Gian : 2023-08-19 18:44:37--------
+- Name : hahahihi
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 710000000
+- Xu Mới : 610000000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-08-19 18:45:45--------
+- Name : kakakq
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 16717406
+- Xu Mới : 11717406
+- Xu Thay Đổi : -5000000
+----------Thời Gian : 2023-08-19 18:45:57--------
+- Name : hahahihi
+- Nội Dung : Đặt Tài
+- Xu Cũ : 610000000
+- Xu Mới : 510000000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-08-19 18:46:02--------
+- Name : huong
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 153449000
+- Xu Mới : 53449000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-08-19 18:47:10--------
+- Name : huong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 233449000
+- Xu Mới : 203449000
+- Xu Thay Đổi : -30000000
+----------Thời Gian : 2023-08-19 18:48:21--------
+- Name : huong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 257449000
+- Xu Mới : 200449000
+- Xu Thay Đổi : -57000000
+----------Thời Gian : 2023-08-19 18:49:34--------
+- Name : huong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 200449000
+- Xu Mới : 100449000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-08-19 18:50:43--------
+- Name : huong
+- Nội Dung : Đặt Tài
+- Xu Cũ : 100449000
+- Xu Mới : 449000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-08-19 18:56:04--------
+- Name : stark
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1660000
+- Xu Mới : 660000
+- Xu Thay Đổi : -1000000
+----------Thời Gian : 2023-08-19 19:20:24--------
+- Name : stark
+- Nội Dung : Đặt Tài
+- Xu Cũ : 660000
+- Xu Mới : 60000
+- Xu Thay Đổi : -600000
+----------Thời Gian : 2023-08-19 19:21:59--------
+- Name : luckymax
+- Nội Dung : Đặt Tài
+- Xu Cũ : 344100
+- Xu Mới : 244100
+- Xu Thay Đổi : -100000
+----------Thời Gian : 2023-08-19 19:23:51--------
+- Name : luckymax
+- Nội Dung : Đặt Tài
+- Xu Cũ : 324100
+- Xu Mới : 314100
+- Xu Thay Đổi : -10000
+----------Thời Gian : 2023-08-19 19:26:05--------
+- Name : luckymax
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 422100
+- Xu Mới : 322100
+- Xu Thay Đổi : -100000
+----------Thời Gian : 2023-08-19 19:27:29--------
+- Name : luckymax
+- Nội Dung : Đặt Tài
+- Xu Cũ : 502100
+- Xu Mới : 452100
+- Xu Thay Đổi : -50000
+----------Thời Gian : 2023-08-19 19:28:37--------
+- Name : luckymax
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 542100
+- Xu Mới : 492100
+- Xu Thay Đổi : -50000
+----------Thời Gian : 2023-08-19 19:31:04--------
+- Name : luckymax
+- Nội Dung : Đặt Tài
+- Xu Cũ : 492100
+- Xu Mới : 442100
+- Xu Thay Đổi : -50000
+----------Thời Gian : 2023-08-19 19:31:08--------
+- Name : stark
+- Nội Dung : Đặt Tài
+- Xu Cũ : 60000
+- Xu Mới : 0
+- Xu Thay Đổi : -60000
+----------Thời Gian : 2023-08-19 19:34:07--------
+- Name : luckymax
+- Nội Dung : Đặt Tài
+- Xu Cũ : 532100
+- Xu Mới : 482100
+- Xu Thay Đổi : -50000
+----------Thời Gian : 2023-08-19 19:34:46--------
+- Name : ngocdz
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 69588661
+- Xu Mới : 68588661
+- Xu Thay Đổi : -1000000
+----------Thời Gian : 2023-08-19 19:36:29--------
+- Name : vngamer1
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 149732374
+- Xu Mới : 149722374
+- Xu Thay Đổi : -10000
+----------Thời Gian : 2023-08-19 19:37:44--------
+- Name : ngocdz
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 68088661
+- Xu Mới : 18088661
+- Xu Thay Đổi : -50000000
+----------Thời Gian : 2023-08-19 19:38:01--------
+- Name : vngamer1
+- Nội Dung : Đặt Tài
+- Xu Cũ : 149740374
+- Xu Mới : 149730374
+- Xu Thay Đổi : -10000
+----------Thời Gian : 2023-08-19 19:41:54--------
+- Name : chistoji
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1243500
+- Xu Mới : 743500
+- Xu Thay Đổi : -500000
+----------Thời Gian : 2023-08-19 19:43:20--------
+- Name : chistoji
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1643500
+- Xu Mới : 1443500
+- Xu Thay Đổi : -200000
+----------Thời Gian : 2023-08-19 19:44:41--------
+- Name : chistoji
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1803500
+- Xu Mới : 1503500
+- Xu Thay Đổi : -300000
+----------Thời Gian : 2023-08-19 19:46:17--------
+- Name : chistoji
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 2043500
+- Xu Mới : 1043500
+- Xu Thay Đổi : -1000000
+----------Thời Gian : 2023-08-19 19:47:37--------
+- Name : chistoji
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1043500
+- Xu Mới : 43500
+- Xu Thay Đổi : -1000000
+----------Thời Gian : 2023-08-19 19:49:17--------
+- Name : chisbuff1
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1193000
+- Xu Mới : 193000
+- Xu Thay Đổi : -1000000
+----------Thời Gian : 2023-08-19 19:49:43--------
+- Name : chisbuff2
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1000000
+- Xu Mới : 0
+- Xu Thay Đổi : -1000000
+----------Thời Gian : 2023-08-19 19:51:06--------
+- Name : luckymin
+- Nội Dung : Đặt Tài
+- Xu Cũ : 900000
+- Xu Mới : 0
+- Xu Thay Đổi : -900000
+----------Thời Gian : 2023-08-19 19:51:16--------
+- Name : luckymax
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 562100
+- Xu Mới : 162100
+- Xu Thay Đổi : -400000
+----------Thời Gian : 2023-08-19 19:52:23--------
+- Name : luckymin
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1620000
+- Xu Mới : 1120000
+- Xu Thay Đổi : -500000
+----------Thời Gian : 2023-08-19 19:52:41--------
+- Name : luckymax
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 162100
+- Xu Mới : 100
+- Xu Thay Đổi : -162000
+----------Thời Gian : 2023-08-19 19:53:44--------
+- Name : luckymin
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1920000
+- Xu Mới : 1020000
+- Xu Thay Đổi : -900000
+----------Thời Gian : 2023-08-19 19:54:06--------
+- Name : luckymax
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 90100
+- Xu Mới : 100
+- Xu Thay Đổi : -90000
+----------Thời Gian : 2023-08-19 19:55:30--------
+- Name : luckymax
+- Nội Dung : Đặt Tài
+- Xu Cũ : 352100
+- Xu Mới : 62100
+- Xu Thay Đổi : -290000
+----------Thời Gian : 2023-08-19 19:55:42--------
+- Name : luckymin
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1020000
+- Xu Mới : 730000
+- Xu Thay Đổi : -290000
+----------Thời Gian : 2023-08-19 19:57:06--------
+- Name : luckymin
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1252000
+- Xu Mới : 1192000
+- Xu Thay Đổi : -60000
+----------Thời Gian : 2023-08-19 19:57:16--------
+- Name : luckymax
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 62100
+- Xu Mới : 2100
+- Xu Thay Đổi : -60000
+----------Thời Gian : 2023-08-19 20:03:59--------
+- Name : chisbuff1
+- Nội Dung : Đặt Tài
+- Xu Cũ : 193000
+- Xu Mới : 0
+- Xu Thay Đổi : -193000
+----------Thời Gian : 2023-08-19 20:05:21--------
+- Name : chisbuff1
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 347400
+- Xu Mới : 247400
+- Xu Thay Đổi : -100000
+----------Thời Gian : 2023-08-19 20:06:40--------
+- Name : chisbuff1
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 427400
+- Xu Mới : 27400
+- Xu Thay Đổi : -400000
+----------Thời Gian : 2023-08-19 20:07:53--------
+- Name : chisbuff1
+- Nội Dung : Đặt Tài
+- Xu Cũ : 747400
+- Xu Mới : 247400
+- Xu Thay Đổi : -500000
+----------Thời Gian : 2023-08-19 20:09:10--------
+- Name : hahahihi
+- Nội Dung : Đặt Tài
+- Xu Cũ : 500000000
+- Xu Mới : 400000000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-08-19 20:10:27--------
+- Name : hahahihi
+- Nội Dung : Đặt Tài
+- Xu Cũ : 400000000
+- Xu Mới : 300000000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-08-19 20:11:46--------
+- Name : hahahihi
+- Nội Dung : Đặt Tài
+- Xu Cũ : 480000000
+- Xu Mới : 400000000
+- Xu Thay Đổi : -80000000
+----------Thời Gian : 2023-08-19 20:13:00--------
+- Name : hahahihi
+- Nội Dung : Đặt Tài
+- Xu Cũ : 400000000
+- Xu Mới : 300000000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-08-19 20:14:18--------
+- Name : hahahihi
+- Nội Dung : Đặt Tài
+- Xu Cũ : 480000000
+- Xu Mới : 400000000
+- Xu Thay Đổi : -80000000
+----------Thời Gian : 2023-08-19 20:15:29--------
+- Name : athoxay
+- Nội Dung : Đặt Tài
+- Xu Cũ : 156422890
+- Xu Mới : 56422890
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-08-19 20:15:43--------
+- Name : hahahihi
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 400000000
+- Xu Mới : 300000000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-08-19 20:15:48--------
+- Name : fangvl
+- Nội Dung : Đặt Tài
+- Xu Cũ : 135297004
+- Xu Mới : 35297004
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-08-19 20:16:08--------
+- Name : luckymax
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1002100
+- Xu Mới : 902100
+- Xu Thay Đổi : -100000
+----------Thời Gian : 2023-08-19 20:16:51--------
+- Name : luckymax
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1082100
+- Xu Mới : 82100
+- Xu Thay Đổi : -1000000
+----------Thời Gian : 2023-08-19 20:17:07--------
+- Name : luckymin
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 100000
+- Xu Mới : 0
+- Xu Thay Đổi : -100000
+----------Thời Gian : 2023-08-19 20:18:09--------
+- Name : luckymax
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1882100
+- Xu Mới : 1082100
+- Xu Thay Đổi : -800000
+----------Thời Gian : 2023-08-19 20:18:46--------
+- Name : luckymin
+- Nội Dung : Đặt Tài
+- Xu Cũ : 82000
+- Xu Mới : 0
+- Xu Thay Đổi : -82000
+----------Thời Gian : 2023-08-19 20:19:24--------
+- Name : luckymin
+- Nội Dung : Đặt Tài
+- Xu Cũ : 147600
+- Xu Mới : 47600
+- Xu Thay Đổi : -100000
+----------Thời Gian : 2023-08-19 20:19:33--------
+- Name : vocauthuongtien
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1732029
+- Xu Mới : 832029
+- Xu Thay Đổi : -900000
+----------Thời Gian : 2023-08-19 20:19:37--------
+- Name : luckymax
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1000100
+- Xu Mới : 100
+- Xu Thay Đổi : -1000000
+----------Thời Gian : 2023-08-19 20:20:37--------
+- Name : luckymax
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1800100
+- Xu Mới : 1700100
+- Xu Thay Đổi : -100000
+----------Thời Gian : 2023-08-19 20:20:47--------
+- Name : satthienmach
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 700002
+- Xu Mới : 2
+- Xu Thay Đổi : -700000
+----------Thời Gian : 2023-08-19 20:20:54--------
+- Name : luckymin
+- Nội Dung : Đặt Tài
+- Xu Cũ : 47600
+- Xu Mới : 600
+- Xu Thay Đổi : -47000
+----------Thời Gian : 2023-08-19 20:21:04--------
+- Name : vocauthuongtien
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 2452029
+- Xu Mới : 1652029
+- Xu Thay Đổi : -800000
+----------Thời Gian : 2023-08-19 20:22:01--------
+- Name : luckymax
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1880100
+- Xu Mới : 1680100
+- Xu Thay Đổi : -200000
+----------Thời Gian : 2023-08-19 20:22:04--------
+- Name : satthienmach
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1260002
+- Xu Mới : 60002
+- Xu Thay Đổi : -1200000
+----------Thời Gian : 2023-08-19 20:22:26--------
+- Name : vocauthuongtien
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 3092029
+- Xu Mới : 92029
+- Xu Thay Đổi : -3000000
+----------Thời Gian : 2023-08-19 20:22:35--------
+- Name : luckymin
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 80600
+- Xu Mới : 70600
+- Xu Thay Đổi : -10000
+----------Thời Gian : 2023-08-19 20:25:11--------
+- Name : fangvl
+- Nội Dung : Đặt Tài
+- Xu Cũ : 215297004
+- Xu Mới : 115297004
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-08-19 20:25:18--------
+- Name : athoxay
+- Nội Dung : Đặt Tài
+- Xu Cũ : 236422890
+- Xu Mới : 136422890
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-08-19 20:27:43--------
+- Name : hahahihi
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 300000000
+- Xu Mới : 200000000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-08-19 20:31:01--------
+- Name : dattairaxiu
+- Nội Dung : Đặt Tài
+- Xu Cũ : 102694833
+- Xu Mới : 102694823
+- Xu Thay Đổi : -10
+----------Thời Gian : 2023-08-19 20:32:33--------
+- Name : hahahihi
+- Nội Dung : Đặt Tài
+- Xu Cũ : 200000000
+- Xu Mới : 100000000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-08-19 20:33:45--------
+- Name : hahahihi
+- Nội Dung : Đặt Tài
+- Xu Cũ : 280000000
+- Xu Mới : 200000000
+- Xu Thay Đổi : -80000000
+----------Thời Gian : 2023-08-19 20:34:15--------
+- Name : luckynew
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1000000
+- Xu Mới : 800000
+- Xu Thay Đổi : -200000
+----------Thời Gian : 2023-08-19 20:35:14--------
+- Name : luckynew
+- Nội Dung : Đặt Tài
+- Xu Cũ : 800000
+- Xu Mới : 500000
+- Xu Thay Đổi : -300000
+----------Thời Gian : 2023-08-19 20:36:28--------
+- Name : luckynew
+- Nội Dung : Đặt Tài
+- Xu Cũ : 500000
+- Xu Mới : 0
+- Xu Thay Đổi : -500000
+----------Thời Gian : 2023-08-19 20:36:42--------
+- Name : athoxay
+- Nội Dung : Đặt Tài
+- Xu Cũ : 316422890
+- Xu Mới : 216422890
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-08-19 20:36:47--------
+- Name : fangvl
+- Nội Dung : Đặt Tài
+- Xu Cũ : 295297004
+- Xu Mới : 195297004
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-08-19 20:39:55--------
+- Name : trangbenho
+- Nội Dung : Đặt Tài
+- Xu Cũ : 47500
+- Xu Mới : 27500
+- Xu Thay Đổi : -20000
+----------Thời Gian : 2023-08-19 20:44:04--------
+- Name : fangvl
+- Nội Dung : Đặt Tài
+- Xu Cũ : 375297004
+- Xu Mới : 275297004
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-08-19 20:44:12--------
+- Name : athoxay
+- Nội Dung : Đặt Tài
+- Xu Cũ : 396422890
+- Xu Mới : 296422890
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-08-19 20:48:01--------
+- Name : ffnrg
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1346000
+- Xu Mới : 1345990
+- Xu Thay Đổi : -10
+----------Thời Gian : 2023-08-19 20:48:16--------
+- Name : jqkdl
+- Nội Dung : Đặt Tài
+- Xu Cũ : 10414046
+- Xu Mới : 10414026
+- Xu Thay Đổi : -20
+----------Thời Gian : 2023-08-19 20:48:50--------
+- Name : jsjsd
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1955563
+- Xu Mới : 1955513
+- Xu Thay Đổi : -50
+----------Thời Gian : 2023-08-19 20:52:00--------
+- Name : athoxay
+- Nội Dung : Đặt Tài
+- Xu Cũ : 100422890
+- Xu Mới : 422890
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-08-19 20:52:07--------
+- Name : fangvl
+- Nội Dung : Đặt Tài
+- Xu Cũ : 231297004
+- Xu Mới : 131297004
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-08-19 20:53:12--------
+- Name : jsjsd
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1945603
+- Xu Mới : 1945593
+- Xu Thay Đổi : -10
+----------Thời Gian : 2023-08-19 20:53:45--------
+- Name : jqkdl
+- Nội Dung : Đặt Tài
+- Xu Cũ : 10414062
+- Xu Mới : 10314062
+- Xu Thay Đổi : -100000
+----------Thời Gian : 2023-08-19 20:54:40--------
+- Name : jsjsd
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1945593
+- Xu Mới : 1943593
+- Xu Thay Đổi : -2000
+----------Thời Gian : 2023-08-19 20:54:58--------
+- Name : jqkdl
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 10494062
+- Xu Mới : 10294062
+- Xu Thay Đổi : -200000
+----------Thời Gian : 2023-08-19 20:55:28--------
+- Name : dattairaxiu
+- Nội Dung : Đặt Tài
+- Xu Cũ : 47694823
+- Xu Mới : 2694823
+- Xu Thay Đổi : -45000000
+----------Thời Gian : 2023-08-19 20:57:00--------
+- Name : dattairaxiu
+- Nội Dung : Đặt Tài
+- Xu Cũ : 83694823
+- Xu Mới : 3694823
+- Xu Thay Đổi : -80000000
+----------Thời Gian : 2023-08-19 21:02:09--------
+- Name : fangvl
+- Nội Dung : Đặt Tài
+- Xu Cũ : 131297004
+- Xu Mới : 31297004
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-08-19 21:02:52--------
+- Name : atulagioi
+- Nội Dung : Đặt Tài
+- Xu Cũ : 803124
+- Xu Mới : 3124
+- Xu Thay Đổi : -800000
+----------Thời Gian : 2023-08-19 21:18:03--------
+- Name : phongdz11
+- Nội Dung : Đặt Tài
+- Xu Cũ : 5000000
+- Xu Mới : 4900000
+- Xu Thay Đổi : -100000
+----------Thời Gian : 2023-08-19 21:20:44--------
+- Name : phongdz11
+- Nội Dung : Đặt Tài
+- Xu Cũ : 5075000
+- Xu Mới : 5000000
+- Xu Thay Đổi : -75000
+----------Thời Gian : 2023-08-19 21:22:02--------
+- Name : phongdz11
+- Nội Dung : Đặt Tài
+- Xu Cũ : 5135000
+- Xu Mới : 5035000
+- Xu Thay Đổi : -100000
+----------Thời Gian : 2023-08-19 21:23:19--------
+- Name : phongdz11
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 5215000
+- Xu Mới : 3215000
+- Xu Thay Đổi : -2000000
+----------Thời Gian : 2023-08-19 21:25:06--------
+- Name : phongdz11
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 68215000
+- Xu Mới : 63215000
+- Xu Thay Đổi : -5000000
+----------Thời Gian : 2023-08-19 21:43:25--------
+- Name : hahahihi
+- Nội Dung : Đặt Tài
+- Xu Cũ : 100000000
+- Xu Mới : 0
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-08-19 21:43:46--------
+- Name : iavaodau
+- Nội Dung : Đặt Tài
+- Xu Cũ : 102600000
+- Xu Mới : 2600000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-08-19 21:44:36--------
+- Name : hahahihi
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 180000000
+- Xu Mới : 80000000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-08-19 21:44:51--------
+- Name : iavaodau
+- Nội Dung : Đặt Tài
+- Xu Cũ : 182600000
+- Xu Mới : 172600000
+- Xu Thay Đổi : -10000000
+----------Thời Gian : 2023-08-19 21:47:35--------
+- Name : iavaodau
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 172600000
+- Xu Mới : 102600000
+- Xu Thay Đổi : -70000000
+----------Thời Gian : 2023-08-19 21:49:07--------
+- Name : hahahihi
+- Nội Dung : Đặt Tài
+- Xu Cũ : 80000000
+- Xu Mới : 0
+- Xu Thay Đổi : -80000000
+----------Thời Gian : 2023-08-19 21:49:07--------
+- Name : iavaodau
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 228600000
+- Xu Mới : 202600000
+- Xu Thay Đổi : -26000000
+----------Thời Gian : 2023-08-19 21:51:24--------
+- Name : iavaodau
+- Nội Dung : Đặt Tài
+- Xu Cũ : 202600000
+- Xu Mới : 102600000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-08-19 21:52:00--------
+- Name : phongdz11
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 2215000
+- Xu Mới : 2100000
+- Xu Thay Đổi : -115000
+----------Thời Gian : 2023-08-19 21:53:18--------
+- Name : cuonghv
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1060000
+- Xu Mới : 1059900
+- Xu Thay Đổi : -100
+----------Thời Gian : 2023-08-19 21:53:58--------
+- Name : ducati
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 100067267
+- Xu Mới : 99067267
+- Xu Thay Đổi : -1000000
+----------Thời Gian : 2023-08-19 21:54:41--------
+- Name : cuonghv
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1060080
+- Xu Mới : 1055080
+- Xu Thay Đổi : -5000
+----------Thời Gian : 2023-08-19 21:55:04--------
+- Name : ducati
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 99067267
+- Xu Mới : 79067267
+- Xu Thay Đổi : -20000000
+----------Thời Gian : 2023-08-19 21:55:25--------
+- Name : iavaodau
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 102600000
+- Xu Mới : 52600000
+- Xu Thay Đổi : -50000000
+----------Thời Gian : 2023-08-19 21:56:00--------
+- Name : iavaodau
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 142600000
+- Xu Mới : 102600000
+- Xu Thay Đổi : -40000000
+----------Thời Gian : 2023-08-19 21:56:13--------
+- Name : ducati
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 115067267
+- Xu Mới : 85067267
+- Xu Thay Đổi : -30000000
+----------Thời Gian : 2023-08-19 21:57:28--------
+- Name : ducati
+- Nội Dung : Đặt Tài
+- Xu Cũ : 85067267
+- Xu Mới : 50067267
+- Xu Thay Đổi : -35000000
+----------Thời Gian : 2023-08-19 21:57:33--------
+- Name : kyduyen
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1050000
+- Xu Mới : 0
+- Xu Thay Đổi : -1050000
+----------Thời Gian : 2023-08-19 21:57:40--------
+- Name : cuonghv
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1055080
+- Xu Mới : 1005080
+- Xu Thay Đổi : -50000
+----------Thời Gian : 2023-08-19 21:57:42--------
+- Name : iavaodau
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 102600000
+- Xu Mới : 62600000
+- Xu Thay Đổi : -40000000
+----------Thời Gian : 2023-08-19 21:58:48--------
+- Name : cuonghv
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1095080
+- Xu Mới : 995080
+- Xu Thay Đổi : -100000
+----------Thời Gian : 2023-08-19 21:58:49--------
+- Name : hahahihi
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 44000000
+- Xu Mới : 0
+- Xu Thay Đổi : -44000000
+----------Thời Gian : 2023-08-19 21:58:57--------
+- Name : ducati
+- Nội Dung : Đặt Tài
+- Xu Cũ : 113067267
+- Xu Mới : 98067267
+- Xu Thay Đổi : -15000000
+----------Thời Gian : 2023-08-19 22:00:04--------
+- Name : cuonghv
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1175080
+- Xu Mới : 875080
+- Xu Thay Đổi : -300000
+----------Thời Gian : 2023-08-19 22:00:06--------
+- Name : iavaodau
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 62600000
+- Xu Mới : 600000
+- Xu Thay Đổi : -62000000
+----------Thời Gian : 2023-08-19 22:00:06--------
+- Name : ducati
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 98067267
+- Xu Mới : 38067267
+- Xu Thay Đổi : -60000000
+----------Thời Gian : 2023-08-19 22:00:10--------
+- Name : hahahihi
+- Nội Dung : Đặt Tài
+- Xu Cũ : 79200000
+- Xu Mới : 200000
+- Xu Thay Đổi : -79000000
+----------Thời Gian : 2023-08-19 22:01:18--------
+- Name : hahahihi
+- Nội Dung : Đặt Tài
+- Xu Cũ : 142400000
+- Xu Mới : 132400000
+- Xu Thay Đổi : -10000000
+----------Thời Gian : 2023-08-19 22:01:18--------
+- Name : cuonghv
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1415080
+- Xu Mới : 915080
+- Xu Thay Đổi : -500000
+----------Thời Gian : 2023-08-19 22:02:02--------
+- Name : ducati
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 38067267
+- Xu Mới : 3067267
+- Xu Thay Đổi : -35000000
+----------Thời Gian : 2023-08-19 22:02:05--------
+- Name : iavaodau
+- Nội Dung : Đặt Tài
+- Xu Cũ : 100600000
+- Xu Mới : 600000
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-08-19 22:02:44--------
+- Name : cuonghv
+- Nội Dung : Đặt Tài
+- Xu Cũ : 1815080
+- Xu Mới : 815080
+- Xu Thay Đổi : -1000000
+----------Thời Gian : 2023-08-19 22:02:50--------
+- Name : hahahihi
+- Nội Dung : Đặt Tài
+- Xu Cũ : 32400000
+- Xu Mới : 0
+- Xu Thay Đổi : -32400000
+----------Thời Gian : 2023-08-19 22:03:00--------
+- Name : ducati
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 66067267
+- Xu Mới : 6067267
+- Xu Thay Đổi : -60000000
+----------Thời Gian : 2023-08-19 22:03:09--------
+- Name : iavaodau
+- Nội Dung : Đặt Tài
+- Xu Cũ : 600000
+- Xu Mới : 0
+- Xu Thay Đổi : -600000
+----------Thời Gian : 2023-08-19 22:04:11--------
+- Name : ducati
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 114067267
+- Xu Mới : 84067267
+- Xu Thay Đổi : -30000000
+----------Thời Gian : 2023-08-19 22:04:26--------
+- Name : cuonghv
+- Nội Dung : Đặt Tài
+- Xu Cũ : 815080
+- Xu Mới : 615080
+- Xu Thay Đổi : -200000
+----------Thời Gian : 2023-08-19 22:05:41--------
+- Name : ducati
+- Nội Dung : Đặt Tài
+- Xu Cũ : 84067267
+- Xu Mới : 24067267
+- Xu Thay Đổi : -60000000
+----------Thời Gian : 2023-08-19 22:05:59--------
+- Name : cuonghv
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 975080
+- Xu Mới : 675080
+- Xu Thay Đổi : -300000
+----------Thời Gian : 2023-08-19 22:07:02--------
+- Name : cuonghv
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 675080
+- Xu Mới : 375080
+- Xu Thay Đổi : -300000
+----------Thời Gian : 2023-08-19 22:07:04--------
+- Name : ngocdz
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 115088661
+- Xu Mới : 105088661
+- Xu Thay Đổi : -10000000
+----------Thời Gian : 2023-08-19 22:22:21--------
+- Name : ducati
+- Nội Dung : Đặt Tài
+- Xu Cũ : 32067267
+- Xu Mới : 12067267
+- Xu Thay Đổi : -20000000
+----------Thời Gian : 2023-08-19 22:24:35--------
+- Name : ducati
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 48067267
+- Xu Mới : 30067267
+- Xu Thay Đổi : -18000000
+----------Thời Gian : 2023-08-19 22:25:22--------
+- Name : ngocdz
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 123088661
+- Xu Mới : 122088661
+- Xu Thay Đổi : -1000000
+----------Thời Gian : 2023-08-19 22:25:56--------
+- Name : ducati
+- Nội Dung : Đặt Tài
+- Xu Cũ : 30067267
+- Xu Mới : 67267
+- Xu Thay Đổi : -30000000
+----------Thời Gian : 2023-08-19 22:27:56--------
+- Name : ngocdz
+- Nội Dung : Đặt Tài
+- Xu Cũ : 122088661
+- Xu Mới : 112088661
+- Xu Thay Đổi : -10000000
+----------Thời Gian : 2023-08-19 22:29:58--------
+- Name : tuanvu
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 50999
+- Xu Mới : 999
+- Xu Thay Đổi : -50000
+----------Thời Gian : 2023-08-19 22:30:04--------
+- Name : ngocdz
+- Nội Dung : Đặt Tài
+- Xu Cũ : 130088661
+- Xu Mới : 129088661
+- Xu Thay Đổi : -1000000
+----------Thời Gian : 2023-08-19 22:33:14--------
+- Name : motminhtao
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 329922990
+- Xu Mới : 229922990
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-08-19 22:34:29--------
+- Name : be1209
+- Nội Dung : Đặt Tài
+- Xu Cũ : 800000
+- Xu Mới : 772000
+- Xu Thay Đổi : -28000
+----------Thời Gian : 2023-08-19 22:36:19--------
+- Name : be1209
+- Nội Dung : Đặt Tài
+- Xu Cũ : 772000
+- Xu Mới : 0
+- Xu Thay Đổi : -772000
+----------Thời Gian : 2023-08-19 22:37:50--------
+- Name : anhlavip
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 654087994
+- Xu Mới : 554087994
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-08-19 22:45:25--------
+- Name : ngocdz
+- Nội Dung : Đặt Tài
+- Xu Cũ : 130888661
+- Xu Mới : 129888661
+- Xu Thay Đổi : -1000000
+----------Thời Gian : 2023-08-19 22:50:00--------
+- Name : ngocdz
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 131688661
+- Xu Mới : 130688661
+- Xu Thay Đổi : -1000000
+----------Thời Gian : 2023-08-19 23:24:35--------
+- Name : ngoccccc
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 24213765
+- Xu Mới : 14213765
+- Xu Thay Đổi : -10000000
+----------Thời Gian : 2023-08-19 23:26:15--------
+- Name : anhlavip
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 246078002
+- Xu Mới : 146078002
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-08-19 23:28:23--------
+- Name : anhlavip
+- Nội Dung : Đặt Tài
+- Xu Cũ : 326073002
+- Xu Mới : 250073002
+- Xu Thay Đổi : -76000000
+----------Thời Gian : 2023-08-19 23:29:01--------
+- Name : ngoccccc
+- Nội Dung : Đặt Tài
+- Xu Cũ : 32213765
+- Xu Mới : 31213765
+- Xu Thay Đổi : -1000000
+----------Thời Gian : 2023-08-19 23:30:26--------
+- Name : ngoccccc
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 33013765
+- Xu Mới : 32013765
+- Xu Thay Đổi : -1000000
+----------Thời Gian : 2023-08-19 23:30:58--------
+- Name : anhlavip
+- Nội Dung : Đặt Tài
+- Xu Cũ : 386873002
+- Xu Mới : 300873002
+- Xu Thay Đổi : -86000000
+----------Thời Gian : 2023-08-19 23:31:57--------
+- Name : anhlavip
+- Nội Dung : Đặt Tài
+- Xu Cũ : 300873002
+- Xu Mới : 200873002
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-08-19 23:32:09--------
+- Name : ngoccccc
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 33813765
+- Xu Mới : 32813765
+- Xu Thay Đổi : -1000000
+----------Thời Gian : 2023-08-19 23:33:51--------
+- Name : anhlavip
+- Nội Dung : Đặt Tài
+- Xu Cũ : 280873002
+- Xu Mới : 280773002
+- Xu Thay Đổi : -100000
+----------Thời Gian : 2023-08-19 23:34:29--------
+- Name : ngoccccc
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 32813765
+- Xu Mới : 31813765
+- Xu Thay Đổi : -1000000
+----------Thời Gian : 2023-08-19 23:35:08--------
+- Name : anhlavip
+- Nội Dung : Đặt Tài
+- Xu Cũ : 280773002
+- Xu Mới : 200773002
+- Xu Thay Đổi : -80000000
+----------Thời Gian : 2023-08-19 23:35:46--------
+- Name : ngoccccc
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 33613765
+- Xu Mới : 32613765
+- Xu Thay Đổi : -1000000
+----------Thời Gian : 2023-08-19 23:36:26--------
+- Name : anhlavip
+- Nội Dung : Đặt Tài
+- Xu Cũ : 200773002
+- Xu Mới : 100773002
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-08-19 23:37:02--------
+- Name : tuankiet
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 1000000
+- Xu Mới : 950000
+- Xu Thay Đổi : -50000
+----------Thời Gian : 2023-08-19 23:37:06--------
+- Name : ngoccccc
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 34413765
+- Xu Mới : 33413765
+- Xu Thay Đổi : -1000000
+----------Thời Gian : 2023-08-19 23:37:42--------
+- Name : anhlavip
+- Nội Dung : Đặt Tài
+- Xu Cũ : 280773002
+- Xu Mới : 180773002
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-08-19 23:37:53--------
+- Name : tuankiet
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 950000
+- Xu Mới : 850000
+- Xu Thay Đổi : -100000
+----------Thời Gian : 2023-08-19 23:39:03--------
+- Name : anhlavip
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 360773002
+- Xu Mới : 260773002
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-08-19 23:39:37--------
+- Name : ngoccccc
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 133413765
+- Xu Mới : 83413765
+- Xu Thay Đổi : -50000000
+----------Thời Gian : 2023-08-19 23:40:27--------
+- Name : anhlavip
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 260773002
+- Xu Mới : 160773002
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-08-19 23:40:52--------
+- Name : tuankiet
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 850000
+- Xu Mới : 650000
+- Xu Thay Đổi : -200000
+----------Thời Gian : 2023-08-19 23:41:01--------
+- Name : ngocdz
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 130188661
+- Xu Mới : 30188661
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-08-19 23:41:57--------
+- Name : ngocdz
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 130188661
+- Xu Mới : 30188661
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-08-19 23:42:32--------
+- Name : ngoccccc
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 183413765
+- Xu Mới : 83413765
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-08-19 23:43:21--------
+- Name : ngoccccc
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 183413765
+- Xu Mới : 83413765
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-08-19 23:43:51--------
+- Name : ngocdz
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 130188661
+- Xu Mới : 30188661
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-08-19 23:44:53--------
+- Name : ngocdz
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 210188661
+- Xu Mới : 110188661
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-08-19 23:45:21--------
+- Name : hahahihi
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 10000000
+- Xu Mới : 0
+- Xu Thay Đổi : -10000000
+----------Thời Gian : 2023-08-19 23:45:28--------
+- Name : ngoccccc
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 263413765
+- Xu Mới : 163413765
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-08-19 23:46:37--------
+- Name : ngoccccc
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 163413765
+- Xu Mới : 63413765
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-08-19 23:46:50--------
+- Name : ngocdz
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 110188661
+- Xu Mới : 10188661
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-08-19 23:48:37--------
+- Name : ngocdz
+- Nội Dung : Đặt Tài
+- Xu Cũ : 310188661
+- Xu Mới : 210188661
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-08-19 23:49:23--------
+- Name : ngoccccc
+- Nội Dung : Đặt Tài
+- Xu Cũ : 103413765
+- Xu Mới : 3413765
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-08-19 23:50:07--------
+- Name : ngocdz
+- Nội Dung : Đặt Tài
+- Xu Cũ : 170188661
+- Xu Mới : 70188661
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-08-19 23:51:25--------
+- Name : ngocdz
+- Nội Dung : Đặt Tài
+- Xu Cũ : 250188661
+- Xu Mới : 150188661
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-08-19 23:53:10--------
+- Name : ngocdz
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 330188661
+- Xu Mới : 310188661
+- Xu Thay Đổi : -20000000
+----------Thời Gian : 2023-08-19 23:54:36--------
+- Name : ngocdz
+- Nội Dung : Đặt Xỉu
+- Xu Cũ : 346188661
+- Xu Mới : 336188661
+- Xu Thay Đổi : -10000000
+----------Thời Gian : 2023-08-19 23:55:50--------
+- Name : ngocdz
+- Nội Dung : Đặt Tài
+- Xu Cũ : 354188661
+- Xu Mới : 344188661
+- Xu Thay Đổi : -10000000
+----------Thời Gian : 2023-08-19 23:57:14--------
+- Name : ngocdz
+- Nội Dung : Đặt Tài
+- Xu Cũ : 344188661
+- Xu Mới : 244188661
+- Xu Thay Đổi : -100000000
+----------Thời Gian : 2023-08-19 23:58:40--------
+- Name : ngocdz
+- Nội Dung : Đặt Tài
+- Xu Cũ : 244188661
+- Xu Mới : 144188661
+- Xu Thay Đổi : -100000000
