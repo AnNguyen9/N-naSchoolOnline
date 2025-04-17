@@ -20,6 +20,9 @@ target/
 *.iml
 *.ipr
 LichSu
+build
+cache
+dist
 
 ### NetBeans ###
 /nbproject/private/
